@@ -1,0 +1,440 @@
+{
+  "extName": {
+    "message": "BoxGrow — የጽሑፍ ሳጥን ራስ-ሰር እድገት እና ወጣ አርታኢ"
+  },
+  "extDescription": {
+    "message": "ጽሑፍ ሳጥኖች እየጻፉባቸው ሲሄዱ ያድጋሉ፣ በሙሉ ማያ ገጽ አርታኢ ይከፈታሉ እና ረቂቆች ከዳግም ጭነት በኋላ ይመለሳሉ። ምንም ከመሣሪያዎ አይወጣም።"
+  },
+  "actionTitle": {
+    "message": "BoxGrow"
+  },
+  "cmdPopout": {
+    "message": "ለፎከስ የተደረገው ጽሑፍ መስክ የ BoxGrow አርታኢ ይክፈቱ"
+  },
+  "optionsTitle": {
+    "message": "የ BoxGrow አማራጮች"
+  },
+  "optAutoGrow": {
+    "message": "ጽሑፍ ሳጥኖች ራስ-ሰር እድገት"
+  },
+  "optAutoGrowHint": {
+    "message": "የተፎከሰው የጽሑፍ ሳጥን እርስዎ የሚጽፉትን ይመጥናል፣ ከመስኮት ቁመት 80% ወሰን ያለው።"
+  },
+  "optHotkey": {
+    "message": "የሚወጣ አርታኢ አቋራጭ ቁልፍ"
+  },
+  "optHotkeyHint": {
+    "message": "ለፎከስ የተደረገው መስክ ሙሉ ማያ ገጽ አርታኢ ይከፍታል።"
+  },
+  "optHotkeyLocked": {
+    "message": "ነፃው Alt+Enter ይጠቀማል። Pro የአቋራጭ ቁልፍ ማበጀት ይከፍታል።"
+  },
+  "optHotkeyRecording": {
+    "message": "አዲሱን የቁልፍ ጥምረት ይጫኑ፣ ወይም ለመሰረዝ Esc።"
+  },
+  "optHotkeyInvalid": {
+    "message": "የማሻሻያ ቁልፍ (Ctrl, Alt, Shift ወይም Cmd) ከሌላ ቁልፍ ጋር ይጠቀሙ።"
+  },
+  "optDrafts": {
+    "message": "ረቂቆችን አስቀምጥ"
+  },
+  "optDraftsHint": {
+    "message": "ለእያንዳንዱ መስክ አካባቢያዊ ረቂቅ ይይዛል ስለዚህ ዳግም ጭነት ወይም የተሳሳተ ጠቅታ ጽሑፍ አያጣም። ረቂቆች ከዚህ መሣሪያ አይወጡም።"
+  },
+  "licenseTitle": {
+    "message": "BoxGrow Pro የበለጠ ያስታውሳል"
+  },
+  "licenseFree": {
+    "message": "ነጻ: ራስ-ሰር እድገት፣ የሚያበራ አርታዒ፣ የ5-ደረጃ ማግለል፣ 25 ረቂቆች። Pro የ50-ደረጃ ማግለልን፣ 200 ረቂቆችን፣ ራስ-ሰር ማደስን እና ብጁ ቅልጡፍ ቁልፍን ይጨምራል።"
+  },
+  "licensePro": {
+    "message": "Pro ንቁ ነው፡ የ50-ደረጃ መቅለት፣ 200 ረቂቆች፣ ራስ-ሰር የረቂቅ መልሶ ማግኛ፣ ብጁ አቋራጭ ቁልፍ።"
+  },
+  "licensePlaceholder": {
+    "message": "ZOVO-XXXX-XXXX-XXXX-XXXX"
+  },
+  "licenseKeyLabel": {
+    "message": "የፈቃድ ቁልፍ"
+  },
+  "licenseActivate": {
+    "message": "አንቃ"
+  },
+  "licenseDeactivate": {
+    "message": "አጥፋ"
+  },
+  "licenseInvalid": {
+    "message": "ያ ቁልፍ አልተረጋገጠም። የፊደል ስህተት እንደሌለ ያረጋግጡ እና እንደገና ይሞክሩ።"
+  },
+  "licenseActivated": {
+    "message": "Pro ተግብሯል። እናመሰግናለን!"
+  },
+  "upgradeCta": {
+    "message": "ሁለቱንም እቅዶች ይመልከቱ →"
+  },
+  "privacyLink": {
+    "message": "የግላዊነት ፖሊሲ"
+  },
+  "optionsFootnote": {
+    "message": "መለያ የለም። ክትትል የለም። ሁሉም ነገር በዚህ መሣሪያ ላይ ይቆያል።"
+  },
+  "popSiteActive": {
+    "message": "በዚህ ጣቢያ ላይ ንቁ"
+  },
+  "popSitePaused": {
+    "message": "በዚህ ጣቢያ ላይ ቆሟል"
+  },
+  "popSitePause": {
+    "message": "በዚህ ጣቢያ ላይ አቁም"
+  },
+  "popSiteResume": {
+    "message": "በዚህ ጣቢያ ላይ ቀጥል"
+  },
+  "popDraftsKept": {
+    "message": "$1 ከ $2 ረቂቆች ተጠብቀዋል",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "25"
+      }
+    }
+  },
+  "popSeePlans": {
+    "message": "ሁለቱንም እቅዶች ይመልከቱ →"
+  },
+  "ovTitle": {
+    "message": "የ BoxGrow አርታኢ"
+  },
+  "ovSaveClose": {
+    "message": "አስቀምጥ እና ዝጋ"
+  },
+  "ovClose": {
+    "message": "ዝጋ"
+  },
+  "ovUndoCounter": {
+    "message": "መቅለት፡ $1 ከ $2 ደረጃዎች",
+    "placeholders": {
+      "used": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "ovUndoCapFree": {
+    "message": "ነጻ 5 የማግለል ደረጃዎችን ይይዛል። Pro 50 ይይዛል።"
+  },
+  "ovFieldGone": {
+    "message": "የመጀመሪያው መስክ ሰርዟል። ጽሑፍዎ እዚህ ደህና ነው።"
+  },
+  "chipRestore": {
+    "message": "ረቂቅ መልስ"
+  },
+  "chipDismiss": {
+    "message": "አስወግድ"
+  },
+  "chipDraftFull": {
+    "message": "የረቂቅ ታሪክ በነፃ ሙሉ ነው (25 ረቂቆች)። Pro 200 ይይዛል እና በራስ-ሰር ይመልሳል።"
+  },
+  "btnOpenEditor": {
+    "message": "በ BoxGrow አርታኢ ክፈት"
+  },
+  "popTitle": {
+    "message": "BoxGrow"
+  },
+  "popMaster": {
+    "message": "ራስ-ሰር እድገት በሁሉም ቦታ"
+  },
+  "popSiteUnavailable": {
+    "message": "በዚህ ገጽ ላይ አይገኝም"
+  },
+  "ovCounts": {
+    "message": "$1 ቃላት · $2 ቁምፊዎች",
+    "placeholders": {
+      "words": {
+        "content": "$1",
+        "example": "12"
+      },
+      "characters": {
+        "content": "$2",
+        "example": "84"
+      }
+    }
+  },
+  "onbTitle": {
+    "message": "ከእርስዎ ጋር የሚያድጉ የጽሑፍ ሳጥኖች · BoxGrow"
+  },
+  "onbSkip": {
+    "message": "መግቢያውን ዝለል"
+  },
+  "onbNavBack": {
+    "message": "ተመለስ"
+  },
+  "onb1Eyebrow": {
+    "message": "ሳጥኑ ትንሽ ነው"
+  },
+  "onb1H1": {
+    "message": "ለአንድ መስመር በተሰሩ ሳጥኖች ውስጥ ይጽፋሉ።"
+  },
+  "onb1Lede": {
+    "message": "የአስተያየት ቅጾች፣ የድጋፍ ቲኬቶች፣ የኢሜይል አጻጻፎች። ጽሑፍዎ ሲረዝም ሳጥኑ ትንሹን ይቆያል፣ አንድ ተሳሳተ ጠቅታ ወይም ዳግም መጫን አንድ አረፍተ ነገር ሊያጠፋ ይችላል።"
+  },
+  "onb1Pt": {
+    "message": "BoxGrow ያን ቀይረዋል። ሳጥኑ ሲጽፉ ያድጋል፣ Alt + Enter ሙሉ-ማያ ገጽ አርታኢ ይከፍታል፣ እያንዳንዱ መስክም ረቂቅን በዚህ መሣሪያ ላይ ይይዛል።"
+  },
+  "mockLabel1": {
+    "message": "የድጋፍ ቅጽ"
+  },
+  "mockBox1": {
+    "message": "ከ30 መስመሮች 2 ብቻ ይታያሉ"
+  },
+  "mockLabel2": {
+    "message": "የአስተያየት ሳጥን"
+  },
+  "mockBox2": {
+    "message": "ሸብልል፣ ሸብልል፣ ሸብልል"
+  },
+  "mockLabel3": {
+    "message": "የኢሜይል አጻጻፍ"
+  },
+  "mockBox3": {
+    "message": "ረቂቄ ወዴት ሄደ"
+  },
+  "onb1TagPain": {
+    "message": "ጠባብ ሳጥኖች። የጠፋ ጽሑፍ።"
+  },
+  "onb2Eyebrow": {
+    "message": "በእያንዳንዱ ቁልፍ ምታት ያድጋል"
+  },
+  "onb2H1": {
+    "message": "ሳጥኑ ለጽሑፍዎ ይስማማል፣ አንቀራቀሩ አይደለም።"
+  },
+  "onb2Lede": {
+    "message": "ማንኛውንም የጽሑፍ ሳጥን ያተኩሩ እና ሲጽፉ እስከ 80% የመስኮት ቁመት ድረስ ያድጋል። Alt + Enter ይጫኑ እና ጸጥ ያለ ሙሉ-ማያ ገጽ አርታኢ ከጽሑፍዎ ጋር ይከፈታል። ያስቀምጡ እና ጽሑፉ ወደ ገጹ ይመለሳል።"
+  },
+  "onb2DemoBtn": {
+    "message": "እየጻፈ ሲሆን ይመልከቱ"
+  },
+  "mockLabelFocus": {
+    "message": "ሳጥን ያተኩራሉ"
+  },
+  "mockFill1": {
+    "message": "ለእያንዳንዱ መስመር ይዛመዳል"
+  },
+  "mockLabelHotkey": {
+    "message": "Alt + Enter ይጫናሉ"
+  },
+  "mockFill2": {
+    "message": "ሙሉ-ማያ ገጽ አርታኢ ይከፈታል"
+  },
+  "mockLabelSave": {
+    "message": "ያስቀምጣሉ እና ይዘጋሉ"
+  },
+  "mockFill3": {
+    "message": "ጽሑፉ ወደ መስኩ ይመለሳል"
+  },
+  "mockLabelReload": {
+    "message": "ገጹ እንደገና ይጫናል"
+  },
+  "mockFill4": {
+    "message": "ረቂቅዎ እዚህ አለ"
+  },
+  "onb2Cap": {
+    "message": "ለእያንዳንዱ የጽሑፍ ሳጥን አንድ ቅጥያ"
+  },
+  "onb2Tag1": {
+    "message": "የጽሑፍ አካባቢዎች"
+  },
+  "onb2Tag2": {
+    "message": "Contenteditable"
+  },
+  "onb2Tag3": {
+    "message": "በ iframe ውስጥ ይሰራል"
+  },
+  "onb3Eyebrow": {
+    "message": "እዚህ ላይ ይሞክሩ"
+  },
+  "onb3H1": {
+    "message": "ከመሄድዎ በፊት የመጀመሪያ ረቂቅዎን ያስቀምጡ።"
+  },
+  "onb3Lede": {
+    "message": "ማንኛውንም ነገር በልምምድ ሳጥኑ ውስጥ ይጻፉ እና አስቀምጥ የሚለውን ይጫኑ። የመስክ ረቂቆችዎ የሚጠቀሙበትን ተመሳሳይ የአካባቢ ማከማቻ ይገባል። በእውነተኛ ገጾች ላይ ረቂቆች ሲጽፉ ራሳቸውን ያስቀምጣሉ።"
+  },
+  "onb3Pt": {
+    "message": "መለያ የለም፣ ምዝገባ የለም። ሁሉም ነገር በዚህ መሣሪያ ላይ ይቆያል፣ ረቂቆችንም በማንኛውም ጊዜ በአማራጮች ውስጥ ማጥፋት ይችላሉ።"
+  },
+  "onb3Label1": {
+    "message": "የመጀመሪያ የልምምድ መስመርዎ"
+  },
+  "onb3Ph1": {
+    "message": "ማንኛውንም ነገር ይጻፉ"
+  },
+  "onb3Label2": {
+    "message": "ለመንገድ አንድ ተጨማሪ"
+  },
+  "onb3Ph2": {
+    "message": "ረዘም ያለ ነገር ይለጥፉ"
+  },
+  "onbSaveBtn": {
+    "message": "የመጀመሪያ ረቂቄን አስቀምጥ"
+  },
+  "onbSavedOk": {
+    "message": "በዚህ መሣሪያ ላይ ተቀምጧል። በእውነተኛ ገጾች ላይ ረቂቆች በተመሳሳይ መንገድ ይሰራሉ።"
+  },
+  "onb4Eyebrow": {
+    "message": "በንድፍ ደህንነቱ የተጠበቀ"
+  },
+  "onb4H1": {
+    "message": "ቃላትዎ ከመሣሪያዎ አይወጡም።"
+  },
+  "onb4Stat1": {
+    "message": "ተለይቷል፣ የርቀት ኮድ የለም"
+  },
+  "onb4Stat2": {
+    "message": "የአውታረ መረብ ጥሪዎች፣ በቂ አይደሉም"
+  },
+  "onb4Stat3": {
+    "message": "መለያዎች፣ ምዝገባዎች፣ መከታተያዎች የሉም"
+  },
+  "onb4Pt": {
+    "message": "BoxGrow የትልቅ ሀሳብ አንድ ክፍል ነው: ለመላው አሳሽ ታማኝ ሽፋን, በአንድ ጊዜ አንድ መሣሪያ። ምንም ክትትል የለም, የዳታ ድርጊት ሽያጭ የለም, የSEO አይፈለጌ መልእክት የለም።"
+  },
+  "onb4LinkWhy": {
+    "message": "እነዚህን መሣሪያዎች የምሰራበት ምክንያት"
+  },
+  "onb4LinkVision": {
+    "message": "ራዕዩ"
+  },
+  "onb4LinkSafe": {
+    "message": "እንዴት እንከባከባለን"
+  },
+  "onb4Trust1H": {
+    "message": "ሁሉም ነገር በመሣሪያዎ ላይ ይቆያል"
+  },
+  "onb4Trust1P": {
+    "message": "ረቂቆች እና ቅንብሮች በአሳሹ የአካባቢ ማከማቻ ውስጥ ናቸው። መለያ የለም፣ የማመሳሰያ አገልጋይ የለም፣ ምንም ወደ ምንም ቦታ አይላክም።"
+  },
+  "onb4Trust2H": {
+    "message": "አንድ ሰው፣ በግልጽ እየገነባ"
+  },
+  "onb4Trust2P": {
+    "message": "ፊት የለሽ ኩባንያ አይደለም። በግልጽ የሚያወጣ፣ እነዚህን መሣሪያዎች በየቀኑ የሚጠቀም እና በቀጥታ የሚመልስልዎ ገንቢ፦"
+  },
+  "onb5Eyebrow": {
+    "message": "ታማኝ ዋጋ አሰጣጥ"
+  },
+  "onb5H1": {
+    "message": "ነጻው ጠቃሚ ይቆያል። Pro የበለጠ ያስታውሳል።"
+  },
+  "onb5Lede": {
+    "message": "ራስ-እድገት እና ብልጭ-ድራስ አርታኢ ለዘላለም ነጻ ናቸው። ዘጠና-ዘጠኝ ዶላር ነጠብጣብ ክፍያ የተሻሻለ መቀልበስን፣ ረዘም ያለ የረቂቅ ታሪክን፣ ራስ-መመለሻን እና ብጁ ቅልጥፍና ይከፍታል።"
+  },
+  "planFree": {
+    "message": "ነጻ"
+  },
+  "priceFree": {
+    "message": "$$0"
+  },
+  "onb5FreePer": {
+    "message": "ለዘላለም"
+  },
+  "onb5FreeF1": {
+    "message": "በእያንዳንዱ ጣቢያ ራስ-እድገት"
+  },
+  "onb5FreeF2": {
+    "message": "ተመላሽ-ማስቀመጫ ያለው ብልጭ-ድራስ አርታኢ"
+  },
+  "onb5FreeF3": {
+    "message": "በአርታኢው ውስጥ 5-ደረጃ መቀልበስ"
+  },
+  "onb5FreeF4": {
+    "message": "25 ረቂቆች በዚህ መሣሪያ ላይ ይቀመጣሉ"
+  },
+  "ribbonBestValue": {
+    "message": "ምርጥ ዋጋ"
+  },
+  "planLifetime": {
+    "message": "ሕይወት-ሙሉ"
+  },
+  "priceLifetime": {
+    "message": "$$99"
+  },
+  "onb5ProPer": {
+    "message": "አንድ ጊዜ"
+  },
+  "onb5ProF1": {
+    "message": "በአርታኢው ውስጥ 50-ደረጃ መቀልበስ"
+  },
+  "onb5ProF2": {
+    "message": "200 ረቂቆች በዚህ መሣሪያ ላይ ይቀመጣሉ"
+  },
+  "onb5ProF3": {
+    "message": "ራስ-ሰር የረቂቅ መመለሻ"
+  },
+  "onb5ProF4": {
+    "message": "ብጁ ብልጭ-ድራስ ቅልጥፍና"
+  },
+  "onb5ProF5": {
+    "message": "አንድ ክፍያ፣ ምዝገባ የለም"
+  },
+  "onb5Cta": {
+    "message": "የዘላለም ቅጂዬን በ$$99 ያግኙ"
+  },
+  "onb5Guar": {
+    "message": "የ14-ቀን የገንዘብ ተመላሽ ዋስትና። ወራዊ ይመርጣሉ? በተመሳሳይ ገጽ ላይ $$4.99 ነው። አንዴ $$99 በ20 ወራት ገደማ ራሱን ይከፍላል።"
+  },
+  "onb6Eyebrow": {
+    "message": "ዝግጁ ነዎት"
+  },
+  "onb6H1": {
+    "message": "ሳጥን ያተኩሩ እና መጻፍ ይጀምሩ። ያ ብቻ ነው።"
+  },
+  "onb6Lede": {
+    "message": "ምንም ማዋቀር አልቀርም። ሳጥኑ ያድጋል፣ Alt + Enter አርታኢውን ይከፍታል፣ ረቂቆችም ራሳቸውን ያስቀምጣሉ። መዘከር የሚገባቸው ቁልፎች እነኚህ ናቸው።"
+  },
+  "onb6SignH": {
+    "message": "ከገንቢው"
+  },
+  "onb6SignBody": {
+    "message": "እነዚህን መሣሪያዎች ብቻዬን, በግልጽ እሰራለሁ። የሆነ ነገር ከተበላሸ ጻፍልኝ እና እመልሳለሁ። Pro ከሆንክ ዘጠና ዘጠኝ ዶላርህ ቀጣዩን ታማኝ መሣሪያ ያገኛል, ማስታወሻህም የሚሆነውን ቅርጽ ይሰራል።"
+  },
+  "onb6LinkGh": {
+    "message": "በ GitHub ያግኙኝ"
+  },
+  "onb6LinkVision": {
+    "message": "ወዴት እየሄደ ነው"
+  },
+  "onb6Cheat1": {
+    "message": "ማንኛውንም የጽሑፍ ሳጥን አድግ"
+  },
+  "onb6Kbd1": {
+    "message": "ብቻ ይጻፉ"
+  },
+  "onb6Cheat2": {
+    "message": "ሙሉ አርታኢውን ክፈት"
+  },
+  "onb6Cheat3": {
+    "message": "በአርታኢው ውስጥ ቀልብስ"
+  },
+  "onb6Cheat4": {
+    "message": "የጠፋ ረቂቅ መለስ"
+  },
+  "onb6Kbd4": {
+    "message": "አንድ ጠቅታ"
+  },
+  "onb6Pt": {
+    "message": "በ Mac ላይ Ctrl ፋንታ Cmd ይጫኑ። የመጀመሪያዎ የሚያድግ ሳጥን አንድ ጠቅታ ብቻ ነው። በማንኛውም የአስተያየት ቅጽ ወይም አጻጻፍ ላይ ይሞክሩ።"
+  },
+  "footBuiltBy": {
+    "message": "የገነባው"
+  },
+  "footerPrivacy": {
+    "message": "የግላዊነት ፖሊሲ"
+  }
+}

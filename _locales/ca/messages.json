@@ -1,0 +1,440 @@
+{
+  "extName": {
+    "message": "BoxGrow — Creixement automàtic de quadres de text i editor"
+  },
+  "extDescription": {
+    "message": "Amplia els quadres de text mentre escrius, obre un editor a pantalla completa i restaura esborranys. Res no surt del teu dispositiu."
+  },
+  "actionTitle": {
+    "message": "BoxGrow"
+  },
+  "cmdPopout": {
+    "message": "Obre l'editor de BoxGrow per al camp de text enfocat"
+  },
+  "optionsTitle": {
+    "message": "Opcions de BoxGrow"
+  },
+  "optAutoGrow": {
+    "message": "Amplia els quadres de text automàticament"
+  },
+  "optAutoGrowHint": {
+    "message": "El quadre de text enfocat creix per adaptar-se al que escrius, amb un límit del 80% de l'alçada de la finestra."
+  },
+  "optHotkey": {
+    "message": "Drecera de l'editor emergent"
+  },
+  "optHotkeyHint": {
+    "message": "Obre l'editor a pantalla completa per al camp enfocat."
+  },
+  "optHotkeyLocked": {
+    "message": "La versió gratuïta fa servir Alt+Enter. Pro desbloca la personalització de la drecera."
+  },
+  "optHotkeyRecording": {
+    "message": "Prem la nova combinació de tecles, o Esc per cancel·lar."
+  },
+  "optHotkeyInvalid": {
+    "message": "Fes servir una tecla modificadora (Ctrl, Alt, Maj o Cmd) més una altra tecla."
+  },
+  "optDrafts": {
+    "message": "Desa esborranys"
+  },
+  "optDraftsHint": {
+    "message": "Guarda un esborrany local de cada camp perquè una recàrrega o un clic erroni mai no perdi text. Els esborranys mai no surten d'aquest dispositiu."
+  },
+  "licenseTitle": {
+    "message": "BoxGrow Pro recorda més"
+  },
+  "licenseFree": {
+    "message": "Gratuït: autocreixement, editor emergent, desfer de 5 passos, 25 esborranys. Pro afegeix desfer de 50 passos, 200 esborranys, restauració automàtica i una drecera personalitzada."
+  },
+  "licensePro": {
+    "message": "Pro actiu: desfés de 50 passos, 200 esborranys, restauració automàtica d'esborranys, drecera personalitzada."
+  },
+  "licensePlaceholder": {
+    "message": "ZOVO-XXXX-XXXX-XXXX-XXXX"
+  },
+  "licenseKeyLabel": {
+    "message": "Clau de llicència"
+  },
+  "licenseActivate": {
+    "message": "Activa"
+  },
+  "licenseDeactivate": {
+    "message": "Desactiva"
+  },
+  "licenseInvalid": {
+    "message": "Aquesta clau no s'ha pogut verificar. Comprova que no hi hagi errors i torna-ho a provar."
+  },
+  "licenseActivated": {
+    "message": "Pro activat. Gràcies!"
+  },
+  "upgradeCta": {
+    "message": "Veure tots dos plans →"
+  },
+  "privacyLink": {
+    "message": "Política de privacitat"
+  },
+  "optionsFootnote": {
+    "message": "Sense comptes. Sense seguiment. Tot es queda en aquest dispositiu."
+  },
+  "popSiteActive": {
+    "message": "Actiu en aquest lloc"
+  },
+  "popSitePaused": {
+    "message": "En pausa en aquest lloc"
+  },
+  "popSitePause": {
+    "message": "Pausa en aquest lloc"
+  },
+  "popSiteResume": {
+    "message": "Repren en aquest lloc"
+  },
+  "popDraftsKept": {
+    "message": "$1 de $2 esborranys desats",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "25"
+      }
+    }
+  },
+  "popSeePlans": {
+    "message": "Veure els dos plans →"
+  },
+  "ovTitle": {
+    "message": "Editor de BoxGrow"
+  },
+  "ovSaveClose": {
+    "message": "Desa i tanca"
+  },
+  "ovClose": {
+    "message": "Tanca"
+  },
+  "ovUndoCounter": {
+    "message": "Desfés: $1 de $2 passos",
+    "placeholders": {
+      "used": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "ovUndoCapFree": {
+    "message": "Gratuït guarda 5 passos de desfer. Pro en guarda 50."
+  },
+  "ovFieldGone": {
+    "message": "El camp original ha desaparegut. El teu text és segur aquí."
+  },
+  "chipRestore": {
+    "message": "Restaura l'esborrany"
+  },
+  "chipDismiss": {
+    "message": "Descarta"
+  },
+  "chipDraftFull": {
+    "message": "L'historial d'esborranys és ple a la versió gratuïta (25 esborranys). Pro en guarda 200 i els restaura automàticament."
+  },
+  "btnOpenEditor": {
+    "message": "Obre a l'editor de BoxGrow"
+  },
+  "popTitle": {
+    "message": "BoxGrow"
+  },
+  "popMaster": {
+    "message": "Creixement automàtic a tot arreu"
+  },
+  "popSiteUnavailable": {
+    "message": "No disponible en aquesta pàgina"
+  },
+  "ovCounts": {
+    "message": "$1 paraules · $2 caràcters",
+    "placeholders": {
+      "words": {
+        "content": "$1",
+        "example": "12"
+      },
+      "characters": {
+        "content": "$2",
+        "example": "84"
+      }
+    }
+  },
+  "onbTitle": {
+    "message": "Quadres de text que creixen amb tu · BoxGrow"
+  },
+  "onbSkip": {
+    "message": "Salta la intro"
+  },
+  "onbNavBack": {
+    "message": "Enrere"
+  },
+  "onb1Eyebrow": {
+    "message": "El quadre és massa petit"
+  },
+  "onb1H1": {
+    "message": "Escrius en quadres fets per a una sola línia."
+  },
+  "onb1Lede": {
+    "message": "Formularis de comentaris, tiquets de suport, redactors de correu. El quadre es queda petit mentre el teu text s'allarga, i un clic erroni o una recàrrega pot esborrar un paràgraf."
+  },
+  "onb1Pt": {
+    "message": "BoxGrow ho capgira. El quadre creix mentre escrius, Alt + Enter obre un editor a pantalla completa, i cada camp guarda un esborrany en aquest dispositiu."
+  },
+  "mockLabel1": {
+    "message": "Formulari de suport"
+  },
+  "mockBox1": {
+    "message": "2 línies visibles de 30"
+  },
+  "mockLabel2": {
+    "message": "Quadre de comentaris"
+  },
+  "mockBox2": {
+    "message": "desplaça, desplaça, desplaça"
+  },
+  "mockLabel3": {
+    "message": "Redactor de correu"
+  },
+  "mockBox3": {
+    "message": "on ha anat el meu esborrany"
+  },
+  "onb1TagPain": {
+    "message": "Quadres estrets. Text perdut."
+  },
+  "onb2Eyebrow": {
+    "message": "Creix a cada pulsació"
+  },
+  "onb2H1": {
+    "message": "El quadre s'adapta al teu text, no al revés."
+  },
+  "onb2Lede": {
+    "message": "Enfoca qualsevol quadre de text i creixerà mentre escrius, fins al 80% de l'alçada de la finestra. Prem Alt + Enter i s'obre un editor tranquil a pantalla completa amb el teu text. Desa i el text torna a la pàgina."
+  },
+  "onb2DemoBtn": {
+    "message": "Mira com escriu"
+  },
+  "mockLabelFocus": {
+    "message": "Enfoques un quadre"
+  },
+  "mockFill1": {
+    "message": "Creix per cabre-hi cada línia"
+  },
+  "mockLabelHotkey": {
+    "message": "Prem Alt + Enter"
+  },
+  "mockFill2": {
+    "message": "S'obre un editor a pantalla completa"
+  },
+  "mockLabelSave": {
+    "message": "Deses i tanques"
+  },
+  "mockFill3": {
+    "message": "El text torna al camp"
+  },
+  "mockLabelReload": {
+    "message": "La pàgina es recarrega"
+  },
+  "mockFill4": {
+    "message": "El teu esborrany encara és aquí"
+  },
+  "onb2Cap": {
+    "message": "Una extensió per a cada quadre de text"
+  },
+  "onb2Tag1": {
+    "message": "Àrees de text"
+  },
+  "onb2Tag2": {
+    "message": "Contenteditable"
+  },
+  "onb2Tag3": {
+    "message": "Funciona en iframes"
+  },
+  "onb3Eyebrow": {
+    "message": "Prova-ho aquí mateix"
+  },
+  "onb3H1": {
+    "message": "Desa el teu primer esborrany abans de marxar."
+  },
+  "onb3Lede": {
+    "message": "Escriu qualsevol cosa al quadre de pràctica i prem Desa. Va al mateix emmagatzematge local que fan servir els esborranys dels teus camps. En pàgines reals, els esborranys es desen sols mentre escrius."
+  },
+  "onb3Pt": {
+    "message": "Sense compte i sense registre. Tot es queda en aquest dispositiu, i pots desactivar els esborranys quan vulguis a Opcions."
+  },
+  "onb3Label1": {
+    "message": "La teva primera línia de pràctica"
+  },
+  "onb3Ph1": {
+    "message": "Escriu qualsevol cosa"
+  },
+  "onb3Label2": {
+    "message": "Una més pel camí"
+  },
+  "onb3Ph2": {
+    "message": "Enganxa alguna cosa llarga"
+  },
+  "onbSaveBtn": {
+    "message": "Desa el meu primer esborrany"
+  },
+  "onbSavedOk": {
+    "message": "Desat en aquest dispositiu. Els esborranys en pàgines reals funcionen igual."
+  },
+  "onb4Eyebrow": {
+    "message": "Segur per disseny"
+  },
+  "onb4H1": {
+    "message": "Les teves paraules mai no surten del teu dispositiu."
+  },
+  "onb4Stat1": {
+    "message": "aïllat, sense codi remot"
+  },
+  "onb4Stat2": {
+    "message": "crides de xarxa, mai"
+  },
+  "onb4Stat3": {
+    "message": "comptes, registres, rastrejadors"
+  },
+  "onb4Pt": {
+    "message": "BoxGrow és una peça d'una idea més gran: una capa honesta per a tot el navegador, una eina cada vegada. Sense rastreig, sense revenda de dades, sense spam de SEO."
+  },
+  "onb4LinkWhy": {
+    "message": "Per què construeixo aquestes eines"
+  },
+  "onb4LinkVision": {
+    "message": "La visió"
+  },
+  "onb4LinkSafe": {
+    "message": "Com et protegim"
+  },
+  "onb4Trust1H": {
+    "message": "Tot es queda al teu dispositiu"
+  },
+  "onb4Trust1P": {
+    "message": "Esborranys i configuració viuen a l'emmagatzematge local del navegador. Sense compte, sense servidor de sincronització, res no s'envia enlloc."
+  },
+  "onb4Trust2H": {
+    "message": "Una persona, construint a la vista de tothom"
+  },
+  "onb4Trust2P": {
+    "message": "No una empresa sense rostre. Un desenvolupador que publica en obert, fa servir aquestes eines cada dia i et respon directament a"
+  },
+  "onb5Eyebrow": {
+    "message": "Preus honestos"
+  },
+  "onb5H1": {
+    "message": "Gratuït continua sent útil. Pro recorda més."
+  },
+  "onb5Lede": {
+    "message": "L'autocreixement i l'editor emergent són gratis per sempre. Un sol pagament de noranta-nou dòlars desbloca un desfer més profund, un historial d'esborranys més llarg, restauració automàtica i una drecera personalitzada."
+  },
+  "planFree": {
+    "message": "Gratuït"
+  },
+  "priceFree": {
+    "message": "$$0"
+  },
+  "onb5FreePer": {
+    "message": "per sempre"
+  },
+  "onb5FreeF1": {
+    "message": "Autocreixement a cada lloc"
+  },
+  "onb5FreeF2": {
+    "message": "Editor emergent amb desar de tornada"
+  },
+  "onb5FreeF3": {
+    "message": "Desfer de 5 passos a l'editor"
+  },
+  "onb5FreeF4": {
+    "message": "25 esborranys guardats en aquest dispositiu"
+  },
+  "ribbonBestValue": {
+    "message": "Millor valor"
+  },
+  "planLifetime": {
+    "message": "De per vida"
+  },
+  "priceLifetime": {
+    "message": "$$99"
+  },
+  "onb5ProPer": {
+    "message": "una vegada"
+  },
+  "onb5ProF1": {
+    "message": "Desfer de 50 passos a l'editor"
+  },
+  "onb5ProF2": {
+    "message": "200 esborranys guardats en aquest dispositiu"
+  },
+  "onb5ProF3": {
+    "message": "Restauració automàtica d'esborranys"
+  },
+  "onb5ProF4": {
+    "message": "Drecera emergent personalitzada"
+  },
+  "onb5ProF5": {
+    "message": "Un pagament, sense subscripció"
+  },
+  "onb5Cta": {
+    "message": "Aconsegueix el meu de per vida per $$99"
+  },
+  "onb5Guar": {
+    "message": "Garantia de devolució de 14 dies. Prefereixes mensual? Són $$4.99 a la mateixa pàgina. $$99 un cop s'amortitza en uns 20 mesos."
+  },
+  "onb6Eyebrow": {
+    "message": "Ja ho tens tot a punt"
+  },
+  "onb6H1": {
+    "message": "Enfoca un quadre i comença a escriure. Això és tot."
+  },
+  "onb6Lede": {
+    "message": "No queda res per configurar. El quadre creix, Alt + Enter obre l'editor, i els esborranys es desen sols. Aquestes són les tecles que val la pena recordar."
+  },
+  "onb6SignH": {
+    "message": "De part del desenvolupador"
+  },
+  "onb6SignBody": {
+    "message": "Construeixo aquestes eines sol, obertament. Si alguna cosa es trenca, escriu-me i et responc. Si passes a Pro, els teus noranta-nou dòlars financen la propera eina honesta, i les teves notes configuren el que esdevindrà."
+  },
+  "onb6LinkGh": {
+    "message": "Troba'm a GitHub"
+  },
+  "onb6LinkVision": {
+    "message": "Cap a on va això"
+  },
+  "onb6Cheat1": {
+    "message": "Amplia qualsevol quadre de text"
+  },
+  "onb6Kbd1": {
+    "message": "només escriu"
+  },
+  "onb6Cheat2": {
+    "message": "Obre l'editor complet"
+  },
+  "onb6Cheat3": {
+    "message": "Desfés a l'editor"
+  },
+  "onb6Cheat4": {
+    "message": "Restaura un esborrany perdut"
+  },
+  "onb6Kbd4": {
+    "message": "un clic"
+  },
+  "onb6Pt": {
+    "message": "En un Mac, prem Cmd en lloc de Ctrl. El teu primer quadre que creix és a un clic. Prova-ho en qualsevol formulari de comentaris o redactor."
+  },
+  "footBuiltBy": {
+    "message": "Creat per"
+  },
+  "footerPrivacy": {
+    "message": "Política de privacitat"
+  }
+}

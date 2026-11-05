@@ -1,0 +1,440 @@
+{
+  "extName": {
+    "message": "BoxGrow — Agrandissement auto des zones de texte et éditeur"
+  },
+  "extDescription": {
+    "message": "Agrandit les zones de texte à la frappe, ouvre un éditeur plein écran et restaure les brouillons. Rien ne quitte votre appareil."
+  },
+  "actionTitle": {
+    "message": "BoxGrow"
+  },
+  "cmdPopout": {
+    "message": "Ouvrir l'éditeur BoxGrow pour le champ de texte actif"
+  },
+  "optionsTitle": {
+    "message": "Options de BoxGrow"
+  },
+  "optAutoGrow": {
+    "message": "Agrandir automatiquement les zones de texte"
+  },
+  "optAutoGrowHint": {
+    "message": "La zone de texte active grandit pour s'adapter à votre saisie, limitée à 80 % de la hauteur de la fenêtre."
+  },
+  "optHotkey": {
+    "message": "Raccourci de l'éditeur pop-out"
+  },
+  "optHotkeyHint": {
+    "message": "Ouvre l'éditeur plein écran pour le champ actif."
+  },
+  "optHotkeyLocked": {
+    "message": "La version gratuite utilise Alt+Enter. Pro débloque la personnalisation du raccourci."
+  },
+  "optHotkeyRecording": {
+    "message": "Appuyez sur la nouvelle combinaison de touches, ou Échap pour annuler."
+  },
+  "optHotkeyInvalid": {
+    "message": "Utilisez une touche modificatrice (Ctrl, Alt, Maj ou Cmd) plus une autre touche."
+  },
+  "optDrafts": {
+    "message": "Enregistrer les brouillons"
+  },
+  "optDraftsHint": {
+    "message": "Garde un brouillon local de chaque champ pour qu'un rechargement ou un faux clic ne perde jamais de texte. Les brouillons ne quittent jamais cet appareil."
+  },
+  "licenseTitle": {
+    "message": "BoxGrow Pro retient davantage"
+  },
+  "licenseFree": {
+    "message": "Gratuit : agrandissement automatique, éditeur flottant, annulation en 5 étapes, 25 brouillons. Pro ajoute l'annulation en 50 étapes, 200 brouillons, la restauration automatique et un raccourci personnalisé."
+  },
+  "licensePro": {
+    "message": "Pro est actif : 50 niveaux d'annulation, 200 brouillons, restauration automatique des brouillons, raccourci personnalisé."
+  },
+  "licensePlaceholder": {
+    "message": "ZOVO-XXXX-XXXX-XXXX-XXXX"
+  },
+  "licenseKeyLabel": {
+    "message": "Clé de licence"
+  },
+  "licenseActivate": {
+    "message": "Activer"
+  },
+  "licenseDeactivate": {
+    "message": "Désactiver"
+  },
+  "licenseInvalid": {
+    "message": "Cette clé n'a pas pu être vérifiée. Vérifiez les fautes de frappe et réessayez."
+  },
+  "licenseActivated": {
+    "message": "Pro activé. Merci !"
+  },
+  "upgradeCta": {
+    "message": "Voir les deux offres →"
+  },
+  "privacyLink": {
+    "message": "Politique de confidentialité"
+  },
+  "optionsFootnote": {
+    "message": "Aucun compte. Aucun suivi. Tout reste sur cet appareil."
+  },
+  "popSiteActive": {
+    "message": "Actif sur ce site"
+  },
+  "popSitePaused": {
+    "message": "En pause sur ce site"
+  },
+  "popSitePause": {
+    "message": "Mettre en pause sur ce site"
+  },
+  "popSiteResume": {
+    "message": "Reprendre sur ce site"
+  },
+  "popDraftsKept": {
+    "message": "$1 brouillons conservés sur $2",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "25"
+      }
+    }
+  },
+  "popSeePlans": {
+    "message": "Voir les deux offres →"
+  },
+  "ovTitle": {
+    "message": "Éditeur BoxGrow"
+  },
+  "ovSaveClose": {
+    "message": "Enregistrer et fermer"
+  },
+  "ovClose": {
+    "message": "Fermer"
+  },
+  "ovUndoCounter": {
+    "message": "Annulation : $1 sur $2 niveaux",
+    "placeholders": {
+      "used": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "ovUndoCapFree": {
+    "message": "Gratuit garde 5 étapes d'annulation. Pro en garde 50."
+  },
+  "ovFieldGone": {
+    "message": "Le champ d'origine a disparu. Votre texte est en sécurité ici."
+  },
+  "chipRestore": {
+    "message": "Restaurer le brouillon"
+  },
+  "chipDismiss": {
+    "message": "Ignorer"
+  },
+  "chipDraftFull": {
+    "message": "L'historique des brouillons est plein en version gratuite (25 brouillons). Pro en garde 200 et les restaure automatiquement."
+  },
+  "btnOpenEditor": {
+    "message": "Ouvrir dans l'éditeur BoxGrow"
+  },
+  "popTitle": {
+    "message": "BoxGrow"
+  },
+  "popMaster": {
+    "message": "Agrandissement partout"
+  },
+  "popSiteUnavailable": {
+    "message": "Non disponible sur cette page"
+  },
+  "ovCounts": {
+    "message": "$1 mots · $2 caractères",
+    "placeholders": {
+      "words": {
+        "content": "$1",
+        "example": "12"
+      },
+      "characters": {
+        "content": "$2",
+        "example": "84"
+      }
+    }
+  },
+  "onbTitle": {
+    "message": "Des zones de texte qui grandissent avec vous · BoxGrow"
+  },
+  "onbSkip": {
+    "message": "Passer l'intro"
+  },
+  "onbNavBack": {
+    "message": "Retour"
+  },
+  "onb1Eyebrow": {
+    "message": "La zone est trop petite"
+  },
+  "onb1H1": {
+    "message": "Vous écrivez dans des zones conçues pour une seule ligne."
+  },
+  "onb1Lede": {
+    "message": "Formulaires de commentaires, tickets d'assistance, rédacteurs d'e-mails. La zone reste petite pendant que votre texte s'allonge, et un mauvais clic ou un rechargement peut effacer un paragraphe."
+  },
+  "onb1Pt": {
+    "message": "BoxGrow renverse la situation. La zone grandit pendant que vous tapez, Alt + Enter ouvre un éditeur plein écran, et chaque champ garde un brouillon sur cet appareil."
+  },
+  "mockLabel1": {
+    "message": "Formulaire d'assistance"
+  },
+  "mockBox1": {
+    "message": "2 lignes visibles sur 30"
+  },
+  "mockLabel2": {
+    "message": "Zone de commentaire"
+  },
+  "mockBox2": {
+    "message": "défiler, défiler, défiler"
+  },
+  "mockLabel3": {
+    "message": "Rédacteur d'e-mail"
+  },
+  "mockBox3": {
+    "message": "où est passé mon brouillon"
+  },
+  "onb1TagPain": {
+    "message": "Zones exiguës. Texte perdu."
+  },
+  "onb2Eyebrow": {
+    "message": "Grandit à chaque frappe"
+  },
+  "onb2H1": {
+    "message": "La zone s'adapte à votre texte, pas l'inverse."
+  },
+  "onb2Lede": {
+    "message": "Focalisez n'importe quelle zone de texte et elle grandit pendant que vous tapez, jusqu'à 80 % de la hauteur de la fenêtre. Appuyez sur Alt + Enter et un éditeur plein écran apaisé s'ouvre avec votre texte. Enregistrez, et le texte revient dans la page."
+  },
+  "onb2DemoBtn": {
+    "message": "Voir la saisie"
+  },
+  "mockLabelFocus": {
+    "message": "Vous focalisez une zone"
+  },
+  "mockFill1": {
+    "message": "Elle grandit pour chaque ligne"
+  },
+  "mockLabelHotkey": {
+    "message": "Vous appuyez sur Alt + Enter"
+  },
+  "mockFill2": {
+    "message": "Un éditeur plein écran s'ouvre"
+  },
+  "mockLabelSave": {
+    "message": "Vous enregistrez et fermez"
+  },
+  "mockFill3": {
+    "message": "Le texte revient dans le champ"
+  },
+  "mockLabelReload": {
+    "message": "La page se recharge"
+  },
+  "mockFill4": {
+    "message": "Votre brouillon est toujours là"
+  },
+  "onb2Cap": {
+    "message": "Une extension pour chaque zone de texte"
+  },
+  "onb2Tag1": {
+    "message": "Zones de texte"
+  },
+  "onb2Tag2": {
+    "message": "Contenteditable"
+  },
+  "onb2Tag3": {
+    "message": "Fonctionne dans les iframes"
+  },
+  "onb3Eyebrow": {
+    "message": "Essayez ici même"
+  },
+  "onb3H1": {
+    "message": "Enregistrez votre premier brouillon avant de partir."
+  },
+  "onb3Lede": {
+    "message": "Tapez n'importe quoi dans la zone d'essai et appuyez sur Enregistrer. Cela va dans le même stockage local que les brouillons de vos champs. Sur les vraies pages, les brouillons s'enregistrent tout seuls pendant que vous tapez."
+  },
+  "onb3Pt": {
+    "message": "Aucun compte et aucune inscription. Tout reste sur cet appareil, et vous pouvez désactiver les brouillons à tout moment dans les Options."
+  },
+  "onb3Label1": {
+    "message": "Votre première ligne d'essai"
+  },
+  "onb3Ph1": {
+    "message": "Tapez n'importe quoi"
+  },
+  "onb3Label2": {
+    "message": "Encore une pour la route"
+  },
+  "onb3Ph2": {
+    "message": "Collez quelque chose de long"
+  },
+  "onbSaveBtn": {
+    "message": "Enregistrer mon premier brouillon"
+  },
+  "onbSavedOk": {
+    "message": "Enregistré sur cet appareil. Les brouillons sur les vraies pages fonctionnent de la même façon."
+  },
+  "onb4Eyebrow": {
+    "message": "Sûr par conception"
+  },
+  "onb4H1": {
+    "message": "Vos mots ne quittent jamais votre appareil."
+  },
+  "onb4Stat1": {
+    "message": "en bac à sable, sans code distant"
+  },
+  "onb4Stat2": {
+    "message": "appels réseau, jamais"
+  },
+  "onb4Stat3": {
+    "message": "comptes, inscriptions, traqueurs"
+  },
+  "onb4Pt": {
+    "message": "BoxGrow est un morceau d'une idée plus grande : une couche honnête pour tout le navigateur, un outil à la fois. Pas de pistage, pas de revente de données, pas de spam SEO."
+  },
+  "onb4LinkWhy": {
+    "message": "Pourquoi je construis ces outils"
+  },
+  "onb4LinkVision": {
+    "message": "La vision"
+  },
+  "onb4LinkSafe": {
+    "message": "Comment nous vous protégeons"
+  },
+  "onb4Trust1H": {
+    "message": "Tout reste sur votre appareil"
+  },
+  "onb4Trust1P": {
+    "message": "Brouillons et réglages vivent dans le stockage local du navigateur. Pas de compte, pas de serveur de synchronisation, rien n'est envoyé nulle part."
+  },
+  "onb4Trust2H": {
+    "message": "Une personne, qui construit au grand jour"
+  },
+  "onb4Trust2P": {
+    "message": "Pas une entreprise sans visage. Un développeur qui publie en public, utilise ces outils chaque jour et vous répond directement sur"
+  },
+  "onb5Eyebrow": {
+    "message": "Tarifs honnêtes"
+  },
+  "onb5H1": {
+    "message": "Gratuit reste utile. Pro se souvient de plus."
+  },
+  "onb5Lede": {
+    "message": "L'auto-agrandissement et l'éditeur pop-out sont gratuits pour toujours. Un seul paiement de quatre-vingt-dix-neuf dollars débloque un annuler plus profond, un historique de brouillons plus long, la restauration automatique et un raccourci personnalisé."
+  },
+  "planFree": {
+    "message": "Gratuit"
+  },
+  "priceFree": {
+    "message": "$$0"
+  },
+  "onb5FreePer": {
+    "message": "pour toujours"
+  },
+  "onb5FreeF1": {
+    "message": "Auto-agrandissement sur chaque site"
+  },
+  "onb5FreeF2": {
+    "message": "Éditeur pop-out avec réinjection"
+  },
+  "onb5FreeF3": {
+    "message": "Annuler sur 5 pas dans l'éditeur"
+  },
+  "onb5FreeF4": {
+    "message": "25 brouillons gardés sur cet appareil"
+  },
+  "ribbonBestValue": {
+    "message": "Meilleure offre"
+  },
+  "planLifetime": {
+    "message": "À vie"
+  },
+  "priceLifetime": {
+    "message": "$$99"
+  },
+  "onb5ProPer": {
+    "message": "une seule fois"
+  },
+  "onb5ProF1": {
+    "message": "Annuler sur 50 pas dans l'éditeur"
+  },
+  "onb5ProF2": {
+    "message": "200 brouillons gardés sur cet appareil"
+  },
+  "onb5ProF3": {
+    "message": "Restauration automatique des brouillons"
+  },
+  "onb5ProF4": {
+    "message": "Raccourci pop-out personnalisé"
+  },
+  "onb5ProF5": {
+    "message": "Un paiement, pas d'abonnement"
+  },
+  "onb5Cta": {
+    "message": "Obtenir mon offre à vie pour $$99"
+  },
+  "onb5Guar": {
+    "message": "Garantie de remboursement de 14 jours. Vous préférez le mensuel ? C'est $$4.99 sur la même page. $$99 en une fois est rentabilisé en environ 20 mois."
+  },
+  "onb6Eyebrow": {
+    "message": "Vous êtes prêt"
+  },
+  "onb6H1": {
+    "message": "Focalisez une zone et commencez à taper. C'est tout."
+  },
+  "onb6Lede": {
+    "message": "Plus rien à configurer. La zone grandit, Alt + Enter ouvre l'éditeur, et les brouillons s'enregistrent seuls. Voici les touches à retenir."
+  },
+  "onb6SignH": {
+    "message": "De la part du développeur"
+  },
+  "onb6SignBody": {
+    "message": "Je construis ces outils seul, ouvertement. Si quelque chose casse, écrivez-moi et je réponds. Si vous passez à Pro, vos quatre-vingt-dix-neuf dollars financent le prochain outil honnête, et vos notes façonnent ce qu'il devient."
+  },
+  "onb6LinkGh": {
+    "message": "Contactez-moi sur GitHub"
+  },
+  "onb6LinkVision": {
+    "message": "Où cela va"
+  },
+  "onb6Cheat1": {
+    "message": "Agrandir n'importe quelle zone de texte"
+  },
+  "onb6Kbd1": {
+    "message": "tapez simplement"
+  },
+  "onb6Cheat2": {
+    "message": "Ouvrir l'éditeur complet"
+  },
+  "onb6Cheat3": {
+    "message": "Annuler dans l'éditeur"
+  },
+  "onb6Cheat4": {
+    "message": "Restaurer un brouillon perdu"
+  },
+  "onb6Kbd4": {
+    "message": "un clic"
+  },
+  "onb6Pt": {
+    "message": "Sur Mac, appuyez sur Cmd au lieu de Ctrl. Votre première zone qui grandit est à un clic. Essayez sur n'importe quel formulaire de commentaire ou rédacteur."
+  },
+  "footBuiltBy": {
+    "message": "Construit par"
+  },
+  "footerPrivacy": {
+    "message": "Politique de confidentialité"
+  }
+}

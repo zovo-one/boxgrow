@@ -1,0 +1,584 @@
+{
+  "extName": {
+    "message": "BoxGrow — Textarea Auto-Grow & Pop-Out Editor",
+    "description": "Extension name shown in the Chrome Web Store listing and chrome://extensions."
+  },
+  "extDescription": {
+    "message": "Auto-grow text boxes as you type, pop out into a full-page editor, and restore drafts after a reload. Nothing leaves your device.",
+    "description": "CWS short description (max 132 chars). Honest: no counts, no ratings, no user numbers."
+  },
+  "actionTitle": {
+    "message": "BoxGrow",
+    "description": "Toolbar action tooltip. Clicking the action opens the BoxGrow popup (Addendum B.1)."
+  },
+  "cmdPopout": {
+    "message": "Open the BoxGrow editor for the focused text field",
+    "description": "chrome.commands open-popout description (manifest __MSG_cmdPopout__ — required for extension load)."
+  },
+  "optionsTitle": {
+    "message": "BoxGrow options",
+    "description": "Options page heading."
+  },
+  "optAutoGrow": {
+    "message": "Auto-grow text boxes",
+    "description": "Options toggle 1 label."
+  },
+  "optAutoGrowHint": {
+    "message": "A focused text box grows to fit what you type, capped at 80% of the window height.",
+    "description": "Options toggle 1 hint."
+  },
+  "optHotkey": {
+    "message": "Pop-out hotkey",
+    "description": "Options control 2 label."
+  },
+  "optHotkeyHint": {
+    "message": "Opens the full-screen editor for the focused field.",
+    "description": "Options control 2 hint."
+  },
+  "optHotkeyLocked": {
+    "message": "Free uses Alt+Enter. Pro unlocks hotkey customization.",
+    "description": "Lock note on the hotkey recorder for free tier (show-don't-hide)."
+  },
+  "optHotkeyRecording": {
+    "message": "Press the new key combination, or Esc to cancel.",
+    "description": "Hint shown next to the hotkey recorder while it is listening for keys."
+  },
+  "optHotkeyInvalid": {
+    "message": "Use a modifier key (Ctrl, Alt, Shift, or Cmd) plus another key.",
+    "description": "Visible error when the recorded hotkey has no modifier. Previous hotkey is kept."
+  },
+  "optDrafts": {
+    "message": "Save drafts",
+    "description": "Options toggle 3 label."
+  },
+  "optDraftsHint": {
+    "message": "Keep a local draft for each field so a reload or mis-click never loses text. Drafts never leave this device.",
+    "description": "Options toggle 3 hint."
+  },
+  "licenseTitle": {
+    "message": "BoxGrow Pro remembers more",
+    "description": "License section heading."
+  },
+  "licenseFree": {
+    "message": "Free: auto-grow, pop-out editor, 5-step undo, 25 drafts. Pro adds 50-step undo, 200 drafts, automatic restore, and a custom hotkey.",
+    "description": "License section state line, free tier. Real product limits only."
+  },
+  "licensePro": {
+    "message": "Pro is active: 50-step undo, 200 drafts, automatic draft restore, custom hotkey.",
+    "description": "License section state line, pro tier. Real product limits only."
+  },
+  "licensePlaceholder": {
+    "message": "ZOVO-XXXX-XXXX-XXXX-XXXX",
+    "description": "License key input placeholder."
+  },
+  "licenseKeyLabel": {
+    "message": "License key",
+    "description": "Aria-label for the license key input (license section)."
+  },
+  "licenseActivate": {
+    "message": "Activate",
+    "description": "License activate button."
+  },
+  "licenseDeactivate": {
+    "message": "Deactivate",
+    "description": "License deactivate button."
+  },
+  "licenseInvalid": {
+    "message": "That key didn't check out. Check for typos and try again.",
+    "description": "License activation refusal."
+  },
+  "licenseActivated": {
+    "message": "Pro activated. Thank you!",
+    "description": "License activation success."
+  },
+  "upgradeCta": {
+    "message": "See both plans →",
+    "description": "Upgrade link text (all surfaces)."
+  },
+  "privacyLink": {
+    "message": "Privacy policy",
+    "description": "Footer link to the privacy policy (options + popup)."
+  },
+  "optionsFootnote": {
+    "message": "No accounts. No tracking. Everything stays on this device.",
+    "description": "Options page footer reassurance line."
+  },
+  "popSiteActive": {
+    "message": "Active on this site",
+    "description": "Popup per-site state line when BoxGrow runs on the active tab's origin."
+  },
+  "popSitePaused": {
+    "message": "Paused on this site",
+    "description": "Popup per-site state line when the active tab's origin is paused."
+  },
+  "popSitePause": {
+    "message": "Pause on this site",
+    "description": "Popup per-site toggle button while the site is active."
+  },
+  "popSiteResume": {
+    "message": "Resume on this site",
+    "description": "Popup per-site toggle button while the site is paused."
+  },
+  "popDraftsKept": {
+    "message": "$1 of $2 drafts kept",
+    "description": "Popup honest draft count from the local draft index vs the real tier cap. $1 = drafts kept, $2 = tier cap (25 free / 200 pro). Positional only.",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "25"
+      }
+    }
+  },
+  "popSeePlans": {
+    "message": "See both plans →",
+    "description": "Popup Pro block link to the pricing page (utm_content=popup)."
+  },
+  "ovTitle": {
+    "message": "BoxGrow editor",
+    "description": "Overlay editor heading."
+  },
+  "ovSaveClose": {
+    "message": "Save & close",
+    "description": "Overlay primary button."
+  },
+  "ovClose": {
+    "message": "Close",
+    "description": "Overlay secondary button (Esc)."
+  },
+  "ovUndoCounter": {
+    "message": "Undo: $1 of $2 steps",
+    "description": "Overlay undo depth indicator. $1 = steps used, $2 = tier cap. Positional only.",
+    "placeholders": {
+      "used": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "ovUndoCapFree": {
+    "message": "Free keeps 5 undo steps. Pro keeps 50.",
+    "description": "One-time inline note when free undo cap is first hit. Real limits only."
+  },
+  "ovFieldGone": {
+    "message": "The original field is gone. Your text is safe here.",
+    "description": "Overlay warning when the host field detached mid-edit (SPA nav)."
+  },
+  "chipRestore": {
+    "message": "Restore draft",
+    "description": "In-page draft restore chip primary action."
+  },
+  "chipDismiss": {
+    "message": "Dismiss",
+    "description": "In-page draft restore chip dismiss action."
+  },
+  "chipDraftFull": {
+    "message": "Draft history is full on Free (25 drafts). Pro keeps 200 and restores automatically.",
+    "description": "Once-per-session note when free draft LRU evicts. Real limits only."
+  },
+  "btnOpenEditor": {
+    "message": "Open in BoxGrow editor",
+    "description": "Corner button aria-label + tooltip on focused text fields."
+  },
+  "popTitle": {
+    "message": "BoxGrow",
+    "description": "Popup header brand name."
+  },
+  "popMaster": {
+    "message": "Auto-grow everywhere",
+    "description": "Popup master auto-grow toggle label."
+  },
+  "popSiteUnavailable": {
+    "message": "Not available on this page",
+    "description": "Popup per-site state on non-web pages (chrome://, new tab, Web Store)."
+  },
+  "ovCounts": {
+    "message": "$1 words · $2 characters",
+    "description": "Overlay editor live count. $1 = word count, $2 = character count. Positional only.",
+    "placeholders": {
+      "words": {
+        "content": "$1",
+        "example": "12"
+      },
+      "characters": {
+        "content": "$2",
+        "example": "84"
+      }
+    }
+  },
+  "onbTitle": {
+    "message": "Text boxes that grow with you · BoxGrow",
+    "description": "Onboarding page title."
+  },
+  "onbSkip": {
+    "message": "Skip intro",
+    "description": "Onboarding skip button."
+  },
+  "onbNavBack": {
+    "message": "Back",
+    "description": "Onboarding back button."
+  },
+  "onb1Eyebrow": {
+    "message": "The box is too small",
+    "description": "Onboarding step 1 eyebrow."
+  },
+  "onb1H1": {
+    "message": "You write in boxes built for one line.",
+    "description": "Onboarding step 1 heading."
+  },
+  "onb1Lede": {
+    "message": "Comment forms, support tickets, email composers. The box stays small while your text gets long, and one wrong click or reload can wipe out a paragraph.",
+    "description": "Onboarding step 1 lede."
+  },
+  "onb1Pt": {
+    "message": "BoxGrow turns that around. The box grows as you type, Alt + Enter opens a full-screen editor, and every field keeps a draft on this device.",
+    "description": "Onboarding step 1 supporting paragraph. Honest feature summary only."
+  },
+  "mockLabel1": {
+    "message": "Support form",
+    "description": "Onboarding step 1 mock field label."
+  },
+  "mockBox1": {
+    "message": "2 lines visible of 30",
+    "description": "Onboarding step 1 mock field content (illustrative mock UI)."
+  },
+  "mockLabel2": {
+    "message": "Comment box",
+    "description": "Onboarding step 1 mock field label."
+  },
+  "mockBox2": {
+    "message": "scroll, scroll, scroll",
+    "description": "Onboarding step 1 mock field content (illustrative mock UI)."
+  },
+  "mockLabel3": {
+    "message": "Email composer",
+    "description": "Onboarding step 1 mock field label."
+  },
+  "mockBox3": {
+    "message": "where did my draft go",
+    "description": "Onboarding step 1 mock field content (illustrative mock UI)."
+  },
+  "onb1TagPain": {
+    "message": "Cramped boxes. Lost text.",
+    "description": "Onboarding step 1 pain tag."
+  },
+  "onb2Eyebrow": {
+    "message": "Grows with every keystroke",
+    "description": "Onboarding step 2 eyebrow."
+  },
+  "onb2H1": {
+    "message": "The box fits your text, not the other way around.",
+    "description": "Onboarding step 2 heading."
+  },
+  "onb2Lede": {
+    "message": "Focus any text box and it grows as you type, up to 80% of the window height. Press Alt + Enter and a calm full-screen editor opens with your text. Save, and the text lands back in the page.",
+    "description": "Onboarding step 2 lede. 80% is the real auto-grow clamp; Alt + Enter is the real default hotkey."
+  },
+  "onb2DemoBtn": {
+    "message": "Watch it type",
+    "description": "Onboarding step 2 demo replay button."
+  },
+  "mockLabelFocus": {
+    "message": "You focus a box",
+    "description": "Onboarding step 2 demo field label."
+  },
+  "mockFill1": {
+    "message": "It grows to fit every line",
+    "description": "Onboarding step 2 demo typed text."
+  },
+  "mockLabelHotkey": {
+    "message": "You press Alt + Enter",
+    "description": "Onboarding step 2 demo field label."
+  },
+  "mockFill2": {
+    "message": "A full-screen editor opens",
+    "description": "Onboarding step 2 demo typed text."
+  },
+  "mockLabelSave": {
+    "message": "You save and close",
+    "description": "Onboarding step 2 demo field label."
+  },
+  "mockFill3": {
+    "message": "The text lands back in the field",
+    "description": "Onboarding step 2 demo typed text."
+  },
+  "mockLabelReload": {
+    "message": "The page reloads",
+    "description": "Onboarding step 2 demo field label."
+  },
+  "mockFill4": {
+    "message": "Your draft is still here",
+    "description": "Onboarding step 2 demo typed text."
+  },
+  "onb2Cap": {
+    "message": "One extension for every text box",
+    "description": "Onboarding step 2 caption above the feature tags."
+  },
+  "onb2Tag1": {
+    "message": "Textareas",
+    "description": "Onboarding step 2 feature tag."
+  },
+  "onb2Tag2": {
+    "message": "Contenteditable",
+    "description": "Onboarding step 2 feature tag."
+  },
+  "onb2Tag3": {
+    "message": "Works in iframes",
+    "description": "Onboarding step 2 feature tag."
+  },
+  "onb3Eyebrow": {
+    "message": "Try it right here",
+    "description": "Onboarding step 3 eyebrow."
+  },
+  "onb3H1": {
+    "message": "Save your first draft before you leave.",
+    "description": "Onboarding step 3 heading."
+  },
+  "onb3Lede": {
+    "message": "Type anything into the practice box and press save. It goes into the same local storage your field drafts use. On real pages, drafts save themselves as you type.",
+    "description": "Onboarding step 3 lede."
+  },
+  "onb3Pt": {
+    "message": "No account and no sign-up. Everything stays on this device, and you can turn drafts off any time in Options.",
+    "description": "Onboarding step 3 supporting paragraph."
+  },
+  "onb3Label1": {
+    "message": "Your first practice line",
+    "description": "Onboarding step 3 practice input label."
+  },
+  "onb3Ph1": {
+    "message": "Type anything at all",
+    "description": "Onboarding step 3 practice input placeholder."
+  },
+  "onb3Label2": {
+    "message": "One more for the road",
+    "description": "Onboarding step 3 second practice input label."
+  },
+  "onb3Ph2": {
+    "message": "Paste something long",
+    "description": "Onboarding step 3 second practice input placeholder."
+  },
+  "onbSaveBtn": {
+    "message": "Save my first draft",
+    "description": "Onboarding step 3 save button."
+  },
+  "onbSavedOk": {
+    "message": "Saved on this device. Drafts on real pages work the same way.",
+    "description": "Onboarding step 3 save confirmation."
+  },
+  "onb4Eyebrow": {
+    "message": "Safe by design",
+    "description": "Onboarding step 4 eyebrow."
+  },
+  "onb4H1": {
+    "message": "Your words never leave your device.",
+    "description": "Onboarding step 4 heading."
+  },
+  "onb4Lede": {
+    "message": "BoxGrow makes no network calls except when you activate a license key. No analytics, no sync server, no account. Drafts live in local browser storage.",
+    "description": "Onboarding step 4 lede. True by architecture: zero network, storage.local only."
+  },
+  "onb4Stat1": {
+    "message": "sandboxed, no remote code",
+    "description": "Onboarding step 4 stat caption under MV3."
+  },
+  "onb4Stat2": {
+    "message": "network calls, ever",
+    "description": "Onboarding step 4 stat caption under 0."
+  },
+  "onb4Stat3": {
+    "message": "accounts, signups, trackers",
+    "description": "Onboarding step 4 stat caption under 0."
+  },
+  "onb4Pt": {
+    "message": "BoxGrow is one piece of a bigger idea: an honest layer for the whole browser, one tool at a time. No tracking, no data resale, no SEO spam.",
+    "description": "Onboarding step 4 founder paragraph."
+  },
+  "onb4LinkWhy": {
+    "message": "Why I build these tools",
+    "description": "Onboarding step 4 link."
+  },
+  "onb4LinkVision": {
+    "message": "The vision",
+    "description": "Onboarding step 4 link."
+  },
+  "onb4LinkSafe": {
+    "message": "How we keep you safe",
+    "description": "Onboarding step 4 link."
+  },
+  "onb4Trust1H": {
+    "message": "Everything stays on your device",
+    "description": "Onboarding step 4 trust row heading."
+  },
+  "onb4Trust1P": {
+    "message": "Drafts and settings live in local browser storage. No account, no sync server, nothing sent anywhere.",
+    "description": "Onboarding step 4 trust row body."
+  },
+  "onb4Trust2H": {
+    "message": "One person, building in the open",
+    "description": "Onboarding step 4 trust row heading."
+  },
+  "onb4Trust2P": {
+    "message": "Not a faceless company. A developer who ships in public, uses these tools daily, and answers you directly at",
+    "description": "Onboarding step 4 trust row body, leads into the GitHub link."
+  },
+  "onb5Eyebrow": {
+    "message": "Honest pricing",
+    "description": "Onboarding step 5 eyebrow."
+  },
+  "onb5H1": {
+    "message": "Free stays useful. Pro remembers more.",
+    "description": "Onboarding step 5 heading."
+  },
+  "onb5Lede": {
+    "message": "Auto-grow and the pop-out editor are free forever. One payment of ninety-nine dollars unlocks deeper undo, a longer draft history, automatic restore, and a custom hotkey.",
+    "description": "Onboarding step 5 lede. Matches the locked value ladder."
+  },
+  "planFree": {
+    "message": "Free",
+    "description": "Pricing plan name."
+  },
+  "priceFree": {
+    "message": "$$0",
+    "description": "Free plan price. Literal $ escaped as $$."
+  },
+  "onb5FreePer": {
+    "message": "forever",
+    "description": "Free plan price qualifier."
+  },
+  "onb5FreeF1": {
+    "message": "Auto-grow on every site",
+    "description": "Free plan feature (real, ungated)."
+  },
+  "onb5FreeF2": {
+    "message": "Pop-out editor with save-back",
+    "description": "Free plan feature (real, ungated)."
+  },
+  "onb5FreeF3": {
+    "message": "5-step undo in the editor",
+    "description": "Free plan feature. Real free-tier snapshot cap."
+  },
+  "onb5FreeF4": {
+    "message": "25 drafts kept on this device",
+    "description": "Free plan feature. Real free-tier draft cap."
+  },
+  "ribbonBestValue": {
+    "message": "Best value",
+    "description": "Ribbon on the lifetime plan."
+  },
+  "planLifetime": {
+    "message": "Lifetime",
+    "description": "Pricing plan name."
+  },
+  "priceLifetime": {
+    "message": "$$99",
+    "description": "Lifetime plan price. Literal $ escaped as $$."
+  },
+  "onb5ProPer": {
+    "message": "one time",
+    "description": "Lifetime plan price qualifier."
+  },
+  "onb5ProF1": {
+    "message": "50-step undo in the editor",
+    "description": "Pro plan feature. Real pro-tier snapshot cap."
+  },
+  "onb5ProF2": {
+    "message": "200 drafts kept on this device",
+    "description": "Pro plan feature. Real pro-tier draft cap."
+  },
+  "onb5ProF3": {
+    "message": "Automatic draft restore",
+    "description": "Pro plan feature."
+  },
+  "onb5ProF4": {
+    "message": "Custom pop-out hotkey",
+    "description": "Pro plan feature."
+  },
+  "onb5ProF5": {
+    "message": "One payment, no subscription",
+    "description": "Pro plan feature."
+  },
+  "onb5Cta": {
+    "message": "Get my lifetime for $$99",
+    "description": "Lifetime plan checkout button. Literal $ escaped as $$."
+  },
+  "onb5Guar": {
+    "message": "14-day money-back guarantee. Prefer monthly? It is $$4.99 on the same page. $$99 once pays for itself in about 20 months.",
+    "description": "Guarantee line under the lifetime plan. Literal $ escaped as $$."
+  },
+  "onb6Eyebrow": {
+    "message": "You're set",
+    "description": "Onboarding step 6 eyebrow."
+  },
+  "onb6H1": {
+    "message": "Focus a box and start typing. That is the whole thing.",
+    "description": "Onboarding step 6 heading."
+  },
+  "onb6Lede": {
+    "message": "No setup left. The box grows, Alt + Enter opens the editor, and drafts keep themselves. Here are the keys worth remembering.",
+    "description": "Onboarding step 6 lede."
+  },
+  "onb6SignH": {
+    "message": "From the developer",
+    "description": "Onboarding step 6 sign-off heading."
+  },
+  "onb6SignBody": {
+    "message": "I build these tools on my own, in the open. If something breaks, write to me and I answer. If you go Pro, your ninety-nine dollars funds the next honest tool, and your notes shape what it becomes.",
+    "description": "Onboarding step 6 sign-off body."
+  },
+  "onb6LinkGh": {
+    "message": "Reach me on GitHub",
+    "description": "Onboarding step 6 link."
+  },
+  "onb6LinkVision": {
+    "message": "Where this is going",
+    "description": "Onboarding step 6 link."
+  },
+  "onb6Cheat1": {
+    "message": "Grow any text box",
+    "description": "Onboarding step 6 cheat-sheet row label."
+  },
+  "onb6Kbd1": {
+    "message": "just type",
+    "description": "Onboarding step 6 cheat-sheet row key hint."
+  },
+  "onb6Cheat2": {
+    "message": "Open the full editor",
+    "description": "Onboarding step 6 cheat-sheet row label."
+  },
+  "onb6Cheat3": {
+    "message": "Undo in the editor",
+    "description": "Onboarding step 6 cheat-sheet row label."
+  },
+  "onb6Cheat4": {
+    "message": "Restore a lost draft",
+    "description": "Onboarding step 6 cheat-sheet row label."
+  },
+  "onb6Kbd4": {
+    "message": "one click",
+    "description": "Onboarding step 6 cheat-sheet row key hint."
+  },
+  "onb6Pt": {
+    "message": "On a Mac, press Cmd instead of Ctrl. Your first grown box is one click away. Try it on any comment form or composer.",
+    "description": "Onboarding step 6 closing line."
+  },
+  "footBuiltBy": {
+    "message": "Built by",
+    "description": "Onboarding footer, leads into the visible brand link."
+  },
+  "footDisclosure": {
+    "message": "BoxGrow makes no network calls except license activation. Drafts and settings stay on this device.",
+    "description": "Onboarding footer disclosure line. True by architecture."
+  },
+  "footerPrivacy": {
+    "message": "Privacy policy",
+    "description": "Onboarding footer link to the privacy policy."
+  }
+}

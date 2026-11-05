@@ -1,0 +1,440 @@
+{
+  "extName": {
+    "message": "BoxGrow — Tekstiväljade automaatne kasvamine ja redaktor"
+  },
+  "extDescription": {
+    "message": "Tekstiväljad kasvavad trükkimise ajal, avanevad täisekraani redaktoris ja taastavad mustandid. Miski ei lahku teie seadmest."
+  },
+  "actionTitle": {
+    "message": "BoxGrow"
+  },
+  "cmdPopout": {
+    "message": "Ava BoxGrow redaktor fookuses oleva tekstivälja jaoks"
+  },
+  "optionsTitle": {
+    "message": "BoxGrow seaded"
+  },
+  "optAutoGrow": {
+    "message": "Tekstiväljade automaatne kasvatamine"
+  },
+  "optAutoGrowHint": {
+    "message": "Fookuses olev tekstiväli kasvab vastavalt trükitule, piiratuna 80%-ga akna kõrgusest."
+  },
+  "optHotkey": {
+    "message": "Hüpikredaktori kiirklahv"
+  },
+  "optHotkeyHint": {
+    "message": "Avab fookuses oleva välja jaoks täisekraani redaktori."
+  },
+  "optHotkeyLocked": {
+    "message": "Tasuta versioon kasutab Alt+Enter. Pro avab kiirklahvi kohandamise."
+  },
+  "optHotkeyRecording": {
+    "message": "Vajutage uut klahvikombinatsiooni või tühistamiseks Esc."
+  },
+  "optHotkeyInvalid": {
+    "message": "Kasutage muutmisklahvi (Ctrl, Alt, Shift või Cmd) pluss teist klahvi."
+  },
+  "optDrafts": {
+    "message": "Salvesta mustandid"
+  },
+  "optDraftsHint": {
+    "message": "Hoiab iga välja jaoks kohalikku mustandit, nii et laadimine või vale klõps ei kaota kunagi teksti. Mustandid ei lahku kunagi sellest seadmest."
+  },
+  "licenseTitle": {
+    "message": "BoxGrow Pro mäletab rohkem"
+  },
+  "licenseFree": {
+    "message": "Tasuta: automaatne kasvamine, hüpikredaktor, 5-sammuline tagasivõtmine, 25 mustandit. Pro lisab 50-sammulise tagasivõtmise, 200 mustandit, automaatse taastamise ja kohandatud kiirklahvi."
+  },
+  "licensePro": {
+    "message": "Pro on aktiivne: 50-sammuline tagasivõtmine, 200 mustandit, mustandite automaatne taastamine, kohandatud kiirklahv."
+  },
+  "licensePlaceholder": {
+    "message": "ZOVO-XXXX-XXXX-XXXX-XXXX"
+  },
+  "licenseKeyLabel": {
+    "message": "Litsentsivõti"
+  },
+  "licenseActivate": {
+    "message": "Aktiveeri"
+  },
+  "licenseDeactivate": {
+    "message": "Deaktiveeri"
+  },
+  "licenseInvalid": {
+    "message": "See võti ei läbinud kontrolli. Kontrollige trükivigu ja proovige uuesti."
+  },
+  "licenseActivated": {
+    "message": "Pro aktiveeritud. Aitäh!"
+  },
+  "upgradeCta": {
+    "message": "Vaata mõlemat plaani →"
+  },
+  "privacyLink": {
+    "message": "Privaatsuspoliitika"
+  },
+  "optionsFootnote": {
+    "message": "Kontosid pole. Jälgimist pole. Kõik jääb sellesse seadmesse."
+  },
+  "popSiteActive": {
+    "message": "Sellel saidil aktiivne"
+  },
+  "popSitePaused": {
+    "message": "Sellel saidil peatatud"
+  },
+  "popSitePause": {
+    "message": "Peata sellel saidil"
+  },
+  "popSiteResume": {
+    "message": "Jätka sellel saidil"
+  },
+  "popDraftsKept": {
+    "message": "$1 / $2 mustandit säilitatud",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "25"
+      }
+    }
+  },
+  "popSeePlans": {
+    "message": "Vaata mõlemat paketti →"
+  },
+  "ovTitle": {
+    "message": "BoxGrow redaktor"
+  },
+  "ovSaveClose": {
+    "message": "Salvesta ja sulge"
+  },
+  "ovClose": {
+    "message": "Sulge"
+  },
+  "ovUndoCounter": {
+    "message": "Tagasivõtmine: $1 / $2 sammu",
+    "placeholders": {
+      "used": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "ovUndoCapFree": {
+    "message": "Tasuta hoiab 5 tagasivõtmise sammu. Pro hoiab 50."
+  },
+  "ovFieldGone": {
+    "message": "Algne väli on kadunud. Sinu tekst on siin turvaline."
+  },
+  "chipRestore": {
+    "message": "Taasta mustand"
+  },
+  "chipDismiss": {
+    "message": "Loobu"
+  },
+  "chipDraftFull": {
+    "message": "Tasuta versiooni mustandite ajalugu on täis (25 mustandit). Pro hoiab 200 ja taastab automaatselt."
+  },
+  "btnOpenEditor": {
+    "message": "Ava BoxGrow redaktoris"
+  },
+  "popTitle": {
+    "message": "BoxGrow"
+  },
+  "popMaster": {
+    "message": "Automaatne kasvatamine kõikjal"
+  },
+  "popSiteUnavailable": {
+    "message": "Sellel lehel pole saadaval"
+  },
+  "ovCounts": {
+    "message": "$1 sõna · $2 märki",
+    "placeholders": {
+      "words": {
+        "content": "$1",
+        "example": "12"
+      },
+      "characters": {
+        "content": "$2",
+        "example": "84"
+      }
+    }
+  },
+  "onbTitle": {
+    "message": "Tekstikastid, mis sinuga koos kasvavad · BoxGrow"
+  },
+  "onbSkip": {
+    "message": "Jäta sissejuhatus vahele"
+  },
+  "onbNavBack": {
+    "message": "Tagasi"
+  },
+  "onb1Eyebrow": {
+    "message": "Kast on liiga väike"
+  },
+  "onb1H1": {
+    "message": "Sa kirjutad kastidesse, mis on tehtud ühe rea jaoks."
+  },
+  "onb1Lede": {
+    "message": "Kommentaarivormid, tugipalved, meilikirjutajad. Kast jääb väikeseks, kuigi su tekst kasvab, ja üks vale klõps või lehe värskendus võib kustutada terve lõigu."
+  },
+  "onb1Pt": {
+    "message": "BoxGrow pöörab selle ümber. Kast kasvab kirjutamise ajal, Alt + Enter avab täisekraani redaktori ja iga väli hoiab sellel seadmel mustandit."
+  },
+  "mockLabel1": {
+    "message": "Tugivorm"
+  },
+  "mockBox1": {
+    "message": "nähtaval 2 rida 30-st"
+  },
+  "mockLabel2": {
+    "message": "Kommentaarikast"
+  },
+  "mockBox2": {
+    "message": "keri, keri, keri"
+  },
+  "mockLabel3": {
+    "message": "Meilikirjutaja"
+  },
+  "mockBox3": {
+    "message": "kuhu mu mustand kadus"
+  },
+  "onb1TagPain": {
+    "message": "Kitsad kastid. Kadunud tekst."
+  },
+  "onb2Eyebrow": {
+    "message": "Kasvab iga klahvivajutusega"
+  },
+  "onb2H1": {
+    "message": "Kast kohandub sinu tekstiga, mitte vastupidi."
+  },
+  "onb2Lede": {
+    "message": "Fokuseeri ükskõik milline tekstikast ja see kasvab kirjutamise ajal kuni 80% akna kõrgusest. Vajuta Alt + Enter ja avaneb rahulik täisekraani redaktor sinu tekstiga. Salvesta ja tekst naaseb lehele."
+  },
+  "onb2DemoBtn": {
+    "message": "Vaata, kuidas kirjutab"
+  },
+  "mockLabelFocus": {
+    "message": "Fokuseerid kasti"
+  },
+  "mockFill1": {
+    "message": "See kasvab iga rea jaoks"
+  },
+  "mockLabelHotkey": {
+    "message": "Vajutad Alt + Enter"
+  },
+  "mockFill2": {
+    "message": "Avaneb täisekraani redaktor"
+  },
+  "mockLabelSave": {
+    "message": "Salvestad ja sulged"
+  },
+  "mockFill3": {
+    "message": "Tekst naaseb väljale"
+  },
+  "mockLabelReload": {
+    "message": "Leht värskendatakse"
+  },
+  "mockFill4": {
+    "message": "Su mustand on ikka siin"
+  },
+  "onb2Cap": {
+    "message": "Üks laiendus iga tekstikasti jaoks"
+  },
+  "onb2Tag1": {
+    "message": "Tekstialad"
+  },
+  "onb2Tag2": {
+    "message": "Contenteditable"
+  },
+  "onb2Tag3": {
+    "message": "Töötab iframe'ides"
+  },
+  "onb3Eyebrow": {
+    "message": "Proovi kohe siin"
+  },
+  "onb3H1": {
+    "message": "Salvesta oma esimene mustand enne lahkumist."
+  },
+  "onb3Lede": {
+    "message": "Kirjuta harjutuskasti midagi ja vajuta Salvesta. See läheb samasse kohalikku salvestusruumi, mida su väljade mustandid kasutavad. Tõelistel lehtedel salvestuvad mustandid kirjutamise ajal iseenesest."
+  },
+  "onb3Pt": {
+    "message": "Kontot ega registreerimist pole. Kõik jääb sellele seadmele ja mustandeid saab igal ajal Sätetest välja lülitada."
+  },
+  "onb3Label1": {
+    "message": "Sinu esimene harjutusrida"
+  },
+  "onb3Ph1": {
+    "message": "Kirjuta midagi"
+  },
+  "onb3Label2": {
+    "message": "Veel üks kaasa"
+  },
+  "onb3Ph2": {
+    "message": "Kleebi midagi pikka"
+  },
+  "onbSaveBtn": {
+    "message": "Salvesta minu esimene mustand"
+  },
+  "onbSavedOk": {
+    "message": "Salvestatud sellele seadmele. Mustandid tõelistel lehtedel toimivad samamoodi."
+  },
+  "onb4Eyebrow": {
+    "message": "Turvaline disaini poolest"
+  },
+  "onb4H1": {
+    "message": "Sinu sõnad ei lahku kunagi sinu seadmest."
+  },
+  "onb4Stat1": {
+    "message": "isoleeritud, kaugkoodita"
+  },
+  "onb4Stat2": {
+    "message": "võrgupäringuid, mitte kunagi"
+  },
+  "onb4Stat3": {
+    "message": "kontosid, registreerimisi, jälgijaid"
+  },
+  "onb4Pt": {
+    "message": "BoxGrow on üks osa suuremast ideest: aus kiht kogu brauserile, üks tööriist korraga. Ilma jälgimiseta, ilma andmete edasimüügita, ilma SEO-spämmita."
+  },
+  "onb4LinkWhy": {
+    "message": "Miks ma neid tööriistu ehitan"
+  },
+  "onb4LinkVision": {
+    "message": "Visioon"
+  },
+  "onb4LinkSafe": {
+    "message": "Kuidas me sind kaitseme"
+  },
+  "onb4Trust1H": {
+    "message": "Kõik jääb sinu seadmesse"
+  },
+  "onb4Trust1P": {
+    "message": "Mustandid ja sätted elavad brauseri kohalikus salvestusruumis. Pole kontot, pole sünkroniseerimisserverit, midagi kuhugi ei saadeta."
+  },
+  "onb4Trust2H": {
+    "message": "Üks inimene, ehitab avalikult"
+  },
+  "onb4Trust2P": {
+    "message": "Mitte näotu ettevõte. Arendaja, kes annab välja avalikult, kasutab neid tööriistu iga päev ja vastab sulle otse aadressil"
+  },
+  "onb5Eyebrow": {
+    "message": "Ausad hinnad"
+  },
+  "onb5H1": {
+    "message": "Tasuta jääb kasulikuks. Pro mäletab rohkem."
+  },
+  "onb5Lede": {
+    "message": "Automaatne kasvamine ja hüpikredaktor on igavesti tasuta. Ühekordne üheksakümne üheksa dollari makse avab sügavama tagasivõtmise, pikema mustandite ajaloo, automaatse taastamise ja kohandatud kiirklahvi."
+  },
+  "planFree": {
+    "message": "Tasuta"
+  },
+  "priceFree": {
+    "message": "$$0"
+  },
+  "onb5FreePer": {
+    "message": "igavesti"
+  },
+  "onb5FreeF1": {
+    "message": "Automaatne kasvamine igal saidil"
+  },
+  "onb5FreeF2": {
+    "message": "Hüpikredaktor tagasisalvestusega"
+  },
+  "onb5FreeF3": {
+    "message": "Tagasivõtmine 5 sammu redaktoris"
+  },
+  "onb5FreeF4": {
+    "message": "25 mustandit sellel seadmel"
+  },
+  "ribbonBestValue": {
+    "message": "Parim väärtus"
+  },
+  "planLifetime": {
+    "message": "Eluaegne"
+  },
+  "priceLifetime": {
+    "message": "$$99"
+  },
+  "onb5ProPer": {
+    "message": "ühekordselt"
+  },
+  "onb5ProF1": {
+    "message": "Tagasivõtmine 50 sammu redaktoris"
+  },
+  "onb5ProF2": {
+    "message": "200 mustandit sellel seadmel"
+  },
+  "onb5ProF3": {
+    "message": "Automaatne mustandite taastamine"
+  },
+  "onb5ProF4": {
+    "message": "Kohandatud hüpikkiirklahv"
+  },
+  "onb5ProF5": {
+    "message": "Üks makse, pole tellimust"
+  },
+  "onb5Cta": {
+    "message": "Hangi minu eluaegne $$99 eest"
+  },
+  "onb5Guar": {
+    "message": "14-päevane raha tagasi garantii. Eelistad igakuist? See on $$4.99 samal lehel. Ühekordne $$99 tasub end ära umbes 20 kuuga."
+  },
+  "onb6Eyebrow": {
+    "message": "Kõik on valmis"
+  },
+  "onb6H1": {
+    "message": "Fokuseeri kast ja hakka kirjutama. See on kõik."
+  },
+  "onb6Lede": {
+    "message": "Rohkem pole midagi seadistada. Kast kasvab, Alt + Enter avab redaktori ja mustandid salvestuvad ise. Siin on klahvid, mida tasub meelde jätta."
+  },
+  "onb6SignH": {
+    "message": "Arendajalt"
+  },
+  "onb6SignBody": {
+    "message": "Ma ehitan neid tööriistu üksi, avalikult. Kui midagi läheb katki, kirjuta mulle ja ma vastan. Kui lähed Pro peale, rahastavad sinu üheksakümmend üheksa dollarit järgmist ausat tööriista ja sinu märkmed kujundavad, milleks see saab."
+  },
+  "onb6LinkGh": {
+    "message": "Leia mind GitHubis"
+  },
+  "onb6LinkVision": {
+    "message": "Kuhu see liigub"
+  },
+  "onb6Cheat1": {
+    "message": "Suurenda ükskõik millist tekstikasti"
+  },
+  "onb6Kbd1": {
+    "message": "lihtsalt kirjuta"
+  },
+  "onb6Cheat2": {
+    "message": "Ava täielik redaktor"
+  },
+  "onb6Cheat3": {
+    "message": "Võta redaktoris tagasi"
+  },
+  "onb6Cheat4": {
+    "message": "Taasta kadunud mustand"
+  },
+  "onb6Kbd4": {
+    "message": "üks klõps"
+  },
+  "onb6Pt": {
+    "message": "Macis vajuta Ctrl asemel Cmd. Sinu esimene kasvav kast on ühe klõpsu kaugusel. Proovi ükskõik millises kommentaarivormis või kirjutajas."
+  },
+  "footBuiltBy": {
+    "message": "Ehitas"
+  },
+  "footerPrivacy": {
+    "message": "Privaatsuspoliitika"
+  }
+}

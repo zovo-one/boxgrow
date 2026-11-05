@@ -1,0 +1,440 @@
+{
+  "extName": {
+    "message": "BoxGrow — Automatyczne powiększanie pól tekstowych i edytor"
+  },
+  "extDescription": {
+    "message": "Pola tekstowe rosną podczas pisania, otwierają pełnoekranowy edytor i przywracają wersje robocze. Nic nie opuszcza urządzenia."
+  },
+  "actionTitle": {
+    "message": "BoxGrow"
+  },
+  "cmdPopout": {
+    "message": "Otwórz edytor BoxGrow dla aktywnego pola tekstowego"
+  },
+  "optionsTitle": {
+    "message": "Opcje BoxGrow"
+  },
+  "optAutoGrow": {
+    "message": "Automatycznie powiększaj pola tekstowe"
+  },
+  "optAutoGrowHint": {
+    "message": "Aktywne pole tekstowe rośnie, dopasowując się do wpisywanego tekstu, z limitem 80% wysokości okna."
+  },
+  "optHotkey": {
+    "message": "Skrót wyskakującego edytora"
+  },
+  "optHotkeyHint": {
+    "message": "Otwiera pełnoekranowy edytor dla aktywnego pola."
+  },
+  "optHotkeyLocked": {
+    "message": "Darmowa wersja używa Alt+Enter. Pro odblokowuje dostosowanie skrótu."
+  },
+  "optHotkeyRecording": {
+    "message": "Naciśnij nową kombinację klawiszy lub Esc, aby anulować."
+  },
+  "optHotkeyInvalid": {
+    "message": "Użyj klawisza modyfikatora (Ctrl, Alt, Shift lub Cmd) plus innego klawisza."
+  },
+  "optDrafts": {
+    "message": "Zapisuj wersje robocze"
+  },
+  "optDraftsHint": {
+    "message": "Przechowuje lokalną wersję roboczą każdego pola, dzięki czemu odświeżenie lub błędne kliknięcie nigdy nie gubi tekstu. Wersje robocze nigdy nie opuszczają tego urządzenia."
+  },
+  "licenseTitle": {
+    "message": "BoxGrow Pro pamięta więcej"
+  },
+  "licenseFree": {
+    "message": "Darmowy: automatyczne powiększanie, wysuwany edytor, cofanie o 5 kroków, 25 wersji roboczych. Pro dodaje cofanie o 50 kroków, 200 wersji roboczych, automatyczne przywracanie i własny skrót klawiszowy."
+  },
+  "licensePro": {
+    "message": "Pro jest aktywna: cofanie 50 kroków, 200 wersji roboczych, automatyczne przywracanie wersji roboczych, własny skrót."
+  },
+  "licensePlaceholder": {
+    "message": "ZOVO-XXXX-XXXX-XXXX-XXXX"
+  },
+  "licenseKeyLabel": {
+    "message": "Klucz licencji"
+  },
+  "licenseActivate": {
+    "message": "Aktywuj"
+  },
+  "licenseDeactivate": {
+    "message": "Dezaktywuj"
+  },
+  "licenseInvalid": {
+    "message": "Tego klucza nie udało się zweryfikować. Sprawdź literówki i spróbuj ponownie."
+  },
+  "licenseActivated": {
+    "message": "Pro aktywowana. Dziękujemy!"
+  },
+  "upgradeCta": {
+    "message": "Zobacz oba plany →"
+  },
+  "privacyLink": {
+    "message": "Polityka prywatności"
+  },
+  "optionsFootnote": {
+    "message": "Bez kont. Bez śledzenia. Wszystko zostaje na tym urządzeniu."
+  },
+  "popSiteActive": {
+    "message": "Aktywna na tej stronie"
+  },
+  "popSitePaused": {
+    "message": "Wstrzymana na tej stronie"
+  },
+  "popSitePause": {
+    "message": "Wstrzymaj na tej stronie"
+  },
+  "popSiteResume": {
+    "message": "Wznów na tej stronie"
+  },
+  "popDraftsKept": {
+    "message": "Zapisano $1 z $2 wersji roboczych",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "25"
+      }
+    }
+  },
+  "popSeePlans": {
+    "message": "Zobacz oba plany →"
+  },
+  "ovTitle": {
+    "message": "Edytor BoxGrow"
+  },
+  "ovSaveClose": {
+    "message": "Zapisz i zamknij"
+  },
+  "ovClose": {
+    "message": "Zamknij"
+  },
+  "ovUndoCounter": {
+    "message": "Cofanie: $1 z $2 kroków",
+    "placeholders": {
+      "used": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "ovUndoCapFree": {
+    "message": "Darmowy zachowuje 5 kroków cofania. Pro zachowuje 50."
+  },
+  "ovFieldGone": {
+    "message": "Oryginalnego pola już nie ma. Twój tekst jest tu bezpieczny."
+  },
+  "chipRestore": {
+    "message": "Przywróć wersję roboczą"
+  },
+  "chipDismiss": {
+    "message": "Odrzuć"
+  },
+  "chipDraftFull": {
+    "message": "Historia wersji roboczych jest pełna w wersji darmowej (25 wersji). Pro przechowuje 200 i przywraca automatycznie."
+  },
+  "btnOpenEditor": {
+    "message": "Otwórz w edytorze BoxGrow"
+  },
+  "popTitle": {
+    "message": "BoxGrow"
+  },
+  "popMaster": {
+    "message": "Automatyczne powiększanie wszędzie"
+  },
+  "popSiteUnavailable": {
+    "message": "Niedostępne na tej stronie"
+  },
+  "ovCounts": {
+    "message": "$1 słów · $2 znaków",
+    "placeholders": {
+      "words": {
+        "content": "$1",
+        "example": "12"
+      },
+      "characters": {
+        "content": "$2",
+        "example": "84"
+      }
+    }
+  },
+  "onbTitle": {
+    "message": "Pola tekstowe, które rosną razem z tobą · BoxGrow"
+  },
+  "onbSkip": {
+    "message": "Pomiń wprowadzenie"
+  },
+  "onbNavBack": {
+    "message": "Wstecz"
+  },
+  "onb1Eyebrow": {
+    "message": "Pole jest za małe"
+  },
+  "onb1H1": {
+    "message": "Piszesz w polach stworzonych na jedną linię."
+  },
+  "onb1Lede": {
+    "message": "Formularze komentarzy, zgłoszenia do pomocy, edytory e-maili. Pole pozostaje małe, gdy twój tekst rośnie, a jedno błędne kliknięcie lub odświeżenie strony może wymazać cały akapit."
+  },
+  "onb1Pt": {
+    "message": "BoxGrow to odwraca. Pole rośnie, gdy piszesz, Alt + Enter otwiera edytor na pełnym ekranie, a każde pole przechowuje wersję roboczą na tym urządzeniu."
+  },
+  "mockLabel1": {
+    "message": "Formularz pomocy"
+  },
+  "mockBox1": {
+    "message": "widoczne 2 linie z 30"
+  },
+  "mockLabel2": {
+    "message": "Pole komentarza"
+  },
+  "mockBox2": {
+    "message": "przewijaj, przewijaj, przewijaj"
+  },
+  "mockLabel3": {
+    "message": "Edytor e-maili"
+  },
+  "mockBox3": {
+    "message": "gdzie podziała się moja wersja"
+  },
+  "onb1TagPain": {
+    "message": "Ciasne pola. Utracony tekst."
+  },
+  "onb2Eyebrow": {
+    "message": "Rośnie z każdym naciśnięciem klawisza"
+  },
+  "onb2H1": {
+    "message": "Pole dopasowuje się do twojego tekstu, a nie odwrotnie."
+  },
+  "onb2Lede": {
+    "message": "Skup się na dowolnym polu tekstowym, a rośnie ono, gdy piszesz, do 80% wysokości okna. Naciśnij Alt + Enter, a spokojny edytor na pełnym ekranie otwiera się z twoim tekstem. Zapisz, a tekst wraca na stronę."
+  },
+  "onb2DemoBtn": {
+    "message": "Zobacz, jak pisze"
+  },
+  "mockLabelFocus": {
+    "message": "Skupiasz pole"
+  },
+  "mockFill1": {
+    "message": "Rośnie dla każdej linii"
+  },
+  "mockLabelHotkey": {
+    "message": "Naciskasz Alt + Enter"
+  },
+  "mockFill2": {
+    "message": "Otwiera się edytor na pełnym ekranie"
+  },
+  "mockLabelSave": {
+    "message": "Zapisujesz i zamykasz"
+  },
+  "mockFill3": {
+    "message": "Tekst wraca do pola"
+  },
+  "mockLabelReload": {
+    "message": "Strona się odświeża"
+  },
+  "mockFill4": {
+    "message": "Twoja wersja wciąż tu jest"
+  },
+  "onb2Cap": {
+    "message": "Jedno rozszerzenie dla każdego pola tekstowego"
+  },
+  "onb2Tag1": {
+    "message": "Obszary tekstowe"
+  },
+  "onb2Tag2": {
+    "message": "Contenteditable"
+  },
+  "onb2Tag3": {
+    "message": "Działa w ramkach iframe"
+  },
+  "onb3Eyebrow": {
+    "message": "Wypróbuj od razu tutaj"
+  },
+  "onb3H1": {
+    "message": "Zapisz swoją pierwszą wersję roboczą, zanim wyjdziesz."
+  },
+  "onb3Lede": {
+    "message": "Napisz cokolwiek w polu treningowym i naciśnij Zapisz. Trafia do tego samego lokalnego magazynu, z którego korzystają wersje robocze twoich pól. Na prawdziwych stronach wersje zapisują się same, gdy piszesz."
+  },
+  "onb3Pt": {
+    "message": "Bez konta i bez rejestracji. Wszystko zostaje na tym urządzeniu, a wersje robocze możesz wyłączyć w każdej chwili w Opcjach."
+  },
+  "onb3Label1": {
+    "message": "Twoja pierwsza linia treningowa"
+  },
+  "onb3Ph1": {
+    "message": "Napisz cokolwiek"
+  },
+  "onb3Label2": {
+    "message": "Jeszcze jedna na drogę"
+  },
+  "onb3Ph2": {
+    "message": "Wklej coś długiego"
+  },
+  "onbSaveBtn": {
+    "message": "Zapisz moją pierwszą wersję"
+  },
+  "onbSavedOk": {
+    "message": "Zapisano na tym urządzeniu. Wersje robocze na prawdziwych stronach działają tak samo."
+  },
+  "onb4Eyebrow": {
+    "message": "Bezpieczne z założenia"
+  },
+  "onb4H1": {
+    "message": "Twoje słowa nigdy nie opuszczają twojego urządzenia."
+  },
+  "onb4Stat1": {
+    "message": "izolowany, bez zdalnego kodu"
+  },
+  "onb4Stat2": {
+    "message": "wywołań sieciowych, nigdy"
+  },
+  "onb4Stat3": {
+    "message": "kont, rejestracji, trackerów"
+  },
+  "onb4Pt": {
+    "message": "BoxGrow to część większej idei: uczciwa warstwa dla całej przeglądarki, jedno narzędzie na raz. Bez śledzenia, bez odsprzedaży danych, bez spamu SEO."
+  },
+  "onb4LinkWhy": {
+    "message": "Dlaczego buduję te narzędzia"
+  },
+  "onb4LinkVision": {
+    "message": "Wizja"
+  },
+  "onb4LinkSafe": {
+    "message": "Jak cię chronimy"
+  },
+  "onb4Trust1H": {
+    "message": "Wszystko zostaje na twoim urządzeniu"
+  },
+  "onb4Trust1P": {
+    "message": "Wersje robocze i ustawienia żyją w lokalnym magazynie przeglądarki. Bez konta, bez serwera synchronizacji, nic nie jest nigdzie wysyłane."
+  },
+  "onb4Trust2H": {
+    "message": "Jedna osoba, buduje jawnie"
+  },
+  "onb4Trust2P": {
+    "message": "Nie bezosobowa firma. Deweloper, który wydaje publicznie, codziennie używa tych narzędzi i odpowiada ci bezpośrednio na"
+  },
+  "onb5Eyebrow": {
+    "message": "Uczciwe ceny"
+  },
+  "onb5H1": {
+    "message": "Darmowy pozostaje użyteczny. Pro pamięta więcej."
+  },
+  "onb5Lede": {
+    "message": "Automatyczne powiększanie i wysuwany edytor są darmowe na zawsze. Jednorazowa płatność dziewięćdziesięciu dziewięciu dolarów odblokowuje głębsze cofanie, dłuższą historię wersji, automatyczne przywracanie i własny skrót klawiszowy."
+  },
+  "planFree": {
+    "message": "Darmowy"
+  },
+  "priceFree": {
+    "message": "$$0"
+  },
+  "onb5FreePer": {
+    "message": "na zawsze"
+  },
+  "onb5FreeF1": {
+    "message": "Automatyczne powiększanie na każdej stronie"
+  },
+  "onb5FreeF2": {
+    "message": "Wysuwany edytor z zapisem zwrotnym"
+  },
+  "onb5FreeF3": {
+    "message": "Cofanie o 5 kroków w edytorze"
+  },
+  "onb5FreeF4": {
+    "message": "25 wersji roboczych na tym urządzeniu"
+  },
+  "ribbonBestValue": {
+    "message": "Najlepsza wartość"
+  },
+  "planLifetime": {
+    "message": "Dożywotni"
+  },
+  "priceLifetime": {
+    "message": "$$99"
+  },
+  "onb5ProPer": {
+    "message": "jednorazowo"
+  },
+  "onb5ProF1": {
+    "message": "Cofanie o 50 kroków w edytorze"
+  },
+  "onb5ProF2": {
+    "message": "200 wersji roboczych na tym urządzeniu"
+  },
+  "onb5ProF3": {
+    "message": "Automatyczne przywracanie wersji"
+  },
+  "onb5ProF4": {
+    "message": "Własny skrót wysuwanego edytora"
+  },
+  "onb5ProF5": {
+    "message": "Jedna płatność, bez subskrypcji"
+  },
+  "onb5Cta": {
+    "message": "Weź mój dożywotni za $$99"
+  },
+  "onb5Guar": {
+    "message": "14-dniowa gwarancja zwrotu pieniędzy. Wolisz miesięcznie? To $$4.99 na tej samej stronie. Jednorazowe $$99 zwraca się w około 20 miesięcy."
+  },
+  "onb6Eyebrow": {
+    "message": "Wszystko gotowe"
+  },
+  "onb6H1": {
+    "message": "Skup pole i zacznij pisać. To wszystko."
+  },
+  "onb6Lede": {
+    "message": "Nie ma już nic do ustawiania. Pole rośnie, Alt + Enter otwiera edytor, a wersje zapisują się same. Oto klawisze warte zapamiętania."
+  },
+  "onb6SignH": {
+    "message": "Od dewelopera"
+  },
+  "onb6SignBody": {
+    "message": "Buduję te narzędzia sam, jawnie. Jeśli coś się zepsuje, napisz do mnie, a odpowiem. Jeśli przejdziesz na Pro, twoje dziewięćdziesiąt dziewięć dolarów sfinansuje kolejne uczciwe narzędzie, a twoje notatki ukształtują to, czym się stanie."
+  },
+  "onb6LinkGh": {
+    "message": "Napisz do mnie na GitHubie"
+  },
+  "onb6LinkVision": {
+    "message": "Dokąd to zmierza"
+  },
+  "onb6Cheat1": {
+    "message": "Powiększ dowolne pole tekstowe"
+  },
+  "onb6Kbd1": {
+    "message": "po prostu pisz"
+  },
+  "onb6Cheat2": {
+    "message": "Otwórz pełny edytor"
+  },
+  "onb6Cheat3": {
+    "message": "Cofnij w edytorze"
+  },
+  "onb6Cheat4": {
+    "message": "Przywróć utraconą wersję"
+  },
+  "onb6Kbd4": {
+    "message": "jedno kliknięcie"
+  },
+  "onb6Pt": {
+    "message": "Na Macu naciśnij Cmd zamiast Ctrl. Twoje pierwsze rosnące pole jest o jedno kliknięcie. Wypróbuj na dowolnym formularzu komentarzy lub edytorze."
+  },
+  "footBuiltBy": {
+    "message": "Stworzone przez"
+  },
+  "footerPrivacy": {
+    "message": "Polityka prywatności"
+  }
+}

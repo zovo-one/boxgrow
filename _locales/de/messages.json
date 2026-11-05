@@ -1,0 +1,440 @@
+{
+  "extName": {
+    "message": "BoxGrow — Auto-Wachstum für Textfelder & Pop-out-Editor"
+  },
+  "extDescription": {
+    "message": "Textfelder wachsen beim Tippen mit, öffnen sich im Vollbild-Editor und stellen Entwürfe wieder her. Nichts verlässt dein Gerät."
+  },
+  "actionTitle": {
+    "message": "BoxGrow"
+  },
+  "cmdPopout": {
+    "message": "BoxGrow-Editor für das fokussierte Textfeld öffnen"
+  },
+  "optionsTitle": {
+    "message": "BoxGrow-Optionen"
+  },
+  "optAutoGrow": {
+    "message": "Textfelder automatisch vergrößern"
+  },
+  "optAutoGrowHint": {
+    "message": "Ein fokussiertes Textfeld wächst mit dem getippten Text, begrenzt auf 80 % der Fensterhöhe."
+  },
+  "optHotkey": {
+    "message": "Tastenkürzel für den Pop-out-Editor"
+  },
+  "optHotkeyHint": {
+    "message": "Öffnet den Vollbild-Editor für das fokussierte Feld."
+  },
+  "optHotkeyLocked": {
+    "message": "Die Free-Version nutzt Alt+Enter. Pro schaltet eigene Tastenkürzel frei."
+  },
+  "optHotkeyRecording": {
+    "message": "Drücke die neue Tastenkombination oder Esc zum Abbrechen."
+  },
+  "optHotkeyInvalid": {
+    "message": "Nutze eine Modifikatortaste (Ctrl, Alt, Shift oder Cmd) plus eine weitere Taste."
+  },
+  "optDrafts": {
+    "message": "Entwürfe speichern"
+  },
+  "optDraftsHint": {
+    "message": "Speichert für jedes Feld einen lokalen Entwurf, damit ein Reload oder Fehlklick nie Text verliert. Entwürfe verlassen dieses Gerät nie."
+  },
+  "licenseTitle": {
+    "message": "BoxGrow Pro merkt sich mehr"
+  },
+  "licenseFree": {
+    "message": "Kostenlos: Auto-Wachstum, Pop-out-Editor, 5-stufiges Rückgängig, 25 Entwürfe. Pro bietet zusätzlich 50-stufiges Rückgängig, 200 Entwürfe, automatische Wiederherstellung und einen eigenen Hotkey."
+  },
+  "licensePro": {
+    "message": "Pro ist aktiv: 50 Rückgängig-Schritte, 200 Entwürfe, automatische Entwurfswiederherstellung, eigenes Tastenkürzel."
+  },
+  "licensePlaceholder": {
+    "message": "ZOVO-XXXX-XXXX-XXXX-XXXX"
+  },
+  "licenseKeyLabel": {
+    "message": "Lizenzschlüssel"
+  },
+  "licenseActivate": {
+    "message": "Aktivieren"
+  },
+  "licenseDeactivate": {
+    "message": "Deaktivieren"
+  },
+  "licenseInvalid": {
+    "message": "Dieser Schlüssel konnte nicht geprüft werden. Bitte auf Tippfehler prüfen und erneut versuchen."
+  },
+  "licenseActivated": {
+    "message": "Pro aktiviert. Danke!"
+  },
+  "upgradeCta": {
+    "message": "Beide Pläne ansehen →"
+  },
+  "privacyLink": {
+    "message": "Datenschutzerklärung"
+  },
+  "optionsFootnote": {
+    "message": "Keine Konten. Kein Tracking. Alles bleibt auf diesem Gerät."
+  },
+  "popSiteActive": {
+    "message": "Auf dieser Seite aktiv"
+  },
+  "popSitePaused": {
+    "message": "Auf dieser Seite pausiert"
+  },
+  "popSitePause": {
+    "message": "Auf dieser Seite pausieren"
+  },
+  "popSiteResume": {
+    "message": "Auf dieser Seite fortsetzen"
+  },
+  "popDraftsKept": {
+    "message": "$1 von $2 Entwürfen gespeichert",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "25"
+      }
+    }
+  },
+  "popSeePlans": {
+    "message": "Beide Pläne ansehen →"
+  },
+  "ovTitle": {
+    "message": "BoxGrow-Editor"
+  },
+  "ovSaveClose": {
+    "message": "Speichern & schließen"
+  },
+  "ovClose": {
+    "message": "Schließen"
+  },
+  "ovUndoCounter": {
+    "message": "Rückgängig: $1 von $2 Schritten",
+    "placeholders": {
+      "used": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "ovUndoCapFree": {
+    "message": "Kostenlos behält 5 Rückgängig-Schritte. Pro behält 50."
+  },
+  "ovFieldGone": {
+    "message": "Das ursprüngliche Feld ist weg. Dein Text ist hier sicher."
+  },
+  "chipRestore": {
+    "message": "Entwurf wiederherstellen"
+  },
+  "chipDismiss": {
+    "message": "Verwerfen"
+  },
+  "chipDraftFull": {
+    "message": "Der Entwurfsverlauf ist in Free voll (25 Entwürfe). Pro behält 200 und stellt automatisch wieder her."
+  },
+  "btnOpenEditor": {
+    "message": "Im BoxGrow-Editor öffnen"
+  },
+  "popTitle": {
+    "message": "BoxGrow"
+  },
+  "popMaster": {
+    "message": "Überall automatisch vergrößern"
+  },
+  "popSiteUnavailable": {
+    "message": "Auf dieser Seite nicht verfügbar"
+  },
+  "ovCounts": {
+    "message": "$1 Wörter · $2 Zeichen",
+    "placeholders": {
+      "words": {
+        "content": "$1",
+        "example": "12"
+      },
+      "characters": {
+        "content": "$2",
+        "example": "84"
+      }
+    }
+  },
+  "onbTitle": {
+    "message": "Textfelder, die mit dir wachsen · BoxGrow"
+  },
+  "onbSkip": {
+    "message": "Einführung überspringen"
+  },
+  "onbNavBack": {
+    "message": "Zurück"
+  },
+  "onb1Eyebrow": {
+    "message": "Das Feld ist zu klein"
+  },
+  "onb1H1": {
+    "message": "Du schreibst in Feldern, die für eine Zeile gebaut sind."
+  },
+  "onb1Lede": {
+    "message": "Kommentarformulare, Support-Tickets, E-Mail-Editoren. Das Feld bleibt klein, während dein Text länger wird, und ein falscher Klick oder ein Neuladen kann einen Absatz löschen."
+  },
+  "onb1Pt": {
+    "message": "BoxGrow dreht das um. Das Feld wächst beim Tippen mit, Alt + Enter öffnet einen Vollbild-Editor, und jedes Feld behält einen Entwurf auf diesem Gerät."
+  },
+  "mockLabel1": {
+    "message": "Support-Formular"
+  },
+  "mockBox1": {
+    "message": "2 Zeilen von 30 sichtbar"
+  },
+  "mockLabel2": {
+    "message": "Kommentarfeld"
+  },
+  "mockBox2": {
+    "message": "scrollen, scrollen, scrollen"
+  },
+  "mockLabel3": {
+    "message": "E-Mail-Editor"
+  },
+  "mockBox3": {
+    "message": "wo ist mein Entwurf hin"
+  },
+  "onb1TagPain": {
+    "message": "Enge Felder. Verlorener Text."
+  },
+  "onb2Eyebrow": {
+    "message": "Wächst mit jedem Tastenschlag"
+  },
+  "onb2H1": {
+    "message": "Das Feld passt sich deinem Text an, nicht umgekehrt."
+  },
+  "onb2Lede": {
+    "message": "Fokussiere ein beliebiges Textfeld, und es wächst beim Tippen mit, bis zu 80% der Fensterhöhe. Drücke Alt + Enter, und ein ruhiger Vollbild-Editor öffnet sich mit deinem Text. Speichern, und der Text landet wieder auf der Seite."
+  },
+  "onb2DemoBtn": {
+    "message": "Beim Tippen zusehen"
+  },
+  "mockLabelFocus": {
+    "message": "Du fokussierst ein Feld"
+  },
+  "mockFill1": {
+    "message": "Es wächst für jede Zeile mit"
+  },
+  "mockLabelHotkey": {
+    "message": "Du drückst Alt + Enter"
+  },
+  "mockFill2": {
+    "message": "Ein Vollbild-Editor öffnet sich"
+  },
+  "mockLabelSave": {
+    "message": "Du speicherst und schließt"
+  },
+  "mockFill3": {
+    "message": "Der Text landet zurück im Feld"
+  },
+  "mockLabelReload": {
+    "message": "Die Seite lädt neu"
+  },
+  "mockFill4": {
+    "message": "Dein Entwurf ist noch da"
+  },
+  "onb2Cap": {
+    "message": "Eine Erweiterung für jedes Textfeld"
+  },
+  "onb2Tag1": {
+    "message": "Textareas"
+  },
+  "onb2Tag2": {
+    "message": "Contenteditable"
+  },
+  "onb2Tag3": {
+    "message": "Funktioniert in iframes"
+  },
+  "onb3Eyebrow": {
+    "message": "Probier es gleich hier"
+  },
+  "onb3H1": {
+    "message": "Speichere deinen ersten Entwurf, bevor du gehst."
+  },
+  "onb3Lede": {
+    "message": "Tippe irgendetwas in das Übungsfeld und drücke auf Speichern. Es landet im selben lokalen Speicher wie die Entwürfe deiner Felder. Auf echten Seiten speichern sich Entwürfe beim Tippen von selbst."
+  },
+  "onb3Pt": {
+    "message": "Kein Konto und keine Anmeldung. Alles bleibt auf diesem Gerät, und du kannst Entwürfe jederzeit in den Optionen ausschalten."
+  },
+  "onb3Label1": {
+    "message": "Deine erste Übungszeile"
+  },
+  "onb3Ph1": {
+    "message": "Tippe irgendetwas"
+  },
+  "onb3Label2": {
+    "message": "Noch eine für unterwegs"
+  },
+  "onb3Ph2": {
+    "message": "Füge etwas Langes ein"
+  },
+  "onbSaveBtn": {
+    "message": "Meinen ersten Entwurf speichern"
+  },
+  "onbSavedOk": {
+    "message": "Auf diesem Gerät gespeichert. Entwürfe auf echten Seiten funktionieren genauso."
+  },
+  "onb4Eyebrow": {
+    "message": "Sicher von Grund auf"
+  },
+  "onb4H1": {
+    "message": "Deine Worte verlassen dein Gerät nie."
+  },
+  "onb4Stat1": {
+    "message": "isoliert, kein Remote-Code"
+  },
+  "onb4Stat2": {
+    "message": "Netzwerkaufrufe, niemals"
+  },
+  "onb4Stat3": {
+    "message": "Konten, Anmeldungen, Tracker"
+  },
+  "onb4Pt": {
+    "message": "BoxGrow ist ein Teil einer größeren Idee: eine ehrliche Schicht für den ganzen Browser, ein Werkzeug nach dem anderen. Kein Tracking, kein Datenweiterverkauf, kein SEO-Spam."
+  },
+  "onb4LinkWhy": {
+    "message": "Warum ich diese Werkzeuge baue"
+  },
+  "onb4LinkVision": {
+    "message": "Die Vision"
+  },
+  "onb4LinkSafe": {
+    "message": "Wie wir dich schützen"
+  },
+  "onb4Trust1H": {
+    "message": "Alles bleibt auf deinem Gerät"
+  },
+  "onb4Trust1P": {
+    "message": "Entwürfe und Einstellungen leben im lokalen Browser-Speicher. Kein Konto, kein Sync-Server, nichts wird irgendwohin gesendet."
+  },
+  "onb4Trust2H": {
+    "message": "Eine Person, offen am Bauen"
+  },
+  "onb4Trust2P": {
+    "message": "Kein gesichtsloses Unternehmen. Ein Entwickler, der öffentlich ausliefert, diese Werkzeuge täglich nutzt und dir direkt antwortet auf"
+  },
+  "onb5Eyebrow": {
+    "message": "Ehrliche Preise"
+  },
+  "onb5H1": {
+    "message": "Gratis bleibt nützlich. Pro merkt sich mehr."
+  },
+  "onb5Lede": {
+    "message": "Auto-Grow und der Pop-out-Editor sind für immer gratis. Eine einmalige Zahlung von neunundneunzig Dollar schaltet tieferes Rückgängig, eine längere Entwurfshistorie, automatische Wiederherstellung und eine eigene Tastenkombination frei."
+  },
+  "planFree": {
+    "message": "Gratis"
+  },
+  "priceFree": {
+    "message": "$$0"
+  },
+  "onb5FreePer": {
+    "message": "für immer"
+  },
+  "onb5FreeF1": {
+    "message": "Auto-Grow auf jeder Website"
+  },
+  "onb5FreeF2": {
+    "message": "Pop-out-Editor mit Zurückspeichern"
+  },
+  "onb5FreeF3": {
+    "message": "5 Rückgängig-Schritte im Editor"
+  },
+  "onb5FreeF4": {
+    "message": "25 Entwürfe auf diesem Gerät"
+  },
+  "ribbonBestValue": {
+    "message": "Bester Wert"
+  },
+  "planLifetime": {
+    "message": "Lebenslang"
+  },
+  "priceLifetime": {
+    "message": "$$99"
+  },
+  "onb5ProPer": {
+    "message": "einmalig"
+  },
+  "onb5ProF1": {
+    "message": "50 Rückgängig-Schritte im Editor"
+  },
+  "onb5ProF2": {
+    "message": "200 Entwürfe auf diesem Gerät"
+  },
+  "onb5ProF3": {
+    "message": "Automatische Entwurfs-Wiederherstellung"
+  },
+  "onb5ProF4": {
+    "message": "Eigene Pop-out-Tastenkombination"
+  },
+  "onb5ProF5": {
+    "message": "Eine Zahlung, kein Abo"
+  },
+  "onb5Cta": {
+    "message": "Meine Lifetime-Version für $$99 holen"
+  },
+  "onb5Guar": {
+    "message": "14-tägige Geld-zurück-Garantie. Lieber monatlich? Das sind $$4.99 auf derselben Seite. Einmalig $$99 amortisiert sich in etwa 20 Monaten."
+  },
+  "onb6Eyebrow": {
+    "message": "Du bist startklar"
+  },
+  "onb6H1": {
+    "message": "Fokussiere ein Feld und fang an zu tippen. Das ist alles."
+  },
+  "onb6Lede": {
+    "message": "Nichts mehr einzurichten. Das Feld wächst, Alt + Enter öffnet den Editor, und Entwürfe speichern sich selbst. Hier sind die Tasten, die du dir merken solltest."
+  },
+  "onb6SignH": {
+    "message": "Vom Entwickler"
+  },
+  "onb6SignBody": {
+    "message": "Ich baue diese Werkzeuge allein, offen. Wenn etwas kaputtgeht, schreib mir, und ich antworte. Wenn du Pro wählst, finanzieren deine neunundneunzig Dollar das nächste ehrliche Werkzeug, und deine Notizen formen, was daraus wird."
+  },
+  "onb6LinkGh": {
+    "message": "Erreich mich auf GitHub"
+  },
+  "onb6LinkVision": {
+    "message": "Wohin das geht"
+  },
+  "onb6Cheat1": {
+    "message": "Jedes Textfeld vergrößern"
+  },
+  "onb6Kbd1": {
+    "message": "einfach tippen"
+  },
+  "onb6Cheat2": {
+    "message": "Den vollen Editor öffnen"
+  },
+  "onb6Cheat3": {
+    "message": "Rückgängig im Editor"
+  },
+  "onb6Cheat4": {
+    "message": "Einen verlorenen Entwurf wiederherstellen"
+  },
+  "onb6Kbd4": {
+    "message": "ein Klick"
+  },
+  "onb6Pt": {
+    "message": "Auf einem Mac drückst du Cmd statt Ctrl. Dein erstes mitwachsendes Feld ist nur einen Klick entfernt. Probier es in jedem Kommentarformular oder Editor."
+  },
+  "footBuiltBy": {
+    "message": "Gebaut von"
+  },
+  "footerPrivacy": {
+    "message": "Datenschutzerklärung"
+  }
+}

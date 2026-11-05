@@ -1,0 +1,440 @@
+{
+  "extName": {
+    "message": "BoxGrow — Auto-Grow ng Mga Text Box at Pop-Out Editor"
+  },
+  "extDescription": {
+    "message": "Lumaki ang text box habang nagta-type, buksan sa full-screen editor, at ibalik ang mga draft. Walang umaalis sa device mo."
+  },
+  "actionTitle": {
+    "message": "BoxGrow"
+  },
+  "cmdPopout": {
+    "message": "Buksan ang BoxGrow editor para sa naka-focus na text field"
+  },
+  "optionsTitle": {
+    "message": "Mga opsyon ng BoxGrow"
+  },
+  "optAutoGrow": {
+    "message": "Awtomatikong palakihin ang mga text box"
+  },
+  "optAutoGrowHint": {
+    "message": "Ang naka-focus na text box ay lumalaki para kasya ang tina-type mo, may limit na 80% ng taas ng window."
+  },
+  "optHotkey": {
+    "message": "Hotkey ng pop-out editor"
+  },
+  "optHotkeyHint": {
+    "message": "Binubuksan ang full-screen editor para sa naka-focus na field."
+  },
+  "optHotkeyLocked": {
+    "message": "Ang libreng bersyon ay gumagamit ng Alt+Enter. Ang Pro ay nagbubukas ng pag-customize ng hotkey."
+  },
+  "optHotkeyRecording": {
+    "message": "Pindutin ang bagong key combination, o Esc para kanselahin."
+  },
+  "optHotkeyInvalid": {
+    "message": "Gumamit ng modifier key (Ctrl, Alt, Shift, o Cmd) plus isa pang key."
+  },
+  "optDrafts": {
+    "message": "I-save ang mga draft"
+  },
+  "optDraftsHint": {
+    "message": "Nag-iingat ng lokal na draft para sa bawat field para ang reload o maling click ay hindi kailanman makapagpapawala ng text. Ang mga draft ay hindi kailanman umaalis sa device na ito."
+  },
+  "licenseTitle": {
+    "message": "Mas maraming naaalala ang BoxGrow Pro"
+  },
+  "licenseFree": {
+    "message": "Libre: auto-grow, pop-out editor, 5-hakbang na undo, 25 draft. Nagdaragdag ang Pro ng 50-hakbang na undo, 200 draft, awtomatikong restore, at custom na hotkey."
+  },
+  "licensePro": {
+    "message": "Aktibo ang Pro: 50-step na undo, 200 draft, awtomatikong pagpapanumbalik ng draft, custom na hotkey."
+  },
+  "licensePlaceholder": {
+    "message": "ZOVO-XXXX-XXXX-XXXX-XXXX"
+  },
+  "licenseKeyLabel": {
+    "message": "License key"
+  },
+  "licenseActivate": {
+    "message": "I-activate"
+  },
+  "licenseDeactivate": {
+    "message": "I-deactivate"
+  },
+  "licenseInvalid": {
+    "message": "Hindi na-verify ang key na iyon. Tingnan kung may typo at subukan ulit."
+  },
+  "licenseActivated": {
+    "message": "Na-activate ang Pro. Salamat!"
+  },
+  "upgradeCta": {
+    "message": "Tingnan ang dalawang plano →"
+  },
+  "privacyLink": {
+    "message": "Patakaran sa privacy"
+  },
+  "optionsFootnote": {
+    "message": "Walang mga account. Walang tracking. Lahat ay nananatili sa device na ito."
+  },
+  "popSiteActive": {
+    "message": "Aktibo sa site na ito"
+  },
+  "popSitePaused": {
+    "message": "Naka-pause sa site na ito"
+  },
+  "popSitePause": {
+    "message": "I-pause sa site na ito"
+  },
+  "popSiteResume": {
+    "message": "Ipagpatuloy sa site na ito"
+  },
+  "popDraftsKept": {
+    "message": "$1 sa $2 draft ang naiingatan",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "25"
+      }
+    }
+  },
+  "popSeePlans": {
+    "message": "Tingnan ang dalawang plan →"
+  },
+  "ovTitle": {
+    "message": "BoxGrow editor"
+  },
+  "ovSaveClose": {
+    "message": "I-save at isara"
+  },
+  "ovClose": {
+    "message": "Isara"
+  },
+  "ovUndoCounter": {
+    "message": "Undo: $1 sa $2 step",
+    "placeholders": {
+      "used": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "ovUndoCapFree": {
+    "message": "Ang Libre ay nag-iingat ng 5 hakbang na undo. Ang Pro ay 50."
+  },
+  "ovFieldGone": {
+    "message": "Wala na ang orihinal na field. Ligtas ang teksto mo dito."
+  },
+  "chipRestore": {
+    "message": "Ibalik ang draft"
+  },
+  "chipDismiss": {
+    "message": "Balewalain"
+  },
+  "chipDraftFull": {
+    "message": "Puno na ang kasaysayan ng draft sa Libre (25 draft). Ang Pro ay nag-iingat ng 200 at awtomatikong nagpapanumbalik."
+  },
+  "btnOpenEditor": {
+    "message": "Buksan sa BoxGrow editor"
+  },
+  "popTitle": {
+    "message": "BoxGrow"
+  },
+  "popMaster": {
+    "message": "Auto-grow kahit saan"
+  },
+  "popSiteUnavailable": {
+    "message": "Hindi available sa page na ito"
+  },
+  "ovCounts": {
+    "message": "$1 salita · $2 character",
+    "placeholders": {
+      "words": {
+        "content": "$1",
+        "example": "12"
+      },
+      "characters": {
+        "content": "$2",
+        "example": "84"
+      }
+    }
+  },
+  "onbTitle": {
+    "message": "Mga text box na lumalaki kasabay mo · BoxGrow"
+  },
+  "onbSkip": {
+    "message": "Laktawan ang intro"
+  },
+  "onbNavBack": {
+    "message": "Bumalik"
+  },
+  "onb1Eyebrow": {
+    "message": "Masyadong maliit ang kahon"
+  },
+  "onb1H1": {
+    "message": "Nagsusulat ka sa mga kahong ginawa para sa isang linya."
+  },
+  "onb1Lede": {
+    "message": "Mga comment form, support ticket, email composer. Nananatiling maliit ang kahon habang humahaba ang teksto mo, at isang maling click o reload ay maaaring magbura ng buong talata."
+  },
+  "onb1Pt": {
+    "message": "Binabaliktad iyon ng BoxGrow. Lumalaki ang kahon habang nagta-type ka, nagbubukas ang Alt + Enter ng full-screen editor, at bawat field ay nag-iingat ng draft sa device na ito."
+  },
+  "mockLabel1": {
+    "message": "Support form"
+  },
+  "mockBox1": {
+    "message": "2 linya ang nakikita sa 30"
+  },
+  "mockLabel2": {
+    "message": "Comment box"
+  },
+  "mockBox2": {
+    "message": "scroll, scroll, scroll"
+  },
+  "mockLabel3": {
+    "message": "Email composer"
+  },
+  "mockBox3": {
+    "message": "nasaan na ang draft ko"
+  },
+  "onb1TagPain": {
+    "message": "Makikitid na kahon. Nawalang teksto."
+  },
+  "onb2Eyebrow": {
+    "message": "Lumalaki sa bawat pindot"
+  },
+  "onb2H1": {
+    "message": "Ang kahon ang umaangkop sa teksto mo, hindi pabaligtad."
+  },
+  "onb2Lede": {
+    "message": "I-focus ang alinmang text box at lalaki ito habang nagta-type ka, hanggang 80% ng taas ng window. Pindutin ang Alt + Enter at magbubukas ang tahimik na full-screen editor na may teksto mo. I-save at babalik ang teksto sa pahina."
+  },
+  "onb2DemoBtn": {
+    "message": "Panoorin kung paano mag-type"
+  },
+  "mockLabelFocus": {
+    "message": "Nagfo-focus ka sa isang kahon"
+  },
+  "mockFill1": {
+    "message": "Lumalaki para sa bawat linya"
+  },
+  "mockLabelHotkey": {
+    "message": "Pinipindot mo ang Alt + Enter"
+  },
+  "mockFill2": {
+    "message": "Nagbubukas ang full-screen editor"
+  },
+  "mockLabelSave": {
+    "message": "Nagse-save ka at nagsasara"
+  },
+  "mockFill3": {
+    "message": "Bumabalik ang teksto sa field"
+  },
+  "mockLabelReload": {
+    "message": "Nire-reload ang pahina"
+  },
+  "mockFill4": {
+    "message": "Narito pa rin ang draft mo"
+  },
+  "onb2Cap": {
+    "message": "Isang extension para sa bawat text box"
+  },
+  "onb2Tag1": {
+    "message": "Mga textarea"
+  },
+  "onb2Tag2": {
+    "message": "Contenteditable"
+  },
+  "onb2Tag3": {
+    "message": "Gumagana sa mga iframe"
+  },
+  "onb3Eyebrow": {
+    "message": "Subukan dito mismo"
+  },
+  "onb3H1": {
+    "message": "I-save ang una mong draft bago ka umalis."
+  },
+  "onb3Lede": {
+    "message": "Mag-type ng kahit ano sa practice box at pindutin ang I-save. Pupunta ito sa parehong local storage na ginagamit ng mga draft ng field mo. Sa mga tunay na pahina, awtomatikong nagse-save ang mga draft habang nagta-type ka."
+  },
+  "onb3Pt": {
+    "message": "Walang account at walang sign-up. Lahat nananatili sa device na ito, at maaari mong i-off ang mga draft anumang oras sa Options."
+  },
+  "onb3Label1": {
+    "message": "Ang una mong practice line"
+  },
+  "onb3Ph1": {
+    "message": "Mag-type ng kahit ano"
+  },
+  "onb3Label2": {
+    "message": "Isa pa para sa daan"
+  },
+  "onb3Ph2": {
+    "message": "Mag-paste ng mahabang teksto"
+  },
+  "onbSaveBtn": {
+    "message": "I-save ang una kong draft"
+  },
+  "onbSavedOk": {
+    "message": "Naka-save sa device na ito. Ganoon din gumagana ang mga draft sa mga tunay na pahina."
+  },
+  "onb4Eyebrow": {
+    "message": "Ligtas sa disenyo"
+  },
+  "onb4H1": {
+    "message": "Hindi kailanman aalis sa device mo ang mga salita mo."
+  },
+  "onb4Stat1": {
+    "message": "nakahiwalay, walang remote code"
+  },
+  "onb4Stat2": {
+    "message": "network call, kailanman"
+  },
+  "onb4Stat3": {
+    "message": "account, sign-up, tracker"
+  },
+  "onb4Pt": {
+    "message": "Ang BoxGrow ay isang piraso ng mas malaking ideya: isang tapat na layer para sa buong browser, isang tool sa isang pagkakataon. Walang tracking, walang muling pagbebenta ng data, walang SEO spam."
+  },
+  "onb4LinkWhy": {
+    "message": "Bakit ko ginagawa ang mga tool na ito"
+  },
+  "onb4LinkVision": {
+    "message": "Ang bisyon"
+  },
+  "onb4LinkSafe": {
+    "message": "Paano ka namin pinoprotektahan"
+  },
+  "onb4Trust1H": {
+    "message": "Lahat nananatili sa device mo"
+  },
+  "onb4Trust1P": {
+    "message": "Nakatira ang mga draft at setting sa local storage ng browser. Walang account, walang sync server, walang ipinapadala kahit saan."
+  },
+  "onb4Trust2H": {
+    "message": "Isang tao, gumagawa nang hayagan"
+  },
+  "onb4Trust2P": {
+    "message": "Hindi isang walang-mukhang kumpanya. Isang developer na hayagang naglalabas, gumagamit ng mga tool na ito araw-araw, at direktang sumasagot sa iyo sa"
+  },
+  "onb5Eyebrow": {
+    "message": "Tapat na presyo"
+  },
+  "onb5H1": {
+    "message": "Nanatiling kapaki-pakinabang ang Free. Mas maraming naaalala ang Pro."
+  },
+  "onb5Lede": {
+    "message": "Libre magpakailanman ang auto-grow at pop-out editor. Ang isang beses na bayad na siyamnapu't siyam na dolyar ay nagbubukas ng mas malalim na undo, mas mahabang draft history, awtomatikong restore, at custom na hotkey."
+  },
+  "planFree": {
+    "message": "Libre"
+  },
+  "priceFree": {
+    "message": "$$0"
+  },
+  "onb5FreePer": {
+    "message": "magpakailanman"
+  },
+  "onb5FreeF1": {
+    "message": "Auto-grow sa bawat site"
+  },
+  "onb5FreeF2": {
+    "message": "Pop-out editor na may save-back"
+  },
+  "onb5FreeF3": {
+    "message": "5-hakbang na undo sa editor"
+  },
+  "onb5FreeF4": {
+    "message": "25 draft na naka-save sa device na ito"
+  },
+  "ribbonBestValue": {
+    "message": "Pinakamagandang halaga"
+  },
+  "planLifetime": {
+    "message": "Panghabambuhay"
+  },
+  "priceLifetime": {
+    "message": "$$99"
+  },
+  "onb5ProPer": {
+    "message": "isang beses"
+  },
+  "onb5ProF1": {
+    "message": "50-hakbang na undo sa editor"
+  },
+  "onb5ProF2": {
+    "message": "200 draft na naka-save sa device na ito"
+  },
+  "onb5ProF3": {
+    "message": "Awtomatikong pag-restore ng draft"
+  },
+  "onb5ProF4": {
+    "message": "Custom na pop-out hotkey"
+  },
+  "onb5ProF5": {
+    "message": "Isang bayad, walang subscription"
+  },
+  "onb5Cta": {
+    "message": "Kunin ang aking panghabambuhay sa $$99"
+  },
+  "onb5Guar": {
+    "message": "14-araw na money-back guarantee. Mas gusto mo ang buwanan? $$4.99 ito sa parehong pahina. Ang $$99 na isang beses ay babawi sa sarili nito sa loob ng humigit-kumulang 20 buwan."
+  },
+  "onb6Eyebrow": {
+    "message": "Handa ka na"
+  },
+  "onb6H1": {
+    "message": "I-focus ang isang kahon at magsimulang mag-type. Iyon lang."
+  },
+  "onb6Lede": {
+    "message": "Wala nang dapat i-setup. Lumalaki ang kahon, nagbubukas ang Alt + Enter ng editor, at awtomatikong nagse-save ang mga draft. Narito ang mga key na sulit tandaan."
+  },
+  "onb6SignH": {
+    "message": "Mula sa developer"
+  },
+  "onb6SignBody": {
+    "message": "Ginagawa ko ang mga tool na ito nang mag-isa, nang hayagan. Kung may masira, sumulat ka sa akin at sasagot ako. Kung mag-Pro ka, ang siyamnapu't siyam na dolyar mo ang popondo sa susunod na tapat na tool, at ang mga note mo ang humuhubog kung ano ito."
+  },
+  "onb6LinkGh": {
+    "message": "Makipag-ugnayan sa akin sa GitHub"
+  },
+  "onb6LinkVision": {
+    "message": "Kung saan ito patungo"
+  },
+  "onb6Cheat1": {
+    "message": "Palakihin ang alinmang text box"
+  },
+  "onb6Kbd1": {
+    "message": "mag-type lang"
+  },
+  "onb6Cheat2": {
+    "message": "Buksan ang buong editor"
+  },
+  "onb6Cheat3": {
+    "message": "Mag-undo sa editor"
+  },
+  "onb6Cheat4": {
+    "message": "Ibalik ang nawalang draft"
+  },
+  "onb6Kbd4": {
+    "message": "isang click"
+  },
+  "onb6Pt": {
+    "message": "Sa Mac, pindutin ang Cmd sa halip na Ctrl. Isang click lang ang layo ng una mong lumalaking kahon. Subukan sa alinmang comment form o composer."
+  },
+  "footBuiltBy": {
+    "message": "Ginawa ni"
+  },
+  "footerPrivacy": {
+    "message": "Patakaran sa Privacy"
+  }
+}

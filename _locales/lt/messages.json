@@ -1,0 +1,440 @@
+{
+  "extName": {
+    "message": "BoxGrow — Automatinis teksto laukelių didėjimas ir redaktorius"
+  },
+  "extDescription": {
+    "message": "Teksto laukeliai didėja rašant, atsidaro viso ekrano redaktoriuje ir atkuria juodraščius. Nieko neišeina iš jūsų įrenginio."
+  },
+  "actionTitle": {
+    "message": "BoxGrow"
+  },
+  "cmdPopout": {
+    "message": "Atidaryti BoxGrow redaktorių sufokusuotam teksto laukeliui"
+  },
+  "optionsTitle": {
+    "message": "BoxGrow parinktys"
+  },
+  "optAutoGrow": {
+    "message": "Automatiškai didinti teksto laukelius"
+  },
+  "optAutoGrowHint": {
+    "message": "Sufokusuotas teksto laukelis didėja pagal tai, ką rašote, ribojamas iki 80% lango aukščio."
+  },
+  "optHotkey": {
+    "message": "Iššokančio redaktoriaus spartusis klavišas"
+  },
+  "optHotkeyHint": {
+    "message": "Atidaro viso ekrano redaktorių sufokusuotam laukeliui."
+  },
+  "optHotkeyLocked": {
+    "message": "Nemokama versija naudoja Alt+Enter. Pro atrakina sparčiojo klavišo tinkinimą."
+  },
+  "optHotkeyRecording": {
+    "message": "Paspauskite naują klavišų kombinaciją arba Esc, kad atšauktumėte."
+  },
+  "optHotkeyInvalid": {
+    "message": "Naudokite modifikavimo klavišą (Ctrl, Alt, Shift arba Cmd) plius kitą klavišą."
+  },
+  "optDrafts": {
+    "message": "Išsaugoti juodraščius"
+  },
+  "optDraftsHint": {
+    "message": "Laiko vietinį juodraštį kiekvienam laukeliui, kad perkrovimas ar klaidingas spustelėjimas niekada neprarastų teksto. Juodraščiai niekada neišeina iš šio įrenginio."
+  },
+  "licenseTitle": {
+    "message": "BoxGrow Pro prisimena daugiau"
+  },
+  "licenseFree": {
+    "message": "Nemokamas: automatinis didinimas, iššokantis redaktorius, 5 žingsnių atšaukimas, 25 juodraščiai. Pro prideda 50 žingsnių atšaukimą, 200 juodraščių, automatinį atkūrimą ir pasirinktinį spartųjį klavišą."
+  },
+  "licensePro": {
+    "message": "Pro aktyvus: 50 žingsnių atšaukimas, 200 juodraščių, automatinis juodraščių atkūrimas, tinkintas spartusis klavišas."
+  },
+  "licensePlaceholder": {
+    "message": "ZOVO-XXXX-XXXX-XXXX-XXXX"
+  },
+  "licenseKeyLabel": {
+    "message": "Licencijos raktas"
+  },
+  "licenseActivate": {
+    "message": "Aktyvuoti"
+  },
+  "licenseDeactivate": {
+    "message": "Deaktyvuoti"
+  },
+  "licenseInvalid": {
+    "message": "Šis raktas nepatikrintas. Patikrinkite spausdinimo klaidas ir bandykite dar kartą."
+  },
+  "licenseActivated": {
+    "message": "Pro aktyvuotas. Ačiū!"
+  },
+  "upgradeCta": {
+    "message": "Žr. abu planus →"
+  },
+  "privacyLink": {
+    "message": "Privatumo politika"
+  },
+  "optionsFootnote": {
+    "message": "Jokių paskyrų. Jokio stebėjimo. Viskas lieka šiame įrenginyje."
+  },
+  "popSiteActive": {
+    "message": "Aktyvus šioje svetainėje"
+  },
+  "popSitePaused": {
+    "message": "Pristabdytas šioje svetainėje"
+  },
+  "popSitePause": {
+    "message": "Pristabdyti šioje svetainėje"
+  },
+  "popSiteResume": {
+    "message": "Tęsti šioje svetainėje"
+  },
+  "popDraftsKept": {
+    "message": "$1 iš $2 juodraščių išsaugota",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "25"
+      }
+    }
+  },
+  "popSeePlans": {
+    "message": "Žr. abu planus →"
+  },
+  "ovTitle": {
+    "message": "BoxGrow redaktorius"
+  },
+  "ovSaveClose": {
+    "message": "Išsaugoti ir uždaryti"
+  },
+  "ovClose": {
+    "message": "Uždaryti"
+  },
+  "ovUndoCounter": {
+    "message": "Atšaukimas: $1 iš $2 žingsnių",
+    "placeholders": {
+      "used": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "ovUndoCapFree": {
+    "message": "Nemokamas išlaiko 5 atšaukimo žingsnius. Pro išlaiko 50."
+  },
+  "ovFieldGone": {
+    "message": "Pradinio lauko nebėra. Jūsų tekstas čia saugus."
+  },
+  "chipRestore": {
+    "message": "Atkurti juodraštį"
+  },
+  "chipDismiss": {
+    "message": "Atmesti"
+  },
+  "chipDraftFull": {
+    "message": "Nemokamos versijos juodraščių istorija pilna (25 juodraščiai). Pro saugo 200 ir atkuria automatiškai."
+  },
+  "btnOpenEditor": {
+    "message": "Atidaryti BoxGrow redaktoriuje"
+  },
+  "popTitle": {
+    "message": "BoxGrow"
+  },
+  "popMaster": {
+    "message": "Automatinis didėjimas visur"
+  },
+  "popSiteUnavailable": {
+    "message": "Nepasiekiama šiame puslapyje"
+  },
+  "ovCounts": {
+    "message": "$1 žodžiai · $2 simboliai",
+    "placeholders": {
+      "words": {
+        "content": "$1",
+        "example": "12"
+      },
+      "characters": {
+        "content": "$2",
+        "example": "84"
+      }
+    }
+  },
+  "onbTitle": {
+    "message": "Teksto laukeliai, kurie auga kartu su jumis · BoxGrow"
+  },
+  "onbSkip": {
+    "message": "Praleisti įvadą"
+  },
+  "onbNavBack": {
+    "message": "Atgal"
+  },
+  "onb1Eyebrow": {
+    "message": "Laukelis per mažas"
+  },
+  "onb1H1": {
+    "message": "Rašote į laukelius, sukurtus vienai eilutei."
+  },
+  "onb1Lede": {
+    "message": "Komentarų formos, pagalbos užklausos, el. laiškų redaktoriai. Laukelis lieka mažas, kol jūsų tekstas ilgėja, o vienas neteisingas paspaudimas arba puslapio atnaujinimas gali ištrinti visą pastraipą."
+  },
+  "onb1Pt": {
+    "message": "BoxGrow tai apverčia. Laukelis auga, kol rašote, Alt + Enter atidaro viso ekrano redaktorių, o kiekvienas laukas saugo juodraštį šiame įrenginyje."
+  },
+  "mockLabel1": {
+    "message": "Pagalbos forma"
+  },
+  "mockBox1": {
+    "message": "matomos 2 eilutės iš 30"
+  },
+  "mockLabel2": {
+    "message": "Komentarų laukelis"
+  },
+  "mockBox2": {
+    "message": "slink, slink, slink"
+  },
+  "mockLabel3": {
+    "message": "El. laiškų redaktorius"
+  },
+  "mockBox3": {
+    "message": "kur dingo mano juodraštis"
+  },
+  "onb1TagPain": {
+    "message": "Siauri laukeliai. Prarastas tekstas."
+  },
+  "onb2Eyebrow": {
+    "message": "Auga su kiekvienu klavišo paspaudimu"
+  },
+  "onb2H1": {
+    "message": "Laukelis prisitaiko prie jūsų teksto, o ne atvirkščiai."
+  },
+  "onb2Lede": {
+    "message": "Sufokusuokite bet kurį teksto laukelį, ir jis auga, kol rašote, iki 80% lango aukščio. Paspauskite Alt + Enter, ir ramus viso ekrano redaktorius atsidaro su jūsų tekstu. Išsaugokite, ir tekstas grįžta į puslapį."
+  },
+  "onb2DemoBtn": {
+    "message": "Žiūrėkite, kaip jis rašo"
+  },
+  "mockLabelFocus": {
+    "message": "Fokusuojate laukelį"
+  },
+  "mockFill1": {
+    "message": "Jis auga kiekvienai eilutei"
+  },
+  "mockLabelHotkey": {
+    "message": "Spaudžiate Alt + Enter"
+  },
+  "mockFill2": {
+    "message": "Atsidaro viso ekrano redaktorius"
+  },
+  "mockLabelSave": {
+    "message": "Išsaugote ir uždarote"
+  },
+  "mockFill3": {
+    "message": "Tekstas grįžta į lauką"
+  },
+  "mockLabelReload": {
+    "message": "Puslapis atnaujinamas"
+  },
+  "mockFill4": {
+    "message": "Jūsų juodraštis vis dar čia"
+  },
+  "onb2Cap": {
+    "message": "Vienas plėtinys kiekvienam teksto laukeliui"
+  },
+  "onb2Tag1": {
+    "message": "Teksto sritys"
+  },
+  "onb2Tag2": {
+    "message": "Contenteditable"
+  },
+  "onb2Tag3": {
+    "message": "Veikia iframe'uose"
+  },
+  "onb3Eyebrow": {
+    "message": "Išbandykite iškart čia"
+  },
+  "onb3H1": {
+    "message": "Prieš išeidami išsaugokite pirmąjį juodraštį."
+  },
+  "onb3Lede": {
+    "message": "Parašykite bet ką praktikos laukelėje ir paspauskite Išsaugoti. Tai patenka į tą pačią vietinę saugyklą, kurią naudoja jūsų laukų juodraščiai. Tikruose puslapiuose juodraščiai išsisaugo patys, kol rašote."
+  },
+  "onb3Pt": {
+    "message": "Jokios paskyros ir jokios registracijos. Viskas lieka šiame įrenginyje, o juodraščius galite išjungti bet kada skiltyje Parinktys."
+  },
+  "onb3Label1": {
+    "message": "Jūsų pirmoji praktikos eilutė"
+  },
+  "onb3Ph1": {
+    "message": "Parašykite bet ką"
+  },
+  "onb3Label2": {
+    "message": "Dar viena pakeliui"
+  },
+  "onb3Ph2": {
+    "message": "Įklijuokite ką nors ilgo"
+  },
+  "onbSaveBtn": {
+    "message": "Išsaugoti mano pirmąjį juodraštį"
+  },
+  "onbSavedOk": {
+    "message": "Išsaugota šiame įrenginyje. Juodraščiai tikruose puslapiuose veikia taip pat."
+  },
+  "onb4Eyebrow": {
+    "message": "Saugu pagal dizainą"
+  },
+  "onb4H1": {
+    "message": "Jūsų žodžiai niekada neišeina iš jūsų įrenginio."
+  },
+  "onb4Stat1": {
+    "message": "izoliuota, be nuotolinio kodo"
+  },
+  "onb4Stat2": {
+    "message": "tinklo užklausos, niekada"
+  },
+  "onb4Stat3": {
+    "message": "paskyrų, registracijų, sekiklių"
+  },
+  "onb4Pt": {
+    "message": "BoxGrow yra viena didesnės idėjos dalis: sąžiningas sluoksnis visai naršyklei, po vieną įrankį vienu metu. Jokio sekimo, jokio duomenų perpardavimo, jokio SEO šlamšto."
+  },
+  "onb4LinkWhy": {
+    "message": "Kodėl kuriu šiuos įrankius"
+  },
+  "onb4LinkVision": {
+    "message": "Vizija"
+  },
+  "onb4LinkSafe": {
+    "message": "Kaip jus saugome"
+  },
+  "onb4Trust1H": {
+    "message": "Viskas lieka jūsų įrenginyje"
+  },
+  "onb4Trust1P": {
+    "message": "Juodraščiai ir nustatymai gyvena naršyklės vietinėje saugykloje. Jokios paskyros, jokio sinchronizavimo serverio, niekas niekur nėra siunčiama."
+  },
+  "onb4Trust2H": {
+    "message": "Vienas žmogus, kuria viešai"
+  },
+  "onb4Trust2P": {
+    "message": "Ne beveidė įmonė. Kūrėjas, kuris išleidžia viešai, kasdien naudoja šiuos įrankius ir atsako jums tiesiogiai adresu"
+  },
+  "onb5Eyebrow": {
+    "message": "Sąžiningos kainos"
+  },
+  "onb5H1": {
+    "message": "Nemokamas lieka naudingas. Pro prisimena daugiau."
+  },
+  "onb5Lede": {
+    "message": "Automatinis didinimas ir iššokantis redaktorius nemokami visam laikui. Vienkartinis devyniasdešimt devynių dolerių mokėjimas atrakina gilesnį atšaukimą, ilgesnę juodraščių istoriją, automatinį atkūrimą ir pasirinktinį spartųjį klavišą."
+  },
+  "planFree": {
+    "message": "Nemokamas"
+  },
+  "priceFree": {
+    "message": "$$0"
+  },
+  "onb5FreePer": {
+    "message": "visam laikui"
+  },
+  "onb5FreeF1": {
+    "message": "Automatinis didinimas kiekvienoje svetainėje"
+  },
+  "onb5FreeF2": {
+    "message": "Iššokantis redaktorius su išsaugojimu atgal"
+  },
+  "onb5FreeF3": {
+    "message": "5 žingsnių atšaukimas redaktoriuje"
+  },
+  "onb5FreeF4": {
+    "message": "25 juodraščiai išsaugoti šiame įrenginyje"
+  },
+  "ribbonBestValue": {
+    "message": "Geriausia vertė"
+  },
+  "planLifetime": {
+    "message": "Visam gyvenimui"
+  },
+  "priceLifetime": {
+    "message": "$$99"
+  },
+  "onb5ProPer": {
+    "message": "vieną kartą"
+  },
+  "onb5ProF1": {
+    "message": "50 žingsnių atšaukimas redaktoriuje"
+  },
+  "onb5ProF2": {
+    "message": "200 juodraščių išsaugota šiame įrenginyje"
+  },
+  "onb5ProF3": {
+    "message": "Automatinis juodraščių atkūrimas"
+  },
+  "onb5ProF4": {
+    "message": "Pasirinktinis iššokantis spartusis klavišas"
+  },
+  "onb5ProF5": {
+    "message": "Vienas mokėjimas, jokios prenumeratos"
+  },
+  "onb5Cta": {
+    "message": "Gauti mano visam gyvenimui už $$99"
+  },
+  "onb5Guar": {
+    "message": "14 dienų pinigų grąžinimo garantija. Norite kas mėnesį? Tai $$4.99 tame pačiame puslapyje. Vienkartiniai $$99 atsipirka maždaug per 20 mėnesių."
+  },
+  "onb6Eyebrow": {
+    "message": "Viskas paruošta"
+  },
+  "onb6H1": {
+    "message": "Sufokusuokite laukelį ir pradėkite rašyti. Štai ir viskas."
+  },
+  "onb6Lede": {
+    "message": "Nieko daugiau nereikia nustatyti. Laukelis auga, Alt + Enter atidaro redaktorių, o juodraščiai išsisisaugo patys. Štai klavišai, kuriuos verta prisiminti."
+  },
+  "onb6SignH": {
+    "message": "Nuo kūrėjo"
+  },
+  "onb6SignBody": {
+    "message": "Šiuos įrankius kuriu vienas, atvirai. Jei kas nors sugenda, parašykite man, ir aš atsakau. Jei pereinate prie Pro, jūsų devyniasdešimt devyni doleriai finansuoja kitą sąžiningą įrankį, o jūsų užrašai formuoja tai, kuo jis tampa."
+  },
+  "onb6LinkGh": {
+    "message": "Rašykite man GitHub"
+  },
+  "onb6LinkVision": {
+    "message": "Kur tai eina"
+  },
+  "onb6Cheat1": {
+    "message": "Padidinkite bet kurį teksto laukelį"
+  },
+  "onb6Kbd1": {
+    "message": "tiesiog rašykite"
+  },
+  "onb6Cheat2": {
+    "message": "Atidarykite visą redaktorių"
+  },
+  "onb6Cheat3": {
+    "message": "Atšaukite redaktoriuje"
+  },
+  "onb6Cheat4": {
+    "message": "Atkurkite prarastą juodraštį"
+  },
+  "onb6Kbd4": {
+    "message": "vienas paspaudimas"
+  },
+  "onb6Pt": {
+    "message": "„Mac“ paspauskite Cmd vietoj Ctrl. Jūsų pirmasis augantis laukelis yra per vieno paspaudimo atstumą. Išbandykite bet kurioje komentarų formoje ar redaktoriuje."
+  },
+  "footBuiltBy": {
+    "message": "Sukūrė"
+  },
+  "footerPrivacy": {
+    "message": "Privatumo politika"
+  }
+}

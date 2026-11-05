@@ -1,0 +1,440 @@
+{
+  "extName": {
+    "message": "BoxGrow — Automatsko povećavanje tekstnih polja i uređivač"
+  },
+  "extDescription": {
+    "message": "Tekstna polja rastu dok tipkate, otvaraju se u cjeloekranskom uređivaču i vraćaju skice. Ništa ne napušta vaš uređaj."
+  },
+  "actionTitle": {
+    "message": "BoxGrow"
+  },
+  "cmdPopout": {
+    "message": "Otvori BoxGrow uređivač za fokusirano tekstno polje"
+  },
+  "optionsTitle": {
+    "message": "BoxGrow postavke"
+  },
+  "optAutoGrow": {
+    "message": "Automatski povećavaj tekstna polja"
+  },
+  "optAutoGrowHint": {
+    "message": "Fokusirano tekstno polje raste prema onome što tipkate, ograničeno na 80% visine prozora."
+  },
+  "optHotkey": {
+    "message": "Prečac za skočni uređivač"
+  },
+  "optHotkeyHint": {
+    "message": "Otvara cjeloekranski uređivač za fokusirano polje."
+  },
+  "optHotkeyLocked": {
+    "message": "Besplatna verzija koristi Alt+Enter. Pro otključava prilagodbu prečaca."
+  },
+  "optHotkeyRecording": {
+    "message": "Pritisnite novu kombinaciju tipki ili Esc za odustajanje."
+  },
+  "optHotkeyInvalid": {
+    "message": "Koristite modifikatorsku tipku (Ctrl, Alt, Shift ili Cmd) plus drugu tipku."
+  },
+  "optDrafts": {
+    "message": "Spremi skice"
+  },
+  "optDraftsHint": {
+    "message": "Čuva lokalnu skicu za svako polje kako ponovno učitavanje ili krivi klik nikad ne bi izgubili tekst. Skice nikad ne napuštaju ovaj uređaj."
+  },
+  "licenseTitle": {
+    "message": "BoxGrow Pro pamti više"
+  },
+  "licenseFree": {
+    "message": "Besplatno: automatsko povećanje, iskačući uređivač, poništavanje u 5 koraka, 25 skica. Pro dodaje poništavanje u 50 koraka, 200 skica, automatsko vraćanje i prilagođenu kraticu."
+  },
+  "licensePro": {
+    "message": "Pro aktivan: poništavanje od 50 koraka, 200 skica, automatsko vraćanje skica, prilagođeni prečac."
+  },
+  "licensePlaceholder": {
+    "message": "ZOVO-XXXX-XXXX-XXXX-XXXX"
+  },
+  "licenseKeyLabel": {
+    "message": "Licencni ključ"
+  },
+  "licenseActivate": {
+    "message": "Aktiviraj"
+  },
+  "licenseDeactivate": {
+    "message": "Deaktiviraj"
+  },
+  "licenseInvalid": {
+    "message": "Taj ključ nije prošao provjeru. Provjerite tipfeler i pokušajte ponovno."
+  },
+  "licenseActivated": {
+    "message": "Pro aktiviran. Hvala!"
+  },
+  "upgradeCta": {
+    "message": "Pogledajte oba plana →"
+  },
+  "privacyLink": {
+    "message": "Pravila o privatnosti"
+  },
+  "optionsFootnote": {
+    "message": "Bez računa. Bez praćenja. Sve ostaje na ovom uređaju."
+  },
+  "popSiteActive": {
+    "message": "Aktivno na ovoj stranici"
+  },
+  "popSitePaused": {
+    "message": "Pauzirano na ovoj stranici"
+  },
+  "popSitePause": {
+    "message": "Pauziraj na ovoj stranici"
+  },
+  "popSiteResume": {
+    "message": "Nastavi na ovoj stranici"
+  },
+  "popDraftsKept": {
+    "message": "$1 od $2 skica spremljeno",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "25"
+      }
+    }
+  },
+  "popSeePlans": {
+    "message": "Pogledajte oba plana →"
+  },
+  "ovTitle": {
+    "message": "BoxGrow uređivač"
+  },
+  "ovSaveClose": {
+    "message": "Spremi i zatvori"
+  },
+  "ovClose": {
+    "message": "Zatvori"
+  },
+  "ovUndoCounter": {
+    "message": "Poništavanje: $1 od $2 koraka",
+    "placeholders": {
+      "used": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "ovUndoCapFree": {
+    "message": "Besplatno čuva 5 koraka poništavanja. Pro čuva 50."
+  },
+  "ovFieldGone": {
+    "message": "Izvorno polje je nestalo. Vaš tekst je ovdje siguran."
+  },
+  "chipRestore": {
+    "message": "Vrati skicu"
+  },
+  "chipDismiss": {
+    "message": "Odbaci"
+  },
+  "chipDraftFull": {
+    "message": "Povijest skica je puna u besplatnoj verziji (25 skica). Pro čuva 200 i automatski ih vraća."
+  },
+  "btnOpenEditor": {
+    "message": "Otvori u BoxGrow uređivaču"
+  },
+  "popTitle": {
+    "message": "BoxGrow"
+  },
+  "popMaster": {
+    "message": "Automatsko povećavanje svugdje"
+  },
+  "popSiteUnavailable": {
+    "message": "Nije dostupno na ovoj stranici"
+  },
+  "ovCounts": {
+    "message": "$1 riječi · $2 znakova",
+    "placeholders": {
+      "words": {
+        "content": "$1",
+        "example": "12"
+      },
+      "characters": {
+        "content": "$2",
+        "example": "84"
+      }
+    }
+  },
+  "onbTitle": {
+    "message": "Tekstualna okvira koja rastu s vama · BoxGrow"
+  },
+  "onbSkip": {
+    "message": "Preskoči uvod"
+  },
+  "onbNavBack": {
+    "message": "Natrag"
+  },
+  "onb1Eyebrow": {
+    "message": "Okvir je premalen"
+  },
+  "onb1H1": {
+    "message": "Pišete u okvire napravljene za jedan redak."
+  },
+  "onb1Lede": {
+    "message": "Obrasci za komentare, zahtjevi za podršku, sastavljači e-pošte. Okvir ostaje malen dok vaš tekst raste, a jedan krivi klik ili osvježavanje može izbrisati cijeli odlomak."
+  },
+  "onb1Pt": {
+    "message": "BoxGrow to mijenja. Okvir raste dok tipkate, Alt + Enter otvara uređivač preko cijelog zaslona, a svako polje čuva skicu na ovom uređaju."
+  },
+  "mockLabel1": {
+    "message": "Obrazac za podršku"
+  },
+  "mockBox1": {
+    "message": "vidljiva 2 retka od 30"
+  },
+  "mockLabel2": {
+    "message": "Okvir za komentare"
+  },
+  "mockBox2": {
+    "message": "skrolaj, skrolaj, skrolaj"
+  },
+  "mockLabel3": {
+    "message": "Sastavljač e-pošte"
+  },
+  "mockBox3": {
+    "message": "kamo je nestala moja skica"
+  },
+  "onb1TagPain": {
+    "message": "Uski okviri. Izgubljen tekst."
+  },
+  "onb2Eyebrow": {
+    "message": "Raste sa svakim pritiskom tipke"
+  },
+  "onb2H1": {
+    "message": "Okvir se prilagođava vašem tekstu, a ne obrnuto."
+  },
+  "onb2Lede": {
+    "message": "Fokusirajte bilo koji tekstualni okvir i on raste dok tipkate, do 80% visine prozora. Pritisnite Alt + Enter i otvara se miran uređivač preko cijelog zaslona s vašim tekstom. Spremite i tekst se vraća na stranicu."
+  },
+  "onb2DemoBtn": {
+    "message": "Gledajte kako tipka"
+  },
+  "mockLabelFocus": {
+    "message": "Fokusirate okvir"
+  },
+  "mockFill1": {
+    "message": "Raste za svaki redak"
+  },
+  "mockLabelHotkey": {
+    "message": "Pritisnete Alt + Enter"
+  },
+  "mockFill2": {
+    "message": "Otvara se uređivač preko cijelog zaslona"
+  },
+  "mockLabelSave": {
+    "message": "Spremite i zatvorite"
+  },
+  "mockFill3": {
+    "message": "Tekst se vraća u polje"
+  },
+  "mockLabelReload": {
+    "message": "Stranica se osvježava"
+  },
+  "mockFill4": {
+    "message": "Vaša skica je još tu"
+  },
+  "onb2Cap": {
+    "message": "Jedno proširenje za svaki tekstualni okvir"
+  },
+  "onb2Tag1": {
+    "message": "Tekstualna područja"
+  },
+  "onb2Tag2": {
+    "message": "Contenteditable"
+  },
+  "onb2Tag3": {
+    "message": "Radi u iframeovima"
+  },
+  "onb3Eyebrow": {
+    "message": "Isprobajte ovdje"
+  },
+  "onb3H1": {
+    "message": "Spremite svoju prvu skicu prije odlaska."
+  },
+  "onb3Lede": {
+    "message": "Napišite bilo što u vježbovni okvir i pritisnite Spremi. Ide u isto lokalno spremište koje koriste skice vaših polja. Na pravim stranicama skice se same spremaju dok tipkate."
+  },
+  "onb3Pt": {
+    "message": "Bez računa i bez registracije. Sve ostaje na ovom uređaju, a skice možete isključiti u bilo kojem trenutku u Postavkama."
+  },
+  "onb3Label1": {
+    "message": "Vaš prvi vježbovni redak"
+  },
+  "onb3Ph1": {
+    "message": "Napišite bilo što"
+  },
+  "onb3Label2": {
+    "message": "Još jedan za put"
+  },
+  "onb3Ph2": {
+    "message": "Zalijepite nešto dugo"
+  },
+  "onbSaveBtn": {
+    "message": "Spremi moju prvu skicu"
+  },
+  "onbSavedOk": {
+    "message": "Spremljeno na ovaj uređaj. Skice na pravim stranicama rade na isti način."
+  },
+  "onb4Eyebrow": {
+    "message": "Sigurno po dizajnu"
+  },
+  "onb4H1": {
+    "message": "Vaše riječi nikad ne napuštaju vaš uređaj."
+  },
+  "onb4Stat1": {
+    "message": "izolirano, bez udaljenog koda"
+  },
+  "onb4Stat2": {
+    "message": "mrežnih zahtjeva, nikad"
+  },
+  "onb4Stat3": {
+    "message": "računa, registracija, pratitelja"
+  },
+  "onb4Pt": {
+    "message": "BoxGrow je dio veće ideje: pošteni sloj za cijeli preglednik, jedan alat po jedan. Bez praćenja, bez preprodaje podataka, bez SEO spama."
+  },
+  "onb4LinkWhy": {
+    "message": "Zašto pravim ove alate"
+  },
+  "onb4LinkVision": {
+    "message": "Vizija"
+  },
+  "onb4LinkSafe": {
+    "message": "Kako vas štitimo"
+  },
+  "onb4Trust1H": {
+    "message": "Sve ostaje na vašem uređaju"
+  },
+  "onb4Trust1P": {
+    "message": "Skice i postavke žive u lokalnom spremištu preglednika. Bez računa, bez poslužitelja za sinkronizaciju, ništa se nikamo ne šalje."
+  },
+  "onb4Trust2H": {
+    "message": "Jedna osoba, gradi javno"
+  },
+  "onb4Trust2P": {
+    "message": "Ne bezlična tvrtka. Programer koji izdaje javno, svakodnevno koristi ove alate i odgovara vam izravno na"
+  },
+  "onb5Eyebrow": {
+    "message": "Poštene cijene"
+  },
+  "onb5H1": {
+    "message": "Besplatno ostaje korisno. Pro pamti više."
+  },
+  "onb5Lede": {
+    "message": "Automatsko povećanje i iskačući uređivač zauvijek su besplatni. Jednokratno plaćanje od devedeset devet dolara otključava dublje poništavanje, dužu povijest skica, automatsko vraćanje i prilagođenu tipkovnu kraticu."
+  },
+  "planFree": {
+    "message": "Besplatno"
+  },
+  "priceFree": {
+    "message": "$$0"
+  },
+  "onb5FreePer": {
+    "message": "zauvijek"
+  },
+  "onb5FreeF1": {
+    "message": "Automatsko povećanje na svakoj stranici"
+  },
+  "onb5FreeF2": {
+    "message": "Iskačući uređivač s povratnim spremanjem"
+  },
+  "onb5FreeF3": {
+    "message": "Poništavanje u 5 koraka u uređivaču"
+  },
+  "onb5FreeF4": {
+    "message": "25 skica spremljeno na ovom uređaju"
+  },
+  "ribbonBestValue": {
+    "message": "Najbolja vrijednost"
+  },
+  "planLifetime": {
+    "message": "Doživotno"
+  },
+  "priceLifetime": {
+    "message": "$$99"
+  },
+  "onb5ProPer": {
+    "message": "jednokratno"
+  },
+  "onb5ProF1": {
+    "message": "Poništavanje u 50 koraka u uređivaču"
+  },
+  "onb5ProF2": {
+    "message": "200 skica spremljeno na ovom uređaju"
+  },
+  "onb5ProF3": {
+    "message": "Automatsko vraćanje skica"
+  },
+  "onb5ProF4": {
+    "message": "Prilagođena iskačuća kratica"
+  },
+  "onb5ProF5": {
+    "message": "Jedno plaćanje, bez pretplate"
+  },
+  "onb5Cta": {
+    "message": "Uzmite moj doživotni za $$99"
+  },
+  "onb5Guar": {
+    "message": "14-dnevno jamstvo povrata novca. Radije mjesečno? To je $$4.99 na istoj stranici. Jednokratnih $$99 isplati se za otprilike 20 mjeseci."
+  },
+  "onb6Eyebrow": {
+    "message": "Sve je spremno"
+  },
+  "onb6H1": {
+    "message": "Fokusirajte okvir i počnite tipkati. To je sve."
+  },
+  "onb6Lede": {
+    "message": "Ništa više ne treba postavljati. Okvir raste, Alt + Enter otvara uređivač, a skice se same spremaju. Evo tipki koje vrijedi zapamtiti."
+  },
+  "onb6SignH": {
+    "message": "Od programera"
+  },
+  "onb6SignBody": {
+    "message": "Ove alate pravim sam, otvoreno. Ako se nešto pokvari, pišite mi i odgovaram. Ako prijeđete na Pro, vaših devedeset devet dolara financira sljedeći pošteni alat, a vaše bilješke oblikuju što on postaje."
+  },
+  "onb6LinkGh": {
+    "message": "Pišite mi na GitHubu"
+  },
+  "onb6LinkVision": {
+    "message": "Kamo ovo ide"
+  },
+  "onb6Cheat1": {
+    "message": "Povećajte bilo koji tekstualni okvir"
+  },
+  "onb6Kbd1": {
+    "message": "samo tipkajte"
+  },
+  "onb6Cheat2": {
+    "message": "Otvorite puni uređivač"
+  },
+  "onb6Cheat3": {
+    "message": "Poništi u uređivaču"
+  },
+  "onb6Cheat4": {
+    "message": "Vratite izgubljenu skicu"
+  },
+  "onb6Kbd4": {
+    "message": "jedan klik"
+  },
+  "onb6Pt": {
+    "message": "Na Macu pritisnite Cmd umjesto Ctrl. Vaš prvi rastući okvir udaljen je jedan klik. Isprobajte na bilo kojem obrascu za komentare ili sastavljaču."
+  },
+  "footBuiltBy": {
+    "message": "Izradio"
+  },
+  "footerPrivacy": {
+    "message": "Pravila o privatnosti"
+  }
+}

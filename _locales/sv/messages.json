@@ -1,0 +1,440 @@
+{
+  "extName": {
+    "message": "BoxGrow — Automatisk förstoring av textrutor och editor"
+  },
+  "extDescription": {
+    "message": "Textrutor växer medan du skriver, öppnas i en helskärmseditor och återställer utkast. Ingenting lämnar din enhet."
+  },
+  "actionTitle": {
+    "message": "BoxGrow"
+  },
+  "cmdPopout": {
+    "message": "Öppna BoxGrow-editorn för det fokuserade textfältet"
+  },
+  "optionsTitle": {
+    "message": "BoxGrow-inställningar"
+  },
+  "optAutoGrow": {
+    "message": "Förstora textrutor automatiskt"
+  },
+  "optAutoGrowHint": {
+    "message": "Den fokuserade textrutan växer för att passa det du skriver, begränsad till 80% av fönsterhöjden."
+  },
+  "optHotkey": {
+    "message": "Genväg för pop-out-editorn"
+  },
+  "optHotkeyHint": {
+    "message": "Öppnar helskärmseditorn för det fokuserade fältet."
+  },
+  "optHotkeyLocked": {
+    "message": "Gratisversionen använder Alt+Enter. Pro låser upp anpassning av genvägen."
+  },
+  "optHotkeyRecording": {
+    "message": "Tryck på den nya tangentkombinationen, eller Esc för att avbryta."
+  },
+  "optHotkeyInvalid": {
+    "message": "Använd en modifieringstangent (Ctrl, Alt, Shift eller Cmd) plus en annan tangent."
+  },
+  "optDrafts": {
+    "message": "Spara utkast"
+  },
+  "optDraftsHint": {
+    "message": "Sparar ett lokalt utkast för varje fält så att en omladdning eller ett felklick aldrig förlorar text. Utkast lämnar aldrig den här enheten."
+  },
+  "licenseTitle": {
+    "message": "BoxGrow Pro minns mer"
+  },
+  "licenseFree": {
+    "message": "Gratis: automatisk tillväxt, pop-out-redigerare, ångra i 5 steg, 25 utkast. Pro lägger till ångra i 50 steg, 200 utkast, automatisk återställning och en anpassad snabbtangent."
+  },
+  "licensePro": {
+    "message": "Pro är aktiv: ångra i 50 steg, 200 utkast, automatisk återställning av utkast, anpassad genväg."
+  },
+  "licensePlaceholder": {
+    "message": "ZOVO-XXXX-XXXX-XXXX-XXXX"
+  },
+  "licenseKeyLabel": {
+    "message": "Licensnyckel"
+  },
+  "licenseActivate": {
+    "message": "Aktivera"
+  },
+  "licenseDeactivate": {
+    "message": "Inaktivera"
+  },
+  "licenseInvalid": {
+    "message": "Den nyckeln kunde inte verifieras. Kontrollera stavfel och försök igen."
+  },
+  "licenseActivated": {
+    "message": "Pro aktiverat. Tack!"
+  },
+  "upgradeCta": {
+    "message": "Se båda planerna →"
+  },
+  "privacyLink": {
+    "message": "Integritetspolicy"
+  },
+  "optionsFootnote": {
+    "message": "Inga konton. Ingen spårning. Allt stannar på den här enheten."
+  },
+  "popSiteActive": {
+    "message": "Aktiv på den här webbplatsen"
+  },
+  "popSitePaused": {
+    "message": "Pausad på den här webbplatsen"
+  },
+  "popSitePause": {
+    "message": "Pausa på den här webbplatsen"
+  },
+  "popSiteResume": {
+    "message": "Återuppta på den här webbplatsen"
+  },
+  "popDraftsKept": {
+    "message": "$1 av $2 utkast sparade",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "25"
+      }
+    }
+  },
+  "popSeePlans": {
+    "message": "Se båda planerna →"
+  },
+  "ovTitle": {
+    "message": "BoxGrow-editor"
+  },
+  "ovSaveClose": {
+    "message": "Spara och stäng"
+  },
+  "ovClose": {
+    "message": "Stäng"
+  },
+  "ovUndoCounter": {
+    "message": "Ångra: $1 av $2 steg",
+    "placeholders": {
+      "used": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "ovUndoCapFree": {
+    "message": "Gratis behåller 5 ångrasteg. Pro behåller 50."
+  },
+  "ovFieldGone": {
+    "message": "Det ursprungliga fältet är borta. Din text är säker här."
+  },
+  "chipRestore": {
+    "message": "Återställ utkast"
+  },
+  "chipDismiss": {
+    "message": "Avfärda"
+  },
+  "chipDraftFull": {
+    "message": "Utkasthistoriken är full i gratisversionen (25 utkast). Pro sparar 200 och återställer automatiskt."
+  },
+  "btnOpenEditor": {
+    "message": "Öppna i BoxGrow-editorn"
+  },
+  "popTitle": {
+    "message": "BoxGrow"
+  },
+  "popMaster": {
+    "message": "Automatisk förstoring överallt"
+  },
+  "popSiteUnavailable": {
+    "message": "Inte tillgänglig på den här sidan"
+  },
+  "ovCounts": {
+    "message": "$1 ord · $2 tecken",
+    "placeholders": {
+      "words": {
+        "content": "$1",
+        "example": "12"
+      },
+      "characters": {
+        "content": "$2",
+        "example": "84"
+      }
+    }
+  },
+  "onbTitle": {
+    "message": "Textrutor som växer med dig · BoxGrow"
+  },
+  "onbSkip": {
+    "message": "Hoppa över introduktionen"
+  },
+  "onbNavBack": {
+    "message": "Tillbaka"
+  },
+  "onb1Eyebrow": {
+    "message": "Rutan är för liten"
+  },
+  "onb1H1": {
+    "message": "Du skriver i rutor gjorda för en enda rad."
+  },
+  "onb1Lede": {
+    "message": "Kommentarsformulär, supportärenden, e-postredigerare. Rutan förblir liten medan din text växer, och ett felaktigt klick eller en omladdning kan radera ett helt stycke."
+  },
+  "onb1Pt": {
+    "message": "BoxGrow vänder på det. Rutan växer medan du skriver, Alt + Enter öppnar en helskärmsredigerare, och varje fält sparar ett utkast på den här enheten."
+  },
+  "mockLabel1": {
+    "message": "Supportformulär"
+  },
+  "mockBox1": {
+    "message": "2 rader synliga av 30"
+  },
+  "mockLabel2": {
+    "message": "Kommentarsruta"
+  },
+  "mockBox2": {
+    "message": "scrolla, scrolla, scrolla"
+  },
+  "mockLabel3": {
+    "message": "E-postredigerare"
+  },
+  "mockBox3": {
+    "message": "vart tog mitt utkast vägen"
+  },
+  "onb1TagPain": {
+    "message": "Trånga rutor. Förlorad text."
+  },
+  "onb2Eyebrow": {
+    "message": "Växer med varje tangenttryckning"
+  },
+  "onb2H1": {
+    "message": "Rutan anpassar sig efter din text, inte tvärtom."
+  },
+  "onb2Lede": {
+    "message": "Fokusera valfri textruta så växer den medan du skriver, upp till 80 % av fönstrets höjd. Tryck Alt + Enter så öppnas en lugn helskärmsredigerare med din text. Spara så återvänder texten till sidan."
+  },
+  "onb2DemoBtn": {
+    "message": "Se den skriva"
+  },
+  "mockLabelFocus": {
+    "message": "Du fokuserar en ruta"
+  },
+  "mockFill1": {
+    "message": "Den växer för varje rad"
+  },
+  "mockLabelHotkey": {
+    "message": "Du trycker Alt + Enter"
+  },
+  "mockFill2": {
+    "message": "Helskärmsredigerare öppnas"
+  },
+  "mockLabelSave": {
+    "message": "Du sparar och stänger"
+  },
+  "mockFill3": {
+    "message": "Texten återvänder till fältet"
+  },
+  "mockLabelReload": {
+    "message": "Sidan laddas om"
+  },
+  "mockFill4": {
+    "message": "Ditt utkast finns fortfarande kvar"
+  },
+  "onb2Cap": {
+    "message": "Ett tillägg för varje textruta"
+  },
+  "onb2Tag1": {
+    "message": "Textområden"
+  },
+  "onb2Tag2": {
+    "message": "Contenteditable"
+  },
+  "onb2Tag3": {
+    "message": "Fungerar i iframes"
+  },
+  "onb3Eyebrow": {
+    "message": "Prova direkt här"
+  },
+  "onb3H1": {
+    "message": "Spara ditt första utkast innan du går."
+  },
+  "onb3Lede": {
+    "message": "Skriv vad som helst i övningsrutan och tryck Spara. Det går till samma lokala lagring som dina fälts utkast använder. På riktiga sidor sparas utkasten av sig själva medan du skriver."
+  },
+  "onb3Pt": {
+    "message": "Inget konto och ingen registrering. Allt stannar på den här enheten, och du kan stänga av utkast när som helst i Alternativ."
+  },
+  "onb3Label1": {
+    "message": "Din första övningsrad"
+  },
+  "onb3Ph1": {
+    "message": "Skriv vad som helst"
+  },
+  "onb3Label2": {
+    "message": "En till för vägen"
+  },
+  "onb3Ph2": {
+    "message": "Klistra in något långt"
+  },
+  "onbSaveBtn": {
+    "message": "Spara mitt första utkast"
+  },
+  "onbSavedOk": {
+    "message": "Sparat på den här enheten. Utkast på riktiga sidor fungerar på samma sätt."
+  },
+  "onb4Eyebrow": {
+    "message": "Säker av design"
+  },
+  "onb4H1": {
+    "message": "Dina ord lämnar aldrig din enhet."
+  },
+  "onb4Stat1": {
+    "message": "isolerad, ingen fjärrkod"
+  },
+  "onb4Stat2": {
+    "message": "nätverksanrop, aldrig"
+  },
+  "onb4Stat3": {
+    "message": "konton, registreringar, spårare"
+  },
+  "onb4Pt": {
+    "message": "BoxGrow är en bit av en större idé: ett ärligt lager för hela webbläsaren, ett verktyg i taget. Ingen spårning, ingen vidare försäljning av data, ingen SEO-spam."
+  },
+  "onb4LinkWhy": {
+    "message": "Varför jag bygger dessa verktyg"
+  },
+  "onb4LinkVision": {
+    "message": "Visionen"
+  },
+  "onb4LinkSafe": {
+    "message": "Så skyddar vi dig"
+  },
+  "onb4Trust1H": {
+    "message": "Allt stannar på din enhet"
+  },
+  "onb4Trust1P": {
+    "message": "Utkast och inställningar lever i webbläsarens lokala lagring. Inget konto, ingen synkroniseringsserver, inget skickas någonstans."
+  },
+  "onb4Trust2H": {
+    "message": "En person, bygger öppet"
+  },
+  "onb4Trust2P": {
+    "message": "Inte ett ansiktslöst företag. En utvecklare som släpper öppet, använder dessa verktyg varje dag och svarar dig direkt på"
+  },
+  "onb5Eyebrow": {
+    "message": "Ärliga priser"
+  },
+  "onb5H1": {
+    "message": "Gratis förblir användbart. Pro minns mer."
+  },
+  "onb5Lede": {
+    "message": "Automatisk tillväxt och pop-out-redigeraren är gratis för alltid. En engångsbetalning på nittionio dollar låser upp djupare ångra, längre utkasthistorik, automatisk återställning och en anpassad snabbtangent."
+  },
+  "planFree": {
+    "message": "Gratis"
+  },
+  "priceFree": {
+    "message": "$$0"
+  },
+  "onb5FreePer": {
+    "message": "för alltid"
+  },
+  "onb5FreeF1": {
+    "message": "Automatisk tillväxt på varje webbplats"
+  },
+  "onb5FreeF2": {
+    "message": "Pop-out-redigerare med tillbakasparande"
+  },
+  "onb5FreeF3": {
+    "message": "Ångra i 5 steg i redigeraren"
+  },
+  "onb5FreeF4": {
+    "message": "25 utkast sparade på den här enheten"
+  },
+  "ribbonBestValue": {
+    "message": "Bästa värde"
+  },
+  "planLifetime": {
+    "message": "Livstid"
+  },
+  "priceLifetime": {
+    "message": "$$99"
+  },
+  "onb5ProPer": {
+    "message": "en gång"
+  },
+  "onb5ProF1": {
+    "message": "Ångra i 50 steg i redigeraren"
+  },
+  "onb5ProF2": {
+    "message": "200 utkast sparade på den här enheten"
+  },
+  "onb5ProF3": {
+    "message": "Automatisk återställning av utkast"
+  },
+  "onb5ProF4": {
+    "message": "Anpassad pop-out-snabbtangent"
+  },
+  "onb5ProF5": {
+    "message": "En betalning, ingen prenumeration"
+  },
+  "onb5Cta": {
+    "message": "Skaffa min livstid för $$99"
+  },
+  "onb5Guar": {
+    "message": "14 dagars pengarna-tillbaka-garanti. Föredrar du månadsvis? Det är $$4.99 på samma sida. $$99 en gång betalar sig självt på cirka 20 månader."
+  },
+  "onb6Eyebrow": {
+    "message": "Allt är klart"
+  },
+  "onb6H1": {
+    "message": "Fokusera en ruta och börja skriva. Det är allt."
+  },
+  "onb6Lede": {
+    "message": "Inget mer att ställa in. Rutan växer, Alt + Enter öppnar redigeraren, och utkast sparas av sig själva. Här är tangenterna värda att komma ihåg."
+  },
+  "onb6SignH": {
+    "message": "Från utvecklaren"
+  },
+  "onb6SignBody": {
+    "message": "Jag bygger dessa verktyg själv, öppet. Om något går sönder, skriv till mig så svarar jag. Om du tar Pro finansierar dina nittionio dollar nästa ärliga verktyg, och dina anteckningar formar vad det blir."
+  },
+  "onb6LinkGh": {
+    "message": "Skriv till mig på GitHub"
+  },
+  "onb6LinkVision": {
+    "message": "Vart detta är på väg"
+  },
+  "onb6Cheat1": {
+    "message": "Förstora valfri textruta"
+  },
+  "onb6Kbd1": {
+    "message": "skriv bara"
+  },
+  "onb6Cheat2": {
+    "message": "Öppna hela redigeraren"
+  },
+  "onb6Cheat3": {
+    "message": "Ångra i redigeraren"
+  },
+  "onb6Cheat4": {
+    "message": "Återställ ett förlorat utkast"
+  },
+  "onb6Kbd4": {
+    "message": "ett klick"
+  },
+  "onb6Pt": {
+    "message": "På Mac, tryck Cmd istället för Ctrl. Din första växande ruta är ett klick bort. Prova på valfritt kommentarsformulär eller redigerare."
+  },
+  "footBuiltBy": {
+    "message": "Byggd av"
+  },
+  "footerPrivacy": {
+    "message": "Integritetspolicy"
+  }
+}

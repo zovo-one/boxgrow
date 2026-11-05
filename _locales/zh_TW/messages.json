@@ -1,0 +1,440 @@
+{
+  "extName": {
+    "message": "BoxGrow — 文字方塊自動增高與彈出編輯器"
+  },
+  "extDescription": {
+    "message": "輸入時文字方塊自動增高，可彈出全螢幕編輯器，重新整理後還能還原草稿。所有資料都不離開您的裝置。"
+  },
+  "actionTitle": {
+    "message": "BoxGrow"
+  },
+  "cmdPopout": {
+    "message": "為目前聚焦的文字欄位開啟 BoxGrow 編輯器"
+  },
+  "optionsTitle": {
+    "message": "BoxGrow 選項"
+  },
+  "optAutoGrow": {
+    "message": "文字方塊自動增高"
+  },
+  "optAutoGrowHint": {
+    "message": "聚焦的文字方塊會隨輸入內容自動增高，最高為視窗高度的 80%。"
+  },
+  "optHotkey": {
+    "message": "彈出編輯器快速鍵"
+  },
+  "optHotkeyHint": {
+    "message": "為聚焦的欄位開啟全螢幕編輯器。"
+  },
+  "optHotkeyLocked": {
+    "message": "免費版使用 Alt+Enter。Pro 版可自訂快速鍵。"
+  },
+  "optHotkeyRecording": {
+    "message": "請按新的按鍵組合，或按 Esc 取消。"
+  },
+  "optHotkeyInvalid": {
+    "message": "請使用修飾鍵（Ctrl、Alt、Shift 或 Cmd）加另一個鍵。"
+  },
+  "optDrafts": {
+    "message": "儲存草稿"
+  },
+  "optDraftsHint": {
+    "message": "為每個欄位在本機儲存草稿，重新整理或誤點也不會遺失文字。草稿絕不離開此裝置。"
+  },
+  "licenseTitle": {
+    "message": "BoxGrow Pro 記得更多"
+  },
+  "licenseFree": {
+    "message": "免費版：自動增高、彈出式編輯器、5 步還原、25 份草稿。Pro 增加 50 步還原、200 份草稿、自動還原和自訂快速鍵。"
+  },
+  "licensePro": {
+    "message": "Pro 已啟用：50 步復原、200 份草稿、自動還原草稿、自訂快速鍵。"
+  },
+  "licensePlaceholder": {
+    "message": "ZOVO-XXXX-XXXX-XXXX-XXXX"
+  },
+  "licenseKeyLabel": {
+    "message": "授權金鑰"
+  },
+  "licenseActivate": {
+    "message": "啟用"
+  },
+  "licenseDeactivate": {
+    "message": "停用"
+  },
+  "licenseInvalid": {
+    "message": "該金鑰未通過驗證。請檢查是否有輸入錯誤後重試。"
+  },
+  "licenseActivated": {
+    "message": "Pro 已啟用。謝謝！"
+  },
+  "upgradeCta": {
+    "message": "查看兩種方案 →"
+  },
+  "privacyLink": {
+    "message": "隱私權政策"
+  },
+  "optionsFootnote": {
+    "message": "無帳號。無追蹤。一切都留在此裝置上。"
+  },
+  "popSiteActive": {
+    "message": "在此網站已啟用"
+  },
+  "popSitePaused": {
+    "message": "在此網站已暫停"
+  },
+  "popSitePause": {
+    "message": "在此網站暫停"
+  },
+  "popSiteResume": {
+    "message": "在此網站繼續"
+  },
+  "popDraftsKept": {
+    "message": "已儲存 $1 / $2 份草稿",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "25"
+      }
+    }
+  },
+  "popSeePlans": {
+    "message": "查看兩種方案 →"
+  },
+  "ovTitle": {
+    "message": "BoxGrow 編輯器"
+  },
+  "ovSaveClose": {
+    "message": "儲存並關閉"
+  },
+  "ovClose": {
+    "message": "關閉"
+  },
+  "ovUndoCounter": {
+    "message": "復原：$1 / $2 步",
+    "placeholders": {
+      "used": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "ovUndoCapFree": {
+    "message": "免費版保留 5 步還原。Pro 保留 50 步。"
+  },
+  "ovFieldGone": {
+    "message": "原始欄位已消失。您的文字在這裡很安全。"
+  },
+  "chipRestore": {
+    "message": "還原草稿"
+  },
+  "chipDismiss": {
+    "message": "略過"
+  },
+  "chipDraftFull": {
+    "message": "免費版草稿已滿（25 份）。Pro 版可儲存 200 份並自動還原。"
+  },
+  "btnOpenEditor": {
+    "message": "在 BoxGrow 編輯器中開啟"
+  },
+  "popTitle": {
+    "message": "BoxGrow"
+  },
+  "popMaster": {
+    "message": "在所有網站自動增高"
+  },
+  "popSiteUnavailable": {
+    "message": "此頁面無法使用"
+  },
+  "ovCounts": {
+    "message": "$1 個字 · $2 個字元",
+    "placeholders": {
+      "words": {
+        "content": "$1",
+        "example": "12"
+      },
+      "characters": {
+        "content": "$2",
+        "example": "84"
+      }
+    }
+  },
+  "onbTitle": {
+    "message": "與你一起成長的文字框 · BoxGrow"
+  },
+  "onbSkip": {
+    "message": "跳過介紹"
+  },
+  "onbNavBack": {
+    "message": "返回"
+  },
+  "onb1Eyebrow": {
+    "message": "輸入框太小了"
+  },
+  "onb1H1": {
+    "message": "你在只為一行文字設計的框裡寫作。"
+  },
+  "onb1Lede": {
+    "message": "留言表單、支援工單、電子郵件撰寫器。文字越來越長，框卻還是那麼小，一次誤點或重新整理就能抹掉一整段。"
+  },
+  "onb1Pt": {
+    "message": "BoxGrow 扭轉了這一點。框隨輸入自動增長，Alt + Enter 開啟全螢幕編輯器，每個欄位都在這台裝置上儲存草稿。"
+  },
+  "mockLabel1": {
+    "message": "支援表單"
+  },
+  "mockBox1": {
+    "message": "30 行中只顯示 2 行"
+  },
+  "mockLabel2": {
+    "message": "留言框"
+  },
+  "mockBox2": {
+    "message": "捲啊，捲啊，捲啊"
+  },
+  "mockLabel3": {
+    "message": "郵件撰寫器"
+  },
+  "mockBox3": {
+    "message": "我的草稿去哪了"
+  },
+  "onb1TagPain": {
+    "message": "侷促的框。遺失的文字。"
+  },
+  "onb2Eyebrow": {
+    "message": "每次按鍵都在增長"
+  },
+  "onb2H1": {
+    "message": "讓框適應你的文字，而不是相反。"
+  },
+  "onb2Lede": {
+    "message": "聚焦任意文字框，它隨輸入增長，最高到視窗高度的 80%。按下 Alt + Enter，一個安靜的全螢幕編輯器帶著你的文字開啟。儲存後，文字回到頁面中。"
+  },
+  "onb2DemoBtn": {
+    "message": "觀看輸入示範"
+  },
+  "mockLabelFocus": {
+    "message": "你聚焦一個框"
+  },
+  "mockFill1": {
+    "message": "它增長以容納每一行"
+  },
+  "mockLabelHotkey": {
+    "message": "你按下 Alt + Enter"
+  },
+  "mockFill2": {
+    "message": "全螢幕編輯器開啟"
+  },
+  "mockLabelSave": {
+    "message": "你儲存並關閉"
+  },
+  "mockFill3": {
+    "message": "文字回到欄位中"
+  },
+  "mockLabelReload": {
+    "message": "頁面重新整理"
+  },
+  "mockFill4": {
+    "message": "你的草稿還在"
+  },
+  "onb2Cap": {
+    "message": "一個擴充功能，適用所有文字框"
+  },
+  "onb2Tag1": {
+    "message": "文字區域"
+  },
+  "onb2Tag2": {
+    "message": "Contenteditable"
+  },
+  "onb2Tag3": {
+    "message": "支援 iframe"
+  },
+  "onb3Eyebrow": {
+    "message": "就在這裡試試"
+  },
+  "onb3H1": {
+    "message": "離開之前，先儲存你的第一則草稿。"
+  },
+  "onb3Lede": {
+    "message": "在練習框裡隨便寫點什麼，然後按儲存。它會進入欄位草稿使用的同一個本機儲存空間。在真實頁面上，草稿會隨輸入自動儲存。"
+  },
+  "onb3Pt": {
+    "message": "無需帳號，無需註冊。一切都留在這台裝置上，你可以隨時在選項中關閉草稿功能。"
+  },
+  "onb3Label1": {
+    "message": "你的第一行練習"
+  },
+  "onb3Ph1": {
+    "message": "隨便寫點什麼"
+  },
+  "onb3Label2": {
+    "message": "再來一行"
+  },
+  "onb3Ph2": {
+    "message": "貼上一段長文字"
+  },
+  "onbSaveBtn": {
+    "message": "儲存我的第一則草稿"
+  },
+  "onbSavedOk": {
+    "message": "已儲存在這台裝置上。真實頁面上的草稿也是這樣運作的。"
+  },
+  "onb4Eyebrow": {
+    "message": "設計即安全"
+  },
+  "onb4H1": {
+    "message": "你的文字永遠不離開你的裝置。"
+  },
+  "onb4Stat1": {
+    "message": "沙箱隔離，無遠端程式碼"
+  },
+  "onb4Stat2": {
+    "message": "網路請求，從未有過"
+  },
+  "onb4Stat3": {
+    "message": "帳號、註冊、追蹤器，全為零"
+  },
+  "onb4Pt": {
+    "message": "BoxGrow 只是一個更大構想的一部分：為整個瀏覽器打造誠實的工具層，一次一件工具。不追蹤、不轉售資料、不做 SEO 垃圾內容。"
+  },
+  "onb4LinkWhy": {
+    "message": "我為什麼打造這些工具"
+  },
+  "onb4LinkVision": {
+    "message": "願景"
+  },
+  "onb4LinkSafe": {
+    "message": "我們如何保護你"
+  },
+  "onb4Trust1H": {
+    "message": "一切都留在你的裝置上"
+  },
+  "onb4Trust1P": {
+    "message": "草稿和設定存放在瀏覽器本機儲存空間中。沒有帳號，沒有同步伺服器，沒有任何內容被傳送到任何地方。"
+  },
+  "onb4Trust2H": {
+    "message": "一個人，公開地打造"
+  },
+  "onb4Trust2P": {
+    "message": "不是一家沒有面孔的公司。而是一位公開交付、每天使用這些工具、並在這裡直接回覆你的開發者："
+  },
+  "onb5Eyebrow": {
+    "message": "誠實的定價"
+  },
+  "onb5H1": {
+    "message": "免費版始終好用。Pro 記得更多。"
+  },
+  "onb5Lede": {
+    "message": "自動增長和彈出編輯器永久免費。一次支付九十九美元，即可解鎖更深的復原、更長的草稿歷史、自動還原和自訂快捷鍵。"
+  },
+  "planFree": {
+    "message": "免費版"
+  },
+  "priceFree": {
+    "message": "$$0"
+  },
+  "onb5FreePer": {
+    "message": "永久"
+  },
+  "onb5FreeF1": {
+    "message": "在每個網站自動增長"
+  },
+  "onb5FreeF2": {
+    "message": "彈出編輯器，可儲存回頁面"
+  },
+  "onb5FreeF3": {
+    "message": "編輯器內 5 步復原"
+  },
+  "onb5FreeF4": {
+    "message": "本裝置儲存 25 則草稿"
+  },
+  "ribbonBestValue": {
+    "message": "最超值"
+  },
+  "planLifetime": {
+    "message": "終身版"
+  },
+  "priceLifetime": {
+    "message": "$$99"
+  },
+  "onb5ProPer": {
+    "message": "一次性"
+  },
+  "onb5ProF1": {
+    "message": "編輯器內 50 步復原"
+  },
+  "onb5ProF2": {
+    "message": "本裝置儲存 200 則草稿"
+  },
+  "onb5ProF3": {
+    "message": "自動還原草稿"
+  },
+  "onb5ProF4": {
+    "message": "自訂彈出快捷鍵"
+  },
+  "onb5ProF5": {
+    "message": "一次付費，無訂閱"
+  },
+  "onb5Cta": {
+    "message": "以 $$99 取得我的終身版"
+  },
+  "onb5Guar": {
+    "message": "14 天退款保證。偏好按月付？同一頁面為 $$4.99。一次付 $$99 約 20 個月即可回本。"
+  },
+  "onb6Eyebrow": {
+    "message": "一切就緒"
+  },
+  "onb6H1": {
+    "message": "聚焦一個框，開始輸入。這就是全部。"
+  },
+  "onb6Lede": {
+    "message": "沒有需要設定的了。框會增長，Alt + Enter 開啟編輯器，草稿自動儲存。以下是值得記住的按鍵。"
+  },
+  "onb6SignH": {
+    "message": "來自開發者"
+  },
+  "onb6SignBody": {
+    "message": "我獨自一人公開打造這些工具。如果出了問題，寫信給我，我會回覆。如果你升級 Pro，你的九十九美元將資助下一件誠實的工具，而你的意見會塑造它的模樣。"
+  },
+  "onb6LinkGh": {
+    "message": "在 GitHub 上找我"
+  },
+  "onb6LinkVision": {
+    "message": "未來的方向"
+  },
+  "onb6Cheat1": {
+    "message": "讓任意文字框增長"
+  },
+  "onb6Kbd1": {
+    "message": "直接輸入"
+  },
+  "onb6Cheat2": {
+    "message": "開啟完整編輯器"
+  },
+  "onb6Cheat3": {
+    "message": "在編輯器中復原"
+  },
+  "onb6Cheat4": {
+    "message": "還原遺失的草稿"
+  },
+  "onb6Kbd4": {
+    "message": "一次點擊"
+  },
+  "onb6Pt": {
+    "message": "在 Mac 上，用 Cmd 代替 Ctrl。你的第一個會變大的框只差一次點擊。在任何留言表單或撰寫器上試試吧。"
+  },
+  "footBuiltBy": {
+    "message": "開發者"
+  },
+  "footerPrivacy": {
+    "message": "隱私權政策"
+  }
+}

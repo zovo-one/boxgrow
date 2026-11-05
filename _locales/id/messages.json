@@ -1,0 +1,440 @@
+{
+  "extName": {
+    "message": "BoxGrow — Perbesar Otomatis Kotak Teks & Editor Pop-out"
+  },
+  "extDescription": {
+    "message": "Perbesar kotak teks saat mengetik, buka editor layar penuh, dan pulihkan draf. Tidak ada yang meninggalkan perangkat Anda."
+  },
+  "actionTitle": {
+    "message": "BoxGrow"
+  },
+  "cmdPopout": {
+    "message": "Buka editor BoxGrow untuk kolom teks yang difokuskan"
+  },
+  "optionsTitle": {
+    "message": "Opsi BoxGrow"
+  },
+  "optAutoGrow": {
+    "message": "Perbesar kotak teks otomatis"
+  },
+  "optAutoGrowHint": {
+    "message": "Kotak teks yang difokuskan membesar mengikuti ketikan Anda, dibatasi 80% dari tinggi jendela."
+  },
+  "optHotkey": {
+    "message": "Pintasan editor pop-out"
+  },
+  "optHotkeyHint": {
+    "message": "Membuka editor layar penuh untuk kolom yang difokuskan."
+  },
+  "optHotkeyLocked": {
+    "message": "Versi gratis memakai Alt+Enter. Pro membuka kustomisasi pintasan."
+  },
+  "optHotkeyRecording": {
+    "message": "Tekan kombinasi tombol baru, atau Esc untuk batal."
+  },
+  "optHotkeyInvalid": {
+    "message": "Gunakan tombol pengubah (Ctrl, Alt, Shift, atau Cmd) ditambah tombol lain."
+  },
+  "optDrafts": {
+    "message": "Simpan draf"
+  },
+  "optDraftsHint": {
+    "message": "Menyimpan draf lokal untuk setiap kolom agar muat ulang atau salah klik tidak pernah menghilangkan teks. Draf tidak pernah meninggalkan perangkat ini."
+  },
+  "licenseTitle": {
+    "message": "BoxGrow Pro mengingat lebih banyak"
+  },
+  "licenseFree": {
+    "message": "Gratis: perbesaran otomatis, editor pop-out, undo 5 langkah, 25 draf. Pro menambahkan undo 50 langkah, 200 draf, pemulihan otomatis, dan hotkey kustom."
+  },
+  "licensePro": {
+    "message": "Pro aktif: urungkan 50 langkah, 200 draf, pemulihan draf otomatis, pintasan kustom."
+  },
+  "licensePlaceholder": {
+    "message": "ZOVO-XXXX-XXXX-XXXX-XXXX"
+  },
+  "licenseKeyLabel": {
+    "message": "Kunci lisensi"
+  },
+  "licenseActivate": {
+    "message": "Aktifkan"
+  },
+  "licenseDeactivate": {
+    "message": "Nonaktifkan"
+  },
+  "licenseInvalid": {
+    "message": "Kunci itu tidak terverifikasi. Periksa kesalahan ketik dan coba lagi."
+  },
+  "licenseActivated": {
+    "message": "Pro diaktifkan. Terima kasih!"
+  },
+  "upgradeCta": {
+    "message": "Lihat kedua paket →"
+  },
+  "privacyLink": {
+    "message": "Kebijakan privasi"
+  },
+  "optionsFootnote": {
+    "message": "Tanpa akun. Tanpa pelacakan. Semuanya tetap di perangkat ini."
+  },
+  "popSiteActive": {
+    "message": "Aktif di situs ini"
+  },
+  "popSitePaused": {
+    "message": "Dijeda di situs ini"
+  },
+  "popSitePause": {
+    "message": "Jeda di situs ini"
+  },
+  "popSiteResume": {
+    "message": "Lanjutkan di situs ini"
+  },
+  "popDraftsKept": {
+    "message": "$1 dari $2 draf tersimpan",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "25"
+      }
+    }
+  },
+  "popSeePlans": {
+    "message": "Lihat kedua paket →"
+  },
+  "ovTitle": {
+    "message": "Editor BoxGrow"
+  },
+  "ovSaveClose": {
+    "message": "Simpan & tutup"
+  },
+  "ovClose": {
+    "message": "Tutup"
+  },
+  "ovUndoCounter": {
+    "message": "Urungkan: $1 dari $2 langkah",
+    "placeholders": {
+      "used": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "ovUndoCapFree": {
+    "message": "Gratis menyimpan 5 langkah undo. Pro menyimpan 50."
+  },
+  "ovFieldGone": {
+    "message": "Kolom aslinya sudah hilang. Teks Anda aman di sini."
+  },
+  "chipRestore": {
+    "message": "Pulihkan draf"
+  },
+  "chipDismiss": {
+    "message": "Tutup"
+  },
+  "chipDraftFull": {
+    "message": "Riwayat draf penuh di versi gratis (25 draf). Pro menyimpan 200 dan memulihkan otomatis."
+  },
+  "btnOpenEditor": {
+    "message": "Buka di editor BoxGrow"
+  },
+  "popTitle": {
+    "message": "BoxGrow"
+  },
+  "popMaster": {
+    "message": "Perbesar otomatis di mana saja"
+  },
+  "popSiteUnavailable": {
+    "message": "Tidak tersedia di halaman ini"
+  },
+  "ovCounts": {
+    "message": "$1 kata · $2 karakter",
+    "placeholders": {
+      "words": {
+        "content": "$1",
+        "example": "12"
+      },
+      "characters": {
+        "content": "$2",
+        "example": "84"
+      }
+    }
+  },
+  "onbTitle": {
+    "message": "Kotak teks yang tumbuh bersamamu · BoxGrow"
+  },
+  "onbSkip": {
+    "message": "Lewati intro"
+  },
+  "onbNavBack": {
+    "message": "Kembali"
+  },
+  "onb1Eyebrow": {
+    "message": "Kotaknya terlalu kecil"
+  },
+  "onb1H1": {
+    "message": "Kamu menulis di kotak yang dibuat untuk satu baris."
+  },
+  "onb1Lede": {
+    "message": "Formulir komentar, tiket dukungan, penulis email. Kotaknya tetap kecil sementara teksmu memanjang, dan satu klik keliru atau muat ulang bisa menghapus satu paragraf."
+  },
+  "onb1Pt": {
+    "message": "BoxGrow membalikkan itu. Kotak tumbuh saat kamu mengetik, Alt + Enter membuka editor layar penuh, dan setiap kolom menyimpan draf di perangkat ini."
+  },
+  "mockLabel1": {
+    "message": "Formulir dukungan"
+  },
+  "mockBox1": {
+    "message": "2 baris terlihat dari 30"
+  },
+  "mockLabel2": {
+    "message": "Kotak komentar"
+  },
+  "mockBox2": {
+    "message": "gulir, gulir, gulir"
+  },
+  "mockLabel3": {
+    "message": "Penulis email"
+  },
+  "mockBox3": {
+    "message": "ke mana perginya drafku"
+  },
+  "onb1TagPain": {
+    "message": "Kotak sempit. Teks hilang."
+  },
+  "onb2Eyebrow": {
+    "message": "Tumbuh di setiap ketukan"
+  },
+  "onb2H1": {
+    "message": "Kotak menyesuaikan teksmu, bukan sebaliknya."
+  },
+  "onb2Lede": {
+    "message": "Fokuskan kotak teks apa pun dan ia tumbuh saat kamu mengetik, hingga 80% tinggi jendela. Tekan Alt + Enter dan editor layar penuh yang tenang terbuka dengan teksmu. Simpan, dan teks kembali ke halaman."
+  },
+  "onb2DemoBtn": {
+    "message": "Lihat mengetik"
+  },
+  "mockLabelFocus": {
+    "message": "Kamu memfokuskan kotak"
+  },
+  "mockFill1": {
+    "message": "Ia tumbuh memuat setiap baris"
+  },
+  "mockLabelHotkey": {
+    "message": "Kamu menekan Alt + Enter"
+  },
+  "mockFill2": {
+    "message": "Editor layar penuh terbuka"
+  },
+  "mockLabelSave": {
+    "message": "Kamu menyimpan dan menutup"
+  },
+  "mockFill3": {
+    "message": "Teks kembali ke kolom"
+  },
+  "mockLabelReload": {
+    "message": "Halaman dimuat ulang"
+  },
+  "mockFill4": {
+    "message": "Drafmu masih di sini"
+  },
+  "onb2Cap": {
+    "message": "Satu ekstensi untuk setiap kotak teks"
+  },
+  "onb2Tag1": {
+    "message": "Textarea"
+  },
+  "onb2Tag2": {
+    "message": "Contenteditable"
+  },
+  "onb2Tag3": {
+    "message": "Berfungsi di iframe"
+  },
+  "onb3Eyebrow": {
+    "message": "Coba di sini langsung"
+  },
+  "onb3H1": {
+    "message": "Simpan draf pertamamu sebelum pergi."
+  },
+  "onb3Lede": {
+    "message": "Ketik apa saja di kotak latihan lalu tekan simpan. Ia masuk ke penyimpanan lokal yang sama dengan draf kolommu. Di halaman nyata, draf tersimpan sendiri saat kamu mengetik."
+  },
+  "onb3Pt": {
+    "message": "Tanpa akun dan tanpa pendaftaran. Semuanya tetap di perangkat ini, dan kamu bisa mematikan draf kapan saja di Opsi."
+  },
+  "onb3Label1": {
+    "message": "Baris latihan pertamamu"
+  },
+  "onb3Ph1": {
+    "message": "Ketik apa saja"
+  },
+  "onb3Label2": {
+    "message": "Satu lagi untuk jalan"
+  },
+  "onb3Ph2": {
+    "message": "Tempel sesuatu yang panjang"
+  },
+  "onbSaveBtn": {
+    "message": "Simpan draf pertamaku"
+  },
+  "onbSavedOk": {
+    "message": "Tersimpan di perangkat ini. Draf di halaman nyata bekerja dengan cara yang sama."
+  },
+  "onb4Eyebrow": {
+    "message": "Aman sejak desain"
+  },
+  "onb4H1": {
+    "message": "Kata-katamu tidak pernah meninggalkan perangkatmu."
+  },
+  "onb4Stat1": {
+    "message": "terisolasi, tanpa kode jarak jauh"
+  },
+  "onb4Stat2": {
+    "message": "panggilan jaringan, tidak pernah"
+  },
+  "onb4Stat3": {
+    "message": "akun, pendaftaran, pelacak"
+  },
+  "onb4Pt": {
+    "message": "BoxGrow adalah satu bagian dari ide yang lebih besar: lapisan jujur untuk seluruh browser, satu alat dalam satu waktu. Tanpa pelacakan, tanpa penjualan ulang data, tanpa spam SEO."
+  },
+  "onb4LinkWhy": {
+    "message": "Mengapa saya membangun alat-alat ini"
+  },
+  "onb4LinkVision": {
+    "message": "Visi"
+  },
+  "onb4LinkSafe": {
+    "message": "Bagaimana kami menjagamu"
+  },
+  "onb4Trust1H": {
+    "message": "Semuanya tetap di perangkatmu"
+  },
+  "onb4Trust1P": {
+    "message": "Draf dan pengaturan hidup di penyimpanan lokal browser. Tanpa akun, tanpa server sinkronisasi, tidak ada yang dikirim ke mana pun."
+  },
+  "onb4Trust2H": {
+    "message": "Satu orang, membangun secara terbuka"
+  },
+  "onb4Trust2P": {
+    "message": "Bukan perusahaan tanpa wajah. Seorang pengembang yang merilis secara publik, memakai alat ini setiap hari, dan menjawabmu langsung di"
+  },
+  "onb5Eyebrow": {
+    "message": "Harga jujur"
+  },
+  "onb5H1": {
+    "message": "Gratis tetap berguna. Pro mengingat lebih banyak."
+  },
+  "onb5Lede": {
+    "message": "Tumbuh-otomatis dan editor pop-out gratis selamanya. Satu pembayaran sembilan puluh sembilan dolar membuka urungkan lebih dalam, riwayat draf lebih panjang, pemulihan otomatis, dan tombol pintas khusus."
+  },
+  "planFree": {
+    "message": "Gratis"
+  },
+  "priceFree": {
+    "message": "$$0"
+  },
+  "onb5FreePer": {
+    "message": "selamanya"
+  },
+  "onb5FreeF1": {
+    "message": "Tumbuh-otomatis di setiap situs"
+  },
+  "onb5FreeF2": {
+    "message": "Editor pop-out dengan simpan-balik"
+  },
+  "onb5FreeF3": {
+    "message": "Urungkan 5 langkah di editor"
+  },
+  "onb5FreeF4": {
+    "message": "25 draf tersimpan di perangkat ini"
+  },
+  "ribbonBestValue": {
+    "message": "Paling hemat"
+  },
+  "planLifetime": {
+    "message": "Seumur hidup"
+  },
+  "priceLifetime": {
+    "message": "$$99"
+  },
+  "onb5ProPer": {
+    "message": "satu kali"
+  },
+  "onb5ProF1": {
+    "message": "Urungkan 50 langkah di editor"
+  },
+  "onb5ProF2": {
+    "message": "200 draf tersimpan di perangkat ini"
+  },
+  "onb5ProF3": {
+    "message": "Pemulihan draf otomatis"
+  },
+  "onb5ProF4": {
+    "message": "Tombol pintas pop-out khusus"
+  },
+  "onb5ProF5": {
+    "message": "Satu pembayaran, tanpa langganan"
+  },
+  "onb5Cta": {
+    "message": "Dapatkan seumur hidup saya seharga $$99"
+  },
+  "onb5Guar": {
+    "message": "Garansi uang kembali 14 hari. Lebih suka bulanan? Harganya $$4.99 di halaman yang sama. $$99 sekali bayar balik modal dalam sekitar 20 bulan."
+  },
+  "onb6Eyebrow": {
+    "message": "Kamu sudah siap"
+  },
+  "onb6H1": {
+    "message": "Fokuskan kotak dan mulai mengetik. Hanya itu."
+  },
+  "onb6Lede": {
+    "message": "Tidak ada lagi yang perlu diatur. Kotak tumbuh, Alt + Enter membuka editor, dan draf menyimpan dirinya sendiri. Inilah tombol yang layak diingat."
+  },
+  "onb6SignH": {
+    "message": "Dari pengembang"
+  },
+  "onb6SignBody": {
+    "message": "Saya membangun alat-alat ini sendiri, secara terbuka. Jika ada yang rusak, tulis kepada saya dan saya menjawab. Jika Anda beralih ke Pro, sembilan puluh sembilan dolar Anda mendanai alat jujur berikutnya, dan catatan Anda membentuk jadinya."
+  },
+  "onb6LinkGh": {
+    "message": "Hubungi saya di GitHub"
+  },
+  "onb6LinkVision": {
+    "message": "Ke mana arahnya"
+  },
+  "onb6Cheat1": {
+    "message": "Besarkan kotak teks apa pun"
+  },
+  "onb6Kbd1": {
+    "message": "cukup ketik"
+  },
+  "onb6Cheat2": {
+    "message": "Buka editor penuh"
+  },
+  "onb6Cheat3": {
+    "message": "Urungkan di editor"
+  },
+  "onb6Cheat4": {
+    "message": "Pulihkan draf yang hilang"
+  },
+  "onb6Kbd4": {
+    "message": "satu klik"
+  },
+  "onb6Pt": {
+    "message": "Di Mac, tekan Cmd alih-alih Ctrl. Kotak besarmu yang pertama tinggal satu klik lagi. Coba di formulir komentar atau penulis email mana pun."
+  },
+  "footBuiltBy": {
+    "message": "Dibangun oleh"
+  },
+  "footerPrivacy": {
+    "message": "Kebijakan privasi"
+  }
+}

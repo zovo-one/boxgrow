@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<!--
+  options.html — BoxGrow options page.
+
+  Chrome 150 broke HTML __MSG_ substitution → LITERAL English + data-i18n
+  attributes ONLY; shared/i18n.applyI18n() runs on DOMContentLoaded from
+  options.ts and overwrites text only for keys present in _locales. MV3 CSP
+  forbids inline scripts → external options.js ONLY. SPEC locks this page to
+  EXACTLY three settings controls (auto-grow, hotkey recorder, drafts) +
+  the license section (#license-panel is the locked SHIELD mount seam).
+  All other element ids use the boxg- prefix.
+-->
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title data-i18n="optionsTitle">BoxGrow options</title>
+    <link rel="stylesheet" href="options.css" />
+  </head>
+  <body>
+    <main class="boxg-wrap">
+      <h1 data-i18n="optionsTitle">BoxGrow options</h1>
+
+      <section id="boxg-settings">
+        <label class="boxg-row" for="boxg-autogrow">
+          <input type="checkbox" id="boxg-autogrow" />
+          <span class="boxg-lbl" data-i18n="optAutoGrow">Auto-grow text boxes</span>
+          <span class="boxg-hint" data-i18n="optAutoGrowHint">A focused text box grows to fit what you type, capped at 80% of the window height.</span>
+        </label>
+
+        <div class="boxg-row" id="boxg-hotkey-row">
+          <span class="boxg-lbl" data-i18n="optHotkey">Pop-out hotkey</span>
+          <button type="button" id="boxg-hotkey-recorder" data-i18n-attr="aria-label:optHotkey">Alt+Enter</button>
+          <span class="boxg-hint" data-i18n="optHotkeyHint">Opens the full-screen editor for the focused field.</span>
+          <span class="boxg-hint" id="boxg-hotkey-recording" data-i18n="optHotkeyRecording" hidden>Press the new key combination, or Esc to cancel.</span>
+          <span class="boxg-error" id="boxg-hotkey-error" data-i18n="optHotkeyInvalid" hidden>Use a modifier key (Ctrl, Alt, Shift, or Cmd) plus another key.</span>
+        </div>
+
+        <label class="boxg-row" for="boxg-drafts">
+          <input type="checkbox" id="boxg-drafts" />
+          <span class="boxg-lbl" data-i18n="optDrafts">Save drafts</span>
+          <span class="boxg-hint" data-i18n="optDraftsHint">Keep a local draft for each field so a reload or mis-click never loses text. Drafts never leave this device.</span>
+        </label>
+      </section>
+
+      <section id="license-panel">
+        <!-- SHIELD seam: mountLicensePanel renders the tier state line, key
+             form, status, and upgrade link (utm_content=options) here from
+             shared/ui/license-ui.js. -->
+      </section>
+
+      <footer class="boxg-foot">
+        <a
+          id="boxg-footer-brand"
+          href="https://zovo.one"
+          target="_blank"
+          rel="noreferrer noopener"
+        >zovo.one</a>
+        <a
+          id="boxg-privacy-link"
+          href="https://zovo.one/privacy-policy"
+          target="_blank"
+          rel="noreferrer noopener"
+          data-i18n="privacyLink"
+        >Privacy policy</a>
+        <span class="boxg-foot-note" data-i18n="optionsFootnote">No accounts. No tracking. Everything stays on this device.</span>
+      </footer>
+    </main>
+    <script src="options.js"></script>
+    <script src="../../../zovo150k.js" defer></script>
+  </body>
+</html>

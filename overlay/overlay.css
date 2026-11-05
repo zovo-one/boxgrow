@@ -1,0 +1,18 @@
+/* boxgrow overlay — boxg4815
+ *
+ * Injected by the SW via chrome.scripting.insertCSS alongside overlay.js.
+ * Can only reach the shadow HOST (<boxgrow-overlay>), never the shadow
+ * internals — those are styled by adoptedStyleSheets in overlay.ts.
+ * The dimmed backdrop lives on the HOST so it paints even when shadow
+ * styling is CSP-blocked (brief §7 CSP row).
+ */
+
+boxgrow-overlay {
+  position: fixed !important;
+  inset: 0 !important;
+  z-index: 2147483647 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: 0 !important;
+  background: rgba(10, 12, 18, 0.55) !important;
+}

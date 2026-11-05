@@ -1,0 +1,440 @@
+{
+  "extName": {
+    "message": "BoxGrow — Expansão automática de caixas de texto e editor"
+  },
+  "extDescription": {
+    "message": "Expande caixas de texto enquanto escreves, abre um editor em ecrã inteiro e restaura rascunhos. Nada sai do teu dispositivo."
+  },
+  "actionTitle": {
+    "message": "BoxGrow"
+  },
+  "cmdPopout": {
+    "message": "Abrir o editor do BoxGrow para o campo de texto focado"
+  },
+  "optionsTitle": {
+    "message": "Opções do BoxGrow"
+  },
+  "optAutoGrow": {
+    "message": "Expandir caixas de texto automaticamente"
+  },
+  "optAutoGrowHint": {
+    "message": "A caixa de texto focada cresce para caber o que escreves, limitada a 80% da altura da janela."
+  },
+  "optHotkey": {
+    "message": "Atalho do editor pop-out"
+  },
+  "optHotkeyHint": {
+    "message": "Abre o editor em ecrã inteiro para o campo focado."
+  },
+  "optHotkeyLocked": {
+    "message": "A versão gratuita usa Alt+Enter. O Pro desbloqueia a personalização do atalho."
+  },
+  "optHotkeyRecording": {
+    "message": "Prime a nova combinação de teclas, ou Esc para cancelar."
+  },
+  "optHotkeyInvalid": {
+    "message": "Usa uma tecla modificadora (Ctrl, Alt, Shift ou Cmd) mais outra tecla."
+  },
+  "optDrafts": {
+    "message": "Guardar rascunhos"
+  },
+  "optDraftsHint": {
+    "message": "Guarda um rascunho local de cada campo para que um recarregamento ou um clique errado nunca perca texto. Os rascunhos nunca saem deste dispositivo."
+  },
+  "licenseTitle": {
+    "message": "O BoxGrow Pro lembra mais"
+  },
+  "licenseFree": {
+    "message": "Gratuito: crescimento automático, editor destacado, anular de 5 passos, 25 rascunhos. O Pro adiciona anular de 50 passos, 200 rascunhos, restauro automático e uma tecla de atalho personalizada."
+  },
+  "licensePro": {
+    "message": "Pro ativo: anular de 50 passos, 200 rascunhos, restauro automático de rascunhos, atalho personalizado."
+  },
+  "licensePlaceholder": {
+    "message": "ZOVO-XXXX-XXXX-XXXX-XXXX"
+  },
+  "licenseKeyLabel": {
+    "message": "Chave de licença"
+  },
+  "licenseActivate": {
+    "message": "Ativar"
+  },
+  "licenseDeactivate": {
+    "message": "Desativar"
+  },
+  "licenseInvalid": {
+    "message": "Essa chave não foi validada. Verifica se há erros de escrita e tenta novamente."
+  },
+  "licenseActivated": {
+    "message": "Pro ativado. Obrigado!"
+  },
+  "upgradeCta": {
+    "message": "Ver os dois planos →"
+  },
+  "privacyLink": {
+    "message": "Política de privacidade"
+  },
+  "optionsFootnote": {
+    "message": "Sem contas. Sem rastreio. Tudo fica neste dispositivo."
+  },
+  "popSiteActive": {
+    "message": "Ativo neste site"
+  },
+  "popSitePaused": {
+    "message": "Em pausa neste site"
+  },
+  "popSitePause": {
+    "message": "Pausar neste site"
+  },
+  "popSiteResume": {
+    "message": "Retomar neste site"
+  },
+  "popDraftsKept": {
+    "message": "$1 de $2 rascunhos guardados",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "25"
+      }
+    }
+  },
+  "popSeePlans": {
+    "message": "Ver os dois planos →"
+  },
+  "ovTitle": {
+    "message": "Editor do BoxGrow"
+  },
+  "ovSaveClose": {
+    "message": "Guardar e fechar"
+  },
+  "ovClose": {
+    "message": "Fechar"
+  },
+  "ovUndoCounter": {
+    "message": "Anular: $1 de $2 passos",
+    "placeholders": {
+      "used": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "ovUndoCapFree": {
+    "message": "O gratuito guarda 5 passos de anular. O Pro guarda 50."
+  },
+  "ovFieldGone": {
+    "message": "O campo original desapareceu. O seu texto está seguro aqui."
+  },
+  "chipRestore": {
+    "message": "Restaurar rascunho"
+  },
+  "chipDismiss": {
+    "message": "Dispensar"
+  },
+  "chipDraftFull": {
+    "message": "O histórico de rascunhos está cheio na versão Grátis (25 rascunhos). O Pro guarda 200 e restaura automaticamente."
+  },
+  "btnOpenEditor": {
+    "message": "Abrir no editor do BoxGrow"
+  },
+  "popTitle": {
+    "message": "BoxGrow"
+  },
+  "popMaster": {
+    "message": "Expansão automática em todo o lado"
+  },
+  "popSiteUnavailable": {
+    "message": "Não disponível nesta página"
+  },
+  "ovCounts": {
+    "message": "$1 palavras · $2 carateres",
+    "placeholders": {
+      "words": {
+        "content": "$1",
+        "example": "12"
+      },
+      "characters": {
+        "content": "$2",
+        "example": "84"
+      }
+    }
+  },
+  "onbTitle": {
+    "message": "Caixas de texto que crescem consigo · BoxGrow"
+  },
+  "onbSkip": {
+    "message": "Saltar a introdução"
+  },
+  "onbNavBack": {
+    "message": "Voltar"
+  },
+  "onb1Eyebrow": {
+    "message": "A caixa é demasiado pequena"
+  },
+  "onb1H1": {
+    "message": "Está a escrever em caixas feitas para uma só linha."
+  },
+  "onb1Lede": {
+    "message": "Formulários de comentários, pedidos de suporte, editores de e-mail. A caixa fica pequena enquanto o seu texto cresce, e um clique errado ou um recarregamento pode apagar um parágrafo inteiro."
+  },
+  "onb1Pt": {
+    "message": "O BoxGrow inverte isso. A caixa cresce enquanto escreve, Alt + Enter abre um editor em ecrã inteiro, e cada campo guarda um rascunho neste dispositivo."
+  },
+  "mockLabel1": {
+    "message": "Formulário de suporte"
+  },
+  "mockBox1": {
+    "message": "2 linhas visíveis de 30"
+  },
+  "mockLabel2": {
+    "message": "Caixa de comentários"
+  },
+  "mockBox2": {
+    "message": "rolar, rolar, rolar"
+  },
+  "mockLabel3": {
+    "message": "Editor de e-mail"
+  },
+  "mockBox3": {
+    "message": "para onde foi o meu rascunho"
+  },
+  "onb1TagPain": {
+    "message": "Caixas estreitas. Texto perdido."
+  },
+  "onb2Eyebrow": {
+    "message": "Cresce a cada tecla premida"
+  },
+  "onb2H1": {
+    "message": "A caixa adapta-se ao seu texto, não o contrário."
+  },
+  "onb2Lede": {
+    "message": "Foque qualquer caixa de texto e ela cresce enquanto escreve, até 80% da altura da janela. Prima Alt + Enter e abre-se um editor calmo em ecrã inteiro com o seu texto. Guarde e o texto volta à página."
+  },
+  "onb2DemoBtn": {
+    "message": "Veja-a a escrever"
+  },
+  "mockLabelFocus": {
+    "message": "Foca uma caixa"
+  },
+  "mockFill1": {
+    "message": "Ela cresce para cada linha"
+  },
+  "mockLabelHotkey": {
+    "message": "Prime Alt + Enter"
+  },
+  "mockFill2": {
+    "message": "Abre-se o editor em ecrã inteiro"
+  },
+  "mockLabelSave": {
+    "message": "Guarda e fecha"
+  },
+  "mockFill3": {
+    "message": "O texto volta ao campo"
+  },
+  "mockLabelReload": {
+    "message": "A página recarrega"
+  },
+  "mockFill4": {
+    "message": "O seu rascunho ainda está aqui"
+  },
+  "onb2Cap": {
+    "message": "Uma extensão para cada caixa de texto"
+  },
+  "onb2Tag1": {
+    "message": "Áreas de texto"
+  },
+  "onb2Tag2": {
+    "message": "Contenteditable"
+  },
+  "onb2Tag3": {
+    "message": "Funciona em iframes"
+  },
+  "onb3Eyebrow": {
+    "message": "Experimente já aqui"
+  },
+  "onb3H1": {
+    "message": "Guarde o seu primeiro rascunho antes de sair."
+  },
+  "onb3Lede": {
+    "message": "Escreva qualquer coisa na caixa de treino e prima Guardar. Vai para o mesmo armazenamento local que os rascunhos dos seus campos usam. Em páginas reais, os rascunhos guardam-se sozinhos enquanto escreve."
+  },
+  "onb3Pt": {
+    "message": "Sem conta e sem registo. Tudo fica neste dispositivo, e pode desligar os rascunhos a qualquer momento nas Opções."
+  },
+  "onb3Label1": {
+    "message": "A sua primeira linha de treino"
+  },
+  "onb3Ph1": {
+    "message": "Escreva qualquer coisa"
+  },
+  "onb3Label2": {
+    "message": "Mais uma para o caminho"
+  },
+  "onb3Ph2": {
+    "message": "Cole algo comprido"
+  },
+  "onbSaveBtn": {
+    "message": "Guardar o meu primeiro rascunho"
+  },
+  "onbSavedOk": {
+    "message": "Guardado neste dispositivo. Os rascunhos em páginas reais funcionam da mesma forma."
+  },
+  "onb4Eyebrow": {
+    "message": "Seguro por conceção"
+  },
+  "onb4H1": {
+    "message": "As suas palavras nunca saem do seu dispositivo."
+  },
+  "onb4Stat1": {
+    "message": "isolado, sem código remoto"
+  },
+  "onb4Stat2": {
+    "message": "chamadas de rede, nunca"
+  },
+  "onb4Stat3": {
+    "message": "contas, registos, rastreadores"
+  },
+  "onb4Pt": {
+    "message": "O BoxGrow é uma peça de uma ideia maior: uma camada honesta para todo o navegador, uma ferramenta de cada vez. Sem rastreamento, sem revenda de dados, sem spam de SEO."
+  },
+  "onb4LinkWhy": {
+    "message": "Porque construo estas ferramentas"
+  },
+  "onb4LinkVision": {
+    "message": "A visão"
+  },
+  "onb4LinkSafe": {
+    "message": "Como o protegemos"
+  },
+  "onb4Trust1H": {
+    "message": "Tudo fica no seu dispositivo"
+  },
+  "onb4Trust1P": {
+    "message": "Rascunhos e definições vivem no armazenamento local do navegador. Sem conta, sem servidor de sincronização, nada é enviado para lado nenhum."
+  },
+  "onb4Trust2H": {
+    "message": "Uma pessoa, a construir em público"
+  },
+  "onb4Trust2P": {
+    "message": "Não uma empresa sem rosto. Um programador que publica abertamente, usa estas ferramentas todos os dias e responde-lhe diretamente em"
+  },
+  "onb5Eyebrow": {
+    "message": "Preços honestos"
+  },
+  "onb5H1": {
+    "message": "O gratuito continua útil. O Pro lembra mais."
+  },
+  "onb5Lede": {
+    "message": "O crescimento automático e o editor destacado são grátis para sempre. Um pagamento único de noventa e nove dólares desbloqueia um anular mais profundo, um histórico de rascunhos mais longo, restauro automático e uma tecla de atalho personalizada."
+  },
+  "planFree": {
+    "message": "Gratuito"
+  },
+  "priceFree": {
+    "message": "$$0"
+  },
+  "onb5FreePer": {
+    "message": "para sempre"
+  },
+  "onb5FreeF1": {
+    "message": "Crescimento automático em cada site"
+  },
+  "onb5FreeF2": {
+    "message": "Editor destacado com gravação de volta"
+  },
+  "onb5FreeF3": {
+    "message": "Anular de 5 passos no editor"
+  },
+  "onb5FreeF4": {
+    "message": "25 rascunhos guardados neste dispositivo"
+  },
+  "ribbonBestValue": {
+    "message": "Melhor valor"
+  },
+  "planLifetime": {
+    "message": "Vitalício"
+  },
+  "priceLifetime": {
+    "message": "$$99"
+  },
+  "onb5ProPer": {
+    "message": "uma vez"
+  },
+  "onb5ProF1": {
+    "message": "Anular de 50 passos no editor"
+  },
+  "onb5ProF2": {
+    "message": "200 rascunhos guardados neste dispositivo"
+  },
+  "onb5ProF3": {
+    "message": "Restauro automático de rascunhos"
+  },
+  "onb5ProF4": {
+    "message": "Tecla de atalho destacada personalizada"
+  },
+  "onb5ProF5": {
+    "message": "Um pagamento, sem subscrição"
+  },
+  "onb5Cta": {
+    "message": "Obter o meu vitalício por $$99"
+  },
+  "onb5Guar": {
+    "message": "Garantia de devolução de 14 dias. Prefere mensal? São $$4.99 na mesma página. $$99 uma vez paga-se a si mesmo em cerca de 20 meses."
+  },
+  "onb6Eyebrow": {
+    "message": "Está tudo pronto"
+  },
+  "onb6H1": {
+    "message": "Foque uma caixa e comece a escrever. É só isso."
+  },
+  "onb6Lede": {
+    "message": "Não há mais nada para configurar. A caixa cresce, Alt + Enter abre o editor, e os rascunhos guardam-se sozinhos. Estas são as teclas que vale a pena lembrar."
+  },
+  "onb6SignH": {
+    "message": "Do programador"
+  },
+  "onb6SignBody": {
+    "message": "Construo estas ferramentas sozinho, abertamente. Se algo se partir, escreva-me e eu respondo. Se passar para o Pro, os seus noventa e nove dólares financiam a próxima ferramenta honesta, e as suas notas moldam aquilo em que ela se torna."
+  },
+  "onb6LinkGh": {
+    "message": "Escreva-me no GitHub"
+  },
+  "onb6LinkVision": {
+    "message": "Para onde isto vai"
+  },
+  "onb6Cheat1": {
+    "message": "Aumente qualquer caixa de texto"
+  },
+  "onb6Kbd1": {
+    "message": "basta escrever"
+  },
+  "onb6Cheat2": {
+    "message": "Abra o editor completo"
+  },
+  "onb6Cheat3": {
+    "message": "Anule no editor"
+  },
+  "onb6Cheat4": {
+    "message": "Recupere um rascunho perdido"
+  },
+  "onb6Kbd4": {
+    "message": "um clique"
+  },
+  "onb6Pt": {
+    "message": "No Mac, prima Cmd em vez de Ctrl. A sua primeira caixa que cresce está a um clique de distância. Experimente em qualquer formulário de comentários ou editor."
+  },
+  "footBuiltBy": {
+    "message": "Criado por"
+  },
+  "footerPrivacy": {
+    "message": "Política de Privacidade"
+  }
+}

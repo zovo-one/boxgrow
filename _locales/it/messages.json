@@ -1,0 +1,440 @@
+{
+  "extName": {
+    "message": "BoxGrow — Espansione automatica delle caselle di testo ed editor"
+  },
+  "extDescription": {
+    "message": "Le caselle di testo crescono mentre scrivi, si aprono in editor a schermo intero e ripristinano bozze. Nulla esce dal dispositivo."
+  },
+  "actionTitle": {
+    "message": "BoxGrow"
+  },
+  "cmdPopout": {
+    "message": "Apri l'editor BoxGrow per il campo di testo attivo"
+  },
+  "optionsTitle": {
+    "message": "Opzioni di BoxGrow"
+  },
+  "optAutoGrow": {
+    "message": "Espandi automaticamente le caselle di testo"
+  },
+  "optAutoGrowHint": {
+    "message": "La casella di testo attiva cresce per adattarsi a ciò che scrivi, con un limite dell'80% dell'altezza della finestra."
+  },
+  "optHotkey": {
+    "message": "Scorciatoia dell'editor pop-out"
+  },
+  "optHotkeyHint": {
+    "message": "Apre l'editor a schermo intero per il campo attivo."
+  },
+  "optHotkeyLocked": {
+    "message": "La versione gratuita usa Alt+Enter. Pro sblocca la personalizzazione della scorciatoia."
+  },
+  "optHotkeyRecording": {
+    "message": "Premi la nuova combinazione di tasti, o Esc per annullare."
+  },
+  "optHotkeyInvalid": {
+    "message": "Usa un tasto modificatore (Ctrl, Alt, Maiusc o Cmd) più un altro tasto."
+  },
+  "optDrafts": {
+    "message": "Salva bozze"
+  },
+  "optDraftsHint": {
+    "message": "Mantiene una bozza locale per ogni campo così che un ricaricamento o un clic errato non perdano mai testo. Le bozze non lasciano mai questo dispositivo."
+  },
+  "licenseTitle": {
+    "message": "BoxGrow Pro ricorda di più"
+  },
+  "licenseFree": {
+    "message": "Gratis: crescita automatica, editor a comparsa, annullamento a 5 passi, 25 bozze. Pro aggiunge annullamento a 50 passi, 200 bozze, ripristino automatico e una scorciatoia personalizzata."
+  },
+  "licensePro": {
+    "message": "Pro attivo: annullamento di 50 passi, 200 bozze, ripristino automatico delle bozze, scorciatoia personalizzata."
+  },
+  "licensePlaceholder": {
+    "message": "ZOVO-XXXX-XXXX-XXXX-XXXX"
+  },
+  "licenseKeyLabel": {
+    "message": "Chiave di licenza"
+  },
+  "licenseActivate": {
+    "message": "Attiva"
+  },
+  "licenseDeactivate": {
+    "message": "Disattiva"
+  },
+  "licenseInvalid": {
+    "message": "Quella chiave non è stata verificata. Controlla i refusi e riprova."
+  },
+  "licenseActivated": {
+    "message": "Pro attivato. Grazie!"
+  },
+  "upgradeCta": {
+    "message": "Vedi entrambi i piani →"
+  },
+  "privacyLink": {
+    "message": "Informativa sulla privacy"
+  },
+  "optionsFootnote": {
+    "message": "Nessun account. Nessun tracciamento. Tutto resta su questo dispositivo."
+  },
+  "popSiteActive": {
+    "message": "Attivo su questo sito"
+  },
+  "popSitePaused": {
+    "message": "In pausa su questo sito"
+  },
+  "popSitePause": {
+    "message": "Metti in pausa su questo sito"
+  },
+  "popSiteResume": {
+    "message": "Riprendi su questo sito"
+  },
+  "popDraftsKept": {
+    "message": "$1 di $2 bozze conservate",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "25"
+      }
+    }
+  },
+  "popSeePlans": {
+    "message": "Vedi entrambi i piani →"
+  },
+  "ovTitle": {
+    "message": "Editor BoxGrow"
+  },
+  "ovSaveClose": {
+    "message": "Salva e chiudi"
+  },
+  "ovClose": {
+    "message": "Chiudi"
+  },
+  "ovUndoCounter": {
+    "message": "Annulla: $1 di $2 passi",
+    "placeholders": {
+      "used": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "ovUndoCapFree": {
+    "message": "Gratis conserva 5 passi di annullamento. Pro ne conserva 50."
+  },
+  "ovFieldGone": {
+    "message": "Il campo originale non c'è più. Il tuo testo è al sicuro qui."
+  },
+  "chipRestore": {
+    "message": "Ripristina bozza"
+  },
+  "chipDismiss": {
+    "message": "Ignora"
+  },
+  "chipDraftFull": {
+    "message": "La cronologia delle bozze è piena nella versione gratuita (25 bozze). Pro ne conserva 200 e le ripristina automaticamente."
+  },
+  "btnOpenEditor": {
+    "message": "Apri nell'editor BoxGrow"
+  },
+  "popTitle": {
+    "message": "BoxGrow"
+  },
+  "popMaster": {
+    "message": "Espansione automatica ovunque"
+  },
+  "popSiteUnavailable": {
+    "message": "Non disponibile su questa pagina"
+  },
+  "ovCounts": {
+    "message": "$1 parole · $2 caratteri",
+    "placeholders": {
+      "words": {
+        "content": "$1",
+        "example": "12"
+      },
+      "characters": {
+        "content": "$2",
+        "example": "84"
+      }
+    }
+  },
+  "onbTitle": {
+    "message": "Caselle di testo che crescono con te · BoxGrow"
+  },
+  "onbSkip": {
+    "message": "Salta l'introduzione"
+  },
+  "onbNavBack": {
+    "message": "Indietro"
+  },
+  "onb1Eyebrow": {
+    "message": "La casella è troppo piccola"
+  },
+  "onb1H1": {
+    "message": "Stai scrivendo in caselle fatte per una riga sola."
+  },
+  "onb1Lede": {
+    "message": "Moduli di commento, ticket di supporto, editor di email. La casella resta piccola mentre il tuo testo cresce, e un clic sbagliato o un ricaricamento può cancellare un intero paragrafo."
+  },
+  "onb1Pt": {
+    "message": "BoxGrow ribalta la situazione. La casella cresce mentre scrivi, Alt + Enter apre un editor a schermo intero, e ogni campo conserva una bozza su questo dispositivo."
+  },
+  "mockLabel1": {
+    "message": "Modulo di supporto"
+  },
+  "mockBox1": {
+    "message": "2 righe visibili su 30"
+  },
+  "mockLabel2": {
+    "message": "Casella dei commenti"
+  },
+  "mockBox2": {
+    "message": "scorri, scorri, scorri"
+  },
+  "mockLabel3": {
+    "message": "Editor di email"
+  },
+  "mockBox3": {
+    "message": "dove è finita la mia bozza"
+  },
+  "onb1TagPain": {
+    "message": "Caselle strette. Testo perso."
+  },
+  "onb2Eyebrow": {
+    "message": "Cresce a ogni tasto premuto"
+  },
+  "onb2H1": {
+    "message": "La casella si adatta al tuo testo, non il contrario."
+  },
+  "onb2Lede": {
+    "message": "Metti a fuoco qualsiasi casella di testo e cresce mentre scrivi, fino all'80% dell'altezza della finestra. Premi Alt + Enter e si apre un editor tranquillo a schermo intero con il tuo testo. Salva e il testo torna alla pagina."
+  },
+  "onb2DemoBtn": {
+    "message": "Guarda come scrive"
+  },
+  "mockLabelFocus": {
+    "message": "Metti a fuoco una casella"
+  },
+  "mockFill1": {
+    "message": "Cresce per ogni riga"
+  },
+  "mockLabelHotkey": {
+    "message": "Premi Alt + Enter"
+  },
+  "mockFill2": {
+    "message": "Si apre l'editor a schermo intero"
+  },
+  "mockLabelSave": {
+    "message": "Salvi e chiudi"
+  },
+  "mockFill3": {
+    "message": "Il testo torna nel campo"
+  },
+  "mockLabelReload": {
+    "message": "La pagina si ricarica"
+  },
+  "mockFill4": {
+    "message": "La tua bozza è ancora qui"
+  },
+  "onb2Cap": {
+    "message": "Un'estensione per ogni casella di testo"
+  },
+  "onb2Tag1": {
+    "message": "Aree di testo"
+  },
+  "onb2Tag2": {
+    "message": "Contenteditable"
+  },
+  "onb2Tag3": {
+    "message": "Funziona negli iframe"
+  },
+  "onb3Eyebrow": {
+    "message": "Provalo qui"
+  },
+  "onb3H1": {
+    "message": "Salva la tua prima bozza prima di andare."
+  },
+  "onb3Lede": {
+    "message": "Scrivi qualsiasi cosa nella casella di prova e premi Salva. Va nello stesso archivio locale che usano le bozze dei tuoi campi. Nelle pagine reali, le bozze si salvano da sole mentre scrivi."
+  },
+  "onb3Pt": {
+    "message": "Nessun account e nessuna registrazione. Tutto resta su questo dispositivo, e puoi disattivare le bozze in qualsiasi momento nelle Opzioni."
+  },
+  "onb3Label1": {
+    "message": "La tua prima riga di prova"
+  },
+  "onb3Ph1": {
+    "message": "Scrivi qualsiasi cosa"
+  },
+  "onb3Label2": {
+    "message": "Un'altra per la strada"
+  },
+  "onb3Ph2": {
+    "message": "Incolla qualcosa di lungo"
+  },
+  "onbSaveBtn": {
+    "message": "Salva la mia prima bozza"
+  },
+  "onbSavedOk": {
+    "message": "Salvato su questo dispositivo. Le bozze nelle pagine reali funzionano allo stesso modo."
+  },
+  "onb4Eyebrow": {
+    "message": "Sicuro per progettazione"
+  },
+  "onb4H1": {
+    "message": "Le tue parole non lasciano mai il tuo dispositivo."
+  },
+  "onb4Stat1": {
+    "message": "isolato, nessun codice remoto"
+  },
+  "onb4Stat2": {
+    "message": "chiamate di rete, mai"
+  },
+  "onb4Stat3": {
+    "message": "account, registrazioni, tracker"
+  },
+  "onb4Pt": {
+    "message": "BoxGrow è un pezzo di un'idea più grande: uno strato onesto per tutto il browser, uno strumento alla volta. Niente tracciamento, niente rivendita di dati, niente spam SEO."
+  },
+  "onb4LinkWhy": {
+    "message": "Perché costruisco questi strumenti"
+  },
+  "onb4LinkVision": {
+    "message": "La visione"
+  },
+  "onb4LinkSafe": {
+    "message": "Come ti proteggiamo"
+  },
+  "onb4Trust1H": {
+    "message": "Tutto resta sul tuo dispositivo"
+  },
+  "onb4Trust1P": {
+    "message": "Bozze e impostazioni vivono nell'archivio locale del browser. Nessun account, nessun server di sincronizzazione, nulla viene inviato da nessuna parte."
+  },
+  "onb4Trust2H": {
+    "message": "Una persona, che costruisce alla luce del sole"
+  },
+  "onb4Trust2P": {
+    "message": "Non un'azienda senza volto. Uno sviluppatore che rilascia pubblicamente, usa questi strumenti ogni giorno e ti risponde direttamente su"
+  },
+  "onb5Eyebrow": {
+    "message": "Prezzi onesti"
+  },
+  "onb5H1": {
+    "message": "Il gratuito resta utile. Pro ricorda di più."
+  },
+  "onb5Lede": {
+    "message": "La crescita automatica e l'editor a comparsa sono gratis per sempre. Un pagamento unico di novantanove dollari sblocca un annullamento più profondo, una cronologia bozze più lunga, il ripristino automatico e una scorciatoia personalizzata."
+  },
+  "planFree": {
+    "message": "Gratis"
+  },
+  "priceFree": {
+    "message": "$$0"
+  },
+  "onb5FreePer": {
+    "message": "per sempre"
+  },
+  "onb5FreeF1": {
+    "message": "Crescita automatica su ogni sito"
+  },
+  "onb5FreeF2": {
+    "message": "Editor a comparsa con salvataggio nel campo"
+  },
+  "onb5FreeF3": {
+    "message": "Annullamento a 5 passi nell'editor"
+  },
+  "onb5FreeF4": {
+    "message": "25 bozze salvate su questo dispositivo"
+  },
+  "ribbonBestValue": {
+    "message": "Miglior valore"
+  },
+  "planLifetime": {
+    "message": "A vita"
+  },
+  "priceLifetime": {
+    "message": "$$99"
+  },
+  "onb5ProPer": {
+    "message": "una volta"
+  },
+  "onb5ProF1": {
+    "message": "Annullamento a 50 passi nell'editor"
+  },
+  "onb5ProF2": {
+    "message": "200 bozze salvate su questo dispositivo"
+  },
+  "onb5ProF3": {
+    "message": "Ripristino automatico delle bozze"
+  },
+  "onb5ProF4": {
+    "message": "Scorciatoia a comparsa personalizzata"
+  },
+  "onb5ProF5": {
+    "message": "Un pagamento, nessun abbonamento"
+  },
+  "onb5Cta": {
+    "message": "Prendi il mio a vita a $$99"
+  },
+  "onb5Guar": {
+    "message": "Garanzia di rimborso di 14 giorni. Preferisci il mensile? Sono $$4.99 sulla stessa pagina. $$99 una tantum si ripaga in circa 20 mesi."
+  },
+  "onb6Eyebrow": {
+    "message": "Tutto pronto"
+  },
+  "onb6H1": {
+    "message": "Metti a fuoco una casella e inizia a scrivere. È tutto qui."
+  },
+  "onb6Lede": {
+    "message": "Non resta nulla da configurare. La casella cresce, Alt + Enter apre l'editor, e le bozze si salvano da sole. Ecco i tasti che vale la pena ricordare."
+  },
+  "onb6SignH": {
+    "message": "Dallo sviluppatore"
+  },
+  "onb6SignBody": {
+    "message": "Costruisco questi strumenti da solo, apertamente. Se qualcosa si rompe, scrivimi e ti rispondo. Se passi a Pro, i tuoi novantanove dollari finanziano il prossimo strumento onesto, e le tue note plasmano ciò che diventerà."
+  },
+  "onb6LinkGh": {
+    "message": "Scrivimi su GitHub"
+  },
+  "onb6LinkVision": {
+    "message": "Dove sta andando"
+  },
+  "onb6Cheat1": {
+    "message": "Ingrandisci qualsiasi casella di testo"
+  },
+  "onb6Kbd1": {
+    "message": "scrivi e basta"
+  },
+  "onb6Cheat2": {
+    "message": "Apri l'editor completo"
+  },
+  "onb6Cheat3": {
+    "message": "Annulla nell'editor"
+  },
+  "onb6Cheat4": {
+    "message": "Recupera una bozza persa"
+  },
+  "onb6Kbd4": {
+    "message": "un clic"
+  },
+  "onb6Pt": {
+    "message": "Su Mac, premi Cmd invece di Ctrl. La tua prima casella che cresce è a un clic di distanza. Provala su qualsiasi modulo di commento o editor."
+  },
+  "footBuiltBy": {
+    "message": "Creato da"
+  },
+  "footerPrivacy": {
+    "message": "Informativa sulla privacy"
+  }
+}

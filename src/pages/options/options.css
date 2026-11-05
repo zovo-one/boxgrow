@@ -1,0 +1,143 @@
+/* boxgrow options — boxg4815
+ *
+ * SURFACE owns layout/styles. Keep selectors scoped to the boxg-* ids and
+ * boxg-* classes in options.html. No brand tokens in this file (the
+ * divergence scan reads CSS comments).
+ */
+
+:root {
+  --boxg-text: #20242e;
+  --boxg-muted: #5d6572;
+  --boxg-surface: #fafbf9;
+  --boxg-panel: #ffffff;
+  --boxg-border: #e8e8e3;
+  --boxg-accent: #475ed1;
+  --boxg-accent-soft: #eceefc;
+  --boxg-on-accent: #ffffff;
+  --boxg-danger: #c4342b;
+  --boxg-primary: #d0da62;
+  --boxg-on-primary: #3d4113;
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --boxg-text: #e7e9ef;
+    --boxg-muted: #9aa3b3;
+    --boxg-surface: #15171c;
+    --boxg-panel: #1e2129;
+    --boxg-border: #343945;
+    --boxg-accent: #8b9cf0;
+    --boxg-accent-soft: #272d4d;
+    --boxg-on-accent: #15171c;
+    --boxg-danger: #e0695f;
+    --boxg-primary: #c4d039;
+    --boxg-on-primary: #22250a;
+    color-scheme: dark;
+  }
+}
+
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+
+body {
+  margin: 0;
+  font: 13px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  background: var(--boxg-surface);
+  color: var(--boxg-text);
+}
+
+.boxg-wrap { max-width: 600px; margin: 0 auto; padding: 28px 20px 36px; }
+h1 { margin: 0 0 16px; font-size: 18px; font-weight: 700; }
+:focus-visible { outline: 2px solid var(--boxg-accent); outline-offset: 2px; }
+
+/* sections */
+#boxg-settings,
+#license-panel {
+  margin: 0 0 16px;
+  padding: 6px 16px;
+  background: var(--boxg-panel);
+  border: 1px solid var(--boxg-border);
+  border-radius: 10px;
+}
+
+/* settings rows: label + hint left, control right */
+.boxg-row {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  grid-template-areas: "lbl ctl" "hint ctl" "note note" "err err" "lock lock";
+  column-gap: 16px;
+  align-items: center;
+  padding: 12px 0;
+  border-top: 1px solid var(--boxg-border);
+}
+.boxg-row:first-child { border-top: 0; }
+label.boxg-row { cursor: pointer; }
+.boxg-lbl { grid-area: lbl; font-weight: 600; }
+.boxg-hint { grid-area: hint; margin-top: 2px; font-size: 12px; color: var(--boxg-muted); }
+
+.boxg-row input[type="checkbox"] {
+  grid-area: ctl; justify-self: end; width: 18px; height: 18px; margin: 0;
+  accent-color: var(--boxg-accent); cursor: pointer;
+}
+
+/* hotkey recorder */
+#boxg-hotkey-recorder {
+  grid-area: ctl; justify-self: end; min-width: 104px; padding: 6px 12px;
+  font: 600 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  color: var(--boxg-text); background: var(--boxg-surface);
+  border: 1px solid var(--boxg-border); border-radius: 6px; cursor: pointer;
+}
+#boxg-hotkey-recorder:hover:not(:disabled) { border-color: var(--boxg-accent); color: var(--boxg-accent); }
+#boxg-hotkey-recorder.boxg-recording {
+  border-color: var(--boxg-accent); background: var(--boxg-accent-soft); color: var(--boxg-accent);
+}
+#boxg-hotkey-recorder:disabled { cursor: not-allowed; opacity: 0.55; }
+
+#boxg-hotkey-recording { grid-area: note; }
+.boxg-error { grid-area: err; margin-top: 4px; font-size: 12px; color: var(--boxg-danger); }
+
+/* lock note + license panel (rendered by shared/ui/license-ui.js) */
+.boxg-lock-note {
+  grid-area: lock; display: inline-flex; flex-wrap: wrap; align-items: center;
+  gap: 6px; margin-top: 6px; font-size: 12px; color: var(--boxg-muted);
+}
+.boxg-lock-badge {
+  padding: 1px 6px; font-size: 11px; font-weight: 700; letter-spacing: 0.04em;
+  text-transform: uppercase; color: var(--boxg-on-primary);
+  background: var(--boxg-primary); border-radius: 4px;
+}
+.boxg-license-title { margin: 10px 0 4px; font-size: 15px; }
+.boxg-license-state { margin: 0 0 12px; color: var(--boxg-muted); }
+.boxg-license-form { display: flex; gap: 8px; margin-bottom: 8px; }
+.boxg-license-input {
+  flex: 1; min-width: 0; padding: 7px 10px;
+  font: 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  color: var(--boxg-text); background: var(--boxg-surface);
+  border: 1px solid var(--boxg-border); border-radius: 6px;
+}
+.boxg-license-input:focus { border-color: var(--boxg-accent); outline: none; }
+.boxg-license-activate,
+.boxg-license-deactivate {
+  padding: 7px 14px; font: inherit; font-weight: 600; border-radius: 6px; cursor: pointer;
+}
+.boxg-license-activate { color: var(--boxg-on-accent); background: var(--boxg-accent); border: 1px solid var(--boxg-accent); }
+.boxg-license-deactivate { color: var(--boxg-accent); background: transparent; border: 1px solid var(--boxg-accent); }
+.boxg-license-activate:disabled,
+.boxg-license-deactivate:disabled { cursor: wait; opacity: 0.6; }
+.boxg-license-status { min-height: 18px; margin: 4px 0 8px; font-size: 12px; color: var(--boxg-muted); }
+.boxg-license-free,
+.boxg-license-pro { margin-bottom: 10px; }
+.boxg-license-free .boxg-upgrade-link,
+.boxg-lock-note .boxg-upgrade-link { font-weight: 600; }
+.boxg-upgrade-link { color: var(--boxg-accent); text-decoration: none; }
+.boxg-upgrade-link:hover { text-decoration: underline; }
+
+/* footer */
+.boxg-foot {
+  display: flex; flex-direction: column; align-items: center; gap: 4px;
+  margin-top: 24px; font-size: 12px; color: var(--boxg-muted); text-align: center;
+}
+.boxg-foot a { color: var(--boxg-accent); text-decoration: none; }
+.boxg-foot a:hover { text-decoration: underline; }
+#boxg-footer-brand { font-weight: 700; }

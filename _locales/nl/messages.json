@@ -1,0 +1,440 @@
+{
+  "extName": {
+    "message": "BoxGrow — Automatisch vergroten van tekstvakken en editor"
+  },
+  "extDescription": {
+    "message": "Tekstvakken groeien mee terwijl je typt, openen in een editor op volledig scherm en herstellen concepten. Niets verlaat je apparaat."
+  },
+  "actionTitle": {
+    "message": "BoxGrow"
+  },
+  "cmdPopout": {
+    "message": "BoxGrow-editor openen voor het gefocuste tekstveld"
+  },
+  "optionsTitle": {
+    "message": "BoxGrow-opties"
+  },
+  "optAutoGrow": {
+    "message": "Tekstvakken automatisch vergroten"
+  },
+  "optAutoGrowHint": {
+    "message": "Een gefocust tekstvak groeit mee met wat je typt, begrensd op 80% van de vensterhoogte."
+  },
+  "optHotkey": {
+    "message": "Sneltoets voor pop-outeditor"
+  },
+  "optHotkeyHint": {
+    "message": "Opent de editor op volledig scherm voor het gefocuste veld."
+  },
+  "optHotkeyLocked": {
+    "message": "De gratis versie gebruikt Alt+Enter. Pro ontgrendelt aanpassing van de sneltoets."
+  },
+  "optHotkeyRecording": {
+    "message": "Druk op de nieuwe toetscombinatie, of Esc om te annuleren."
+  },
+  "optHotkeyInvalid": {
+    "message": "Gebruik een modificatietoets (Ctrl, Alt, Shift of Cmd) plus een andere toets."
+  },
+  "optDrafts": {
+    "message": "Concepten opslaan"
+  },
+  "optDraftsHint": {
+    "message": "Bewaart een lokaal concept van elk veld, zodat een herlading of misklik nooit tekst verliest. Concepten verlaten dit apparaat nooit."
+  },
+  "licenseTitle": {
+    "message": "BoxGrow Pro onthoudt meer"
+  },
+  "licenseFree": {
+    "message": "Gratis: automatisch meegroeien, pop-outeditor, ongedaan maken met 5 stappen, 25 concepten. Pro voegt ongedaan maken met 50 stappen, 200 concepten, automatisch herstel en een aangepaste sneltoets toe."
+  },
+  "licensePro": {
+    "message": "Pro is actief: 50 stappen ongedaan maken, 200 concepten, automatisch concepten herstellen, aangepaste sneltoets."
+  },
+  "licensePlaceholder": {
+    "message": "ZOVO-XXXX-XXXX-XXXX-XXXX"
+  },
+  "licenseKeyLabel": {
+    "message": "Licentiesleutel"
+  },
+  "licenseActivate": {
+    "message": "Activeren"
+  },
+  "licenseDeactivate": {
+    "message": "Deactiveren"
+  },
+  "licenseInvalid": {
+    "message": "Die sleutel is niet goedgekeurd. Controleer op typefouten en probeer het opnieuw."
+  },
+  "licenseActivated": {
+    "message": "Pro geactiveerd. Bedankt!"
+  },
+  "upgradeCta": {
+    "message": "Bekijk beide plannen →"
+  },
+  "privacyLink": {
+    "message": "Privacybeleid"
+  },
+  "optionsFootnote": {
+    "message": "Geen accounts. Geen tracking. Alles blijft op dit apparaat."
+  },
+  "popSiteActive": {
+    "message": "Actief op deze site"
+  },
+  "popSitePaused": {
+    "message": "Gepauzeerd op deze site"
+  },
+  "popSitePause": {
+    "message": "Pauzeren op deze site"
+  },
+  "popSiteResume": {
+    "message": "Hervatten op deze site"
+  },
+  "popDraftsKept": {
+    "message": "$1 van $2 concepten bewaard",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "25"
+      }
+    }
+  },
+  "popSeePlans": {
+    "message": "Bekijk beide plannen →"
+  },
+  "ovTitle": {
+    "message": "BoxGrow-editor"
+  },
+  "ovSaveClose": {
+    "message": "Opslaan en sluiten"
+  },
+  "ovClose": {
+    "message": "Sluiten"
+  },
+  "ovUndoCounter": {
+    "message": "Ongedaan maken: $1 van $2 stappen",
+    "placeholders": {
+      "used": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "ovUndoCapFree": {
+    "message": "Gratis bewaart 5 ongedaan-maakstappen. Pro bewaart er 50."
+  },
+  "ovFieldGone": {
+    "message": "Het oorspronkelijke veld is weg. Je tekst is hier veilig."
+  },
+  "chipRestore": {
+    "message": "Concept herstellen"
+  },
+  "chipDismiss": {
+    "message": "Negeren"
+  },
+  "chipDraftFull": {
+    "message": "De concepthistoriek is vol in de gratis versie (25 concepten). Pro bewaart er 200 en herstelt automatisch."
+  },
+  "btnOpenEditor": {
+    "message": "Openen in BoxGrow-editor"
+  },
+  "popTitle": {
+    "message": "BoxGrow"
+  },
+  "popMaster": {
+    "message": "Overal automatisch vergroten"
+  },
+  "popSiteUnavailable": {
+    "message": "Niet beschikbaar op deze pagina"
+  },
+  "ovCounts": {
+    "message": "$1 woorden · $2 tekens",
+    "placeholders": {
+      "words": {
+        "content": "$1",
+        "example": "12"
+      },
+      "characters": {
+        "content": "$2",
+        "example": "84"
+      }
+    }
+  },
+  "onbTitle": {
+    "message": "Tekstvakken die met je meegroeien · BoxGrow"
+  },
+  "onbSkip": {
+    "message": "Intro overslaan"
+  },
+  "onbNavBack": {
+    "message": "Terug"
+  },
+  "onb1Eyebrow": {
+    "message": "Het vak is te klein"
+  },
+  "onb1H1": {
+    "message": "Je schrijft in vakken die voor één regel zijn gemaakt."
+  },
+  "onb1Lede": {
+    "message": "Reactieformulieren, supporttickets, e-maileditors. Het vak blijft klein terwijl je tekst groeit, en één verkeerde klik of een herladen kan een hele alinea wissen."
+  },
+  "onb1Pt": {
+    "message": "BoxGrow draait dat om. Het vak groeit terwijl je typt, Alt + Enter opent een editor in volledig scherm, en elk veld bewaart een concept op dit apparaat."
+  },
+  "mockLabel1": {
+    "message": "Supportformulier"
+  },
+  "mockBox1": {
+    "message": "2 regels zichtbaar van 30"
+  },
+  "mockLabel2": {
+    "message": "Reactievak"
+  },
+  "mockBox2": {
+    "message": "scrollen, scrollen, scrollen"
+  },
+  "mockLabel3": {
+    "message": "E-maileditor"
+  },
+  "mockBox3": {
+    "message": "waar is mijn concept gebleven"
+  },
+  "onb1TagPain": {
+    "message": "Smalle vakken. Verloren tekst."
+  },
+  "onb2Eyebrow": {
+    "message": "Groeit met elke toetsaanslag"
+  },
+  "onb2H1": {
+    "message": "Het vak past zich aan je tekst aan, niet andersom."
+  },
+  "onb2Lede": {
+    "message": "Focus op een tekstvak en het groeit terwijl je typt, tot 80% van de vensterhoogte. Druk op Alt + Enter en een rustige editor in volledig scherm opent met je tekst. Sla op en de tekst keert terug naar de pagina."
+  },
+  "onb2DemoBtn": {
+    "message": "Kijk hoe het typt"
+  },
+  "mockLabelFocus": {
+    "message": "Je focust op een vak"
+  },
+  "mockFill1": {
+    "message": "Het groeit voor elke regel"
+  },
+  "mockLabelHotkey": {
+    "message": "Je drukt op Alt + Enter"
+  },
+  "mockFill2": {
+    "message": "Editor in volledig scherm opent"
+  },
+  "mockLabelSave": {
+    "message": "Je slaat op en sluit"
+  },
+  "mockFill3": {
+    "message": "De tekst keert terug naar het veld"
+  },
+  "mockLabelReload": {
+    "message": "De pagina herlaadt"
+  },
+  "mockFill4": {
+    "message": "Je concept is er nog"
+  },
+  "onb2Cap": {
+    "message": "Eén extensie voor elk tekstvak"
+  },
+  "onb2Tag1": {
+    "message": "Tekstvelden"
+  },
+  "onb2Tag2": {
+    "message": "Contenteditable"
+  },
+  "onb2Tag3": {
+    "message": "Werkt in iframes"
+  },
+  "onb3Eyebrow": {
+    "message": "Probeer het hier"
+  },
+  "onb3H1": {
+    "message": "Sla je eerste concept op voordat je weggaat."
+  },
+  "onb3Lede": {
+    "message": "Typ iets in het oefenvak en druk op Opslaan. Het gaat naar dezelfde lokale opslag als de concepten van je velden. Op echte pagina's slaan concepten zichzelf op terwijl je typt."
+  },
+  "onb3Pt": {
+    "message": "Geen account en geen aanmelding. Alles blijft op dit apparaat, en je kunt concepten op elk moment uitschakelen in Opties."
+  },
+  "onb3Label1": {
+    "message": "Je eerste oefenregel"
+  },
+  "onb3Ph1": {
+    "message": "Typ iets"
+  },
+  "onb3Label2": {
+    "message": "Nog eentje voor onderweg"
+  },
+  "onb3Ph2": {
+    "message": "Plak iets lange"
+  },
+  "onbSaveBtn": {
+    "message": "Sla mijn eerste concept op"
+  },
+  "onbSavedOk": {
+    "message": "Opgeslagen op dit apparaat. Concepten op echte pagina's werken hetzelfde."
+  },
+  "onb4Eyebrow": {
+    "message": "Veilig door ontwerp"
+  },
+  "onb4H1": {
+    "message": "Je woorden verlaten je apparaat nooit."
+  },
+  "onb4Stat1": {
+    "message": "geïsoleerd, geen externe code"
+  },
+  "onb4Stat2": {
+    "message": "netwerkverzoeken, nooit"
+  },
+  "onb4Stat3": {
+    "message": "accounts, aanmeldingen, trackers"
+  },
+  "onb4Pt": {
+    "message": "BoxGrow is één stuk van een groter idee: een eerlijke laag voor de hele browser, één tool tegelijk. Geen tracking, geen doorverkoop van data, geen SEO-spam."
+  },
+  "onb4LinkWhy": {
+    "message": "Waarom ik deze tools bouw"
+  },
+  "onb4LinkVision": {
+    "message": "De visie"
+  },
+  "onb4LinkSafe": {
+    "message": "Hoe wij je beschermen"
+  },
+  "onb4Trust1H": {
+    "message": "Alles blijft op je apparaat"
+  },
+  "onb4Trust1P": {
+    "message": "Concepten en instellingen leven in de lokale opslag van de browser. Geen account, geen synchronisatieserver, er wordt niets verstuurd."
+  },
+  "onb4Trust2H": {
+    "message": "Eén persoon, bouwt in het openbaar"
+  },
+  "onb4Trust2P": {
+    "message": "Geen gezichtloos bedrijf. Een ontwikkelaar die openbaar uitbrengt, deze tools dagelijks gebruikt en je direct antwoordt op"
+  },
+  "onb5Eyebrow": {
+    "message": "Eerlijke prijzen"
+  },
+  "onb5H1": {
+    "message": "Gratis blijft nuttig. Pro onthoudt meer."
+  },
+  "onb5Lede": {
+    "message": "Automatisch meegroeien en de pop-outeditor zijn voor altijd gratis. Een eenmalige betaling van negenennegentig dollar ontgrendelt dieper ongedaan maken, een langere concepthistorie, automatisch herstel en een aangepaste sneltoets."
+  },
+  "planFree": {
+    "message": "Gratis"
+  },
+  "priceFree": {
+    "message": "$$0"
+  },
+  "onb5FreePer": {
+    "message": "voor altijd"
+  },
+  "onb5FreeF1": {
+    "message": "Automatisch meegroeien op elke site"
+  },
+  "onb5FreeF2": {
+    "message": "Pop-outeditor met terugopslag"
+  },
+  "onb5FreeF3": {
+    "message": "Ongedaan maken met 5 stappen in de editor"
+  },
+  "onb5FreeF4": {
+    "message": "25 concepten op dit apparaat"
+  },
+  "ribbonBestValue": {
+    "message": "Beste waarde"
+  },
+  "planLifetime": {
+    "message": "Levenslang"
+  },
+  "priceLifetime": {
+    "message": "$$99"
+  },
+  "onb5ProPer": {
+    "message": "eenmalig"
+  },
+  "onb5ProF1": {
+    "message": "Ongedaan maken met 50 stappen in de editor"
+  },
+  "onb5ProF2": {
+    "message": "200 concepten op dit apparaat"
+  },
+  "onb5ProF3": {
+    "message": "Automatisch concepten herstellen"
+  },
+  "onb5ProF4": {
+    "message": "Aangepaste pop-outsneltoets"
+  },
+  "onb5ProF5": {
+    "message": "Eén betaling, geen abonnement"
+  },
+  "onb5Cta": {
+    "message": "Neem mijn levenslange voor $$99"
+  },
+  "onb5Guar": {
+    "message": "14 dagen geld-terug-garantie. Liever maandelijks? Dat is $$4.99 op dezelfde pagina. Eenmalig $$99 verdient zichzelf terug in ongeveer 20 maanden."
+  },
+  "onb6Eyebrow": {
+    "message": "Alles staat klaar"
+  },
+  "onb6H1": {
+    "message": "Focus op een vak en begin te typen. Dat is alles."
+  },
+  "onb6Lede": {
+    "message": "Er is niets meer in te stellen. Het vak groeit, Alt + Enter opent de editor, en concepten slaan zichzelf op. Dit zijn de toetsen die het waard zijn te onthouden."
+  },
+  "onb6SignH": {
+    "message": "Van de ontwikkelaar"
+  },
+  "onb6SignBody": {
+    "message": "Ik bouw deze tools alleen, in het openbaar. Als er iets kapotgaat, schrijf me en ik antwoord. Als je Pro wordt, financieren je negenennegentig dollar de volgende eerlijke tool, en jouw notities bepalen wat het wordt."
+  },
+  "onb6LinkGh": {
+    "message": "Bereik me op GitHub"
+  },
+  "onb6LinkVision": {
+    "message": "Waar dit heen gaat"
+  },
+  "onb6Cheat1": {
+    "message": "Vergroot elk tekstvak"
+  },
+  "onb6Kbd1": {
+    "message": "gewoon typen"
+  },
+  "onb6Cheat2": {
+    "message": "Open de volledige editor"
+  },
+  "onb6Cheat3": {
+    "message": "Ongedaan maken in de editor"
+  },
+  "onb6Cheat4": {
+    "message": "Herstel een verloren concept"
+  },
+  "onb6Kbd4": {
+    "message": "één klik"
+  },
+  "onb6Pt": {
+    "message": "Op een Mac druk je op Cmd in plaats van Ctrl. Je eerste meegroeiende vak is één klik verwijderd. Probeer het op een reactieformulier of e-maileditor."
+  },
+  "footBuiltBy": {
+    "message": "Gebouwd door"
+  },
+  "footerPrivacy": {
+    "message": "Privacybeleid"
+  }
+}

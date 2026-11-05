@@ -1,0 +1,440 @@
+{
+  "extName": {
+    "message": "BoxGrow — Autoexpansión de cuadros de texto y editor"
+  },
+  "extDescription": {
+    "message": "Amplía cuadros de texto al escribir, edítalos a pantalla completa y restaura borradores. Nada sale de tu dispositivo."
+  },
+  "actionTitle": {
+    "message": "BoxGrow"
+  },
+  "cmdPopout": {
+    "message": "Abrir el editor de BoxGrow para el campo de texto enfocado"
+  },
+  "optionsTitle": {
+    "message": "Opciones de BoxGrow"
+  },
+  "optAutoGrow": {
+    "message": "Expandir cuadros de texto automáticamente"
+  },
+  "optAutoGrowHint": {
+    "message": "El cuadro de texto enfocado crece para ajustarse a lo que escribes, con un tope del 80% de la altura de la ventana."
+  },
+  "optHotkey": {
+    "message": "Atajo para abrir el editor"
+  },
+  "optHotkeyHint": {
+    "message": "Abre el editor a pantalla completa para el campo enfocado."
+  },
+  "optHotkeyLocked": {
+    "message": "La versión gratis usa Alt+Enter. Pro desbloquea la personalización del atajo."
+  },
+  "optHotkeyRecording": {
+    "message": "Presiona la nueva combinación de teclas, o Esc para cancelar."
+  },
+  "optHotkeyInvalid": {
+    "message": "Usa una tecla modificadora (Ctrl, Alt, Shift o Cmd) más otra tecla."
+  },
+  "optDrafts": {
+    "message": "Guardar borradores"
+  },
+  "optDraftsHint": {
+    "message": "Guarda un borrador local de cada campo para que una recarga o un clic erróneo nunca pierdan texto. Los borradores nunca salen de este dispositivo."
+  },
+  "licenseTitle": {
+    "message": "BoxGrow Pro recuerda más"
+  },
+  "licenseFree": {
+    "message": "Gratis: crecimiento automático, editor emergente, deshacer de 5 pasos, 25 borradores. Pro agrega deshacer de 50 pasos, 200 borradores, restauración automática y una tecla personalizada."
+  },
+  "licensePro": {
+    "message": "Pro está activo: deshacer de 50 pasos, 200 borradores, restauración automática de borradores, atajo personalizado."
+  },
+  "licensePlaceholder": {
+    "message": "ZOVO-XXXX-XXXX-XXXX-XXXX"
+  },
+  "licenseKeyLabel": {
+    "message": "Clave de licencia"
+  },
+  "licenseActivate": {
+    "message": "Activar"
+  },
+  "licenseDeactivate": {
+    "message": "Desactivar"
+  },
+  "licenseInvalid": {
+    "message": "Esa clave no se pudo verificar. Revisa que no haya errores y vuelve a intentarlo."
+  },
+  "licenseActivated": {
+    "message": "Pro activado. ¡Gracias!"
+  },
+  "upgradeCta": {
+    "message": "Ver ambos planes →"
+  },
+  "privacyLink": {
+    "message": "Política de privacidad"
+  },
+  "optionsFootnote": {
+    "message": "Sin cuentas. Sin rastreo. Todo permanece en este dispositivo."
+  },
+  "popSiteActive": {
+    "message": "Activo en este sitio"
+  },
+  "popSitePaused": {
+    "message": "En pausa en este sitio"
+  },
+  "popSitePause": {
+    "message": "Pausar en este sitio"
+  },
+  "popSiteResume": {
+    "message": "Reanudar en este sitio"
+  },
+  "popDraftsKept": {
+    "message": "$1 de $2 borradores guardados",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "25"
+      }
+    }
+  },
+  "popSeePlans": {
+    "message": "Ver ambos planes →"
+  },
+  "ovTitle": {
+    "message": "Editor de BoxGrow"
+  },
+  "ovSaveClose": {
+    "message": "Guardar y cerrar"
+  },
+  "ovClose": {
+    "message": "Cerrar"
+  },
+  "ovUndoCounter": {
+    "message": "Deshacer: $1 de $2 pasos",
+    "placeholders": {
+      "used": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "ovUndoCapFree": {
+    "message": "Gratis guarda 5 pasos de deshacer. Pro guarda 50."
+  },
+  "ovFieldGone": {
+    "message": "El campo original ya no está. Tu texto está seguro aquí."
+  },
+  "chipRestore": {
+    "message": "Restaurar borrador"
+  },
+  "chipDismiss": {
+    "message": "Descartar"
+  },
+  "chipDraftFull": {
+    "message": "El historial de borradores está lleno en la versión gratis (25 borradores). Pro guarda 200 y los restaura automáticamente."
+  },
+  "btnOpenEditor": {
+    "message": "Abrir en el editor de BoxGrow"
+  },
+  "popTitle": {
+    "message": "BoxGrow"
+  },
+  "popMaster": {
+    "message": "Autoexpansión en todas partes"
+  },
+  "popSiteUnavailable": {
+    "message": "No disponible en esta página"
+  },
+  "ovCounts": {
+    "message": "$1 palabras · $2 caracteres",
+    "placeholders": {
+      "words": {
+        "content": "$1",
+        "example": "12"
+      },
+      "characters": {
+        "content": "$2",
+        "example": "84"
+      }
+    }
+  },
+  "onbTitle": {
+    "message": "Cuadros de texto que crecen contigo · BoxGrow"
+  },
+  "onbSkip": {
+    "message": "Saltar la intro"
+  },
+  "onbNavBack": {
+    "message": "Atrás"
+  },
+  "onb1Eyebrow": {
+    "message": "El cuadro es muy pequeño"
+  },
+  "onb1H1": {
+    "message": "Estás escribiendo en cuadros hechos para una sola línea."
+  },
+  "onb1Lede": {
+    "message": "Formularios de comentarios, tickets de soporte, editores de correo. El cuadro se queda pequeño mientras tu texto crece, y un clic equivocado o una recarga puede borrar un párrafo entero."
+  },
+  "onb1Pt": {
+    "message": "BoxGrow lo invierte. El cuadro crece mientras escribes, Alt + Enter abre un editor en pantalla completa, y cada campo guarda un borrador en este dispositivo."
+  },
+  "mockLabel1": {
+    "message": "Formulario de soporte"
+  },
+  "mockBox1": {
+    "message": "2 líneas visibles de 30"
+  },
+  "mockLabel2": {
+    "message": "Cuadro de comentarios"
+  },
+  "mockBox2": {
+    "message": "desplaza, desplaza, desplaza"
+  },
+  "mockLabel3": {
+    "message": "Editor de correo"
+  },
+  "mockBox3": {
+    "message": "a dónde se fue mi borrador"
+  },
+  "onb1TagPain": {
+    "message": "Cuadros estrechos. Texto perdido."
+  },
+  "onb2Eyebrow": {
+    "message": "Crece con cada tecla"
+  },
+  "onb2H1": {
+    "message": "El cuadro se adapta a tu texto, no al revés."
+  },
+  "onb2Lede": {
+    "message": "Enfoca cualquier cuadro de texto y crecerá mientras escribes, hasta el 80% de la altura de la ventana. Presiona Alt + Enter y se abre un editor tranquilo en pantalla completa con tu texto. Guarda y el texto vuelve a la página."
+  },
+  "onb2DemoBtn": {
+    "message": "Mira cómo escribe"
+  },
+  "mockLabelFocus": {
+    "message": "Enfocas un cuadro"
+  },
+  "mockFill1": {
+    "message": "Crece para cada línea"
+  },
+  "mockLabelHotkey": {
+    "message": "Presionas Alt + Enter"
+  },
+  "mockFill2": {
+    "message": "Se abre el editor en pantalla completa"
+  },
+  "mockLabelSave": {
+    "message": "Guardas y cierras"
+  },
+  "mockFill3": {
+    "message": "El texto vuelve al campo"
+  },
+  "mockLabelReload": {
+    "message": "La página se recarga"
+  },
+  "mockFill4": {
+    "message": "Tu borrador sigue aquí"
+  },
+  "onb2Cap": {
+    "message": "Una extensión para cada cuadro de texto"
+  },
+  "onb2Tag1": {
+    "message": "Áreas de texto"
+  },
+  "onb2Tag2": {
+    "message": "Contenteditable"
+  },
+  "onb2Tag3": {
+    "message": "Funciona en iframes"
+  },
+  "onb3Eyebrow": {
+    "message": "Pruébalo aquí mismo"
+  },
+  "onb3H1": {
+    "message": "Guarda tu primer borrador antes de irte."
+  },
+  "onb3Lede": {
+    "message": "Escribe lo que sea en el cuadro de práctica y presiona Guardar. Va al mismo almacenamiento local que usan los borradores de tus campos. En páginas reales, los borradores se guardan solos mientras escribes."
+  },
+  "onb3Pt": {
+    "message": "Sin cuenta y sin registro. Todo se queda en este dispositivo, y puedes desactivar los borradores cuando quieras en Opciones."
+  },
+  "onb3Label1": {
+    "message": "Tu primera línea de práctica"
+  },
+  "onb3Ph1": {
+    "message": "Escribe lo que sea"
+  },
+  "onb3Label2": {
+    "message": "Una más para el camino"
+  },
+  "onb3Ph2": {
+    "message": "Pega algo largo"
+  },
+  "onbSaveBtn": {
+    "message": "Guardar mi primer borrador"
+  },
+  "onbSavedOk": {
+    "message": "Guardado en este dispositivo. Los borradores en páginas reales funcionan igual."
+  },
+  "onb4Eyebrow": {
+    "message": "Seguro por diseño"
+  },
+  "onb4H1": {
+    "message": "Tus palabras nunca salen de tu dispositivo."
+  },
+  "onb4Stat1": {
+    "message": "aislado, sin código remoto"
+  },
+  "onb4Stat2": {
+    "message": "llamadas de red, nunca"
+  },
+  "onb4Stat3": {
+    "message": "cuentas, registros, rastreadores"
+  },
+  "onb4Pt": {
+    "message": "BoxGrow es una pieza de una idea más grande: una capa honesta para todo el navegador, una herramienta a la vez. Sin rastreo, sin reventa de datos, sin spam de SEO."
+  },
+  "onb4LinkWhy": {
+    "message": "Por qué construyo estas herramientas"
+  },
+  "onb4LinkVision": {
+    "message": "La visión"
+  },
+  "onb4LinkSafe": {
+    "message": "Cómo te protegemos"
+  },
+  "onb4Trust1H": {
+    "message": "Todo se queda en tu dispositivo"
+  },
+  "onb4Trust1P": {
+    "message": "Los borradores y la configuración viven en el almacenamiento local del navegador. Sin cuenta, sin servidor de sincronización, nada se envía a ninguna parte."
+  },
+  "onb4Trust2H": {
+    "message": "Una persona, construyendo en público"
+  },
+  "onb4Trust2P": {
+    "message": "No una empresa sin rostro. Un desarrollador que publica abiertamente, usa estas herramientas todos los días y te responde directamente en"
+  },
+  "onb5Eyebrow": {
+    "message": "Precios honestos"
+  },
+  "onb5H1": {
+    "message": "Gratis sigue siendo útil. Pro recuerda más."
+  },
+  "onb5Lede": {
+    "message": "El crecimiento automático y el editor emergente son gratis para siempre. Un solo pago de noventa y nueve dólares desbloquea un deshacer más profundo, un historial de borradores más largo, restauración automática y una tecla de acceso rápido personalizada."
+  },
+  "planFree": {
+    "message": "Gratis"
+  },
+  "priceFree": {
+    "message": "$$0"
+  },
+  "onb5FreePer": {
+    "message": "para siempre"
+  },
+  "onb5FreeF1": {
+    "message": "Crecimiento automático en cada sitio"
+  },
+  "onb5FreeF2": {
+    "message": "Editor emergente con guardado de vuelta"
+  },
+  "onb5FreeF3": {
+    "message": "Deshacer de 5 pasos en el editor"
+  },
+  "onb5FreeF4": {
+    "message": "25 borradores guardados en este dispositivo"
+  },
+  "ribbonBestValue": {
+    "message": "Mejor valor"
+  },
+  "planLifetime": {
+    "message": "De por vida"
+  },
+  "priceLifetime": {
+    "message": "$$99"
+  },
+  "onb5ProPer": {
+    "message": "una vez"
+  },
+  "onb5ProF1": {
+    "message": "Deshacer de 50 pasos en el editor"
+  },
+  "onb5ProF2": {
+    "message": "200 borradores guardados en este dispositivo"
+  },
+  "onb5ProF3": {
+    "message": "Restauración automática de borradores"
+  },
+  "onb5ProF4": {
+    "message": "Tecla emergente personalizada"
+  },
+  "onb5ProF5": {
+    "message": "Un pago, sin suscripción"
+  },
+  "onb5Cta": {
+    "message": "Obtener mi de por vida por $$99"
+  },
+  "onb5Guar": {
+    "message": "Garantía de devolución de 14 días. ¿Prefieres mensual? Son $$4.99 en la misma página. $$99 una vez se paga solo en unos 20 meses."
+  },
+  "onb6Eyebrow": {
+    "message": "Todo listo"
+  },
+  "onb6H1": {
+    "message": "Enfoca un cuadro y empieza a escribir. Eso es todo."
+  },
+  "onb6Lede": {
+    "message": "No queda nada por configurar. El cuadro crece, Alt + Enter abre el editor, y los borradores se guardan solos. Estas son las teclas que vale la pena recordar."
+  },
+  "onb6SignH": {
+    "message": "Del desarrollador"
+  },
+  "onb6SignBody": {
+    "message": "Construyo estas herramientas por mi cuenta, abiertamente. Si algo se rompe, escríbeme y te respondo. Si pasas a Pro, tus noventa y nueve dólares financian la próxima herramienta honesta, y tus notas moldean lo que llega a ser."
+  },
+  "onb6LinkGh": {
+    "message": "Escríbeme en GitHub"
+  },
+  "onb6LinkVision": {
+    "message": "Hacia dónde va esto"
+  },
+  "onb6Cheat1": {
+    "message": "Agranda cualquier cuadro de texto"
+  },
+  "onb6Kbd1": {
+    "message": "solo escribe"
+  },
+  "onb6Cheat2": {
+    "message": "Abre el editor completo"
+  },
+  "onb6Cheat3": {
+    "message": "Deshaz en el editor"
+  },
+  "onb6Cheat4": {
+    "message": "Recupera un borrador perdido"
+  },
+  "onb6Kbd4": {
+    "message": "un clic"
+  },
+  "onb6Pt": {
+    "message": "En Mac, presiona Cmd en lugar de Ctrl. Tu primer cuadro que crece está a un clic de distancia. Pruébalo en cualquier formulario de comentarios o editor."
+  },
+  "footBuiltBy": {
+    "message": "Creado por"
+  },
+  "footerPrivacy": {
+    "message": "Política de privacidad"
+  }
+}

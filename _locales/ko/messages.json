@@ -1,0 +1,440 @@
+{
+  "extName": {
+    "message": "BoxGrow — 텍스트 상자 자동 확장 및 팝아웃 편집기"
+  },
+  "extDescription": {
+    "message": "입력할 때 텍스트 상자가 자동으로 커지고, 전체 화면 편집기로 꺼내 편집하며, 새로고침 후에도 초안을 복원합니다. 어떤 것도 기기를 떠나지 않습니다."
+  },
+  "actionTitle": {
+    "message": "BoxGrow"
+  },
+  "cmdPopout": {
+    "message": "포커스된 텍스트 필드의 BoxGrow 편집기 열기"
+  },
+  "optionsTitle": {
+    "message": "BoxGrow 옵션"
+  },
+  "optAutoGrow": {
+    "message": "텍스트 상자 자동 확장"
+  },
+  "optAutoGrowHint": {
+    "message": "포커스된 텍스트 상자가 입력 내용에 맞게 커지며, 창 높이의 80%로 제한됩니다."
+  },
+  "optHotkey": {
+    "message": "팝아웃 단축키"
+  },
+  "optHotkeyHint": {
+    "message": "포커스된 필드의 전체 화면 편집기를 엽니다."
+  },
+  "optHotkeyLocked": {
+    "message": "무료 버전은 Alt+Enter를 사용합니다. Pro는 단축키 사용자 지정을 제공합니다."
+  },
+  "optHotkeyRecording": {
+    "message": "새 키 조합을 누르거나 Esc를 눌러 취소하세요."
+  },
+  "optHotkeyInvalid": {
+    "message": "보조 키(Ctrl, Alt, Shift 또는 Cmd)와 다른 키를 함께 사용하세요."
+  },
+  "optDrafts": {
+    "message": "초안 저장"
+  },
+  "optDraftsHint": {
+    "message": "새로고침이나 잘못된 클릭으로 텍스트를 잃지 않도록 필드마다 로컬 초안을 저장합니다. 초안은 이 기기를 떠나지 않습니다."
+  },
+  "licenseTitle": {
+    "message": "BoxGrow Pro는 더 많이 기억합니다"
+  },
+  "licenseFree": {
+    "message": "무료: 자동 확장, 팝아웃 편집기, 5단계 실행 취소, 초안 25개. Pro는 50단계 실행 취소, 초안 200개, 자동 복원, 사용자 지정 단축키를 추가합니다."
+  },
+  "licensePro": {
+    "message": "Pro 활성: 50단계 실행 취소, 초안 200개, 초안 자동 복원, 사용자 지정 단축키."
+  },
+  "licensePlaceholder": {
+    "message": "ZOVO-XXXX-XXXX-XXXX-XXXX"
+  },
+  "licenseKeyLabel": {
+    "message": "라이선스 키"
+  },
+  "licenseActivate": {
+    "message": "활성화"
+  },
+  "licenseDeactivate": {
+    "message": "비활성화"
+  },
+  "licenseInvalid": {
+    "message": "해당 키를 확인할 수 없습니다. 오타가 없는지 확인하고 다시 시도하세요."
+  },
+  "licenseActivated": {
+    "message": "Pro가 활성화되었습니다. 감사합니다!"
+  },
+  "upgradeCta": {
+    "message": "두 플랜 모두 보기 →"
+  },
+  "privacyLink": {
+    "message": "개인정보처리방침"
+  },
+  "optionsFootnote": {
+    "message": "계정 없음. 추적 없음. 모든 것이 이 기기에 남습니다."
+  },
+  "popSiteActive": {
+    "message": "이 사이트에서 활성"
+  },
+  "popSitePaused": {
+    "message": "이 사이트에서 일시 중지됨"
+  },
+  "popSitePause": {
+    "message": "이 사이트에서 일시 중지"
+  },
+  "popSiteResume": {
+    "message": "이 사이트에서 다시 시작"
+  },
+  "popDraftsKept": {
+    "message": "초안 $1/$2개 저장됨",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "25"
+      }
+    }
+  },
+  "popSeePlans": {
+    "message": "두 플랜 모두 보기 →"
+  },
+  "ovTitle": {
+    "message": "BoxGrow 편집기"
+  },
+  "ovSaveClose": {
+    "message": "저장 후 닫기"
+  },
+  "ovClose": {
+    "message": "닫기"
+  },
+  "ovUndoCounter": {
+    "message": "실행 취소: $1/$2단계",
+    "placeholders": {
+      "used": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "ovUndoCapFree": {
+    "message": "무료는 실행 취소 5단계를 유지합니다. Pro는 50단계를 유지합니다."
+  },
+  "ovFieldGone": {
+    "message": "원래 필드가 사라졌습니다. 텍스트는 여기에 안전합니다."
+  },
+  "chipRestore": {
+    "message": "초안 복원"
+  },
+  "chipDismiss": {
+    "message": "닫기"
+  },
+  "chipDraftFull": {
+    "message": "무료 버전의 초안이 가득 찼습니다(25개). Pro는 200개를 저장하고 자동으로 복원합니다."
+  },
+  "btnOpenEditor": {
+    "message": "BoxGrow 편집기에서 열기"
+  },
+  "popTitle": {
+    "message": "BoxGrow"
+  },
+  "popMaster": {
+    "message": "모든 곳에서 자동 확장"
+  },
+  "popSiteUnavailable": {
+    "message": "이 페이지에서는 사용할 수 없습니다"
+  },
+  "ovCounts": {
+    "message": "$1단어 · $2자",
+    "placeholders": {
+      "words": {
+        "content": "$1",
+        "example": "12"
+      },
+      "characters": {
+        "content": "$2",
+        "example": "84"
+      }
+    }
+  },
+  "onbTitle": {
+    "message": "당신과 함께 자라는 텍스트 상자 · BoxGrow"
+  },
+  "onbSkip": {
+    "message": "소개 건너뛰기"
+  },
+  "onbNavBack": {
+    "message": "뒤로"
+  },
+  "onb1Eyebrow": {
+    "message": "상자가 너무 작습니다"
+  },
+  "onb1H1": {
+    "message": "한 줄용으로 만들어진 상자에 글을 쓰고 있습니다."
+  },
+  "onb1Lede": {
+    "message": "댓글 양식, 지원 티켓, 이메일 작성창. 글은 길어지는데 상자는 그대로고, 잘못된 클릭 한 번이나 새로고침으로 문단이 날아갈 수 있습니다."
+  },
+  "onb1Pt": {
+    "message": "BoxGrow가 이를 바꿉니다. 상자는 입력에 따라 커지고, Alt + Enter로 전체 화면 편집기가 열리며, 각 필드는 이 기기에 초안을 저장합니다."
+  },
+  "mockLabel1": {
+    "message": "지원 양식"
+  },
+  "mockBox1": {
+    "message": "30줄 중 2줄만 표시"
+  },
+  "mockLabel2": {
+    "message": "댓글 상자"
+  },
+  "mockBox2": {
+    "message": "스크롤, 스크롤, 스크롤"
+  },
+  "mockLabel3": {
+    "message": "이메일 작성창"
+  },
+  "mockBox3": {
+    "message": "내 초안이 어디로 갔지"
+  },
+  "onb1TagPain": {
+    "message": "좁은 상자. 잃어버린 글."
+  },
+  "onb2Eyebrow": {
+    "message": "키 입력마다 커집니다"
+  },
+  "onb2H1": {
+    "message": "상자가 글에 맞춥니다. 그 반대가 아닙니다."
+  },
+  "onb2Lede": {
+    "message": "아무 텍스트 상자에 포커스하면 입력에 따라 창 높이의 80%까지 커집니다. Alt + Enter를 누륩면 차분한 전체 화면 편집기가 글과 함께 열립니다. 저장하면 글이 페이지로 돌아갑니다."
+  },
+  "onb2DemoBtn": {
+    "message": "입력 시연 보기"
+  },
+  "mockLabelFocus": {
+    "message": "상자에 포커스"
+  },
+  "mockFill1": {
+    "message": "모든 줄에 맞게 커집니다"
+  },
+  "mockLabelHotkey": {
+    "message": "Alt + Enter를 누릅니다"
+  },
+  "mockFill2": {
+    "message": "전체 화면 편집기가 열립니다"
+  },
+  "mockLabelSave": {
+    "message": "저장하고 닫습니다"
+  },
+  "mockFill3": {
+    "message": "글이 필드로 돌아갑니다"
+  },
+  "mockLabelReload": {
+    "message": "페이지가 새로고침됩니다"
+  },
+  "mockFill4": {
+    "message": "초안이 그대로 있습니다"
+  },
+  "onb2Cap": {
+    "message": "모든 텍스트 상자를 위한 하나의 확장 프로그램"
+  },
+  "onb2Tag1": {
+    "message": "텍스트 영역"
+  },
+  "onb2Tag2": {
+    "message": "Contenteditable"
+  },
+  "onb2Tag3": {
+    "message": "iframe에서도 작동"
+  },
+  "onb3Eyebrow": {
+    "message": "바로 여기서 합니다"
+  },
+  "onb3H1": {
+    "message": "떠나기 전에 첫 초안을 저장하세요."
+  },
+  "onb3Lede": {
+    "message": "연습 상자에 아무거나 입력하고 저장을 누르세요. 필드 초안이 사용하는 것과 같은 로컬 저장소에 들어갑니다. 실제 페이지에서는 입력하는 동안 초안이 저절로 저장됩니다."
+  },
+  "onb3Pt": {
+    "message": "계정도 가입도 없습니다. 모든 것이 이 기기에 남고, 초안 기능은 옵션에서 언제든 끌 수 있습니다."
+  },
+  "onb3Label1": {
+    "message": "첫 연습 문장"
+  },
+  "onb3Ph1": {
+    "message": "아무거나 입력하세요"
+  },
+  "onb3Label2": {
+    "message": "하나 더 합니다"
+  },
+  "onb3Ph2": {
+    "message": "긴 글을 붙여넣어 보세요"
+  },
+  "onbSaveBtn": {
+    "message": "첫 초안 저장"
+  },
+  "onbSavedOk": {
+    "message": "이 기기에 저장했습니다. 실제 페이지의 초안도 같은 방식으로 작동합니다."
+  },
+  "onb4Eyebrow": {
+    "message": "설계상 안전"
+  },
+  "onb4H1": {
+    "message": "당신의 글은 기기를 떠나지 않습니다."
+  },
+  "onb4Stat1": {
+    "message": "샌드박스, 원격 코드 없음"
+  },
+  "onb4Stat2": {
+    "message": "네트워크 호출, 단 한 번도 없음"
+  },
+  "onb4Stat3": {
+    "message": "계정, 가입, 트래커 없음"
+  },
+  "onb4Pt": {
+    "message": "BoxGrow는 더 큰 구상의 한 조각입니다. 전체 브라우저를 위한 정직한 레이어를, 한 번에 하나의 도구씩. 추적 없음, 데이터 재판매 없음, SEO 스팸 없음."
+  },
+  "onb4LinkWhy": {
+    "message": "제가 이 도구들을 만드는 이유"
+  },
+  "onb4LinkVision": {
+    "message": "비전"
+  },
+  "onb4LinkSafe": {
+    "message": "어떻게 안전을 지키나"
+  },
+  "onb4Trust1H": {
+    "message": "모든 것이 기기에 남습니다"
+  },
+  "onb4Trust1P": {
+    "message": "초안과 설정은 브라우저 로컬 저장소에 있습니다. 계정도, 동기화 서버도 없으며, 어디로도 전송되지 않습니다."
+  },
+  "onb4Trust2H": {
+    "message": "한 사람이 공개적으로 만듭니다"
+  },
+  "onb4Trust2P": {
+    "message": "얼굴 없는 회사가 아닙니다. 공개적으로 출시하고, 매일 이 도구들을 쓰며, 다음에서 직접 답하는 개발자입니다:"
+  },
+  "onb5Eyebrow": {
+    "message": "정직한 가격"
+  },
+  "onb5H1": {
+    "message": "무료는 계속 유용합니다. Pro는 더 많이 기억합니다."
+  },
+  "onb5Lede": {
+    "message": "자동 확장과 팝아웃 편집기는 영원히 무료입니다. 99달러 일회 결제로 더 깊은 실행 취소, 더 긴 초안 기록, 자동 복원, 사용자 지정 단축키가 열립니다."
+  },
+  "planFree": {
+    "message": "무료"
+  },
+  "priceFree": {
+    "message": "$$0"
+  },
+  "onb5FreePer": {
+    "message": "영원히"
+  },
+  "onb5FreeF1": {
+    "message": "모든 사이트에서 자동 확장"
+  },
+  "onb5FreeF2": {
+    "message": "저장-되돌리기가 되는 팝아웃 편집기"
+  },
+  "onb5FreeF3": {
+    "message": "편집기에서 5단계 실행 취소"
+  },
+  "onb5FreeF4": {
+    "message": "이 기기에 초안 25개 보관"
+  },
+  "ribbonBestValue": {
+    "message": "가장 알뜰"
+  },
+  "planLifetime": {
+    "message": "평생"
+  },
+  "priceLifetime": {
+    "message": "$$99"
+  },
+  "onb5ProPer": {
+    "message": "일회 결제"
+  },
+  "onb5ProF1": {
+    "message": "편집기에서 50단계 실행 취소"
+  },
+  "onb5ProF2": {
+    "message": "이 기기에 초안 200개 보관"
+  },
+  "onb5ProF3": {
+    "message": "초안 자동 복원"
+  },
+  "onb5ProF4": {
+    "message": "사용자 지정 팝아웃 단축키"
+  },
+  "onb5ProF5": {
+    "message": "한 번 결제, 구독 없음"
+  },
+  "onb5Cta": {
+    "message": "$$99로 평생 이용권 받기"
+  },
+  "onb5Guar": {
+    "message": "14일 환불 보장. 월 단위를 원하시면 같은 페이지에서 $$4.99입니다. $$99 일회 결제는 약 20개월이면 본전을 뽑습니다."
+  },
+  "onb6Eyebrow": {
+    "message": "준비 완료"
+  },
+  "onb6H1": {
+    "message": "상자에 포커스하고 입력을 시작하세요. 그게 전부입니다."
+  },
+  "onb6Lede": {
+    "message": "더 설정할 것이 없습니다. 상자는 커지고, Alt + Enter는 편집기를 열고, 초안은 저절로 저장됩니다. 기억할 만한 키는 다음과 같습니다."
+  },
+  "onb6SignH": {
+    "message": "개발자로부터"
+  },
+  "onb6SignBody": {
+    "message": "저는 이 도구들을 혼자, 공개적으로 만듭니다. 무언가 고장 나면 글을 보내 주세요. 답장합니다. Pro가 되시면 당신의 아흔아홉 달러는 다음 정직한 도구의 자금이 되고, 당신의 메모가 그 모습을 만듭니다."
+  },
+  "onb6LinkGh": {
+    "message": "GitHub에서 연락하기"
+  },
+  "onb6LinkVision": {
+    "message": "앞으로의 방향"
+  },
+  "onb6Cheat1": {
+    "message": "아무 텍스트 상자나 키우기"
+  },
+  "onb6Kbd1": {
+    "message": "그냥 입력"
+  },
+  "onb6Cheat2": {
+    "message": "전체 편집기 열기"
+  },
+  "onb6Cheat3": {
+    "message": "편집기에서 실행 취소"
+  },
+  "onb6Cheat4": {
+    "message": "잃어버린 초안 복원"
+  },
+  "onb6Kbd4": {
+    "message": "클릭 한 번"
+  },
+  "onb6Pt": {
+    "message": "Mac에서는 Ctrl 대신 Cmd를 누르세요. 첫 번째로 커지는 상자까지 클릭 한 번이면 됩니다. 아무 댓글 양식이나 작성창에서 합니다."
+  },
+  "footBuiltBy": {
+    "message": "제작"
+  },
+  "footerPrivacy": {
+    "message": "개인정보 처리방침"
+  }
+}

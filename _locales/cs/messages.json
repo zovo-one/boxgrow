@@ -1,0 +1,440 @@
+{
+  "extName": {
+    "message": "BoxGrow — Automatické zvětšování textových polí a editor"
+  },
+  "extDescription": {
+    "message": "Textová pole rostou při psaní, otevřou se v celoobrazovkovém editoru a obnoví koncepty. Nic neopouští vaše zařízení."
+  },
+  "actionTitle": {
+    "message": "BoxGrow"
+  },
+  "cmdPopout": {
+    "message": "Otevřít editor BoxGrow pro aktivní textové pole"
+  },
+  "optionsTitle": {
+    "message": "Nastavení BoxGrow"
+  },
+  "optAutoGrow": {
+    "message": "Automaticky zvětšovat textová pole"
+  },
+  "optAutoGrowHint": {
+    "message": "Aktivní textové pole roste podle toho, co píšete, s limitem 80 % výšky okna."
+  },
+  "optHotkey": {
+    "message": "Klávesová zkratka pro vyskakovací editor"
+  },
+  "optHotkeyHint": {
+    "message": "Otevře celoobrazovkový editor pro aktivní pole."
+  },
+  "optHotkeyLocked": {
+    "message": "Bezplatná verze používá Alt+Enter. Pro odemyká vlastní klávesovou zkratku."
+  },
+  "optHotkeyRecording": {
+    "message": "Stiskněte novou kombinaci kláves, nebo Esc pro zrušení."
+  },
+  "optHotkeyInvalid": {
+    "message": "Použijte modifikační klávesu (Ctrl, Alt, Shift nebo Cmd) plus další klávesu."
+  },
+  "optDrafts": {
+    "message": "Ukládat koncepty"
+  },
+  "optDraftsHint": {
+    "message": "Uchovává místní koncept každého pole, aby znovunačtení nebo chybné kliknutí nikdy neztratilo text. Koncepty nikdy neopouštějí toto zařízení."
+  },
+  "licenseTitle": {
+    "message": "BoxGrow Pro si pamatuje víc"
+  },
+  "licenseFree": {
+    "message": "Zdarma: automatické zvětšování, vyskakovací editor, vracení zpět o 5 kroků, 25 konceptů. Pro přidává vracení zpět o 50 kroků, 200 konceptů, automatické obnovení a vlastní klávesovou zkratku."
+  },
+  "licensePro": {
+    "message": "Pro je aktivní: 50 kroků zpět, 200 konceptů, automatické obnovení konceptů, vlastní zkratka."
+  },
+  "licensePlaceholder": {
+    "message": "ZOVO-XXXX-XXXX-XXXX-XXXX"
+  },
+  "licenseKeyLabel": {
+    "message": "Licenční klíč"
+  },
+  "licenseActivate": {
+    "message": "Aktivovat"
+  },
+  "licenseDeactivate": {
+    "message": "Deaktivovat"
+  },
+  "licenseInvalid": {
+    "message": "Tento klíč neprošel kontrolou. Zkontrolujte překlepy a zkuste to znovu."
+  },
+  "licenseActivated": {
+    "message": "Pro aktivováno. Děkujeme!"
+  },
+  "upgradeCta": {
+    "message": "Zobrazit oba plány →"
+  },
+  "privacyLink": {
+    "message": "Zásady ochrany soukromí"
+  },
+  "optionsFootnote": {
+    "message": "Žádné účty. Žádné sledování. Všechno zůstává na tomto zařízení."
+  },
+  "popSiteActive": {
+    "message": "Na tomto webu aktivní"
+  },
+  "popSitePaused": {
+    "message": "Na tomto webu pozastaveno"
+  },
+  "popSitePause": {
+    "message": "Pozastavit na tomto webu"
+  },
+  "popSiteResume": {
+    "message": "Obnovit na tomto webu"
+  },
+  "popDraftsKept": {
+    "message": "$1 z $2 konceptů uloženo",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "25"
+      }
+    }
+  },
+  "popSeePlans": {
+    "message": "Zobrazit oba plány →"
+  },
+  "ovTitle": {
+    "message": "Editor BoxGrow"
+  },
+  "ovSaveClose": {
+    "message": "Uložit a zavřít"
+  },
+  "ovClose": {
+    "message": "Zavřít"
+  },
+  "ovUndoCounter": {
+    "message": "Zpět: $1 z $2 kroků",
+    "placeholders": {
+      "used": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "ovUndoCapFree": {
+    "message": "Bezplatná verze uchovává 5 kroků vracení zpět. Pro uchovává 50."
+  },
+  "ovFieldGone": {
+    "message": "Původní pole je pryč. Váš text je tu v bezpečí."
+  },
+  "chipRestore": {
+    "message": "Obnovit koncept"
+  },
+  "chipDismiss": {
+    "message": "Zavřít"
+  },
+  "chipDraftFull": {
+    "message": "Historie konceptů je v bezplatné verzi plná (25 konceptů). Pro uchovává 200 a obnovuje automaticky."
+  },
+  "btnOpenEditor": {
+    "message": "Otevřít v editoru BoxGrow"
+  },
+  "popTitle": {
+    "message": "BoxGrow"
+  },
+  "popMaster": {
+    "message": "Automatické zvětšování všude"
+  },
+  "popSiteUnavailable": {
+    "message": "Na této stránce není k dispozici"
+  },
+  "ovCounts": {
+    "message": "$1 slov · $2 znaků",
+    "placeholders": {
+      "words": {
+        "content": "$1",
+        "example": "12"
+      },
+      "characters": {
+        "content": "$2",
+        "example": "84"
+      }
+    }
+  },
+  "onbTitle": {
+    "message": "Textová pole, která rostou s vámi · BoxGrow"
+  },
+  "onbSkip": {
+    "message": "Přeskočit úvod"
+  },
+  "onbNavBack": {
+    "message": "Zpět"
+  },
+  "onb1Eyebrow": {
+    "message": "Pole je moc malé"
+  },
+  "onb1H1": {
+    "message": "Píšete do polí vytvořených pro jeden řádek."
+  },
+  "onb1Lede": {
+    "message": "Formuláře komentářů, podpůrné tikety, e-mailové editory. Pole zůstává malé, zatímco váš text roste, a jedno špatné kliknutí nebo obnovení stránky může smazat celý odstavec."
+  },
+  "onb1Pt": {
+    "message": "BoxGrow to obrací. Pole roste, když píšete, Alt + Enter otevře celoobrazovkový editor a každé pole si na tomto zařízení drží koncept."
+  },
+  "mockLabel1": {
+    "message": "Formulář podpory"
+  },
+  "mockBox1": {
+    "message": "viditelné 2 řádky z 30"
+  },
+  "mockLabel2": {
+    "message": "Pole komentáře"
+  },
+  "mockBox2": {
+    "message": "roluj, roluj, roluj"
+  },
+  "mockLabel3": {
+    "message": "E-mailový editor"
+  },
+  "mockBox3": {
+    "message": "kam zmizel můj koncept"
+  },
+  "onb1TagPain": {
+    "message": "Úzká pole. Ztracený text."
+  },
+  "onb2Eyebrow": {
+    "message": "Roste s každým stiskem klávesy"
+  },
+  "onb2H1": {
+    "message": "Pole se přizpůsobí vašemu textu, ne naopak."
+  },
+  "onb2Lede": {
+    "message": "Zaměřte libovolné textové pole a roste, když píšete, až do 80 % výšky okna. Stiskněte Alt + Enter a otevře se klidný celoobrazovkový editor s vaším textem. Uložte a text se vrátí na stránku."
+  },
+  "onb2DemoBtn": {
+    "message": "Sledujte, jak píše"
+  },
+  "mockLabelFocus": {
+    "message": "Zaměříte pole"
+  },
+  "mockFill1": {
+    "message": "Roste pro každý řádek"
+  },
+  "mockLabelHotkey": {
+    "message": "Stisknete Alt + Enter"
+  },
+  "mockFill2": {
+    "message": "Otevře se celoobrazovkový editor"
+  },
+  "mockLabelSave": {
+    "message": "Uložíte a zavřete"
+  },
+  "mockFill3": {
+    "message": "Text se vrátí do pole"
+  },
+  "mockLabelReload": {
+    "message": "Stránka se obnoví"
+  },
+  "mockFill4": {
+    "message": "Váš koncept je stále tady"
+  },
+  "onb2Cap": {
+    "message": "Jedno rozšíření pro každé textové pole"
+  },
+  "onb2Tag1": {
+    "message": "Textové oblasti"
+  },
+  "onb2Tag2": {
+    "message": "Contenteditable"
+  },
+  "onb2Tag3": {
+    "message": "Funguje v iframes"
+  },
+  "onb3Eyebrow": {
+    "message": "Vyzkoušejte přímo tady"
+  },
+  "onb3H1": {
+    "message": "Před odchodem si uložte první koncept."
+  },
+  "onb3Lede": {
+    "message": "Napište cokoli do cvičného pole a stiskněte Uložit. Jde to do stejného místního úložiště, které používají koncepty vašich polí. Na skutečných stránkách se koncepty ukládají samy, když píšete."
+  },
+  "onb3Pt": {
+    "message": "Bez účtu a bez registrace. Vše zůstává na tomto zařízení a koncepty můžete kdykoli vypnout v Možnostech."
+  },
+  "onb3Label1": {
+    "message": "Váš první cvičný řádek"
+  },
+  "onb3Ph1": {
+    "message": "Napište cokoli"
+  },
+  "onb3Label2": {
+    "message": "Ještě jeden na cestu"
+  },
+  "onb3Ph2": {
+    "message": "Vložte něco dlouhého"
+  },
+  "onbSaveBtn": {
+    "message": "Uložit můj první koncept"
+  },
+  "onbSavedOk": {
+    "message": "Uloženo na tomto zařízení. Koncepty na skutečných stránkách fungují stejně."
+  },
+  "onb4Eyebrow": {
+    "message": "Bezpečné z podstaty"
+  },
+  "onb4H1": {
+    "message": "Vaše slova nikdy neopustí vaše zařízení."
+  },
+  "onb4Stat1": {
+    "message": "izolované, bez vzdáleného kódu"
+  },
+  "onb4Stat2": {
+    "message": "síťových požadavků, nikdy"
+  },
+  "onb4Stat3": {
+    "message": "účtů, registrací, trackerů"
+  },
+  "onb4Pt": {
+    "message": "BoxGrow je jedna část větší myšlenky: poctivá vrstva pro celý prohlížeč, jeden nástroj po druhém. Bez sledování, bez přeprodeje dat, bez SEO spamu."
+  },
+  "onb4LinkWhy": {
+    "message": "Proč tyto nástroje stavím"
+  },
+  "onb4LinkVision": {
+    "message": "Vize"
+  },
+  "onb4LinkSafe": {
+    "message": "Jak vás chráníme"
+  },
+  "onb4Trust1H": {
+    "message": "Vše zůstává na vašem zařízení"
+  },
+  "onb4Trust1P": {
+    "message": "Koncepty a nastavení žijí v místním úložišti prohlížeče. Žádný účet, žádný synchronizační server, nic se nikam neposílá."
+  },
+  "onb4Trust2H": {
+    "message": "Jeden člověk, staví veřejně"
+  },
+  "onb4Trust2P": {
+    "message": "Žádná bezejmenná firma. Vývojář, který vydává veřejně, tyto nástroje denně používá a odpovídá vám přímo na"
+  },
+  "onb5Eyebrow": {
+    "message": "Poctivé ceny"
+  },
+  "onb5H1": {
+    "message": "Bezplatné zůstává užitečné. Pro pamatuje víc."
+  },
+  "onb5Lede": {
+    "message": "Automatické zvětšování a vyskakovací editor jsou navždy zdarma. Jednorázová platba devadesát devět dolarů odemyká hlubší vracení zpět, delší historii konceptů, automatické obnovení a vlastní klávesovou zkratku."
+  },
+  "planFree": {
+    "message": "Zdarma"
+  },
+  "priceFree": {
+    "message": "$$0"
+  },
+  "onb5FreePer": {
+    "message": "navždy"
+  },
+  "onb5FreeF1": {
+    "message": "Automatické zvětšování na každém webu"
+  },
+  "onb5FreeF2": {
+    "message": "Vyskakovací editor se zpětným uložením"
+  },
+  "onb5FreeF3": {
+    "message": "Vracení zpět o 5 kroků v editoru"
+  },
+  "onb5FreeF4": {
+    "message": "25 konceptů uložených na tomto zařízení"
+  },
+  "ribbonBestValue": {
+    "message": "Nejlepší hodnota"
+  },
+  "planLifetime": {
+    "message": "Doživotní"
+  },
+  "priceLifetime": {
+    "message": "$$99"
+  },
+  "onb5ProPer": {
+    "message": "jednorázově"
+  },
+  "onb5ProF1": {
+    "message": "Vracení zpět o 50 kroků v editoru"
+  },
+  "onb5ProF2": {
+    "message": "200 konceptů uložených na tomto zařízení"
+  },
+  "onb5ProF3": {
+    "message": "Automatické obnovení konceptů"
+  },
+  "onb5ProF4": {
+    "message": "Vlastní vyskakovací zkratka"
+  },
+  "onb5ProF5": {
+    "message": "Jedna platba, žádné předplatné"
+  },
+  "onb5Cta": {
+    "message": "Získat moji doživotní za $$99"
+  },
+  "onb5Guar": {
+    "message": "14denní záruka vrácení peněz. Dáváte přednost měsíční? Je to $$4.99 na stejné stránce. Jednorázových $$99 se vrátí přibližně za 20 měsíců."
+  },
+  "onb6Eyebrow": {
+    "message": "Vše je připraveno"
+  },
+  "onb6H1": {
+    "message": "Zaměřte pole a začněte psát. To je vše."
+  },
+  "onb6Lede": {
+    "message": "Už není co nastavovat. Pole roste, Alt + Enter otevře editor a koncepty se ukládají samy. Tady jsou klávesy, které stojí za zapamatování."
+  },
+  "onb6SignH": {
+    "message": "Od vývojáře"
+  },
+  "onb6SignBody": {
+    "message": "Tyto nástroje stavím sám, otevřeně. Když se něco rozbije, napište mi a já odpovím. Když přejdete na Pro, vašich devadesát devět dolarů zaplatí další poctivý nástroj a vaše poznámky formují to, čím se stane."
+  },
+  "onb6LinkGh": {
+    "message": "Napište mi na GitHubu"
+  },
+  "onb6LinkVision": {
+    "message": "Kam to směřuje"
+  },
+  "onb6Cheat1": {
+    "message": "Zvětšit libovolné textové pole"
+  },
+  "onb6Kbd1": {
+    "message": "prostě pište"
+  },
+  "onb6Cheat2": {
+    "message": "Otevřít plný editor"
+  },
+  "onb6Cheat3": {
+    "message": "Vrátit zpět v editoru"
+  },
+  "onb6Cheat4": {
+    "message": "Obnovit ztracený koncept"
+  },
+  "onb6Kbd4": {
+    "message": "jedno kliknutí"
+  },
+  "onb6Pt": {
+    "message": "Na Macu stiskněte Cmd místo Ctrl. Vaše první rostoucí pole je na jedno kliknutí. Vyzkoušejte na libovolném formuláři komentářů nebo editoru."
+  },
+  "footBuiltBy": {
+    "message": "Vytvořil"
+  },
+  "footerPrivacy": {
+    "message": "Zásady ochrany soukromí"
+  }
+}

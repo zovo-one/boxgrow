@@ -1,0 +1,440 @@
+{
+  "extName": {
+    "message": "BoxGrow — Metin Kutusu Otomatik Büyütme ve Açılır Düzenleyici"
+  },
+  "extDescription": {
+    "message": "Metin kutuları yazdıkça büyür, tam ekran düzenleyicide açılır ve taslaklar geri yüklenir. Cihazınızdan hiçbir şey çıkmaz."
+  },
+  "actionTitle": {
+    "message": "BoxGrow"
+  },
+  "cmdPopout": {
+    "message": "Odaklanılan metin alanı için BoxGrow düzenleyiciyi aç"
+  },
+  "optionsTitle": {
+    "message": "BoxGrow seçenekleri"
+  },
+  "optAutoGrow": {
+    "message": "Metin kutularını otomatik büyüt"
+  },
+  "optAutoGrowHint": {
+    "message": "Odaklanılan metin kutusu yazdığınız metne göre büyür, pencere yüksekliğinin %80'i ile sınırlıdır."
+  },
+  "optHotkey": {
+    "message": "Açılır düzenleyici kısayolu"
+  },
+  "optHotkeyHint": {
+    "message": "Odaklanılan alan için tam ekran düzenleyiciyi açar."
+  },
+  "optHotkeyLocked": {
+    "message": "Ücretsiz sürüm Alt+Enter kullanır. Pro kısayol özelleştirmesini açar."
+  },
+  "optHotkeyRecording": {
+    "message": "Yeni tuş kombinasyonuna basın veya iptal için Esc'ye basın."
+  },
+  "optHotkeyInvalid": {
+    "message": "Bir değiştirici tuş (Ctrl, Alt, Shift veya Cmd) artı başka bir tuş kullanın."
+  },
+  "optDrafts": {
+    "message": "Taslakları kaydet"
+  },
+  "optDraftsHint": {
+    "message": "Yeniden yükleme veya yanlış tıklama metni asla kaybettirmesin diye her alan için yerel bir taslak tutar. Taslaklar bu cihazdan asla çıkmaz."
+  },
+  "licenseTitle": {
+    "message": "BoxGrow Pro daha fazlasını hatırlar"
+  },
+  "licenseFree": {
+    "message": "Ücretsiz: otomatik büyüme, açılır düzenleyici, 5 adımlık geri alma, 25 taslak. Pro, 50 adımlık geri alma, 200 taslak, otomatik geri yükleme ve özel bir kısayol ekler."
+  },
+  "licensePro": {
+    "message": "Pro etkin: 50 adım geri alma, 200 taslak, otomatik taslak geri yükleme, özel kısayol."
+  },
+  "licensePlaceholder": {
+    "message": "ZOVO-XXXX-XXXX-XXXX-XXXX"
+  },
+  "licenseKeyLabel": {
+    "message": "Lisans anahtarı"
+  },
+  "licenseActivate": {
+    "message": "Etkinleştir"
+  },
+  "licenseDeactivate": {
+    "message": "Devre dışı bırak"
+  },
+  "licenseInvalid": {
+    "message": "Bu anahtar doğrulanamadı. Yazım hatası olup olmadığını kontrol edip tekrar deneyin."
+  },
+  "licenseActivated": {
+    "message": "Pro etkinleştirildi. Teşekkürler!"
+  },
+  "upgradeCta": {
+    "message": "Her iki planı gör →"
+  },
+  "privacyLink": {
+    "message": "Gizlilik politikası"
+  },
+  "optionsFootnote": {
+    "message": "Hesap yok. İzleme yok. Her şey bu cihazda kalır."
+  },
+  "popSiteActive": {
+    "message": "Bu sitede etkin"
+  },
+  "popSitePaused": {
+    "message": "Bu sitede duraklatıldı"
+  },
+  "popSitePause": {
+    "message": "Bu sitede duraklat"
+  },
+  "popSiteResume": {
+    "message": "Bu sitede sürdür"
+  },
+  "popDraftsKept": {
+    "message": "$1 / $2 taslak saklanıyor",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "25"
+      }
+    }
+  },
+  "popSeePlans": {
+    "message": "Her iki planı gör →"
+  },
+  "ovTitle": {
+    "message": "BoxGrow düzenleyici"
+  },
+  "ovSaveClose": {
+    "message": "Kaydet ve kapat"
+  },
+  "ovClose": {
+    "message": "Kapat"
+  },
+  "ovUndoCounter": {
+    "message": "Geri alma: $1 / $2 adım",
+    "placeholders": {
+      "used": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "ovUndoCapFree": {
+    "message": "Ücretsiz 5 geri alma adımı tutar. Pro 50 tutar."
+  },
+  "ovFieldGone": {
+    "message": "Orijinal alan artık yok. Metniniz burada güvende."
+  },
+  "chipRestore": {
+    "message": "Taslağı geri yükle"
+  },
+  "chipDismiss": {
+    "message": "Kapat"
+  },
+  "chipDraftFull": {
+    "message": "Ücretsiz sürümde taslak geçmişi doldu (25 taslak). Pro 200 taslak tutar ve otomatik geri yükler."
+  },
+  "btnOpenEditor": {
+    "message": "BoxGrow düzenleyicide aç"
+  },
+  "popTitle": {
+    "message": "BoxGrow"
+  },
+  "popMaster": {
+    "message": "Her yerde otomatik büyüt"
+  },
+  "popSiteUnavailable": {
+    "message": "Bu sayfada kullanılamaz"
+  },
+  "ovCounts": {
+    "message": "$1 kelime · $2 karakter",
+    "placeholders": {
+      "words": {
+        "content": "$1",
+        "example": "12"
+      },
+      "characters": {
+        "content": "$2",
+        "example": "84"
+      }
+    }
+  },
+  "onbTitle": {
+    "message": "Seninle birlikte büyüyen metin kutuları · BoxGrow"
+  },
+  "onbSkip": {
+    "message": "Tanıtımı atla"
+  },
+  "onbNavBack": {
+    "message": "Geri"
+  },
+  "onb1Eyebrow": {
+    "message": "Kutu çok küçük"
+  },
+  "onb1H1": {
+    "message": "Tek satır için yapılmış kutulara yazıyorsun."
+  },
+  "onb1Lede": {
+    "message": "Yorum formları, destek talepleri, e-posta yazıcıları. Metnin uzarken kutu küçük kalır ve yanlış bir tıklama ya da yeniden yükleme bir paragrafı silebilir."
+  },
+  "onb1Pt": {
+    "message": "BoxGrow bunu tersine çevirir. Kutu sen yazdıkça büyür, Alt + Enter tam ekran düzenleyiciyi açar ve her alan bu cihazda bir taslak saklar."
+  },
+  "mockLabel1": {
+    "message": "Destek formu"
+  },
+  "mockBox1": {
+    "message": "30 satırın 2'si görünür"
+  },
+  "mockLabel2": {
+    "message": "Yorum kutusu"
+  },
+  "mockBox2": {
+    "message": "kaydır, kaydır, kaydır"
+  },
+  "mockLabel3": {
+    "message": "E-posta yazıcısı"
+  },
+  "mockBox3": {
+    "message": "taslağım nereye gitti"
+  },
+  "onb1TagPain": {
+    "message": "Dar kutular. Kayıp metin."
+  },
+  "onb2Eyebrow": {
+    "message": "Her tuşta büyür"
+  },
+  "onb2H1": {
+    "message": "Kutu metnine uyar, tersi değil."
+  },
+  "onb2Lede": {
+    "message": "Herhangi bir metin kutusuna odaklan, sen yazdıkça pencere yüksekliğinin %80'ine kadar büyür. Alt + Enter'a bas ve metninle sakin bir tam ekran düzenleyici açılır. Kaydet, metin sayfaya geri döner."
+  },
+  "onb2DemoBtn": {
+    "message": "Yazışını izle"
+  },
+  "mockLabelFocus": {
+    "message": "Bir kutuya odaklanırsın"
+  },
+  "mockFill1": {
+    "message": "Her satıra sığacak kadar büyür"
+  },
+  "mockLabelHotkey": {
+    "message": "Alt + Enter'a basarsın"
+  },
+  "mockFill2": {
+    "message": "Tam ekran düzenleyici açılır"
+  },
+  "mockLabelSave": {
+    "message": "Kaydedip kapatırsın"
+  },
+  "mockFill3": {
+    "message": "Metin alana geri döner"
+  },
+  "mockLabelReload": {
+    "message": "Sayfa yeniden yüklenir"
+  },
+  "mockFill4": {
+    "message": "Taslağın hâlâ burada"
+  },
+  "onb2Cap": {
+    "message": "Her metin kutusu için tek uzantı"
+  },
+  "onb2Tag1": {
+    "message": "Metin alanları"
+  },
+  "onb2Tag2": {
+    "message": "Contenteditable"
+  },
+  "onb2Tag3": {
+    "message": "iframe'lerde çalışır"
+  },
+  "onb3Eyebrow": {
+    "message": "Hemen burada dene"
+  },
+  "onb3H1": {
+    "message": "Ayrılmadan önce ilk taslağını kaydet."
+  },
+  "onb3Lede": {
+    "message": "Deneme kutusuna herhangi bir şey yaz ve kaydet'e bas. Alan taslaklarının kullandığı aynı yerel depolamaya gider. Gerçek sayfalarda taslaklar sen yazdıkça kendiliğinden kaydedilir."
+  },
+  "onb3Pt": {
+    "message": "Hesap yok, kayıt yok. Her şey bu cihazda kalır ve taslakları istediğin zaman Seçenekler'den kapatabilirsin."
+  },
+  "onb3Label1": {
+    "message": "İlk deneme satırın"
+  },
+  "onb3Ph1": {
+    "message": "Herhangi bir şey yaz"
+  },
+  "onb3Label2": {
+    "message": "Yol için bir tane daha"
+  },
+  "onb3Ph2": {
+    "message": "Uzun bir şey yapıştır"
+  },
+  "onbSaveBtn": {
+    "message": "İlk taslağımı kaydet"
+  },
+  "onbSavedOk": {
+    "message": "Bu cihaza kaydedildi. Gerçek sayfalardaki taslaklar da aynı şekilde çalışır."
+  },
+  "onb4Eyebrow": {
+    "message": "Tasarımı gereği güvenli"
+  },
+  "onb4H1": {
+    "message": "Sözlerin cihazından asla ayrılmaz."
+  },
+  "onb4Stat1": {
+    "message": "korumalı, uzaktan kod yok"
+  },
+  "onb4Stat2": {
+    "message": "ağ çağrısı, asla"
+  },
+  "onb4Stat3": {
+    "message": "hesap, kayıt, izleyici yok"
+  },
+  "onb4Pt": {
+    "message": "BoxGrow daha büyük bir fikrin parçası: tüm tarayıcı için dürüst bir katman, her seferinde bir araç. İzleme yok, veri satışı yok, SEO spam'i yok."
+  },
+  "onb4LinkWhy": {
+    "message": "Bu araçları neden yapıyorum"
+  },
+  "onb4LinkVision": {
+    "message": "Vizyon"
+  },
+  "onb4LinkSafe": {
+    "message": "Seni nasıl güvende tutuyoruz"
+  },
+  "onb4Trust1H": {
+    "message": "Her şey cihazında kalır"
+  },
+  "onb4Trust1P": {
+    "message": "Taslaklar ve ayarlar tarayıcının yerel depolamasında yaşar. Hesap yok, eşitleme sunucusu yok, hiçbir şey hiçbir yere gönderilmez."
+  },
+  "onb4Trust2H": {
+    "message": "Tek kişi, açıkça geliştiriyor"
+  },
+  "onb4Trust2P": {
+    "message": "Yüzsüz bir şirket değil. Herkese açık geliştiren, bu araçları her gün kullanan ve sana doğrudan şuradan yanıt veren bir geliştirici:"
+  },
+  "onb5Eyebrow": {
+    "message": "Dürüst fiyatlandırma"
+  },
+  "onb5H1": {
+    "message": "Ücretsiz hep kullanışlı. Pro daha fazlasını hatırlar."
+  },
+  "onb5Lede": {
+    "message": "Otomatik büyüme ve açılır düzenleyici sonsuza dek ücretsiz. Doksan dokuz dolarlık tek ödeme; daha derin geri alma, daha uzun taslak geçmişi, otomatik geri yükleme ve özel kısayolun kilidini açar."
+  },
+  "planFree": {
+    "message": "Ücretsiz"
+  },
+  "priceFree": {
+    "message": "$$0"
+  },
+  "onb5FreePer": {
+    "message": "sonsuza dek"
+  },
+  "onb5FreeF1": {
+    "message": "Her sitede otomatik büyüme"
+  },
+  "onb5FreeF2": {
+    "message": "Geri kaydetmeli açılır düzenleyici"
+  },
+  "onb5FreeF3": {
+    "message": "Düzenleyicide 5 adım geri alma"
+  },
+  "onb5FreeF4": {
+    "message": "Bu cihazda 25 taslak saklanır"
+  },
+  "ribbonBestValue": {
+    "message": "En iyi değer"
+  },
+  "planLifetime": {
+    "message": "Ömür boyu"
+  },
+  "priceLifetime": {
+    "message": "$$99"
+  },
+  "onb5ProPer": {
+    "message": "tek sefer"
+  },
+  "onb5ProF1": {
+    "message": "Düzenleyicide 50 adım geri alma"
+  },
+  "onb5ProF2": {
+    "message": "Bu cihazda 200 taslak saklanır"
+  },
+  "onb5ProF3": {
+    "message": "Otomatik taslak geri yükleme"
+  },
+  "onb5ProF4": {
+    "message": "Özel açılır kısayol"
+  },
+  "onb5ProF5": {
+    "message": "Tek ödeme, abonelik yok"
+  },
+  "onb5Cta": {
+    "message": "Ömür boyu lisansımı $$99 karşılığında al"
+  },
+  "onb5Guar": {
+    "message": "14 günlük para iade garantisi. Aylık mı tercih edersiniz? Aynı sayfada $$4.99. Bir kerelik $$99 yaklaşık 20 ayda kendini amorti eder."
+  },
+  "onb6Eyebrow": {
+    "message": "Hazırsın"
+  },
+  "onb6H1": {
+    "message": "Bir kutuya odaklan ve yazmaya başla. Hepsi bu."
+  },
+  "onb6Lede": {
+    "message": "Kurulum kalmadı. Kutu büyür, Alt + Enter düzenleyiciyi açar ve taslaklar kendini kaydeder. İşte hatırlamaya değer tuşlar."
+  },
+  "onb6SignH": {
+    "message": "Geliştiriciden"
+  },
+  "onb6SignBody": {
+    "message": "Bu araçları tek başıma, açık şekilde yapıyorum. Bir şey bozulursa bana yazın, cevaplarım. Pro'ya geçerseniz doksan dokuz dolarınız bir sonraki dürüst aracı finanse eder ve notlarınız onun ne olacağını şekillendirir."
+  },
+  "onb6LinkGh": {
+    "message": "Bana GitHub'dan ulaş"
+  },
+  "onb6LinkVision": {
+    "message": "Bu nereye gidiyor"
+  },
+  "onb6Cheat1": {
+    "message": "Herhangi bir metin kutusunu büyüt"
+  },
+  "onb6Kbd1": {
+    "message": "sadece yaz"
+  },
+  "onb6Cheat2": {
+    "message": "Tam düzenleyiciyi aç"
+  },
+  "onb6Cheat3": {
+    "message": "Düzenleyicide geri al"
+  },
+  "onb6Cheat4": {
+    "message": "Kayıp taslağı geri yükle"
+  },
+  "onb6Kbd4": {
+    "message": "tek tıklama"
+  },
+  "onb6Pt": {
+    "message": "Mac'te Ctrl yerine Cmd'ye bas. İlk büyüyen kutun bir tıklama uzakta. Herhangi bir yorum formunda ya da yazıcıda dene."
+  },
+  "footBuiltBy": {
+    "message": "Geliştiren"
+  },
+  "footerPrivacy": {
+    "message": "Gizlilik politikası"
+  }
+}

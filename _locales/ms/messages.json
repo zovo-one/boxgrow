@@ -1,0 +1,440 @@
+{
+  "extName": {
+    "message": "BoxGrow — Pembesaran Auto Kotak Teks & Editor Pop-out"
+  },
+  "extDescription": {
+    "message": "Kotak teks membesar semasa anda menaip, terbuka sebagai editor skrin penuh dan memulihkan draf. Tiada apa keluar dari peranti anda."
+  },
+  "actionTitle": {
+    "message": "BoxGrow"
+  },
+  "cmdPopout": {
+    "message": "Buka editor BoxGrow untuk medan teks yang difokuskan"
+  },
+  "optionsTitle": {
+    "message": "Pilihan BoxGrow"
+  },
+  "optAutoGrow": {
+    "message": "Besarkan kotak teks secara automatik"
+  },
+  "optAutoGrowHint": {
+    "message": "Kotak teks yang difokuskan membesar mengikut apa yang anda taip, dihadkan kepada 80% ketinggian tetingkap."
+  },
+  "optHotkey": {
+    "message": "Kekunci pintas editor pop-out"
+  },
+  "optHotkeyHint": {
+    "message": "Membuka editor skrin penuh untuk medan yang difokuskan."
+  },
+  "optHotkeyLocked": {
+    "message": "Versi percuma menggunakan Alt+Enter. Pro membuka kunci penyesuaian kekunci pintas."
+  },
+  "optHotkeyRecording": {
+    "message": "Tekan kombinasi kekunci baharu, atau Esc untuk batal."
+  },
+  "optHotkeyInvalid": {
+    "message": "Gunakan kekunci pengubah (Ctrl, Alt, Shift atau Cmd) campur kekunci lain."
+  },
+  "optDrafts": {
+    "message": "Simpan draf"
+  },
+  "optDraftsHint": {
+    "message": "Menyimpan draf setempat untuk setiap medan supaya muat semula atau klik tersilap tidak pernah menghilangkan teks. Draf tidak pernah keluar dari peranti ini."
+  },
+  "licenseTitle": {
+    "message": "BoxGrow Pro mengingati lebih banyak"
+  },
+  "licenseFree": {
+    "message": "Percuma: auto-besar, editor timbul, buat asal 5 langkah, 25 draf. Pro menambah buat asal 50 langkah, 200 draf, pemulihan automatik dan kekunci pintas tersuai."
+  },
+  "licensePro": {
+    "message": "Pro aktif: undur 50 langkah, 200 draf, pemulihan draf automatik, kekunci pintas tersuai."
+  },
+  "licensePlaceholder": {
+    "message": "ZOVO-XXXX-XXXX-XXXX-XXXX"
+  },
+  "licenseKeyLabel": {
+    "message": "Kunci lesen"
+  },
+  "licenseActivate": {
+    "message": "Aktifkan"
+  },
+  "licenseDeactivate": {
+    "message": "Nyahaktifkan"
+  },
+  "licenseInvalid": {
+    "message": "Kunci itu tidak dapat disahkan. Semak kesalahan taip dan cuba lagi."
+  },
+  "licenseActivated": {
+    "message": "Pro diaktifkan. Terima kasih!"
+  },
+  "upgradeCta": {
+    "message": "Lihat kedua-dua pelan →"
+  },
+  "privacyLink": {
+    "message": "Dasar privasi"
+  },
+  "optionsFootnote": {
+    "message": "Tiada akaun. Tiada penjejakan. Semuanya kekal dalam peranti ini."
+  },
+  "popSiteActive": {
+    "message": "Aktif di tapak ini"
+  },
+  "popSitePaused": {
+    "message": "Dijedakan di tapak ini"
+  },
+  "popSitePause": {
+    "message": "Jedakan di tapak ini"
+  },
+  "popSiteResume": {
+    "message": "Sambung semula di tapak ini"
+  },
+  "popDraftsKept": {
+    "message": "$1 daripada $2 draf disimpan",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "25"
+      }
+    }
+  },
+  "popSeePlans": {
+    "message": "Lihat kedua-dua pelan →"
+  },
+  "ovTitle": {
+    "message": "Editor BoxGrow"
+  },
+  "ovSaveClose": {
+    "message": "Simpan & tutup"
+  },
+  "ovClose": {
+    "message": "Tutup"
+  },
+  "ovUndoCounter": {
+    "message": "Undur: $1 daripada $2 langkah",
+    "placeholders": {
+      "used": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "ovUndoCapFree": {
+    "message": "Percuma menyimpan 5 langkah buat asal. Pro menyimpan 50."
+  },
+  "ovFieldGone": {
+    "message": "Medan asal sudah tiada. Teks anda selamat di sini."
+  },
+  "chipRestore": {
+    "message": "Pulihkan draf"
+  },
+  "chipDismiss": {
+    "message": "Tolak"
+  },
+  "chipDraftFull": {
+    "message": "Sejarah draf penuh dalam versi Percuma (25 draf). Pro menyimpan 200 dan memulihkan secara automatik."
+  },
+  "btnOpenEditor": {
+    "message": "Buka dalam editor BoxGrow"
+  },
+  "popTitle": {
+    "message": "BoxGrow"
+  },
+  "popMaster": {
+    "message": "Pembesaran auto di mana-mana"
+  },
+  "popSiteUnavailable": {
+    "message": "Tidak tersedia pada halaman ini"
+  },
+  "ovCounts": {
+    "message": "$1 patah perkataan · $2 aksara",
+    "placeholders": {
+      "words": {
+        "content": "$1",
+        "example": "12"
+      },
+      "characters": {
+        "content": "$2",
+        "example": "84"
+      }
+    }
+  },
+  "onbTitle": {
+    "message": "Kotak teks yang membesar bersama anda · BoxGrow"
+  },
+  "onbSkip": {
+    "message": "Langkau pengenalan"
+  },
+  "onbNavBack": {
+    "message": "Kembali"
+  },
+  "onb1Eyebrow": {
+    "message": "Kotak terlalu kecil"
+  },
+  "onb1H1": {
+    "message": "Anda menaip dalam kotak yang dibuat untuk satu baris."
+  },
+  "onb1Lede": {
+    "message": "Borang komen, tiket sokongan, penggubal e-mel. Kotak kekal kecil walaupun teks anda memanjang, dan satu klik yang salah atau muat semula boleh memadamkan satu perenggan."
+  },
+  "onb1Pt": {
+    "message": "BoxGrow menterbalikkan itu. Kotak membesar semasa anda menaip, Alt + Enter membuka editor skrin penuh, dan setiap medan menyimpan draf pada peranti ini."
+  },
+  "mockLabel1": {
+    "message": "Borang sokongan"
+  },
+  "mockBox1": {
+    "message": "2 baris kelihatan daripada 30"
+  },
+  "mockLabel2": {
+    "message": "Kotak komen"
+  },
+  "mockBox2": {
+    "message": "skrol, skrol, skrol"
+  },
+  "mockLabel3": {
+    "message": "Penggubal e-mel"
+  },
+  "mockBox3": {
+    "message": "ke mana perginya draf saya"
+  },
+  "onb1TagPain": {
+    "message": "Kotak sempit. Teks hilang."
+  },
+  "onb2Eyebrow": {
+    "message": "Membesar dengan setiap ketukan kekunci"
+  },
+  "onb2H1": {
+    "message": "Kotak menyesuaikan diri dengan teks anda, bukan sebaliknya."
+  },
+  "onb2Lede": {
+    "message": "Fokus pada mana-mana kotak teks dan ia membesar semasa anda menaip, sehingga 80% ketinggian tetingkap. Tekan Alt + Enter dan editor skrin penuh yang tenang terbuka dengan teks anda. Simpan, dan teks kembali ke halaman."
+  },
+  "onb2DemoBtn": {
+    "message": "Tonton ia menaip"
+  },
+  "mockLabelFocus": {
+    "message": "Anda memfokuskan kotak"
+  },
+  "mockFill1": {
+    "message": "Ia membesar untuk setiap baris"
+  },
+  "mockLabelHotkey": {
+    "message": "Anda menekan Alt + Enter"
+  },
+  "mockFill2": {
+    "message": "Editor skrin penuh terbuka"
+  },
+  "mockLabelSave": {
+    "message": "Anda menyimpan dan menutup"
+  },
+  "mockFill3": {
+    "message": "Teks kembali ke medan"
+  },
+  "mockLabelReload": {
+    "message": "Halaman dimuat semula"
+  },
+  "mockFill4": {
+    "message": "Draf anda masih di sini"
+  },
+  "onb2Cap": {
+    "message": "Satu sambungan untuk setiap kotak teks"
+  },
+  "onb2Tag1": {
+    "message": "Kawasan teks"
+  },
+  "onb2Tag2": {
+    "message": "Contenteditable"
+  },
+  "onb2Tag3": {
+    "message": "Berfungsi dalam iframe"
+  },
+  "onb3Eyebrow": {
+    "message": "Cuba di sini sekarang"
+  },
+  "onb3H1": {
+    "message": "Simpan draf pertama anda sebelum pergi."
+  },
+  "onb3Lede": {
+    "message": "Taip apa sahaja dalam kotak latihan dan tekan Simpan. Ia pergi ke storan tempatan yang sama yang digunakan oleh draf medan anda. Pada halaman sebenar, draf menyimpan dirinya semasa anda menaip."
+  },
+  "onb3Pt": {
+    "message": "Tiada akaun dan tiada pendaftaran. Semuanya kekal pada peranti ini, dan anda boleh mematikan draf pada bila-bila masa dalam Pilihan."
+  },
+  "onb3Label1": {
+    "message": "Baris latihan pertama anda"
+  },
+  "onb3Ph1": {
+    "message": "Taip apa sahaja"
+  },
+  "onb3Label2": {
+    "message": "Satu lagi untuk jalan"
+  },
+  "onb3Ph2": {
+    "message": "Tampal sesuatu yang panjang"
+  },
+  "onbSaveBtn": {
+    "message": "Simpan draf pertama saya"
+  },
+  "onbSavedOk": {
+    "message": "Disimpan pada peranti ini. Draf pada halaman sebenar berfungsi dengan cara yang sama."
+  },
+  "onb4Eyebrow": {
+    "message": "Selamat dari segi reka bentuk"
+  },
+  "onb4H1": {
+    "message": "Perkataan anda tidak pernah meninggalkan peranti anda."
+  },
+  "onb4Stat1": {
+    "message": "terpencil, tiada kod jauh"
+  },
+  "onb4Stat2": {
+    "message": "panggilan rangkaian, tidak pernah"
+  },
+  "onb4Stat3": {
+    "message": "akaun, pendaftaran, penjejak"
+  },
+  "onb4Pt": {
+    "message": "BoxGrow ialah sebahagian daripada idea yang lebih besar: lapisan jujur untuk seluruh pelayar, satu alat pada satu masa. Tiada penjejakan, tiada penjualan semula data, tiada spam SEO."
+  },
+  "onb4LinkWhy": {
+    "message": "Mengapa saya membina alat ini"
+  },
+  "onb4LinkVision": {
+    "message": "Visi"
+  },
+  "onb4LinkSafe": {
+    "message": "Bagaimana kami melindungi anda"
+  },
+  "onb4Trust1H": {
+    "message": "Semuanya kekal pada peranti anda"
+  },
+  "onb4Trust1P": {
+    "message": "Draf dan tetapan hidup dalam storan tempatan pelayar. Tiada akaun, tiada pelayan penyegerakan, tiada apa yang dihantar ke mana-mana."
+  },
+  "onb4Trust2H": {
+    "message": "Seorang sahaja, membina secara terbuka"
+  },
+  "onb4Trust2P": {
+    "message": "Bukan syarikat tanpa muka. Seorang pembangun yang mengeluarkan secara terbuka, menggunakan alat ini setiap hari, dan menjawab anda secara langsung di"
+  },
+  "onb5Eyebrow": {
+    "message": "Harga yang jujur"
+  },
+  "onb5H1": {
+    "message": "Percuma kekal berguna. Pro mengingati lebih banyak."
+  },
+  "onb5Lede": {
+    "message": "Auto-besar dan editor timbul percuma selamanya. Satu bayaran sembilan puluh sembilan dolar membuka kunci buat asal yang lebih dalam, sejarah draf yang lebih panjang, pemulihan automatik dan kekunci pintas tersuai."
+  },
+  "planFree": {
+    "message": "Percuma"
+  },
+  "priceFree": {
+    "message": "$$0"
+  },
+  "onb5FreePer": {
+    "message": "selamanya"
+  },
+  "onb5FreeF1": {
+    "message": "Auto-besar pada setiap tapak"
+  },
+  "onb5FreeF2": {
+    "message": "Editor timbul dengan simpan semula"
+  },
+  "onb5FreeF3": {
+    "message": "Buat asal 5 langkah dalam editor"
+  },
+  "onb5FreeF4": {
+    "message": "25 draf disimpan pada peranti ini"
+  },
+  "ribbonBestValue": {
+    "message": "Nilai terbaik"
+  },
+  "planLifetime": {
+    "message": "Seumur hidup"
+  },
+  "priceLifetime": {
+    "message": "$$99"
+  },
+  "onb5ProPer": {
+    "message": "sekali"
+  },
+  "onb5ProF1": {
+    "message": "Buat asal 50 langkah dalam editor"
+  },
+  "onb5ProF2": {
+    "message": "200 draf disimpan pada peranti ini"
+  },
+  "onb5ProF3": {
+    "message": "Pemulihan draf automatik"
+  },
+  "onb5ProF4": {
+    "message": "Kekunci pintas timbul tersuai"
+  },
+  "onb5ProF5": {
+    "message": "Satu bayaran, tiada langganan"
+  },
+  "onb5Cta": {
+    "message": "Dapatkan seumur hidup saya dengan $$99"
+  },
+  "onb5Guar": {
+    "message": "Jaminan wang dikembalikan 14 hari. Lebih suka bulanan? Ia $$4.99 pada halaman yang sama. $$99 sekali bayar membayar balik dirinya dalam kira-kira 20 bulan."
+  },
+  "onb6Eyebrow": {
+    "message": "Semuanya sedia"
+  },
+  "onb6H1": {
+    "message": "Fokuskan kotak dan mula menaip. Itu sahaja."
+  },
+  "onb6Lede": {
+    "message": "Tiada lagi yang perlu disediakan. Kotak membesar, Alt + Enter membuka editor, dan draf menyimpan dirinya. Ini kekunci yang patut diingati."
+  },
+  "onb6SignH": {
+    "message": "Daripada pembangun"
+  },
+  "onb6SignBody": {
+    "message": "Saya membina alat ini sendirian, secara terbuka. Jika ada yang rosak, tulis kepada saya dan saya akan jawab. Jika anda ambil Pro, sembilan puluh sembilan dolar anda membiayai alat jujur seterusnya, dan nota anda membentuk apa jadinya."
+  },
+  "onb6LinkGh": {
+    "message": "Hubungi saya di GitHub"
+  },
+  "onb6LinkVision": {
+    "message": "Ke mana arahnya"
+  },
+  "onb6Cheat1": {
+    "message": "Besarkan mana-mana kotak teks"
+  },
+  "onb6Kbd1": {
+    "message": "hanya taip"
+  },
+  "onb6Cheat2": {
+    "message": "Buka editor penuh"
+  },
+  "onb6Cheat3": {
+    "message": "Buat asal dalam editor"
+  },
+  "onb6Cheat4": {
+    "message": "Pulihkan draf yang hilang"
+  },
+  "onb6Kbd4": {
+    "message": "satu klik"
+  },
+  "onb6Pt": {
+    "message": "Pada Mac, tekan Cmd dan bukan Ctrl. Kotak membesar pertama anda hanya satu klik sahaja. Cuba pada mana-mana borang komen atau penggubal."
+  },
+  "footBuiltBy": {
+    "message": "Dibina oleh"
+  },
+  "footerPrivacy": {
+    "message": "Dasar Privasi"
+  }
+}

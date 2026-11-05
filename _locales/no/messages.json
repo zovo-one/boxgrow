@@ -1,0 +1,440 @@
+{
+  "extName": {
+    "message": "BoxGrow — Automatisk utvidelse av tekstbokser og redaktør"
+  },
+  "extDescription": {
+    "message": "Tekstbokser vokser mens du skriver, åpnes i fullskjerm-editor og gjenoppretter utkast. Ingenting forlater enheten din."
+  },
+  "actionTitle": {
+    "message": "BoxGrow"
+  },
+  "cmdPopout": {
+    "message": "Åpne BoxGrow-redaktøren for det fokuserte tekstfeltet"
+  },
+  "optionsTitle": {
+    "message": "BoxGrow-alternativer"
+  },
+  "optAutoGrow": {
+    "message": "Utvid tekstbokser automatisk"
+  },
+  "optAutoGrowHint": {
+    "message": "En fokusert tekstboks vokser etter det du skriver, begrenset til 80 % av vinduets høyde."
+  },
+  "optHotkey": {
+    "message": "Hurtigtast for pop-out-redaktør"
+  },
+  "optHotkeyHint": {
+    "message": "Åpner fullskjerm-redaktøren for det fokuserte feltet."
+  },
+  "optHotkeyLocked": {
+    "message": "Gratisversjonen bruker Alt+Enter. Pro låser opp tilpasning av hurtigtasten."
+  },
+  "optHotkeyRecording": {
+    "message": "Trykk på den nye tastekombinasjonen, eller Esc for å avbryte."
+  },
+  "optHotkeyInvalid": {
+    "message": "Bruk en modifikatortast (Ctrl, Alt, Shift eller Cmd) pluss en annen tast."
+  },
+  "optDrafts": {
+    "message": "Lagre utkast"
+  },
+  "optDraftsHint": {
+    "message": "Beholder et lokalt utkast for hvert felt slik at en omlasting eller et feilklikk aldri mister tekst. Utkast forlater aldri denne enheten."
+  },
+  "licenseTitle": {
+    "message": "BoxGrow Pro husker mer"
+  },
+  "licenseFree": {
+    "message": "Gratis: automatisk vekst, pop-out-editor, angre i 5 trinn, 25 utkast. Pro legger til angre i 50 trinn, 200 utkast, automatisk gjenoppretting og en egendefinert hurtigtast."
+  },
+  "licensePro": {
+    "message": "Pro er aktiv: 50-trinns angre, 200 utkast, automatisk gjenoppretting av utkast, tilpasset hurtigtast."
+  },
+  "licensePlaceholder": {
+    "message": "ZOVO-XXXX-XXXX-XXXX-XXXX"
+  },
+  "licenseKeyLabel": {
+    "message": "Lisensnøkkel"
+  },
+  "licenseActivate": {
+    "message": "Aktiver"
+  },
+  "licenseDeactivate": {
+    "message": "Deaktiver"
+  },
+  "licenseInvalid": {
+    "message": "Den nøkkelen kunne ikke verifiseres. Se etter skrivefeil og prøv igjen."
+  },
+  "licenseActivated": {
+    "message": "Pro aktivert. Takk!"
+  },
+  "upgradeCta": {
+    "message": "Se begge planene →"
+  },
+  "privacyLink": {
+    "message": "Personvernerklæring"
+  },
+  "optionsFootnote": {
+    "message": "Ingen kontoer. Ingen sporing. Alt blir på denne enheten."
+  },
+  "popSiteActive": {
+    "message": "Aktiv på dette nettstedet"
+  },
+  "popSitePaused": {
+    "message": "Satt på pause på dette nettstedet"
+  },
+  "popSitePause": {
+    "message": "Sett på pause på dette nettstedet"
+  },
+  "popSiteResume": {
+    "message": "Fortsett på dette nettstedet"
+  },
+  "popDraftsKept": {
+    "message": "$1 av $2 utkast lagret",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "25"
+      }
+    }
+  },
+  "popSeePlans": {
+    "message": "Se begge planene →"
+  },
+  "ovTitle": {
+    "message": "BoxGrow-redaktør"
+  },
+  "ovSaveClose": {
+    "message": "Lagre og lukk"
+  },
+  "ovClose": {
+    "message": "Lukk"
+  },
+  "ovUndoCounter": {
+    "message": "Angre: $1 av $2 trinn",
+    "placeholders": {
+      "used": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "ovUndoCapFree": {
+    "message": "Gratis beholder 5 angretrinn. Pro beholder 50."
+  },
+  "ovFieldGone": {
+    "message": "Det opprinnelige feltet er borte. Teksten din er trygg her."
+  },
+  "chipRestore": {
+    "message": "Gjenopprett utkast"
+  },
+  "chipDismiss": {
+    "message": "Avvis"
+  },
+  "chipDraftFull": {
+    "message": "Utkasthistorikken er full i gratisversjonen (25 utkast). Pro beholder 200 og gjenoppretter automatisk."
+  },
+  "btnOpenEditor": {
+    "message": "Åpne i BoxGrow-redaktøren"
+  },
+  "popTitle": {
+    "message": "BoxGrow"
+  },
+  "popMaster": {
+    "message": "Automatisk utvidelse overalt"
+  },
+  "popSiteUnavailable": {
+    "message": "Ikke tilgjengelig på denne siden"
+  },
+  "ovCounts": {
+    "message": "$1 ord · $2 tegn",
+    "placeholders": {
+      "words": {
+        "content": "$1",
+        "example": "12"
+      },
+      "characters": {
+        "content": "$2",
+        "example": "84"
+      }
+    }
+  },
+  "onbTitle": {
+    "message": "Tekstbokser som vokser med deg · BoxGrow"
+  },
+  "onbSkip": {
+    "message": "Hopp over introduksjonen"
+  },
+  "onbNavBack": {
+    "message": "Tilbake"
+  },
+  "onb1Eyebrow": {
+    "message": "Boksen er for liten"
+  },
+  "onb1H1": {
+    "message": "Du skriver i bokser laget for én linje."
+  },
+  "onb1Lede": {
+    "message": "Kommentarskjemaer, supportsaker, e-postklienter. Boksen forblir liten mens teksten din vokser, og ett feil klikk eller en omlasting kan slette et helt avsnitt."
+  },
+  "onb1Pt": {
+    "message": "BoxGrow snur det om. Boksen vokser mens du skriver, Alt + Enter åpner en fullskjermeditor, og hvert felt holder et utkast på denne enheten."
+  },
+  "mockLabel1": {
+    "message": "Supportskjema"
+  },
+  "mockBox1": {
+    "message": "2 linjer synlige av 30"
+  },
+  "mockLabel2": {
+    "message": "Kommentarboks"
+  },
+  "mockBox2": {
+    "message": "rull, rull, rull"
+  },
+  "mockLabel3": {
+    "message": "E-postklient"
+  },
+  "mockBox3": {
+    "message": "hvor ble utkastet mitt av"
+  },
+  "onb1TagPain": {
+    "message": "Trange bokser. Tapt tekst."
+  },
+  "onb2Eyebrow": {
+    "message": "Vokser med hvert tastetrykk"
+  },
+  "onb2H1": {
+    "message": "Boksen tilpasser seg teksten din, ikke omvendt."
+  },
+  "onb2Lede": {
+    "message": "Fokuser en hvilken som helst tekstboks, og den vokser mens du skriver, opptil 80 % av vindushøyden. Trykk Alt + Enter, og en rolig fullskjermeditor åpnes med teksten din. Lagre, og teksten går tilbake til siden."
+  },
+  "onb2DemoBtn": {
+    "message": "Se den skrive"
+  },
+  "mockLabelFocus": {
+    "message": "Du fokuserer en boks"
+  },
+  "mockFill1": {
+    "message": "Den vokser for hver linje"
+  },
+  "mockLabelHotkey": {
+    "message": "Du trykker Alt + Enter"
+  },
+  "mockFill2": {
+    "message": "Fullskjermeditor åpnes"
+  },
+  "mockLabelSave": {
+    "message": "Du lagrer og lukker"
+  },
+  "mockFill3": {
+    "message": "Teksten går tilbake til feltet"
+  },
+  "mockLabelReload": {
+    "message": "Siden lastes på nytt"
+  },
+  "mockFill4": {
+    "message": "Utkastet ditt er fortsatt her"
+  },
+  "onb2Cap": {
+    "message": "Én utvidelse for hver tekstboks"
+  },
+  "onb2Tag1": {
+    "message": "Tekstområder"
+  },
+  "onb2Tag2": {
+    "message": "Contenteditable"
+  },
+  "onb2Tag3": {
+    "message": "Fungerer i iframes"
+  },
+  "onb3Eyebrow": {
+    "message": "Prøv det her med en gang"
+  },
+  "onb3H1": {
+    "message": "Lagre ditt første utkast før du går."
+  },
+  "onb3Lede": {
+    "message": "Skriv hva som helst i øvingsboksen og trykk Lagre. Det går til samme lokale lagring som utkastene i feltene dine bruker. På ekte sider lagres utkastene av seg selv mens du skriver."
+  },
+  "onb3Pt": {
+    "message": "Ingen konto og ingen registrering. Alt blir på denne enheten, og du kan slå av utkast når som helst i Alternativer."
+  },
+  "onb3Label1": {
+    "message": "Din første øvingslinje"
+  },
+  "onb3Ph1": {
+    "message": "Skriv hva som helst"
+  },
+  "onb3Label2": {
+    "message": "En til for veien"
+  },
+  "onb3Ph2": {
+    "message": "Lim inn noe langt"
+  },
+  "onbSaveBtn": {
+    "message": "Lagre mitt første utkast"
+  },
+  "onbSavedOk": {
+    "message": "Lagret på denne enheten. Utkast på ekte sider fungerer på samme måte."
+  },
+  "onb4Eyebrow": {
+    "message": "Trygg ved design"
+  },
+  "onb4H1": {
+    "message": "Ordene dine forlater aldri enheten din."
+  },
+  "onb4Stat1": {
+    "message": "isolert, ingen ekstern kode"
+  },
+  "onb4Stat2": {
+    "message": "nettverkskall, aldri"
+  },
+  "onb4Stat3": {
+    "message": "kontoer, registreringer, sporere"
+  },
+  "onb4Pt": {
+    "message": "BoxGrow er en del av en større idé: et ærlig lag for hele nettleseren, ett verktøy om gangen. Ingen sporing, ingen videresalg av data, ingen SEO-søppel."
+  },
+  "onb4LinkWhy": {
+    "message": "Hvorfor jeg bygger disse verktøyene"
+  },
+  "onb4LinkVision": {
+    "message": "Visjonen"
+  },
+  "onb4LinkSafe": {
+    "message": "Slik beskytter vi deg"
+  },
+  "onb4Trust1H": {
+    "message": "Alt blir på enheten din"
+  },
+  "onb4Trust1P": {
+    "message": "Utkast og innstillinger lever i nettleserens lokale lagring. Ingen konto, ingen synkroniseringsserver, ingenting sendes noe sted."
+  },
+  "onb4Trust2H": {
+    "message": "Én person, bygger åpent"
+  },
+  "onb4Trust2P": {
+    "message": "Ikke et ansiktsløst selskap. En utvikler som slipper åpent, bruker disse verktøyene hver dag og svarer deg direkte på"
+  },
+  "onb5Eyebrow": {
+    "message": "Ærlige priser"
+  },
+  "onb5H1": {
+    "message": "Gratis forblir nyttig. Pro husker mer."
+  },
+  "onb5Lede": {
+    "message": "Automatisk vekst og pop-out-editoren er gratis for alltid. En engangsbetaling på nittini dollar låser opp dypere angre, lengre utkasthistorikk, automatisk gjenoppretting og en egendefinert hurtigtast."
+  },
+  "planFree": {
+    "message": "Gratis"
+  },
+  "priceFree": {
+    "message": "$$0"
+  },
+  "onb5FreePer": {
+    "message": "for alltid"
+  },
+  "onb5FreeF1": {
+    "message": "Automatisk vekst på alle sider"
+  },
+  "onb5FreeF2": {
+    "message": "Pop-out-editor med tilbake-lagring"
+  },
+  "onb5FreeF3": {
+    "message": "Angre i 5 trinn i editoren"
+  },
+  "onb5FreeF4": {
+    "message": "25 utkast lagret på denne enheten"
+  },
+  "ribbonBestValue": {
+    "message": "Best verdi"
+  },
+  "planLifetime": {
+    "message": "Livsvarig"
+  },
+  "priceLifetime": {
+    "message": "$$99"
+  },
+  "onb5ProPer": {
+    "message": "én gang"
+  },
+  "onb5ProF1": {
+    "message": "Angre i 50 trinn i editoren"
+  },
+  "onb5ProF2": {
+    "message": "200 utkast lagret på denne enheten"
+  },
+  "onb5ProF3": {
+    "message": "Automatisk gjenoppretting av utkast"
+  },
+  "onb5ProF4": {
+    "message": "Egendefinert pop-out-hurtigtast"
+  },
+  "onb5ProF5": {
+    "message": "Én betaling, ingen abonnement"
+  },
+  "onb5Cta": {
+    "message": "Få min livsvarige for $$99"
+  },
+  "onb5Guar": {
+    "message": "14 dagers pengene-tilbake-garanti. Foretrekker du månedlig? Det er $$4.99 på samme side. $$99 én gang betaler seg selv på omtrent 20 måneder."
+  },
+  "onb6Eyebrow": {
+    "message": "Alt er klart"
+  },
+  "onb6H1": {
+    "message": "Fokuser en boks og begynn å skrive. Det er alt."
+  },
+  "onb6Lede": {
+    "message": "Ingenting mer å sette opp. Boksen vokser, Alt + Enter åpner editoren, og utkast lagres av seg selv. Her er tastene verdt å huske."
+  },
+  "onb6SignH": {
+    "message": "Fra utvikleren"
+  },
+  "onb6SignBody": {
+    "message": "Jeg bygger disse verktøyene alene, åpent. Hvis noe går i stykker, skriv til meg, og jeg svarer. Hvis du går Pro, finansierer de nittini dollarene dine det neste ærlige verktøyet, og notatene dine former hva det blir."
+  },
+  "onb6LinkGh": {
+    "message": "Skriv til meg på GitHub"
+  },
+  "onb6LinkVision": {
+    "message": "Hvor dette er på vei"
+  },
+  "onb6Cheat1": {
+    "message": "Gjør en hvilken som helst tekstboks større"
+  },
+  "onb6Kbd1": {
+    "message": "bare skriv"
+  },
+  "onb6Cheat2": {
+    "message": "Åpne hele editoren"
+  },
+  "onb6Cheat3": {
+    "message": "Angre i editoren"
+  },
+  "onb6Cheat4": {
+    "message": "Gjenopprett et tapt utkast"
+  },
+  "onb6Kbd4": {
+    "message": "ett klikk"
+  },
+  "onb6Pt": {
+    "message": "På Mac trykker du Cmd i stedet for Ctrl. Din første voksende boks er ett klikk unna. Prøv det på et hvilket som helst kommentarskjema eller skriveprogram."
+  },
+  "footBuiltBy": {
+    "message": "Bygget av"
+  },
+  "footerPrivacy": {
+    "message": "Personvernerklæring"
+  }
+}

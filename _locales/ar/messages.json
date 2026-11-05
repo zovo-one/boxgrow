@@ -1,0 +1,440 @@
+{
+  "extName": {
+    "message": "BoxGrow — توسيع مربعات النص تلقائيًا ومحرر منبثق"
+  },
+  "extDescription": {
+    "message": "تتوسع مربعات النص أثناء الكتابة، وتنبثق في محرر بملء الشاشة، وتستعيد المسودات بعد إعادة التحميل. لا شيء يغادر جهازك."
+  },
+  "actionTitle": {
+    "message": "BoxGrow"
+  },
+  "cmdPopout": {
+    "message": "فتح محرر BoxGrow لحقل النص النشط"
+  },
+  "optionsTitle": {
+    "message": "خيارات BoxGrow"
+  },
+  "optAutoGrow": {
+    "message": "توسيع مربعات النص تلقائيًا"
+  },
+  "optAutoGrowHint": {
+    "message": "يتوسع مربع النص النشط ليتسع لما تكتبه، بحد أقصى 80% من ارتفاع النافذة."
+  },
+  "optHotkey": {
+    "message": "اختصار المحرر المنبثق"
+  },
+  "optHotkeyHint": {
+    "message": "يفتح المحرر بملء الشاشة للحقل النشط."
+  },
+  "optHotkeyLocked": {
+    "message": "الإصدار المجاني يستخدم Alt+Enter. يفتح Pro تخصيص الاختصار."
+  },
+  "optHotkeyRecording": {
+    "message": "اضغط تركيبة المفاتيح الجديدة، أو Esc للإلغاء."
+  },
+  "optHotkeyInvalid": {
+    "message": "استخدم مفتاح تعديل (Ctrl أو Alt أو Shift أو Cmd) مع مفتاح آخر."
+  },
+  "optDrafts": {
+    "message": "حفظ المسودات"
+  },
+  "optDraftsHint": {
+    "message": "يحتفظ بمسودة محلية لكل حقل حتى لا تفقد إعادة التحميل أو النقرة الخاطئة النص أبدًا. المسودات لا تغادر هذا الجهاز أبدًا."
+  },
+  "licenseTitle": {
+    "message": "BoxGrow Pro يتذكر أكثر"
+  },
+  "licenseFree": {
+    "message": "مجاني: نمو تلقائي، محرر منبثق، تراجع بخمس خطوات، 25 مسودة. يضيف Pro تراجعًا بخمسين خطوة، 200 مسودة، استعادة تلقائية، واختصارًا مخصصًا."
+  },
+  "licensePro": {
+    "message": "Pro نشط: تراجع من 50 خطوة، 200 مسودة، استعادة تلقائية للمسودات، اختصار مخصص."
+  },
+  "licensePlaceholder": {
+    "message": "ZOVO-XXXX-XXXX-XXXX-XXXX"
+  },
+  "licenseKeyLabel": {
+    "message": "مفتاح الترخيص"
+  },
+  "licenseActivate": {
+    "message": "تفعيل"
+  },
+  "licenseDeactivate": {
+    "message": "إلغاء التفعيل"
+  },
+  "licenseInvalid": {
+    "message": "لم ينجح التحقق من هذا المفتاح. تحقق من الأخطاء المطبعية وحاول مرة أخرى."
+  },
+  "licenseActivated": {
+    "message": "تم تفعيل Pro. شكرًا لك!"
+  },
+  "upgradeCta": {
+    "message": "شاهد الخطتين →"
+  },
+  "privacyLink": {
+    "message": "سياسة الخصوصية"
+  },
+  "optionsFootnote": {
+    "message": "لا حسابات. لا تتبع. كل شيء يبقى على هذا الجهاز."
+  },
+  "popSiteActive": {
+    "message": "نشط على هذا الموقع"
+  },
+  "popSitePaused": {
+    "message": "متوقف مؤقتًا على هذا الموقع"
+  },
+  "popSitePause": {
+    "message": "إيقاف مؤقت على هذا الموقع"
+  },
+  "popSiteResume": {
+    "message": "استئناف على هذا الموقع"
+  },
+  "popDraftsKept": {
+    "message": "$1 من $2 مسودة محفوظة",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "25"
+      }
+    }
+  },
+  "popSeePlans": {
+    "message": "عرض الخطتين →"
+  },
+  "ovTitle": {
+    "message": "محرر BoxGrow"
+  },
+  "ovSaveClose": {
+    "message": "حفظ وإغلاق"
+  },
+  "ovClose": {
+    "message": "إغلاق"
+  },
+  "ovUndoCounter": {
+    "message": "التراجع: $1 من $2 خطوة",
+    "placeholders": {
+      "used": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "ovUndoCapFree": {
+    "message": "المجاني يحتفظ بخمس خطوات تراجع. Pro يحتفظ بخمسين."
+  },
+  "ovFieldGone": {
+    "message": "الحقل الأصلي اختفى. نصك آمن هنا."
+  },
+  "chipRestore": {
+    "message": "استعادة المسودة"
+  },
+  "chipDismiss": {
+    "message": "تجاهل"
+  },
+  "chipDraftFull": {
+    "message": "سجل المسودات ممتلئ في المجاني (25 مسودة). يحتفظ Pro بـ 200 ويستعيد تلقائيًا."
+  },
+  "btnOpenEditor": {
+    "message": "فتح في محرر BoxGrow"
+  },
+  "popTitle": {
+    "message": "BoxGrow"
+  },
+  "popMaster": {
+    "message": "التوسيع التلقائي في كل مكان"
+  },
+  "popSiteUnavailable": {
+    "message": "غير متاح على هذه الصفحة"
+  },
+  "ovCounts": {
+    "message": "$1 كلمة · $2 حرف",
+    "placeholders": {
+      "words": {
+        "content": "$1",
+        "example": "12"
+      },
+      "characters": {
+        "content": "$2",
+        "example": "84"
+      }
+    }
+  },
+  "onbTitle": {
+    "message": "مربعات نص تنمو معك · BoxGrow"
+  },
+  "onbSkip": {
+    "message": "تخطي المقدمة"
+  },
+  "onbNavBack": {
+    "message": "رجوع"
+  },
+  "onb1Eyebrow": {
+    "message": "المربع صغير جدًا"
+  },
+  "onb1H1": {
+    "message": "أنت تكتب في مربعات مصممة لسطر واحد."
+  },
+  "onb1Lede": {
+    "message": "نماذج التعليقات، تذاكر الدعم، محررات البريد. يبقى المربع صغيرًا بينما يطول نصك، ونقرة خاطئة أو إعادة تحميل واحدة يمكن أن تمحو فقرة كاملة."
+  },
+  "onb1Pt": {
+    "message": "BoxGrow يغيّر ذلك. المربع ينمو أثناء الكتابة، وAlt + Enter يفتح محررًا بملء الشاشة، وكل حقل يحتفظ بمسودة على هذا الجهاز."
+  },
+  "mockLabel1": {
+    "message": "نموذج الدعم"
+  },
+  "mockBox1": {
+    "message": "سطران ظاهران من 30"
+  },
+  "mockLabel2": {
+    "message": "مربع التعليقات"
+  },
+  "mockBox2": {
+    "message": "مرّر، مرّر، مرّر"
+  },
+  "mockLabel3": {
+    "message": "محرر البريد"
+  },
+  "mockBox3": {
+    "message": "أين ذهبت مسودتي"
+  },
+  "onb1TagPain": {
+    "message": "مربعات ضيقة. نص مفقود."
+  },
+  "onb2Eyebrow": {
+    "message": "ينمو مع كل ضغطة مفتاح"
+  },
+  "onb2H1": {
+    "message": "المربع يتكيف مع نصك، وليس العكس."
+  },
+  "onb2Lede": {
+    "message": "ركّز على أي مربع نص فينمو أثناء الكتابة، حتى 80% من ارتفاع النافذة. اضغط Alt + Enter فيفتح محرر هادئ بملء الشاشة وبه نصك. احفظ، فيعود النص إلى الصفحة."
+  },
+  "onb2DemoBtn": {
+    "message": "شاهد الكتابة"
+  },
+  "mockLabelFocus": {
+    "message": "تركّز على مربع"
+  },
+  "mockFill1": {
+    "message": "ينمو ليتسع لكل سطر"
+  },
+  "mockLabelHotkey": {
+    "message": "تضغط Alt + Enter"
+  },
+  "mockFill2": {
+    "message": "يفتح محرر بملء الشاشة"
+  },
+  "mockLabelSave": {
+    "message": "تحفظ وتغلق"
+  },
+  "mockFill3": {
+    "message": "يعود النص إلى الحقل"
+  },
+  "mockLabelReload": {
+    "message": "تُعاد تحميل الصفحة"
+  },
+  "mockFill4": {
+    "message": "مسودتك ما زالت هنا"
+  },
+  "onb2Cap": {
+    "message": "إضافة واحدة لكل مربع نص"
+  },
+  "onb2Tag1": {
+    "message": "مناطق النص"
+  },
+  "onb2Tag2": {
+    "message": "Contenteditable"
+  },
+  "onb2Tag3": {
+    "message": "يعمل داخل iframes"
+  },
+  "onb3Eyebrow": {
+    "message": "جرّبه هنا مباشرة"
+  },
+  "onb3H1": {
+    "message": "احفظ مسودتك الأولى قبل أن تغادر."
+  },
+  "onb3Lede": {
+    "message": "اكتب أي شيء في مربع التدريب واضغط حفظ. سيذهب إلى نفس التخزين المحلي الذي تستخدمه مسودات حقولك. في الصفحات الحقيقية، تحفظ المسودات نفسها أثناء الكتابة."
+  },
+  "onb3Pt": {
+    "message": "لا حساب ولا تسجيل. كل شيء يبقى على هذا الجهاز، ويمكنك إيقاف المسودات في أي وقت من الخيارات."
+  },
+  "onb3Label1": {
+    "message": "سطر التدريب الأول"
+  },
+  "onb3Ph1": {
+    "message": "اكتب أي شيء"
+  },
+  "onb3Label2": {
+    "message": "واحد آخر للطريق"
+  },
+  "onb3Ph2": {
+    "message": "الصق شيئًا طويلًا"
+  },
+  "onbSaveBtn": {
+    "message": "احفظ مسودتي الأولى"
+  },
+  "onbSavedOk": {
+    "message": "تم الحفظ على هذا الجهاز. المسودات في الصفحات الحقيقية تعمل بالطريقة نفسها."
+  },
+  "onb4Eyebrow": {
+    "message": "آمن بالتصميم"
+  },
+  "onb4H1": {
+    "message": "كلماتك لا تغادر جهازك أبدًا."
+  },
+  "onb4Stat1": {
+    "message": "معزول، بلا شيفرة عن بُعد"
+  },
+  "onb4Stat2": {
+    "message": "اتصالات شبكية، إطلاقًا"
+  },
+  "onb4Stat3": {
+    "message": "حسابات، تسجيلات، متعقبات"
+  },
+  "onb4Pt": {
+    "message": "BoxGrow جزء من فكرة أكبر: طبقة صادقة للمتصفح كله، أداة واحدة في كل مرة. لا تتبع، لا إعادة بيع للبيانات، لا رسائل SEO مزعجة."
+  },
+  "onb4LinkWhy": {
+    "message": "لماذا أبني هذه الأدوات"
+  },
+  "onb4LinkVision": {
+    "message": "الرؤية"
+  },
+  "onb4LinkSafe": {
+    "message": "كيف نحافظ على أمانك"
+  },
+  "onb4Trust1H": {
+    "message": "كل شيء يبقى على جهازك"
+  },
+  "onb4Trust1P": {
+    "message": "المسودات والإعدادات تعيش في التخزين المحلي للمتصفح. لا حساب، لا خادم مزامنة، لا شيء يُرسل إلى أي مكان."
+  },
+  "onb4Trust2H": {
+    "message": "شخص واحد، يبني علنًا"
+  },
+  "onb4Trust2P": {
+    "message": "ليست شركة بلا وجه. مطوّر يصدر علنًا، ويستخدم هذه الأدوات يوميًا، ويرد عليك مباشرة على"
+  },
+  "onb5Eyebrow": {
+    "message": "أسعار صادقة"
+  },
+  "onb5H1": {
+    "message": "المجاني يبقى مفيدًا. Pro يتذكر أكثر."
+  },
+  "onb5Lede": {
+    "message": "النمو التلقائي والمحرر المنبثق مجانيان للأبد. دفعة واحدة بتسعة وتسعين دولارًا تفتح تراجعًا أعمق، وسجل مسودات أطول، واستعادة تلقائية، واختصارًا مخصصًا."
+  },
+  "planFree": {
+    "message": "مجاني"
+  },
+  "priceFree": {
+    "message": "$$0"
+  },
+  "onb5FreePer": {
+    "message": "للأبد"
+  },
+  "onb5FreeF1": {
+    "message": "نمو تلقائي في كل موقع"
+  },
+  "onb5FreeF2": {
+    "message": "محرر منبثق مع حفظ راجع"
+  },
+  "onb5FreeF3": {
+    "message": "تراجع بخمس خطوات في المحرر"
+  },
+  "onb5FreeF4": {
+    "message": "25 مسودة محفوظة على هذا الجهاز"
+  },
+  "ribbonBestValue": {
+    "message": "أفضل قيمة"
+  },
+  "planLifetime": {
+    "message": "مدى الحياة"
+  },
+  "priceLifetime": {
+    "message": "$$99"
+  },
+  "onb5ProPer": {
+    "message": "مرة واحدة"
+  },
+  "onb5ProF1": {
+    "message": "تراجع بخمسين خطوة في المحرر"
+  },
+  "onb5ProF2": {
+    "message": "200 مسودة محفوظة على هذا الجهاز"
+  },
+  "onb5ProF3": {
+    "message": "استعادة المسودات تلقائيًا"
+  },
+  "onb5ProF4": {
+    "message": "اختصار منبثق مخصص"
+  },
+  "onb5ProF5": {
+    "message": "دفعة واحدة، بلا اشتراك"
+  },
+  "onb5Cta": {
+    "message": "احصل على نسختي مدى الحياة مقابل $$99"
+  },
+  "onb5Guar": {
+    "message": "ضمان استرداد المال لمدة 14 يومًا. تفضل شهريًا؟ إنه $$4.99 في الصفحة نفسها. دفعة $$99 لمرة واحدة تسترد قيمتها في نحو 20 شهرًا."
+  },
+  "onb6Eyebrow": {
+    "message": "كل شيء جاهز"
+  },
+  "onb6H1": {
+    "message": "ركّز على مربع وابدأ الكتابة. هذا كل شيء."
+  },
+  "onb6Lede": {
+    "message": "لم يبقَ أي إعداد. المربع ينمو، وAlt + Enter يفتح المحرر، والمسودات تحفظ نفسها. هذه هي المفاتيح التي تستحق التذكر."
+  },
+  "onb6SignH": {
+    "message": "من المطوّر"
+  },
+  "onb6SignBody": {
+    "message": "أبني هذه الأدوات وحدي، بشفافية. إذا تعطل شيء، اكتب لي وسأجيب. إذا اشتركت في Pro، فإن تسعة وتسعين دولارًا منك تمول الأداة الصادقة التالية، وملاحظاتك تشكل ما تصبح عليه."
+  },
+  "onb6LinkGh": {
+    "message": "تواصل معي على GitHub"
+  },
+  "onb6LinkVision": {
+    "message": "إلى أين يتجه هذا"
+  },
+  "onb6Cheat1": {
+    "message": "تنمية أي مربع نص"
+  },
+  "onb6Kbd1": {
+    "message": "فقط اكتب"
+  },
+  "onb6Cheat2": {
+    "message": "فتح المحرر الكامل"
+  },
+  "onb6Cheat3": {
+    "message": "التراجع في المحرر"
+  },
+  "onb6Cheat4": {
+    "message": "استعادة مسودة مفقودة"
+  },
+  "onb6Kbd4": {
+    "message": "نقرة واحدة"
+  },
+  "onb6Pt": {
+    "message": "على Mac، اضغط Cmd بدلًا من Ctrl. أول مربع نامٍ لك على بُعد نقرة واحدة. جرّبه على أي نموذج تعليق أو محرر."
+  },
+  "footBuiltBy": {
+    "message": "من بناء"
+  },
+  "footerPrivacy": {
+    "message": "سياسة الخصوصية"
+  }
+}

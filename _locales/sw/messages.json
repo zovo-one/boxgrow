@@ -1,0 +1,440 @@
+{
+  "extName": {
+    "message": "BoxGrow — Kuza Kiotomatiki Masanduku ya Maandishi na Kihariri"
+  },
+  "extDescription": {
+    "message": "Masanduku hukua unapoandika, hufunguka kihariri cha skrini nzima na kurejesha rasimu. Hakuna kinachotoka kwenye kifaa chako."
+  },
+  "actionTitle": {
+    "message": "BoxGrow"
+  },
+  "cmdPopout": {
+    "message": "Fungua kihariri cha BoxGrow kwa uga wa maandishi ulio lengwa"
+  },
+  "optionsTitle": {
+    "message": "Chaguo za BoxGrow"
+  },
+  "optAutoGrow": {
+    "message": "Kuza masanduku ya maandishi kiotomatiki"
+  },
+  "optAutoGrowHint": {
+    "message": "Sanduku la maandishi lililo lengwa hukua kukifaa unachoandika, kikizo 80% cha urefu wa dirisha."
+  },
+  "optHotkey": {
+    "message": "Ufunguo wa mkato wa kihariri cha pop-out"
+  },
+  "optHotkeyHint": {
+    "message": "Hufungua kihariri cha skrini nzima kwa uga ulio lengwa."
+  },
+  "optHotkeyLocked": {
+    "message": "Toleo la bure hutumia Alt+Enter. Pro hufungua ubinafsishaji wa ufunguo wa mkato."
+  },
+  "optHotkeyRecording": {
+    "message": "Bonyeza mchanganyiko mpya wa vifunguo, au Esc kughairi."
+  },
+  "optHotkeyInvalid": {
+    "message": "Tumia ufunguo wa urekebishaji (Ctrl, Alt, Shift au Cmd) pamoja na ufunguo mwingine."
+  },
+  "optDrafts": {
+    "message": "Hifadhi rasimu"
+  },
+  "optDraftsHint": {
+    "message": "Huhifadhi rasimu ya ndani kwa kila uga ili upakiaji upya au kubofya kwa makosa kusipoteze maandishi kamwe. Rasimu hazitoki kamwe kwenye kifaa hiki."
+  },
+  "licenseTitle": {
+    "message": "BoxGrow Pro hukumbuka zaidi"
+  },
+  "licenseFree": {
+    "message": "Bure: ukuzi otomatiki, kihariri cha kutokeza, tengenezo la hatua 5, rasimu 25. Pro huongeza tengenezo la hatua 50, rasimu 200, urejeshaji otomatiki na ufunguo wa mkato maalum."
+  },
+  "licensePro": {
+    "message": "Pro imewashwa: tengua hatua 50, rasimu 200, urejeshaji wa kiotomatiki wa rasimu, ufunguo wa mkato maalum."
+  },
+  "licensePlaceholder": {
+    "message": "ZOVO-XXXX-XXXX-XXXX-XXXX"
+  },
+  "licenseKeyLabel": {
+    "message": "Ufunguo wa leseni"
+  },
+  "licenseActivate": {
+    "message": "Wezesha"
+  },
+  "licenseDeactivate": {
+    "message": "Zima"
+  },
+  "licenseInvalid": {
+    "message": "Ufunguo huo haukuthibitishwa. Angalia makosa ya kuandika na ujaribu tena."
+  },
+  "licenseActivated": {
+    "message": "Pro imewashwa. Asante!"
+  },
+  "upgradeCta": {
+    "message": "Angalia mipango yote miwili →"
+  },
+  "privacyLink": {
+    "message": "Sera ya faragha"
+  },
+  "optionsFootnote": {
+    "message": "Hakuna akaunti. Hakuna ufuatiliaji. Kila kitu hukaa kwenye kifaa hiki."
+  },
+  "popSiteActive": {
+    "message": "Inafanya kazi kwenye tovuti hii"
+  },
+  "popSitePaused": {
+    "message": "Imesitishwa kwenye tovuti hii"
+  },
+  "popSitePause": {
+    "message": "Sitisha kwenye tovuti hii"
+  },
+  "popSiteResume": {
+    "message": "Endelea kwenye tovuti hii"
+  },
+  "popDraftsKept": {
+    "message": "$1 kati ya $2 rasimu zimehifadhiwa",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "25"
+      }
+    }
+  },
+  "popSeePlans": {
+    "message": "Tazama mipango yote miwili →"
+  },
+  "ovTitle": {
+    "message": "Kihariri cha BoxGrow"
+  },
+  "ovSaveClose": {
+    "message": "Hifadhi na funga"
+  },
+  "ovClose": {
+    "message": "Funga"
+  },
+  "ovUndoCounter": {
+    "message": "Tengua: $1 kati ya $2 hatua",
+    "placeholders": {
+      "used": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "ovUndoCapFree": {
+    "message": "Bure huhifadhi hatua 5 za kutengeneza. Pro huhifadhi 50."
+  },
+  "ovFieldGone": {
+    "message": "Uga wa awali haupo tena. Maandishi yako yako salama hapa."
+  },
+  "chipRestore": {
+    "message": "Rejesha rasimu"
+  },
+  "chipDismiss": {
+    "message": "Futa"
+  },
+  "chipDraftFull": {
+    "message": "Historia ya rasimu imejaa kwenye toleo la Bure (rasimu 25). Pro huhifadhi 200 na hurejesha kiotomatiki."
+  },
+  "btnOpenEditor": {
+    "message": "Fungua katika kihariri cha BoxGrow"
+  },
+  "popTitle": {
+    "message": "BoxGrow"
+  },
+  "popMaster": {
+    "message": "Ukuaji kiotomatiki kila mahali"
+  },
+  "popSiteUnavailable": {
+    "message": "Haipatikani kwenye ukurasa huu"
+  },
+  "ovCounts": {
+    "message": "$1 maneno · $2 herufi",
+    "placeholders": {
+      "words": {
+        "content": "$1",
+        "example": "12"
+      },
+      "characters": {
+        "content": "$2",
+        "example": "84"
+      }
+    }
+  },
+  "onbTitle": {
+    "message": "Visanduku vya maandishi vinavyokua pamoja nawe · BoxGrow"
+  },
+  "onbSkip": {
+    "message": "Ruka utangulizi"
+  },
+  "onbNavBack": {
+    "message": "Rudi nyuma"
+  },
+  "onb1Eyebrow": {
+    "message": "Kisanduku ni kidogo sana"
+  },
+  "onb1H1": {
+    "message": "Unaandika kwenye visanduku vilivyotengenezwa kwa mstari mmoja."
+  },
+  "onb1Lede": {
+    "message": "Fomu za maoni, tiketi za usaidizi, wahariri wa barua pepe. Kisanduku hubaki kidogo huku maandishi yako yakikua, na mbofyo mmoja usio sahihi au upakiaji upya unaweza kufuta aya nzima."
+  },
+  "onb1Pt": {
+    "message": "BoxGrow hugeuza hilo. Kisanduku hukua unapoandika, Alt + Enter hufungua kihariri cha skrini nzima, na kila uga huhifadhi rasimu kwenye kifaa hiki."
+  },
+  "mockLabel1": {
+    "message": "Fomu ya usaidizi"
+  },
+  "mockBox1": {
+    "message": "mistari 2 inayoonekana kati ya 30"
+  },
+  "mockLabel2": {
+    "message": "Kisanduku cha maoni"
+  },
+  "mockBox2": {
+    "message": "sogeza, sogeza, sogeza"
+  },
+  "mockLabel3": {
+    "message": "Mhariri wa barua pepe"
+  },
+  "mockBox3": {
+    "message": "rasimu yangu ilienda wapi"
+  },
+  "onb1TagPain": {
+    "message": "Visanduku finyu. Maandishi yaliyopotea."
+  },
+  "onb2Eyebrow": {
+    "message": "Hukua kwa kila ubonyezaji wa kitufe"
+  },
+  "onb2H1": {
+    "message": "Kisanduku hujilimbikiza kwa maandishi yako, sio kinyume."
+  },
+  "onb2Lede": {
+    "message": "Lenga kisanduku chochote cha maandishi na hukua unapoandika, hadi 80% ya urefu wa dirisha. Bonyeza Alt + Enter na kihariri tulivu cha skrini nzima hufunguka na maandishi yako. Hifadhi, na maandishi hurudi kwenye ukurasa."
+  },
+  "onb2DemoBtn": {
+    "message": "Tazama ikandika"
+  },
+  "mockLabelFocus": {
+    "message": "Unalenga kisanduku"
+  },
+  "mockFill1": {
+    "message": "Hukua kwa kila mstari"
+  },
+  "mockLabelHotkey": {
+    "message": "Unabonyeza Alt + Enter"
+  },
+  "mockFill2": {
+    "message": "Kihariri cha skrini nzima hufunguka"
+  },
+  "mockLabelSave": {
+    "message": "Unahifadhi na kufunga"
+  },
+  "mockFill3": {
+    "message": "Maandishi hurudi kwenye uga"
+  },
+  "mockLabelReload": {
+    "message": "Ukurasa unapakiwa upya"
+  },
+  "mockFill4": {
+    "message": "Rasimu yako bado iko hapa"
+  },
+  "onb2Cap": {
+    "message": "Kiendelezi kimoja kwa kila kisanduku cha maandishi"
+  },
+  "onb2Tag1": {
+    "message": "Maeneo ya maandishi"
+  },
+  "onb2Tag2": {
+    "message": "Contenteditable"
+  },
+  "onb2Tag3": {
+    "message": "Hufanya kazi ndani ya iframes"
+  },
+  "onb3Eyebrow": {
+    "message": "Jaribu hapa sasa hivi"
+  },
+  "onb3H1": {
+    "message": "Hifadhi rasimu yako ya kwanza kabla hujaondoka."
+  },
+  "onb3Lede": {
+    "message": "Andika chochote kwenye kisanduku cha mazoezi kisha ubonyeze Hifadhi. Huenda kwenye hifadhi hiyo hiyo ya ndani inayotumiwa na rasimu za sehemu zako. Katika kurasa halisi, rasimu hujihifadhi zenyewe unapoandika."
+  },
+  "onb3Pt": {
+    "message": "Hakuna akaunti wala usajili. Kila kitu hubaki kwenye kifaa hiki, na unaweza kuzima rasimu wakati wowote katika Chaguo."
+  },
+  "onb3Label1": {
+    "message": "Mstari wako wa kwanza wa mazoezi"
+  },
+  "onb3Ph1": {
+    "message": "Andika chochote"
+  },
+  "onb3Label2": {
+    "message": "Mwingine wa njiani"
+  },
+  "onb3Ph2": {
+    "message": "Bandika kitu kirefu"
+  },
+  "onbSaveBtn": {
+    "message": "Hifadhi rasimu yangu ya kwanza"
+  },
+  "onbSavedOk": {
+    "message": "Imehifadhiwa kwenye kifaa hiki. Rasimu katika kurasa halisi hufanya kazi kwa njia hiyo hiyo."
+  },
+  "onb4Eyebrow": {
+    "message": "Salama kwa muundo"
+  },
+  "onb4H1": {
+    "message": "Maneno yako hayatoki kwenye kifaa chako kamwe."
+  },
+  "onb4Stat1": {
+    "message": "imetengwa, hakuna msimbo wa mbali"
+  },
+  "onb4Stat2": {
+    "message": "miito ya mtandao, kamwe"
+  },
+  "onb4Stat3": {
+    "message": "akaunti, usajili, vifuatiliaji"
+  },
+  "onb4Pt": {
+    "message": "BoxGrow ni kipande kimoja cha wazo kubwa zaidi: safu ya uaminifu kwa kivinjari chote, chombo kimoja kwa wakati. Hakuna ufuatiliaji, hakuna kuuza data tena, hakuna barua taka za SEO."
+  },
+  "onb4LinkWhy": {
+    "message": "Kwa nini ninajenga zana hizi"
+  },
+  "onb4LinkVision": {
+    "message": "Dira"
+  },
+  "onb4LinkSafe": {
+    "message": "Jinsi tunavyokulinda"
+  },
+  "onb4Trust1H": {
+    "message": "Kila kitu hubaki kwenye kifaa chako"
+  },
+  "onb4Trust1P": {
+    "message": "Rasimu na mipangilio huishi katika hifadhi ya ndani ya kivinjari. Hakuna akaunti, hakuna seva ya usawazishaji, hakuna kitu kinachotumwa popote."
+  },
+  "onb4Trust2H": {
+    "message": "Mtu mmoja, anajenga hadharani"
+  },
+  "onb4Trust2P": {
+    "message": "Sio kampuni isiyo na uso. Mjenzi ambaye hutoa hadharani, hutumia zana hizi kila siku, na kukujibu moja kwa moja katika"
+  },
+  "onb5Eyebrow": {
+    "message": "Bei za uaminifu"
+  },
+  "onb5H1": {
+    "message": "Bure hubaki na manufaa. Pro hukumbuka zaidi."
+  },
+  "onb5Lede": {
+    "message": "Ukuzi otomatiki na kihariri cha kutokeza ni bure milele. Malipo ya mara moja ya dola tisini na tisa hufungua tengenezo la undani zaidi, historia ndefu ya rasimu, urejeshaji otomatiki na ufunguo wa mkato maalum."
+  },
+  "planFree": {
+    "message": "Bure"
+  },
+  "priceFree": {
+    "message": "$$0"
+  },
+  "onb5FreePer": {
+    "message": "milele"
+  },
+  "onb5FreeF1": {
+    "message": "Ukuzi otomatiki katika kila tovuti"
+  },
+  "onb5FreeF2": {
+    "message": "Kihariri cha kutokeza na uhifadhi wa kurudisha"
+  },
+  "onb5FreeF3": {
+    "message": "Tengenezo la hatua 5 katika kihariri"
+  },
+  "onb5FreeF4": {
+    "message": "Rasimu 25 zimehifadhiwa kwenye kifaa hiki"
+  },
+  "ribbonBestValue": {
+    "message": "Thamani bora"
+  },
+  "planLifetime": {
+    "message": "Maisha yote"
+  },
+  "priceLifetime": {
+    "message": "$$99"
+  },
+  "onb5ProPer": {
+    "message": "mara moja"
+  },
+  "onb5ProF1": {
+    "message": "Tengenezo la hatua 50 katika kihariri"
+  },
+  "onb5ProF2": {
+    "message": "Rasimu 200 zimehifadhiwa kwenye kifaa hiki"
+  },
+  "onb5ProF3": {
+    "message": "Urejeshaji otomatiki wa rasimu"
+  },
+  "onb5ProF4": {
+    "message": "Ufunguo wa mkato wa kutokeza maalum"
+  },
+  "onb5ProF5": {
+    "message": "Malipo moja, hakuna usajili wa kila mwezi"
+  },
+  "onb5Cta": {
+    "message": "Pata yangu ya maisha yote kwa $$99"
+  },
+  "onb5Guar": {
+    "message": "Dhamana ya kurudisha pesa ya siku 14. Unapendelea kila mwezi? Ni $$4.99 kwenye ukurasa huo huo. $$99 mara moja hujilipia yenyewe katika takriban miezi 20."
+  },
+  "onb6Eyebrow": {
+    "message": "Kila kitu kiko tayari"
+  },
+  "onb6H1": {
+    "message": "Lenga kisanduku na uanze kuandika. Ndio hayo tu."
+  },
+  "onb6Lede": {
+    "message": "Hakuna kingine cha kusanidi. Kisanduku hukua, Alt + Enter hufungua kihariri, na rasimu hujihifadhi zenyewe. Hizi ndizo vitufe vya kukumbuka."
+  },
+  "onb6SignH": {
+    "message": "Kutoka kwa mjenzi"
+  },
+  "onb6SignBody": {
+    "message": "Ninajenga zana hizi peke yangu, hadharani. Ikitokea kuvunjika, niandikie na mimi hujibu. Ukichukua Pro, dola zako tisini na tisa hufadhili chombo cha uaminifu kijacho, na maelezo yako huunda kile kitakachokuwa."
+  },
+  "onb6LinkGh": {
+    "message": "Niandikie kwenye GitHub"
+  },
+  "onb6LinkVision": {
+    "message": "Hii inaenda wapi"
+  },
+  "onb6Cheat1": {
+    "message": "Kukuza kisanduku chochote cha maandishi"
+  },
+  "onb6Kbd1": {
+    "message": "andika tu"
+  },
+  "onb6Cheat2": {
+    "message": "Fungua kihariri kamili"
+  },
+  "onb6Cheat3": {
+    "message": "Tengeneza katika kihariri"
+  },
+  "onb6Cheat4": {
+    "message": "Rejesha rasimu iliyopotea"
+  },
+  "onb6Kbd4": {
+    "message": "mbofyo mmoja"
+  },
+  "onb6Pt": {
+    "message": "Kwenye Mac, bonyeza Cmd badala ya Ctrl. Kisanduku chako cha kwanza cha kukua kipo umbali wa mbofyo mmoja. Jaribu kwenye fomu yoyote ya maoni au mhariri."
+  },
+  "footBuiltBy": {
+    "message": "Imejengwa na"
+  },
+  "footerPrivacy": {
+    "message": "Sera ya Faragha"
+  }
+}

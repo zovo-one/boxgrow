@@ -1,0 +1,440 @@
+{
+  "extName": {
+    "message": "BoxGrow — הגדלה אוטומטית של תיבות טקסט ועורך קופץ"
+  },
+  "extDescription": {
+    "message": "תיבות הטקסט גדלות תוך כדי הקלדה, נפתחות לעורך מסך מלא ומשחזרות טיוטות אחרי רענון. שום דבר לא יוצא מהמכשיר שלך."
+  },
+  "actionTitle": {
+    "message": "BoxGrow"
+  },
+  "cmdPopout": {
+    "message": "פתיחת עורך BoxGrow לשדה הטקסט שבמוקד"
+  },
+  "optionsTitle": {
+    "message": "אפשרויות BoxGrow"
+  },
+  "optAutoGrow": {
+    "message": "הגדלה אוטומטית של תיבות טקסט"
+  },
+  "optAutoGrowHint": {
+    "message": "תיבת טקסט במוקד גדלה כדי להתאים למה שאתה מקליד, מוגבל ל-80% מגובה החלון."
+  },
+  "optHotkey": {
+    "message": "קיצור מקשים לעורך הקופץ"
+  },
+  "optHotkeyHint": {
+    "message": "פותח את העורך במסך מלא לשדה שבמוקד."
+  },
+  "optHotkeyLocked": {
+    "message": "הגרסה החינמית משתמשת ב-Alt+Enter. Pro פותח התאמה אישית של קיצור המקשים."
+  },
+  "optHotkeyRecording": {
+    "message": "הקש את צירוף המקשים החדש, או Esc לביטול."
+  },
+  "optHotkeyInvalid": {
+    "message": "השתמש במקש משנה (Ctrl, Alt, Shift או Cmd) בתוספת מקש אחר."
+  },
+  "optDrafts": {
+    "message": "שמור טיוטות"
+  },
+  "optDraftsHint": {
+    "message": "שומר טיוטה מקומית לכל שדה כדי שרענון או קליק שגוי לעולם לא יאבדו טקסט. הטיוטות לעולם לא יוצאות מהמכשיר הזה."
+  },
+  "licenseTitle": {
+    "message": "BoxGrow Pro זוכר יותר"
+  },
+  "licenseFree": {
+    "message": "חינם: גידול אוטומטי, עורך קופץ, ביטול של 5 צעדים, 25 טיוטות. Pro מוסיף ביטול של 50 צעדים, 200 טיוטות, שחזור אוטומטי ומקש קיצור מותאם."
+  },
+  "licensePro": {
+    "message": "Pro פעיל: ביטול של 50 צעדים, 200 טיוטות, שחזור טיוטות אוטומטי, קיצור מקשים מותאם."
+  },
+  "licensePlaceholder": {
+    "message": "ZOVO-XXXX-XXXX-XXXX-XXXX"
+  },
+  "licenseKeyLabel": {
+    "message": "מפתח רישיון"
+  },
+  "licenseActivate": {
+    "message": "הפעל"
+  },
+  "licenseDeactivate": {
+    "message": "בטל הפעלה"
+  },
+  "licenseInvalid": {
+    "message": "המפתח הזה לא עבר אימות. בדוק שגיאות הקלדה ונסה שוב."
+  },
+  "licenseActivated": {
+    "message": "Pro הופעל. תודה!"
+  },
+  "upgradeCta": {
+    "message": "צפו בשתי התוכניות →"
+  },
+  "privacyLink": {
+    "message": "מדיניות פרטיות"
+  },
+  "optionsFootnote": {
+    "message": "בלי חשבונות. בלי מעקב. הכל נשאר במכשיר הזה."
+  },
+  "popSiteActive": {
+    "message": "פעיל באתר הזה"
+  },
+  "popSitePaused": {
+    "message": "מושהה באתר הזה"
+  },
+  "popSitePause": {
+    "message": "השהה באתר הזה"
+  },
+  "popSiteResume": {
+    "message": "המשך באתר הזה"
+  },
+  "popDraftsKept": {
+    "message": "$1 מתוך $2 טיוטות שמורות",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "25"
+      }
+    }
+  },
+  "popSeePlans": {
+    "message": "ראה את שתי התוכניות →"
+  },
+  "ovTitle": {
+    "message": "עורך BoxGrow"
+  },
+  "ovSaveClose": {
+    "message": "שמור וסגור"
+  },
+  "ovClose": {
+    "message": "סגור"
+  },
+  "ovUndoCounter": {
+    "message": "ביטול: $1 מתוך $2 צעדים",
+    "placeholders": {
+      "used": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "ovUndoCapFree": {
+    "message": "החינמי שומר 5 צעדי ביטול. Pro שומר 50."
+  },
+  "ovFieldGone": {
+    "message": "השדה המקורי נעלם. הטקסט שלכם בטוח כאן."
+  },
+  "chipRestore": {
+    "message": "שחזר טיוטה"
+  },
+  "chipDismiss": {
+    "message": "סגור"
+  },
+  "chipDraftFull": {
+    "message": "היסטוריית הטיוטות מלאה בגרסה החינמית (25 טיוטות). Pro שומר 200 ומשחזר אוטומטית."
+  },
+  "btnOpenEditor": {
+    "message": "פתח בעורך BoxGrow"
+  },
+  "popTitle": {
+    "message": "BoxGrow"
+  },
+  "popMaster": {
+    "message": "הגדלה אוטומטית בכל מקום"
+  },
+  "popSiteUnavailable": {
+    "message": "לא זמין בדף הזה"
+  },
+  "ovCounts": {
+    "message": "$1 מילים · $2 תווים",
+    "placeholders": {
+      "words": {
+        "content": "$1",
+        "example": "12"
+      },
+      "characters": {
+        "content": "$2",
+        "example": "84"
+      }
+    }
+  },
+  "onbTitle": {
+    "message": "תיבות טקסט שגדלות איתך · BoxGrow"
+  },
+  "onbSkip": {
+    "message": "דלגו על ההקדמה"
+  },
+  "onbNavBack": {
+    "message": "חזרה"
+  },
+  "onb1Eyebrow": {
+    "message": "התיבה קטנה מדי"
+  },
+  "onb1H1": {
+    "message": "אתם כותבים בתיבות שנבנו לשורה אחת."
+  },
+  "onb1Lede": {
+    "message": "טפסי תגובות, פניות תמיכה, עורכי דוא\"ל. התיבה נשארת קטנה בזמן שהטקסט שלכם גדל, ולחיצה שגויה אחת או רענון אחד יכולים למחוק פסקה שלמה."
+  },
+  "onb1Pt": {
+    "message": "BoxGrow הופך את זה. התיבה גדלה בזמן שאתם מקלידים, Alt + Enter פותח עורך במסך מלא, וכל שדה שומר טיוטה במכשיר הזה."
+  },
+  "mockLabel1": {
+    "message": "טופס תמיכה"
+  },
+  "mockBox1": {
+    "message": "נראות 2 שורות מתוך 30"
+  },
+  "mockLabel2": {
+    "message": "תיבת תגובות"
+  },
+  "mockBox2": {
+    "message": "גללו, גללו, גללו"
+  },
+  "mockLabel3": {
+    "message": "עורך דוא\"ל"
+  },
+  "mockBox3": {
+    "message": "לאן נעלמה הטיוטה שלי"
+  },
+  "onb1TagPain": {
+    "message": "תיבות צרות. טקסט שאבד."
+  },
+  "onb2Eyebrow": {
+    "message": "גדלה עם כל הקשה"
+  },
+  "onb2H1": {
+    "message": "התיבה מתאימה עצמה לטקסט שלכם, לא להפך."
+  },
+  "onb2Lede": {
+    "message": "התמקדו בכל תיבת טקסט והיא גדלה בזמן שאתם מקלידים, עד 80% מגובה החלון. לחצו Alt + Enter ועורך שקט במסך מלא נפתח עם הטקסט שלכם. שמרו, והטקסט חוזר לדף."
+  },
+  "onb2DemoBtn": {
+    "message": "צפו איך היא מקלידה"
+  },
+  "mockLabelFocus": {
+    "message": "אתם מתמקדים בתיבה"
+  },
+  "mockFill1": {
+    "message": "היא גדלה לכל שורה"
+  },
+  "mockLabelHotkey": {
+    "message": "אתם לוחצים Alt + Enter"
+  },
+  "mockFill2": {
+    "message": "עורך במסך מלא נפתח"
+  },
+  "mockLabelSave": {
+    "message": "אתם שומרים וסוגרים"
+  },
+  "mockFill3": {
+    "message": "הטקסט חוזר לשדה"
+  },
+  "mockLabelReload": {
+    "message": "הדף מתרענן"
+  },
+  "mockFill4": {
+    "message": "הטיוטה שלכם עדיין כאן"
+  },
+  "onb2Cap": {
+    "message": "תוסף אחד לכל תיבת טקסט"
+  },
+  "onb2Tag1": {
+    "message": "אזורי טקסט"
+  },
+  "onb2Tag2": {
+    "message": "Contenteditable"
+  },
+  "onb2Tag3": {
+    "message": "עובד בתוך iframes"
+  },
+  "onb3Eyebrow": {
+    "message": "נסו ממש כאן"
+  },
+  "onb3H1": {
+    "message": "שמרו את הטיוטה הראשונה שלכם לפני שתלכו."
+  },
+  "onb3Lede": {
+    "message": "כתבו משהו בתיבת התרגול ולחצו שמירה. זה הולך לאותו אחסון מקומי שבו משתמשות הטיוטות של השדות שלכם. בדפים אמיתיים, הטיוטות נשמרות לבד בזמן שאתם מקלידים."
+  },
+  "onb3Pt": {
+    "message": "בלי חשבון ובלי הרשמה. הכל נשאר במכשיר הזה, ואפשר לכבות טיוטות בכל רגע באפשרויות."
+  },
+  "onb3Label1": {
+    "message": "שורת התרגול הראשונה שלכם"
+  },
+  "onb3Ph1": {
+    "message": "כתבו משהו"
+  },
+  "onb3Label2": {
+    "message": "עוד אחת לדרך"
+  },
+  "onb3Ph2": {
+    "message": "הדביקו משהו ארוך"
+  },
+  "onbSaveBtn": {
+    "message": "שמרו את הטיוטה הראשונה שלי"
+  },
+  "onbSavedOk": {
+    "message": "נשמר במכשיר הזה. טיוטות בדפים אמיתיים עובדות באותה דרך."
+  },
+  "onb4Eyebrow": {
+    "message": "בטוח מעיצובו"
+  },
+  "onb4H1": {
+    "message": "המילים שלכם אף פעם לא עוזבות את המכשיר."
+  },
+  "onb4Stat1": {
+    "message": "מבודד, בלי קוד מרוחק"
+  },
+  "onb4Stat2": {
+    "message": "קריאות רשת, אף פעם"
+  },
+  "onb4Stat3": {
+    "message": "חשבונות, הרשמות, עוקבים"
+  },
+  "onb4Pt": {
+    "message": "BoxGrow הוא חלק מרעיון גדול יותר: שכבה ישרה לכל הדפדפן, כלי אחד בכל פעם. בלי מעקב, בלי מכירת נתונים, בלי ספאם SEO."
+  },
+  "onb4LinkWhy": {
+    "message": "למה אני בונה את הכלים האלה"
+  },
+  "onb4LinkVision": {
+    "message": "החזון"
+  },
+  "onb4LinkSafe": {
+    "message": "איך אנחנו שומרים עליכם"
+  },
+  "onb4Trust1H": {
+    "message": "הכל נשאר במכשיר שלכם"
+  },
+  "onb4Trust1P": {
+    "message": "הטיוטות וההגדרות חיות באחסון המקומי של הדפדפן. בלי חשבון, בלי שרת סנכרון, שום דבר לא נשלח לשום מקום."
+  },
+  "onb4Trust2H": {
+    "message": "אדם אחד, בונה בגלוי"
+  },
+  "onb4Trust2P": {
+    "message": "לא חברה חסרת פנים. מפתח שמשחרר בגלוי, משתמש בכלים האלה כל יום, ועונה לכם ישירות בכתובת"
+  },
+  "onb5Eyebrow": {
+    "message": "מחירים הוגנים"
+  },
+  "onb5H1": {
+    "message": "החינמי נשאר שימושי. Pro זוכר יותר."
+  },
+  "onb5Lede": {
+    "message": "הגידול האוטומטי והעורך הקופץ חינמיים לנצח. תשלום חד-פעמי של תשעים ותשעה דולרים פותח ביטול עמוק יותר, היסטוריית טיוטות ארוכה יותר, שחזור אוטומטי ומקש קיצור מותאם."
+  },
+  "planFree": {
+    "message": "חינם"
+  },
+  "priceFree": {
+    "message": "$$0"
+  },
+  "onb5FreePer": {
+    "message": "לנצח"
+  },
+  "onb5FreeF1": {
+    "message": "גידול אוטומטי בכל אתר"
+  },
+  "onb5FreeF2": {
+    "message": "עורך קופץ עם שמירה חזרה"
+  },
+  "onb5FreeF3": {
+    "message": "ביטול של 5 צעדים בעורך"
+  },
+  "onb5FreeF4": {
+    "message": "25 טיוטות שמורות במכשיר הזה"
+  },
+  "ribbonBestValue": {
+    "message": "התמורה הטובה ביותר"
+  },
+  "planLifetime": {
+    "message": "לכל החיים"
+  },
+  "priceLifetime": {
+    "message": "$$99"
+  },
+  "onb5ProPer": {
+    "message": "חד-פעמי"
+  },
+  "onb5ProF1": {
+    "message": "ביטול של 50 צעדים בעורך"
+  },
+  "onb5ProF2": {
+    "message": "200 טיוטות שמורות במכשיר הזה"
+  },
+  "onb5ProF3": {
+    "message": "שחזור טיוטות אוטומטי"
+  },
+  "onb5ProF4": {
+    "message": "מקש קיצור קופץ מותאם"
+  },
+  "onb5ProF5": {
+    "message": "תשלום אחד, בלי מנוי"
+  },
+  "onb5Cta": {
+    "message": "קבלו את שלי לכל החיים ב-$$99"
+  },
+  "onb5Guar": {
+    "message": "אחריות החזר כספי ל-14 יום. מעדיפים חודשי? זה $$4.99 באותו דף. תשלום חד-פעמי של $$99 מכסה את עצמו תוך כ-20 חודשים."
+  },
+  "onb6Eyebrow": {
+    "message": "הכול מוכן"
+  },
+  "onb6H1": {
+    "message": "התמקדו בתיבה והתחילו להקליד. זה הכול."
+  },
+  "onb6Lede": {
+    "message": "אין עוד מה להגדיר. התיבה גדלה, Alt + Enter פותח את העורך, והטיוטות נשמרות לבד. אלה המקשים ששווה לזכור."
+  },
+  "onb6SignH": {
+    "message": "מאת המפתח"
+  },
+  "onb6SignBody": {
+    "message": "אני בונה את הכלים האלה לבד, בגלוי. אם משהו נשבר, כתבו לי ואני עונה. אם תעברו ל-Pro, תשעים ותשע הדולרים שלכם מממנים את הכלי הישר הבא, וההערות שלכם מעצבות את מה שהוא הופך להיות."
+  },
+  "onb6LinkGh": {
+    "message": "מצאו אותי ב-GitHub"
+  },
+  "onb6LinkVision": {
+    "message": "לאן זה הולך"
+  },
+  "onb6Cheat1": {
+    "message": "הגדילו כל תיבת טקסט"
+  },
+  "onb6Kbd1": {
+    "message": "פשוט הקלידו"
+  },
+  "onb6Cheat2": {
+    "message": "פתחו את העורך המלא"
+  },
+  "onb6Cheat3": {
+    "message": "בטלו בעורך"
+  },
+  "onb6Cheat4": {
+    "message": "שחזרו טיוטה שאבדה"
+  },
+  "onb6Kbd4": {
+    "message": "לחיצה אחת"
+  },
+  "onb6Pt": {
+    "message": "ב-Mac, לחצו Cmd במקום Ctrl. התיבה הגדלה הראשונה שלכם במרחק לחיצה אחת. נסו בכל טופס תגובות או עורך."
+  },
+  "footBuiltBy": {
+    "message": "נבנה על ידי"
+  },
+  "footerPrivacy": {
+    "message": "מדיניות פרטיות"
+  }
+}

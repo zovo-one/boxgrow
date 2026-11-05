@@ -1,0 +1,440 @@
+{
+  "extName": {
+    "message": "BoxGrow — テキストエリア自動拡大＆ポップアウトエディター"
+  },
+  "extDescription": {
+    "message": "入力に合わせてテキストボックスが自動で拡大。全画面エディターで編集し、再読み込み後も下書きを復元できます。データはデバイスから出ません。"
+  },
+  "actionTitle": {
+    "message": "BoxGrow"
+  },
+  "cmdPopout": {
+    "message": "フォーカス中のテキストフィールドで BoxGrow エディターを開く"
+  },
+  "optionsTitle": {
+    "message": "BoxGrow オプション"
+  },
+  "optAutoGrow": {
+    "message": "テキストボックスの自動拡大"
+  },
+  "optAutoGrowHint": {
+    "message": "フォーカスしたテキストボックスが入力内容に合わせて拡大します。上限はウィンドウ高さの80%です。"
+  },
+  "optHotkey": {
+    "message": "ポップアウト用ショートカット"
+  },
+  "optHotkeyHint": {
+    "message": "フォーカス中のフィールドで全画面エディターを開きます。"
+  },
+  "optHotkeyLocked": {
+    "message": "無料版は Alt+Enter 固定です。Pro ではショートカットをカスタマイズできます。"
+  },
+  "optHotkeyRecording": {
+    "message": "新しいキーの組み合わせを押してください。Esc でキャンセル。"
+  },
+  "optHotkeyInvalid": {
+    "message": "修飾キー（Ctrl、Alt、Shift、Cmd のいずれか）と別のキーを組み合わせてください。"
+  },
+  "optDrafts": {
+    "message": "下書きを保存"
+  },
+  "optDraftsHint": {
+    "message": "フィールドごとにローカル下書きを保存し、再読み込みや誤クリックでテキストを失わないようにします。下書きがこのデバイスから出ることはありません。"
+  },
+  "licenseTitle": {
+    "message": "BoxGrow Proはより多く記憶します"
+  },
+  "licenseFree": {
+    "message": "無料: 自動拡大、ポップアウトエディタ、5ステップの取り消し、25件の下書き。Proは50ステップの取り消し、200件の下書き、自動復元、カスタムホットキーを追加。"
+  },
+  "licensePro": {
+    "message": "Pro 有効: 50ステップの取り消し、下書き200件、下書きの自動復元、カスタムショートカット。"
+  },
+  "licensePlaceholder": {
+    "message": "ZOVO-XXXX-XXXX-XXXX-XXXX"
+  },
+  "licenseKeyLabel": {
+    "message": "ライセンスキー"
+  },
+  "licenseActivate": {
+    "message": "有効化"
+  },
+  "licenseDeactivate": {
+    "message": "無効化"
+  },
+  "licenseInvalid": {
+    "message": "そのキーは確認できませんでした。入力ミスがないか確認してもう一度お試しください。"
+  },
+  "licenseActivated": {
+    "message": "Pro が有効になりました。ありがとうございます！"
+  },
+  "upgradeCta": {
+    "message": "両方のプランを見る →"
+  },
+  "privacyLink": {
+    "message": "プライバシーポリシー"
+  },
+  "optionsFootnote": {
+    "message": "アカウント不要。トラッキングなし。すべてこのデバイスに保存されます。"
+  },
+  "popSiteActive": {
+    "message": "このサイトで有効"
+  },
+  "popSitePaused": {
+    "message": "このサイトで一時停止中"
+  },
+  "popSitePause": {
+    "message": "このサイトで一時停止"
+  },
+  "popSiteResume": {
+    "message": "このサイトで再開"
+  },
+  "popDraftsKept": {
+    "message": "下書き $1 / $2 件保存中",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "25"
+      }
+    }
+  },
+  "popSeePlans": {
+    "message": "両方のプランを見る →"
+  },
+  "ovTitle": {
+    "message": "BoxGrow エディター"
+  },
+  "ovSaveClose": {
+    "message": "保存して閉じる"
+  },
+  "ovClose": {
+    "message": "閉じる"
+  },
+  "ovUndoCounter": {
+    "message": "取り消し: $1 / $2 ステップ",
+    "placeholders": {
+      "used": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "ovUndoCapFree": {
+    "message": "無料版は5ステップの取り消しを保持。Proは50ステップ。"
+  },
+  "ovFieldGone": {
+    "message": "元のフィールドはなくなりました。テキストはここで安全です。"
+  },
+  "chipRestore": {
+    "message": "下書きを復元"
+  },
+  "chipDismiss": {
+    "message": "閉じる"
+  },
+  "chipDraftFull": {
+    "message": "無料版の下書き履歴は上限（25件）です。Pro では200件保存し、自動で復元します。"
+  },
+  "btnOpenEditor": {
+    "message": "BoxGrow エディターで開く"
+  },
+  "popTitle": {
+    "message": "BoxGrow"
+  },
+  "popMaster": {
+    "message": "すべてのサイトで自動拡大"
+  },
+  "popSiteUnavailable": {
+    "message": "このページでは利用できません"
+  },
+  "ovCounts": {
+    "message": "$1 語 · $2 文字",
+    "placeholders": {
+      "words": {
+        "content": "$1",
+        "example": "12"
+      },
+      "characters": {
+        "content": "$2",
+        "example": "84"
+      }
+    }
+  },
+  "onbTitle": {
+    "message": "あなたと一緒に育つテキストボックス · BoxGrow"
+  },
+  "onbSkip": {
+    "message": "イントロをスキップ"
+  },
+  "onbNavBack": {
+    "message": "戻る"
+  },
+  "onb1Eyebrow": {
+    "message": "ボックスが小さすぎる"
+  },
+  "onb1H1": {
+    "message": "あなたは1行用のボックスに書き込んでいる。"
+  },
+  "onb1Lede": {
+    "message": "コメントフォーム、サポートチケット、メール作成画面。文章は長くなるのにボックスは小さいまま。1回の誤クリックやリロードで段落が消えることもあります。"
+  },
+  "onb1Pt": {
+    "message": "BoxGrow はそれを変えます。ボックスは入力に合わせて伸び、Alt + Enter で全画面エディターが開き、各フィールドの下書きはこのデバイスに保存されます。"
+  },
+  "mockLabel1": {
+    "message": "サポートフォーム"
+  },
+  "mockBox1": {
+    "message": "30行中2行だけ表示"
+  },
+  "mockLabel2": {
+    "message": "コメントボックス"
+  },
+  "mockBox2": {
+    "message": "スクロール、スクロール、スクロール"
+  },
+  "mockLabel3": {
+    "message": "メール作成画面"
+  },
+  "mockBox3": {
+    "message": "下書きはどこへ"
+  },
+  "onb1TagPain": {
+    "message": "狭いボックス。消えた文章。"
+  },
+  "onb2Eyebrow": {
+    "message": "1打鍵ごとに伸びる"
+  },
+  "onb2H1": {
+    "message": "ボックスはあなたの文章に合わせる。逆ではありません。"
+  },
+  "onb2Lede": {
+    "message": "任意のテキストボックスにフォーカスすると、入力に合わせてウィンドウ高の80%まで伸びます。Alt + Enter を押すと、落ち着いた全画面エディターが文章を載せて開きます。保存すれば、文章はページに戻ります。"
+  },
+  "onb2DemoBtn": {
+    "message": "入力デモを見る"
+  },
+  "mockLabelFocus": {
+    "message": "ボックスにフォーカス"
+  },
+  "mockFill1": {
+    "message": "各行に合わせて伸びる"
+  },
+  "mockLabelHotkey": {
+    "message": "Alt + Enter を押す"
+  },
+  "mockFill2": {
+    "message": "全画面エディターが開く"
+  },
+  "mockLabelSave": {
+    "message": "保存して閉じる"
+  },
+  "mockFill3": {
+    "message": "文章がフィールドに戻る"
+  },
+  "mockLabelReload": {
+    "message": "ページがリロード"
+  },
+  "mockFill4": {
+    "message": "下書きはまだここに"
+  },
+  "onb2Cap": {
+    "message": "すべてのテキストボックスに1つの拡張機能"
+  },
+  "onb2Tag1": {
+    "message": "テキストエリア"
+  },
+  "onb2Tag2": {
+    "message": "Contenteditable"
+  },
+  "onb2Tag3": {
+    "message": "iframe でも動作"
+  },
+  "onb3Eyebrow": {
+    "message": "ここで試せます"
+  },
+  "onb3H1": {
+    "message": "離れる前に、最初の下書きを保存しましょう。"
+  },
+  "onb3Lede": {
+    "message": "練習ボックスに何でも入力して保存を押してください。フィールドの下書きと同じローカルストレージに入ります。実際のページでは、入力中に下書きが自動で保存されます。"
+  },
+  "onb3Pt": {
+    "message": "アカウントも登録も不要。すべてこのデバイスに留まり、下書きはオプションでいつでもオフにできます。"
+  },
+  "onb3Label1": {
+    "message": "最初の練習行"
+  },
+  "onb3Ph1": {
+    "message": "何でも入力してください"
+  },
+  "onb3Label2": {
+    "message": "もう1行どうぞ"
+  },
+  "onb3Ph2": {
+    "message": "長い文章を貼り付け"
+  },
+  "onbSaveBtn": {
+    "message": "最初の下書きを保存"
+  },
+  "onbSavedOk": {
+    "message": "このデバイスに保存しました。実際のページの下書きも同じように動きます。"
+  },
+  "onb4Eyebrow": {
+    "message": "設計から安全"
+  },
+  "onb4H1": {
+    "message": "あなたの言葉はデバイスから出ません。"
+  },
+  "onb4Stat1": {
+    "message": "サンドボックス化、リモートコードなし"
+  },
+  "onb4Stat2": {
+    "message": "ネットワーク呼び出し、ゼロ"
+  },
+  "onb4Stat3": {
+    "message": "アカウント、登録、トラッカーなし"
+  },
+  "onb4Pt": {
+    "message": "BoxGrowは大きな構想の一片です。ブラウザ全体のための誠実なレイヤーを、ツールをひとつずつ。追跡なし、データ転売なし、SEOスパムなし。"
+  },
+  "onb4LinkWhy": {
+    "message": "私がこれらのツールを作る理由"
+  },
+  "onb4LinkVision": {
+    "message": "ビジョン"
+  },
+  "onb4LinkSafe": {
+    "message": "安全の保ち方"
+  },
+  "onb4Trust1H": {
+    "message": "すべてデバイスに留まる"
+  },
+  "onb4Trust1P": {
+    "message": "下書きと設定はブラウザーのローカルストレージに保存されます。アカウントも同期サーバーもなく、どこにも送信されません。"
+  },
+  "onb4Trust2H": {
+    "message": "ひとりで、公開しながら作る"
+  },
+  "onb4Trust2P": {
+    "message": "顔の見えない会社ではありません。公開で開発し、毎日これらのツールを使い、こちらで直接あなたに答える開発者です:"
+  },
+  "onb5Eyebrow": {
+    "message": "誠実な価格"
+  },
+  "onb5H1": {
+    "message": "無料はずっと使える。Pro はもっと覚えている。"
+  },
+  "onb5Lede": {
+    "message": "自動伸長とポップアウトエディターは永久に無料です。99ドルの1回払いで、より深い取り消し、より長い下書き履歴、自動復元、カスタムショートカットが解放されます。"
+  },
+  "planFree": {
+    "message": "無料"
+  },
+  "priceFree": {
+    "message": "$$0"
+  },
+  "onb5FreePer": {
+    "message": "永久に"
+  },
+  "onb5FreeF1": {
+    "message": "すべてのサイトで自動伸長"
+  },
+  "onb5FreeF2": {
+    "message": "保存して戻せるポップアウトエディター"
+  },
+  "onb5FreeF3": {
+    "message": "エディター内で5ステップ取り消し"
+  },
+  "onb5FreeF4": {
+    "message": "このデバイスに25件の下書き保存"
+  },
+  "ribbonBestValue": {
+    "message": "一番お得"
+  },
+  "planLifetime": {
+    "message": "ライフタイム"
+  },
+  "priceLifetime": {
+    "message": "$$99"
+  },
+  "onb5ProPer": {
+    "message": "1回払い"
+  },
+  "onb5ProF1": {
+    "message": "エディター内で50ステップ取り消し"
+  },
+  "onb5ProF2": {
+    "message": "このデバイスに200件の下書き保存"
+  },
+  "onb5ProF3": {
+    "message": "下書きの自動復元"
+  },
+  "onb5ProF4": {
+    "message": "カスタムポップアウトショートカット"
+  },
+  "onb5ProF5": {
+    "message": "1回払い、サブスクなし"
+  },
+  "onb5Cta": {
+    "message": "$$99で生涯版を手に入れる"
+  },
+  "onb5Guar": {
+    "message": "14日間の返金保証。月払いがよければ同じページで$$4.99。$$99の一括払いは約20か月で元が取れます。"
+  },
+  "onb6Eyebrow": {
+    "message": "準備完了"
+  },
+  "onb6H1": {
+    "message": "ボックスにフォーカスして入力を始める。それだけです。"
+  },
+  "onb6Lede": {
+    "message": "設定はもうありません。ボックスは伸び、Alt + Enter でエディターが開き、下書きは自動保存されます。覚えておく価値のあるキーはこちら。"
+  },
+  "onb6SignH": {
+    "message": "開発者より"
+  },
+  "onb6SignBody": {
+    "message": "私はこれらのツールを一人で、オープンに作っています。何か壊れたら書いてください。必ず返事をします。Proになれば、あなたの九十九ドルは次の誠実なツールの資金になり、あなたのメモがその形を決めます。"
+  },
+  "onb6LinkGh": {
+    "message": "GitHub で連絡する"
+  },
+  "onb6LinkVision": {
+    "message": "この先の方向"
+  },
+  "onb6Cheat1": {
+    "message": "任意のテキストボックスを伸ばす"
+  },
+  "onb6Kbd1": {
+    "message": "入力するだけ"
+  },
+  "onb6Cheat2": {
+    "message": "フルエディターを開く"
+  },
+  "onb6Cheat3": {
+    "message": "エディターで取り消す"
+  },
+  "onb6Cheat4": {
+    "message": "失った下書きを復元"
+  },
+  "onb6Kbd4": {
+    "message": "1クリック"
+  },
+  "onb6Pt": {
+    "message": "Mac では Ctrl の代わりに Cmd を押してください。最初の伸びるボックスまであと1クリック。任意のコメントフォームや作成画面で試してみてください。"
+  },
+  "footBuiltBy": {
+    "message": "開発"
+  },
+  "footerPrivacy": {
+    "message": "プライバシーポリシー"
+  }
+}

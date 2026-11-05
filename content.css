@@ -1,0 +1,24 @@
+/* boxgrow content — boxg4815
+ *
+ * Manifest content_scripts.css. Holds ONLY the rules that cannot be
+ * shadow-scoped: the HOST elements of the corner button and the restore
+ * chip (custom tags whose position/z-index must beat page stacking
+ * contexts). All visual styling lives in shadow DOM adoptedStyleSheets.
+ * Never use !important against host-page typography/layout — only on our
+ * own custom-element hosts, which no page styles legitimately.
+ */
+
+boxgrow-corner,
+boxgrow-chip {
+  position: absolute !important;
+  z-index: 2147483647 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: 0 !important;
+  background: transparent !important;
+}
+
+boxgrow-corner[hidden],
+boxgrow-chip[hidden] {
+  display: none !important;
+}

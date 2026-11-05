@@ -1,0 +1,440 @@
+{
+  "extName": {
+    "message": "BoxGrow — Samodejno povečevanje besedilnih polj in urejevalnik"
+  },
+  "extDescription": {
+    "message": "Besedilna polja rastejo med tipkanjem, odprejo se v celozaslonskem urejevalniku in obnovijo osnutke. Nič ne zapusti vaše naprave."
+  },
+  "actionTitle": {
+    "message": "BoxGrow"
+  },
+  "cmdPopout": {
+    "message": "Odpri BoxGrow urejevalnik za aktivno besedilno polje"
+  },
+  "optionsTitle": {
+    "message": "Nastavitve BoxGrow"
+  },
+  "optAutoGrow": {
+    "message": "Samodejno povečuj besedilna polja"
+  },
+  "optAutoGrowHint": {
+    "message": "Aktivno besedilno polje raste glede na to, kar tipkate, omejeno na 80 % višine okna."
+  },
+  "optHotkey": {
+    "message": "Bližnjica za pojavni urejevalnik"
+  },
+  "optHotkeyHint": {
+    "message": "Odpre celozaslonski urejevalnik za aktivno polje."
+  },
+  "optHotkeyLocked": {
+    "message": "Brezplačna različica uporablja Alt+Enter. Pro odklene prilagoditev bližnjice."
+  },
+  "optHotkeyRecording": {
+    "message": "Pritisnite novo kombinacijo tipk ali Esc za preklic."
+  },
+  "optHotkeyInvalid": {
+    "message": "Uporabite spremenilno tipko (Ctrl, Alt, Shift ali Cmd) plus drugo tipko."
+  },
+  "optDrafts": {
+    "message": "Shrani osnutke"
+  },
+  "optDraftsHint": {
+    "message": "Hrani lokalni osnutek za vsako polje, da ponovno nalaganje ali napačen klik nikoli ne izgubi besedila. Osnutki nikoli ne zapustijo te naprave."
+  },
+  "licenseTitle": {
+    "message": "BoxGrow Pro si zapomni več"
+  },
+  "licenseFree": {
+    "message": "Brezplačno: samodejno povečevanje, pojavni urejevalnik, razveljavljanje v 5 korakih, 25 osnutkov. Pro doda razveljavljanje v 50 korakih, 200 osnutkov, samodejno obnovitev in prilagojeno bližnjico."
+  },
+  "licensePro": {
+    "message": "Pro je aktiven: razveljavitev 50 korakov, 200 osnutkov, samodejno obnavljanje osnutkov, prilagojena bližnjica."
+  },
+  "licensePlaceholder": {
+    "message": "ZOVO-XXXX-XXXX-XXXX-XXXX"
+  },
+  "licenseKeyLabel": {
+    "message": "Licenčni ključ"
+  },
+  "licenseActivate": {
+    "message": "Aktiviraj"
+  },
+  "licenseDeactivate": {
+    "message": "Deaktiviraj"
+  },
+  "licenseInvalid": {
+    "message": "Tega ključa ni bilo mogoče preveriti. Preverite tipkarske napake in poskusite znova."
+  },
+  "licenseActivated": {
+    "message": "Pro aktiviran. Hvala!"
+  },
+  "upgradeCta": {
+    "message": "Oglejte si oba načrta →"
+  },
+  "privacyLink": {
+    "message": "Politika zasebnosti"
+  },
+  "optionsFootnote": {
+    "message": "Brez računov. Brez sledenja. Vse ostane na tej napravi."
+  },
+  "popSiteActive": {
+    "message": "Aktivno na tem mestu"
+  },
+  "popSitePaused": {
+    "message": "Zaustavljeno na tem mestu"
+  },
+  "popSitePause": {
+    "message": "Zaustavi na tem mestu"
+  },
+  "popSiteResume": {
+    "message": "Nadaljuj na tem mestu"
+  },
+  "popDraftsKept": {
+    "message": "$1 od $2 osnutkov shranjenih",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "25"
+      }
+    }
+  },
+  "popSeePlans": {
+    "message": "Glej oba paketa →"
+  },
+  "ovTitle": {
+    "message": "BoxGrow urejevalnik"
+  },
+  "ovSaveClose": {
+    "message": "Shrani in zapri"
+  },
+  "ovClose": {
+    "message": "Zapri"
+  },
+  "ovUndoCounter": {
+    "message": "Razveljavi: $1 od $2 korakov",
+    "placeholders": {
+      "used": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "ovUndoCapFree": {
+    "message": "Brezplačno ohranja 5 korakov razveljavljanja. Pro ohranja 50."
+  },
+  "ovFieldGone": {
+    "message": "Izvirnega polja ni več. Vaše besedilo je tu varno."
+  },
+  "chipRestore": {
+    "message": "Obnovi osnutek"
+  },
+  "chipDismiss": {
+    "message": "Zavrzi"
+  },
+  "chipDraftFull": {
+    "message": "Zgodovina osnutkov je polna v brezplačni različici (25 osnutkov). Pro hrani 200 in samodejno obnavlja."
+  },
+  "btnOpenEditor": {
+    "message": "Odpri v BoxGrow urejevalniku"
+  },
+  "popTitle": {
+    "message": "BoxGrow"
+  },
+  "popMaster": {
+    "message": "Samodejno povečevanje povsod"
+  },
+  "popSiteUnavailable": {
+    "message": "Ni na voljo na tej strani"
+  },
+  "ovCounts": {
+    "message": "$1 besed · $2 znakov",
+    "placeholders": {
+      "words": {
+        "content": "$1",
+        "example": "12"
+      },
+      "characters": {
+        "content": "$2",
+        "example": "84"
+      }
+    }
+  },
+  "onbTitle": {
+    "message": "Besedilna polja, ki rastejo z vami · BoxGrow"
+  },
+  "onbSkip": {
+    "message": "Preskoči uvod"
+  },
+  "onbNavBack": {
+    "message": "Nazaj"
+  },
+  "onb1Eyebrow": {
+    "message": "Polje je premajhno"
+  },
+  "onb1H1": {
+    "message": "Pišete v polja, narejena za eno vrstico."
+  },
+  "onb1Lede": {
+    "message": "Obrazci za komentarje, podporni zahtevki, sestavljalci e-pošte. Polje ostane majhno, medtem ko vaše besedilo raste, in en napačen klik ali osvežitev lahko izbriše cel odstavek."
+  },
+  "onb1Pt": {
+    "message": "BoxGrow to obrne. Polje raste med tipkanjem, Alt + Enter odpre urejevalnik čez cel zaslon, vsako polje pa na tej napravi hrani osnutek."
+  },
+  "mockLabel1": {
+    "message": "Podporni obrazec"
+  },
+  "mockBox1": {
+    "message": "vidni 2 vrstici od 30"
+  },
+  "mockLabel2": {
+    "message": "Polje za komentarje"
+  },
+  "mockBox2": {
+    "message": "drsi, drsi, drsi"
+  },
+  "mockLabel3": {
+    "message": "Sestavljalec e-pošte"
+  },
+  "mockBox3": {
+    "message": "kam je izginil moj osnutek"
+  },
+  "onb1TagPain": {
+    "message": "Ozka polja. Izgubljeno besedilo."
+  },
+  "onb2Eyebrow": {
+    "message": "Raste z vsakim pritiskom tipke"
+  },
+  "onb2H1": {
+    "message": "Polje se prilagaja vašemu besedilu, ne obratno."
+  },
+  "onb2Lede": {
+    "message": "Fokusirajte katero koli besedilno polje in raste med tipkanjem, do 80 % višine okna. Pritisnite Alt + Enter in mirni urejevalnik čez cel zaslon se odpre z vašim besedilom. Shranite in besedilo se vrne na stran."
+  },
+  "onb2DemoBtn": {
+    "message": "Oglejte si, kako tipka"
+  },
+  "mockLabelFocus": {
+    "message": "Fokusirate polje"
+  },
+  "mockFill1": {
+    "message": "Raste za vsako vrstico"
+  },
+  "mockLabelHotkey": {
+    "message": "Pritisnete Alt + Enter"
+  },
+  "mockFill2": {
+    "message": "Odpre se urejevalnik čez cel zaslon"
+  },
+  "mockLabelSave": {
+    "message": "Shranite in zaprete"
+  },
+  "mockFill3": {
+    "message": "Besedilo se vrne v polje"
+  },
+  "mockLabelReload": {
+    "message": "Stran se osveži"
+  },
+  "mockFill4": {
+    "message": "Vaš osnutek je še vedno tu"
+  },
+  "onb2Cap": {
+    "message": "Ena razširitev za vsako besedilno polje"
+  },
+  "onb2Tag1": {
+    "message": "Besedilna območja"
+  },
+  "onb2Tag2": {
+    "message": "Contenteditable"
+  },
+  "onb2Tag3": {
+    "message": "Deluje v iframe-ih"
+  },
+  "onb3Eyebrow": {
+    "message": "Poskusite kar tukaj"
+  },
+  "onb3H1": {
+    "message": "Pred odhodom shranite svoj prvi osnutek."
+  },
+  "onb3Lede": {
+    "message": "Napišite karkoli v vadbno polje in pritisnite Shrani. Gre v isto lokalno shrambo, ki jo uporabljajo osnutki vaših polj. Na pravih straneh se osnutki sami shranjujejo med tipkanjem."
+  },
+  "onb3Pt": {
+    "message": "Brez računa in brez registracije. Vse ostane na tej napravi, osnutke pa lahko kadar koli izklopite v Možnostih."
+  },
+  "onb3Label1": {
+    "message": "Vaša prva vadbna vrstica"
+  },
+  "onb3Ph1": {
+    "message": "Napišite karkoli"
+  },
+  "onb3Label2": {
+    "message": "Še ena za pot"
+  },
+  "onb3Ph2": {
+    "message": "Prilepite nekaj dolgega"
+  },
+  "onbSaveBtn": {
+    "message": "Shrani moj prvi osnutek"
+  },
+  "onbSavedOk": {
+    "message": "Shranjeno na to napravo. Osnutki na pravih straneh delujejo enako."
+  },
+  "onb4Eyebrow": {
+    "message": "Varno po zasnovi"
+  },
+  "onb4H1": {
+    "message": "Vaše besede nikoli ne zapustijo vaše naprave."
+  },
+  "onb4Stat1": {
+    "message": "izolirano, brez oddaljene kode"
+  },
+  "onb4Stat2": {
+    "message": "omrežnih klicev, nikoli"
+  },
+  "onb4Stat3": {
+    "message": "računov, registracij, sledilcev"
+  },
+  "onb4Pt": {
+    "message": "BoxGrow je del večje ideje: poštena plast za celoten brskalnik, eno orodje naenkrat. Brez sledenja, brez preprodaje podatkov, brez SEO vsiljene pošte."
+  },
+  "onb4LinkWhy": {
+    "message": "Zakaj gradim ta orodja"
+  },
+  "onb4LinkVision": {
+    "message": "Vizija"
+  },
+  "onb4LinkSafe": {
+    "message": "Kako vas varujemo"
+  },
+  "onb4Trust1H": {
+    "message": "Vse ostane na vaši napravi"
+  },
+  "onb4Trust1P": {
+    "message": "Osnutki in nastavitve živijo v lokalni shrambi brskalnika. Brez računa, brez strežnika za sinhronizacijo, nič se ne pošilja nikamor."
+  },
+  "onb4Trust2H": {
+    "message": "Ena oseba, gradi javno"
+  },
+  "onb4Trust2P": {
+    "message": "Ne neosebno podjetje. Razvijalec, ki izdaja javno, ta orodja uporablja vsak dan in vam odgovarja neposredno na"
+  },
+  "onb5Eyebrow": {
+    "message": "Poštene cene"
+  },
+  "onb5H1": {
+    "message": "Brezplačno ostaja uporabno. Pro si zapomni več."
+  },
+  "onb5Lede": {
+    "message": "Samodejno povečevanje in pojavni urejevalnik sta za vedno brezplačna. Enkratno plačilo devetdevetdeset dolarjev odklene globlje razveljavljanje, daljšo zgodovino osnutkov, samodejno obnovitev in prilagojeno bližnjico."
+  },
+  "planFree": {
+    "message": "Brezplačno"
+  },
+  "priceFree": {
+    "message": "$$0"
+  },
+  "onb5FreePer": {
+    "message": "za vedno"
+  },
+  "onb5FreeF1": {
+    "message": "Samodejno povečevanje na vsaki strani"
+  },
+  "onb5FreeF2": {
+    "message": "Pojavni urejevalnik s povratnim shranjevanjem"
+  },
+  "onb5FreeF3": {
+    "message": "Razveljavljanje v 5 korakih v urejevalniku"
+  },
+  "onb5FreeF4": {
+    "message": "25 osnutkov shranjenih na tej napravi"
+  },
+  "ribbonBestValue": {
+    "message": "Najboljša vrednost"
+  },
+  "planLifetime": {
+    "message": "Doživljenjsko"
+  },
+  "priceLifetime": {
+    "message": "$$99"
+  },
+  "onb5ProPer": {
+    "message": "enkratno"
+  },
+  "onb5ProF1": {
+    "message": "Razveljavljanje v 50 korakih v urejevalniku"
+  },
+  "onb5ProF2": {
+    "message": "200 osnutkov shranjenih na tej napravi"
+  },
+  "onb5ProF3": {
+    "message": "Samodejna obnovitev osnutkov"
+  },
+  "onb5ProF4": {
+    "message": "Prilagojena pojavna bližnjica"
+  },
+  "onb5ProF5": {
+    "message": "Eno plačilo, brez naročnine"
+  },
+  "onb5Cta": {
+    "message": "Vzemite moje doživljenjsko za $$99"
+  },
+  "onb5Guar": {
+    "message": "14-dnevno jamstvo vračila denarja. Raje mesečno? To je $$4.99 na isti strani. Enkratnih $$99 se povrne v približno 20 mesecih."
+  },
+  "onb6Eyebrow": {
+    "message": "Vse je pripravljeno"
+  },
+  "onb6H1": {
+    "message": "Fokusirajte polje in začnite tipkati. To je vse."
+  },
+  "onb6Lede": {
+    "message": "Ničesar več ni treba nastavljati. Polje raste, Alt + Enter odpre urejevalnik, osnutki pa se sami shranjujejo. Tukaj so tipke, ki se jih splača zapomniti."
+  },
+  "onb6SignH": {
+    "message": "Od razvijalca"
+  },
+  "onb6SignBody": {
+    "message": "Ta orodja gradim sam, odprto. Če se kaj pokvari, mi pišite in odgovorim. Če preidete na Pro, vaših devetdeset devet dolarjev financira naslednje pošteno orodje, vaši zapiski pa oblikujejo, kar postane."
+  },
+  "onb6LinkGh": {
+    "message": "Pišite mi na GitHubu"
+  },
+  "onb6LinkVision": {
+    "message": "Kam to gre"
+  },
+  "onb6Cheat1": {
+    "message": "Povečajte katero koli besedilno polje"
+  },
+  "onb6Kbd1": {
+    "message": "samo tipkajte"
+  },
+  "onb6Cheat2": {
+    "message": "Odprite celoten urejevalnik"
+  },
+  "onb6Cheat3": {
+    "message": "Razveljavite v urejevalniku"
+  },
+  "onb6Cheat4": {
+    "message": "Obnovite izgubljeni osnutek"
+  },
+  "onb6Kbd4": {
+    "message": "en klik"
+  },
+  "onb6Pt": {
+    "message": "Na Macu pritisnite Cmd namesto Ctrl. Vaše prvo rastoče polje je oddaljeno en klik. Poskusite na katerem koli obrazcu za komentarje ali sestavljalcu."
+  },
+  "footBuiltBy": {
+    "message": "Ustvaril"
+  },
+  "footerPrivacy": {
+    "message": "Politika zasebnosti"
+  }
+}

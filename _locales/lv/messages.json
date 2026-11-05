@@ -1,0 +1,440 @@
+{
+  "extName": {
+    "message": "BoxGrow — Teksta lauku automātiskā palielināšana un redaktors"
+  },
+  "extDescription": {
+    "message": "Teksta lauki rakstīšanas laikā aug, atveras pilnekrāna redaktorā un atjauno melnrakstus. Nekas neiziet no jūsu ierīces."
+  },
+  "actionTitle": {
+    "message": "BoxGrow"
+  },
+  "cmdPopout": {
+    "message": "Atvērt BoxGrow redaktoru fokusētajam teksta laukam"
+  },
+  "optionsTitle": {
+    "message": "BoxGrow iestatījumi"
+  },
+  "optAutoGrow": {
+    "message": "Automātiski palielināt teksta laukus"
+  },
+  "optAutoGrowHint": {
+    "message": "Fokusētais teksta lauks aug atbilstoši tam, ko rakstāt, ierobežots līdz 80% no loga augstuma."
+  },
+  "optHotkey": {
+    "message": "Izlecošā redaktora īsinājumtaustiņš"
+  },
+  "optHotkeyHint": {
+    "message": "Atver pilnekrāna redaktoru fokusētajam laukam."
+  },
+  "optHotkeyLocked": {
+    "message": "Bezmaksas versija izmanto Alt+Enter. Pro atbloķē īsinājumtaustiņa pielāgošanu."
+  },
+  "optHotkeyRecording": {
+    "message": "Nospiediet jauno taustiņu kombināciju vai Esc, lai atceltu."
+  },
+  "optHotkeyInvalid": {
+    "message": "Izmantojiet modifikatora taustiņu (Ctrl, Alt, Shift vai Cmd) plus citu taustiņu."
+  },
+  "optDrafts": {
+    "message": "Saglabāt melnrakstus"
+  },
+  "optDraftsHint": {
+    "message": "Glabā lokālu melnrakstu katram laukam, lai pārlāde vai kļūdains klikšķis nekad nezaudētu tekstu. Melnraksti nekad neiziet no šīs ierīces."
+  },
+  "licenseTitle": {
+    "message": "BoxGrow Pro atceras vairāk"
+  },
+  "licenseFree": {
+    "message": "Bezmaksas: automātiskā palielināšanās, uznirstošais redaktors, 5 soļu atsaukšana, 25 melnraksti. Pro pievieno 50 soļu atsaukšanu, 200 melnrakstus, automātisku atjaunošanu un pielāgotu īsinājumtaustiņu."
+  },
+  "licensePro": {
+    "message": "Pro ir aktīvs: 50 soļu atsaukšana, 200 melnraksti, automātiska melnrakstu atjaunošana, pielāgots īsinājumtaustiņš."
+  },
+  "licensePlaceholder": {
+    "message": "ZOVO-XXXX-XXXX-XXXX-XXXX"
+  },
+  "licenseKeyLabel": {
+    "message": "Licences atslēga"
+  },
+  "licenseActivate": {
+    "message": "Aktivizēt"
+  },
+  "licenseDeactivate": {
+    "message": "Deaktivizēt"
+  },
+  "licenseInvalid": {
+    "message": "Šo atslēgu neizdevās pārbaudīt. Pārbaudiet drukas kļūdas un mēģiniet vēlreiz."
+  },
+  "licenseActivated": {
+    "message": "Pro aktivizēts. Paldies!"
+  },
+  "upgradeCta": {
+    "message": "Skatīt abus plānus →"
+  },
+  "privacyLink": {
+    "message": "Konfidencialitātes politika"
+  },
+  "optionsFootnote": {
+    "message": "Bez kontiem. Bez izsekošanas. Viss paliek šajā ierīcē."
+  },
+  "popSiteActive": {
+    "message": "Aktīvs šajā vietnē"
+  },
+  "popSitePaused": {
+    "message": "Pauzēts šajā vietnē"
+  },
+  "popSitePause": {
+    "message": "Pauzēt šajā vietnē"
+  },
+  "popSiteResume": {
+    "message": "Atsākt šajā vietnē"
+  },
+  "popDraftsKept": {
+    "message": "$1 no $2 melnrakstiem saglabāti",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "25"
+      }
+    }
+  },
+  "popSeePlans": {
+    "message": "Skatīt abus plānus →"
+  },
+  "ovTitle": {
+    "message": "BoxGrow redaktors"
+  },
+  "ovSaveClose": {
+    "message": "Saglabāt un aizvērt"
+  },
+  "ovClose": {
+    "message": "Aizvērt"
+  },
+  "ovUndoCounter": {
+    "message": "Atsaukšana: $1 no $2 soļiem",
+    "placeholders": {
+      "used": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "ovUndoCapFree": {
+    "message": "Bezmaksas saglabā 5 atsaukšanas soļus. Pro saglabā 50."
+  },
+  "ovFieldGone": {
+    "message": "Sākotnējā lauka vairs nav. Jūsu teksts šeit ir drošībā."
+  },
+  "chipRestore": {
+    "message": "Atjaunot melnrakstu"
+  },
+  "chipDismiss": {
+    "message": "Noraidīt"
+  },
+  "chipDraftFull": {
+    "message": "Bezmaksas versijas melnrakstu vēsture ir pilna (25 melnraksti). Pro glabā 200 un atjauno automātiski."
+  },
+  "btnOpenEditor": {
+    "message": "Atvērt BoxGrow redaktorā"
+  },
+  "popTitle": {
+    "message": "BoxGrow"
+  },
+  "popMaster": {
+    "message": "Automātiskā palielināšana visur"
+  },
+  "popSiteUnavailable": {
+    "message": "Nav pieejams šajā lapā"
+  },
+  "ovCounts": {
+    "message": "$1 vārdi · $2 rakstzīmes",
+    "placeholders": {
+      "words": {
+        "content": "$1",
+        "example": "12"
+      },
+      "characters": {
+        "content": "$2",
+        "example": "84"
+      }
+    }
+  },
+  "onbTitle": {
+    "message": "Teksta lodziņi, kas aug kopā ar jums · BoxGrow"
+  },
+  "onbSkip": {
+    "message": "Izlaist ievadu"
+  },
+  "onbNavBack": {
+    "message": "Atpakaļ"
+  },
+  "onb1Eyebrow": {
+    "message": "Lodziņš ir pārāk mazs"
+  },
+  "onb1H1": {
+    "message": "Jūs rakstāt lodziņos, kas paredzēti vienai rindai."
+  },
+  "onb1Lede": {
+    "message": "Komentāru veidlapas, atbalsta pieprasījumi, e-pasta redaktori. Lodziņš paliek mazs, kamēr jūsu teksts aug, un viens nepareizs klikšķis vai lapas pārlāde var izdzēst veselu rindkopu."
+  },
+  "onb1Pt": {
+    "message": "BoxGrow to apgriež otrādi. Lodziņš aug, kamēr rakstāt, Alt + Enter atver pilnekrāna redaktoru, un katrs lauks glabā melnrakstu šajā ierīcē."
+  },
+  "mockLabel1": {
+    "message": "Atbalsta veidlapa"
+  },
+  "mockBox1": {
+    "message": "redzamas 2 rindas no 30"
+  },
+  "mockLabel2": {
+    "message": "Komentāru lodziņš"
+  },
+  "mockBox2": {
+    "message": "ritini, ritini, ritini"
+  },
+  "mockLabel3": {
+    "message": "E-pasta redaktors"
+  },
+  "mockBox3": {
+    "message": "kur pazuda mans melnraksts"
+  },
+  "onb1TagPain": {
+    "message": "Šauri lodziņi. Pazaudēts teksts."
+  },
+  "onb2Eyebrow": {
+    "message": "Aug ar katru taustiņa nospiešanu"
+  },
+  "onb2H1": {
+    "message": "Lodziņš pielāgojas jūsu tekstam, nevis otrādi."
+  },
+  "onb2Lede": {
+    "message": "Fokusējiet jebkuru teksta lodziņu, un tas aug, kamēr rakstāt, līdz 80% no loga augstuma. Nospiediet Alt + Enter, un klusais pilnekrāna redaktors atveras ar jūsu tekstu. Saglabājiet, un teksts atgriežas lapā."
+  },
+  "onb2DemoBtn": {
+    "message": "Skatieties, kā tas raksta"
+  },
+  "mockLabelFocus": {
+    "message": "Jūs fokusējat lodziņu"
+  },
+  "mockFill1": {
+    "message": "Tas aug katrai rindai"
+  },
+  "mockLabelHotkey": {
+    "message": "Jūs nospiežat Alt + Enter"
+  },
+  "mockFill2": {
+    "message": "Atveras pilnekrāna redaktors"
+  },
+  "mockLabelSave": {
+    "message": "Jūs saglabājat un aizverat"
+  },
+  "mockFill3": {
+    "message": "Teksts atgriežas laukā"
+  },
+  "mockLabelReload": {
+    "message": "Lapa pārlādējas"
+  },
+  "mockFill4": {
+    "message": "Jūsu melnraksts joprojām ir šeit"
+  },
+  "onb2Cap": {
+    "message": "Viens paplašinājums katram teksta lodziņam"
+  },
+  "onb2Tag1": {
+    "message": "Teksta lauki"
+  },
+  "onb2Tag2": {
+    "message": "Contenteditable"
+  },
+  "onb2Tag3": {
+    "message": "Strādā iframes"
+  },
+  "onb3Eyebrow": {
+    "message": "Izmēģiniet tūlīt šeit"
+  },
+  "onb3H1": {
+    "message": "Saglabājiet savu pirmo melnrakstu, pirms aizejat."
+  },
+  "onb3Lede": {
+    "message": "Ierakstiet jebko prakses lodziņā un nospiediet Saglabāt. Tas nonāk tajā pašā lokālajā krātuvē, ko izmanto jūsu lauku melnraksti. Īstās lapās melnraksti saglabājas paši, kamēr rakstāt."
+  },
+  "onb3Pt": {
+    "message": "Nevajag ne kontu, ne reģistrāciju. Viss paliek šajā ierīcē, un melnrakstus varat izslēgt jebkurā laikā sadaļā Opcijas."
+  },
+  "onb3Label1": {
+    "message": "Jūsu pirmā prakses rinda"
+  },
+  "onb3Ph1": {
+    "message": "Ierakstiet jebko"
+  },
+  "onb3Label2": {
+    "message": "Vēl viena ceļam"
+  },
+  "onb3Ph2": {
+    "message": "Ielīmējiet kaut ko garu"
+  },
+  "onbSaveBtn": {
+    "message": "Saglabāt manu pirmo melnrakstu"
+  },
+  "onbSavedOk": {
+    "message": "Saglabāts šajā ierīcē. Melnraksti īstās lapās darbojas tāpat."
+  },
+  "onb4Eyebrow": {
+    "message": "Drošs pēc būtības"
+  },
+  "onb4H1": {
+    "message": "Jūsu vārdi nekad nepamet jūsu ierīci."
+  },
+  "onb4Stat1": {
+    "message": "izolēts, bez attāla koda"
+  },
+  "onb4Stat2": {
+    "message": "tīkla pieprasījumi, nekad"
+  },
+  "onb4Stat3": {
+    "message": "konti, reģistrācijas, izsekotāji"
+  },
+  "onb4Pt": {
+    "message": "BoxGrow ir viena daļa no lielākas idejas: godīgs slānis visam pārlūkam, pa vienam rīkam vienlaikus. Bez izsekošanas, bez datu tālākpārdošanas, bez SEO mēstulēm."
+  },
+  "onb4LinkWhy": {
+    "message": "Kāpēc es veidoju šos rīkus"
+  },
+  "onb4LinkVision": {
+    "message": "Vīzija"
+  },
+  "onb4LinkSafe": {
+    "message": "Kā mēs jūs aizsargājam"
+  },
+  "onb4Trust1H": {
+    "message": "Viss paliek jūsu ierīcē"
+  },
+  "onb4Trust1P": {
+    "message": "Melnraksti un iestatījumi dzīvo pārlūka lokālajā krātuvē. Nav konta, nav sinhronizācijas servera, nekas nekur netiek nosūtīts."
+  },
+  "onb4Trust2H": {
+    "message": "Viena persona, kas būvē publiski"
+  },
+  "onb4Trust2P": {
+    "message": "Ne bezsejīgs uzņēmums. Izstrādātājs, kas izlaiž publiski, katru dienu lieto šos rīkus un atbild jums tieši vietnē"
+  },
+  "onb5Eyebrow": {
+    "message": "Godīgas cenas"
+  },
+  "onb5H1": {
+    "message": "Bezmaksas paliek noderīgs. Pro atceras vairāk."
+  },
+  "onb5Lede": {
+    "message": "Automātiskā palielināšanās un uznirstošais redaktors ir bez maksas uz mūžu. Vienreizējs deviņdesmit deviņu dolāru maksājums atbloķē dziļāku atsaukšanu, garāku melnrakstu vēsturi, automātisku atjaunošanu un pielāgotu īsinājumtaustiņu."
+  },
+  "planFree": {
+    "message": "Bezmaksas"
+  },
+  "priceFree": {
+    "message": "$$0"
+  },
+  "onb5FreePer": {
+    "message": "uz mūžu"
+  },
+  "onb5FreeF1": {
+    "message": "Automātiskā palielināšanās katrā vietnē"
+  },
+  "onb5FreeF2": {
+    "message": "Uznirstošais redaktors ar saglabāšanu atpakaļ"
+  },
+  "onb5FreeF3": {
+    "message": "5 soļu atsaukšana redaktorā"
+  },
+  "onb5FreeF4": {
+    "message": "25 melnraksti saglabāti šajā ierīcē"
+  },
+  "ribbonBestValue": {
+    "message": "Labākā vērtība"
+  },
+  "planLifetime": {
+    "message": "Mūža"
+  },
+  "priceLifetime": {
+    "message": "$$99"
+  },
+  "onb5ProPer": {
+    "message": "vienreiz"
+  },
+  "onb5ProF1": {
+    "message": "50 soļu atsaukšana redaktorā"
+  },
+  "onb5ProF2": {
+    "message": "200 melnraksti saglabāti šajā ierīcē"
+  },
+  "onb5ProF3": {
+    "message": "Automātiskā melnrakstu atjaunošana"
+  },
+  "onb5ProF4": {
+    "message": "Pielāgots uznirstošais īsinājumtaustiņš"
+  },
+  "onb5ProF5": {
+    "message": "Viens maksājums, bez abonementa"
+  },
+  "onb5Cta": {
+    "message": "Iegūstiet manu mūža par $$99"
+  },
+  "onb5Guar": {
+    "message": "14 dienu naudas atmaksas garantija. Dodat priekšroku ikmēneša? Tas ir $$4.99 tajā pašā lapā. Vienreizējie $$99 atmaksājas aptuveni 20 mēnešos."
+  },
+  "onb6Eyebrow": {
+    "message": "Viss ir gatavs"
+  },
+  "onb6H1": {
+    "message": "Fokusējiet lodziņu un sāciet rakstīt. Tas arī viss."
+  },
+  "onb6Lede": {
+    "message": "Vairs nav nekas jāiestata. Lodziņš aug, Alt + Enter atver redaktoru, un melnraksti saglabājas paši. Šeit ir taustiņi, ko vērts atcerēties."
+  },
+  "onb6SignH": {
+    "message": "No izstrādātāja"
+  },
+  "onb6SignBody": {
+    "message": "Es veidoju šos rīkus viens pats, atklāti. Ja kaut kas salūst, rakstiet man, un es atbildu. Ja pārejat uz Pro, jūsu deviņdesmit deviņi dolāri finansē nākamo godīgo rīku, un jūsu piezīmes veido to, kas tas kļūst."
+  },
+  "onb6LinkGh": {
+    "message": "Rakstiet man GitHub"
+  },
+  "onb6LinkVision": {
+    "message": "Kurp tas virzās"
+  },
+  "onb6Cheat1": {
+    "message": "Palieliniet jebkuru teksta lodziņu"
+  },
+  "onb6Kbd1": {
+    "message": "vienkārši rakstiet"
+  },
+  "onb6Cheat2": {
+    "message": "Atveriet pilno redaktoru"
+  },
+  "onb6Cheat3": {
+    "message": "Atsauciet redaktorā"
+  },
+  "onb6Cheat4": {
+    "message": "Atjaunojiet pazaudētu melnrakstu"
+  },
+  "onb6Kbd4": {
+    "message": "viens klikšķis"
+  },
+  "onb6Pt": {
+    "message": "Mac nospiediet Cmd Ctrl vietā. Jūsu pirmais augošais lodziņš ir viena klikšķa attālumā. Izmēģiniet jebkurā komentāru veidlapā vai redaktorā."
+  },
+  "footBuiltBy": {
+    "message": "Izveidojis"
+  },
+  "footerPrivacy": {
+    "message": "Privātuma politika"
+  }
+}

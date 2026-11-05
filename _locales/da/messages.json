@@ -1,0 +1,440 @@
+{
+  "extName": {
+    "message": "BoxGrow — Automatisk udvidelse af tekstfelter og editor"
+  },
+  "extDescription": {
+    "message": "Tekstfelter vokser mens du skriver, åbnes i fuldskærmseditor og gendanner kladder. Intet forlader din enhed."
+  },
+  "actionTitle": {
+    "message": "BoxGrow"
+  },
+  "cmdPopout": {
+    "message": "Åbn BoxGrow-editoren for det fokuserede tekstfelt"
+  },
+  "optionsTitle": {
+    "message": "BoxGrow-indstillinger"
+  },
+  "optAutoGrow": {
+    "message": "Udvid tekstfelter automatisk"
+  },
+  "optAutoGrowHint": {
+    "message": "Et fokuseret tekstfelt vokser efter det, du skriver, begrænset til 80 % af vinduets højde."
+  },
+  "optHotkey": {
+    "message": "Genvejstast til pop-out-editor"
+  },
+  "optHotkeyHint": {
+    "message": "Åbner fuldskærmseditoren for det fokuserede felt."
+  },
+  "optHotkeyLocked": {
+    "message": "Gratisversionen bruger Alt+Enter. Pro låser op for tilpasning af genvejstasten."
+  },
+  "optHotkeyRecording": {
+    "message": "Tryk på den nye tastekombination, eller Esc for at annullere."
+  },
+  "optHotkeyInvalid": {
+    "message": "Brug en modifikatortast (Ctrl, Alt, Shift eller Cmd) plus en anden tast."
+  },
+  "optDrafts": {
+    "message": "Gem kladder"
+  },
+  "optDraftsHint": {
+    "message": "Gemmer en lokal kladde for hvert felt, så en genindlæsning eller et forkert klik aldrig mister tekst. Kladder forlader aldrig denne enhed."
+  },
+  "licenseTitle": {
+    "message": "BoxGrow Pro husker mere"
+  },
+  "licenseFree": {
+    "message": "Gratis: auto-vækst, pop-out-editor, fortryd i 5 trin, 25 udkast. Pro tilføjer fortryd i 50 trin, 200 udkast, automatisk gendannelse og en brugerdefineret genvejstast."
+  },
+  "licensePro": {
+    "message": "Pro er aktiv: 50 fortrydelsestrin, 200 kladder, automatisk gendannelse af kladder, tilpasset genvejstast."
+  },
+  "licensePlaceholder": {
+    "message": "ZOVO-XXXX-XXXX-XXXX-XXXX"
+  },
+  "licenseKeyLabel": {
+    "message": "Licensnøgle"
+  },
+  "licenseActivate": {
+    "message": "Aktivér"
+  },
+  "licenseDeactivate": {
+    "message": "Deaktivér"
+  },
+  "licenseInvalid": {
+    "message": "Den nøgle kunne ikke verificeres. Tjek for tastefejl og prøv igen."
+  },
+  "licenseActivated": {
+    "message": "Pro aktiveret. Tak!"
+  },
+  "upgradeCta": {
+    "message": "Se begge planer →"
+  },
+  "privacyLink": {
+    "message": "Privatlivspolitik"
+  },
+  "optionsFootnote": {
+    "message": "Ingen konti. Ingen sporing. Alt bliver på denne enhed."
+  },
+  "popSiteActive": {
+    "message": "Aktiv på dette websted"
+  },
+  "popSitePaused": {
+    "message": "Pauseret på dette websted"
+  },
+  "popSitePause": {
+    "message": "Pause på dette websted"
+  },
+  "popSiteResume": {
+    "message": "Genoptag på dette websted"
+  },
+  "popDraftsKept": {
+    "message": "$1 af $2 kladder gemt",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "25"
+      }
+    }
+  },
+  "popSeePlans": {
+    "message": "Se begge planer →"
+  },
+  "ovTitle": {
+    "message": "BoxGrow-editor"
+  },
+  "ovSaveClose": {
+    "message": "Gem og luk"
+  },
+  "ovClose": {
+    "message": "Luk"
+  },
+  "ovUndoCounter": {
+    "message": "Fortryd: $1 af $2 trin",
+    "placeholders": {
+      "used": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "ovUndoCapFree": {
+    "message": "Gratis gemmer 5 fortryd-trin. Pro gemmer 50."
+  },
+  "ovFieldGone": {
+    "message": "Det oprindelige felt er væk. Din tekst er sikker her."
+  },
+  "chipRestore": {
+    "message": "Gendan kladde"
+  },
+  "chipDismiss": {
+    "message": "Afvis"
+  },
+  "chipDraftFull": {
+    "message": "Kladdehistorikken er fuld i gratisversionen (25 kladder). Pro gemmer 200 og gendanner automatisk."
+  },
+  "btnOpenEditor": {
+    "message": "Åbn i BoxGrow-editoren"
+  },
+  "popTitle": {
+    "message": "BoxGrow"
+  },
+  "popMaster": {
+    "message": "Automatisk udvidelse overalt"
+  },
+  "popSiteUnavailable": {
+    "message": "Ikke tilgængelig på denne side"
+  },
+  "ovCounts": {
+    "message": "$1 ord · $2 tegn",
+    "placeholders": {
+      "words": {
+        "content": "$1",
+        "example": "12"
+      },
+      "characters": {
+        "content": "$2",
+        "example": "84"
+      }
+    }
+  },
+  "onbTitle": {
+    "message": "Tekstbokse, der vokser med dig · BoxGrow"
+  },
+  "onbSkip": {
+    "message": "Spring introen over"
+  },
+  "onbNavBack": {
+    "message": "Tilbage"
+  },
+  "onb1Eyebrow": {
+    "message": "Boksen er for lille"
+  },
+  "onb1H1": {
+    "message": "Du skriver i bokse lavet til én linje."
+  },
+  "onb1Lede": {
+    "message": "Kommentarformularer, supportsager, mailklienter. Boksen forbliver lille, mens din tekst vokser, og ét forkert klik eller en genindlæsning kan slette et helt afsnit."
+  },
+  "onb1Pt": {
+    "message": "BoxGrow vender det om. Boksen vokser, mens du skriver, Alt + Enter åbner en editor i fuld skærm, og hvert felt gemmer et udkast på denne enhed."
+  },
+  "mockLabel1": {
+    "message": "Supportformular"
+  },
+  "mockBox1": {
+    "message": "2 linjer synlige af 30"
+  },
+  "mockLabel2": {
+    "message": "Kommentarboks"
+  },
+  "mockBox2": {
+    "message": "scroll, scroll, scroll"
+  },
+  "mockLabel3": {
+    "message": "Mailklient"
+  },
+  "mockBox3": {
+    "message": "hvor blev mit udkast af"
+  },
+  "onb1TagPain": {
+    "message": "Smalle bokse. Tabt tekst."
+  },
+  "onb2Eyebrow": {
+    "message": "Vokser med hvert tastetryk"
+  },
+  "onb2H1": {
+    "message": "Boksen tilpasser sig din tekst, ikke omvendt."
+  },
+  "onb2Lede": {
+    "message": "Fokusér en hvilken som helst tekstboks, og den vokser, mens du skriver, op til 80% af vinduets højde. Tryk Alt + Enter, og en rolig editor i fuld skærm åbnes med din tekst. Gem, og teksten vender tilbage til siden."
+  },
+  "onb2DemoBtn": {
+    "message": "Se den skrive"
+  },
+  "mockLabelFocus": {
+    "message": "Du fokuserer en boks"
+  },
+  "mockFill1": {
+    "message": "Den vokser til hver linje"
+  },
+  "mockLabelHotkey": {
+    "message": "Du trykker Alt + Enter"
+  },
+  "mockFill2": {
+    "message": "Editor i fuld skærm åbnes"
+  },
+  "mockLabelSave": {
+    "message": "Du gemmer og lukker"
+  },
+  "mockFill3": {
+    "message": "Teksten vender tilbage til feltet"
+  },
+  "mockLabelReload": {
+    "message": "Siden genindlæses"
+  },
+  "mockFill4": {
+    "message": "Dit udkast er stadig her"
+  },
+  "onb2Cap": {
+    "message": "Én udvidelse til hver tekstboks"
+  },
+  "onb2Tag1": {
+    "message": "Tekstområder"
+  },
+  "onb2Tag2": {
+    "message": "Contenteditable"
+  },
+  "onb2Tag3": {
+    "message": "Virker i iframes"
+  },
+  "onb3Eyebrow": {
+    "message": "Prøv det lige her"
+  },
+  "onb3H1": {
+    "message": "Gem dit første udkast, før du går."
+  },
+  "onb3Lede": {
+    "message": "Skriv hvad som helst i øvelsesboksen og tryk Gem. Det går til det samme lokale lager, som dine felters udkast bruger. På rigtige sider gemmer udkast sig selv, mens du skriver."
+  },
+  "onb3Pt": {
+    "message": "Ingen konto og ingen tilmelding. Alt bliver på denne enhed, og du kan slå udkast fra når som helst under Indstillinger."
+  },
+  "onb3Label1": {
+    "message": "Din første øvelseslinje"
+  },
+  "onb3Ph1": {
+    "message": "Skriv hvad som helst"
+  },
+  "onb3Label2": {
+    "message": "En til for vejen"
+  },
+  "onb3Ph2": {
+    "message": "Indsæt noget langt"
+  },
+  "onbSaveBtn": {
+    "message": "Gem mit første udkast"
+  },
+  "onbSavedOk": {
+    "message": "Gemt på denne enhed. Udkast på rigtige sider fungerer på samme måde."
+  },
+  "onb4Eyebrow": {
+    "message": "Sikker som udgangspunkt"
+  },
+  "onb4H1": {
+    "message": "Dine ord forlader aldrig din enhed."
+  },
+  "onb4Stat1": {
+    "message": "isoleret, ingen fjernkode"
+  },
+  "onb4Stat2": {
+    "message": "netværkskald, aldrig"
+  },
+  "onb4Stat3": {
+    "message": "konti, tilmeldinger, trackere"
+  },
+  "onb4Pt": {
+    "message": "BoxGrow er ét stykke af en større idé: et ærligt lag til hele browseren, ét værktøj ad gangen. Ingen sporing, ingen videresalg af data, ingen SEO-spam."
+  },
+  "onb4LinkWhy": {
+    "message": "Hvorfor jeg bygger disse værktøjer"
+  },
+  "onb4LinkVision": {
+    "message": "Visionen"
+  },
+  "onb4LinkSafe": {
+    "message": "Sådan beskytter vi dig"
+  },
+  "onb4Trust1H": {
+    "message": "Alt bliver på din enhed"
+  },
+  "onb4Trust1P": {
+    "message": "Udkast og indstillinger lever i browserens lokale lager. Ingen konto, ingen synkroniseringsserver, intet sendes nogen steder."
+  },
+  "onb4Trust2H": {
+    "message": "Én person, bygger åbent"
+  },
+  "onb4Trust2P": {
+    "message": "Ikke et ansigtsløst firma. En udvikler, der udgiver åbent, bruger disse værktøjer hver dag og svarer dig direkte på"
+  },
+  "onb5Eyebrow": {
+    "message": "Ærlige priser"
+  },
+  "onb5H1": {
+    "message": "Gratis forbliver brugbart. Pro husker mere."
+  },
+  "onb5Lede": {
+    "message": "Auto-vækst og pop-out-editoren er gratis for evigt. En engangsbetaling på nioghalvfems dollar låser op for dybere fortrydelse, længere udkastshistorik, automatisk gendannelse og en brugerdefineret genvejstast."
+  },
+  "planFree": {
+    "message": "Gratis"
+  },
+  "priceFree": {
+    "message": "$$0"
+  },
+  "onb5FreePer": {
+    "message": "for evigt"
+  },
+  "onb5FreeF1": {
+    "message": "Auto-vækst på alle sider"
+  },
+  "onb5FreeF2": {
+    "message": "Pop-out-editor med tilbage-gemning"
+  },
+  "onb5FreeF3": {
+    "message": "Fortryd i 5 trin i editoren"
+  },
+  "onb5FreeF4": {
+    "message": "25 udkast gemt på denne enhed"
+  },
+  "ribbonBestValue": {
+    "message": "Bedste værdi"
+  },
+  "planLifetime": {
+    "message": "Livsvarig"
+  },
+  "priceLifetime": {
+    "message": "$$99"
+  },
+  "onb5ProPer": {
+    "message": "én gang"
+  },
+  "onb5ProF1": {
+    "message": "Fortryd i 50 trin i editoren"
+  },
+  "onb5ProF2": {
+    "message": "200 udkast gemt på denne enhed"
+  },
+  "onb5ProF3": {
+    "message": "Automatisk gendannelse af udkast"
+  },
+  "onb5ProF4": {
+    "message": "Brugerdefineret pop-out-genvej"
+  },
+  "onb5ProF5": {
+    "message": "Én betaling, intet abonnement"
+  },
+  "onb5Cta": {
+    "message": "Få min livsvarige for $$99"
+  },
+  "onb5Guar": {
+    "message": "14 dages pengene-tilbage-garanti. Foretrækker du månedligt? Det er $$4.99 på samme side. $$99 én gang betaler sig selv på cirka 20 måneder."
+  },
+  "onb6Eyebrow": {
+    "message": "Alt er klar"
+  },
+  "onb6H1": {
+    "message": "Fokusér en boks og begynd at skrive. Det er det hele."
+  },
+  "onb6Lede": {
+    "message": "Der er ikke mere at sætte op. Boksen vokser, Alt + Enter åbner editoren, og udkast gemmer sig selv. Her er tasterne, det er værd at huske."
+  },
+  "onb6SignH": {
+    "message": "Fra udvikleren"
+  },
+  "onb6SignBody": {
+    "message": "Jeg bygger disse værktøjer alene, åbent. Hvis noget går i stykker, så skriv til mig, og jeg svarer. Hvis du går Pro, finansierer dine nioghalvfems dollars det næste ærlige værktøj, og dine noter former, hvad det bliver."
+  },
+  "onb6LinkGh": {
+    "message": "Skriv til mig på GitHub"
+  },
+  "onb6LinkVision": {
+    "message": "Hvor dette er på vej hen"
+  },
+  "onb6Cheat1": {
+    "message": "Gør en hvilken som helst tekstboks større"
+  },
+  "onb6Kbd1": {
+    "message": "bare skriv"
+  },
+  "onb6Cheat2": {
+    "message": "Åbn den fulde editor"
+  },
+  "onb6Cheat3": {
+    "message": "Fortryd i editoren"
+  },
+  "onb6Cheat4": {
+    "message": "Gendan et tabt udkast"
+  },
+  "onb6Kbd4": {
+    "message": "ét klik"
+  },
+  "onb6Pt": {
+    "message": "På Mac trykker du Cmd i stedet for Ctrl. Din første voksende boks er ét klik væk. Prøv det på en hvilken som helst kommentarformular eller mailklient."
+  },
+  "footBuiltBy": {
+    "message": "Bygget af"
+  },
+  "footerPrivacy": {
+    "message": "Privatlivspolitik"
+  }
+}

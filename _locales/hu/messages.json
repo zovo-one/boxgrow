@@ -1,0 +1,440 @@
+{
+  "extName": {
+    "message": "BoxGrow — Szövegmezők automatikus növelése és szerkesztő"
+  },
+  "extDescription": {
+    "message": "A szövegmezők gépelés közben nőnek, teljes képernyős szerkesztő nyílik, piszkozatok megmaradnak. Semmi nem hagyja el a készüléket."
+  },
+  "actionTitle": {
+    "message": "BoxGrow"
+  },
+  "cmdPopout": {
+    "message": "BoxGrow szerkesztő megnyitása a fókuszált szövegmezőhöz"
+  },
+  "optionsTitle": {
+    "message": "BoxGrow beállítások"
+  },
+  "optAutoGrow": {
+    "message": "Szövegmezők automatikus növelése"
+  },
+  "optAutoGrowHint": {
+    "message": "A fókuszált szövegmező a gépelt szöveghez igazodva nő, legfeljebb az ablakmagasság 80%-áig."
+  },
+  "optHotkey": {
+    "message": "Előugró szerkesztő gyorsbillentyűje"
+  },
+  "optHotkeyHint": {
+    "message": "Megnyitja a teljes képernyős szerkesztőt a fókuszált mezőhöz."
+  },
+  "optHotkeyLocked": {
+    "message": "Az ingyenes verzió Alt+Enter-t használ. A Pro feloldja a gyorsbillentyű testreszabását."
+  },
+  "optHotkeyRecording": {
+    "message": "Nyomja meg az új billentyűkombinációt, vagy Esc a megszakításhoz."
+  },
+  "optHotkeyInvalid": {
+    "message": "Használjon módosítóbillentyűt (Ctrl, Alt, Shift vagy Cmd) plusz egy másik billentyűt."
+  },
+  "optDrafts": {
+    "message": "Piszkozatok mentése"
+  },
+  "optDraftsHint": {
+    "message": "Helyi piszkozatot tart minden mezőhöz, így az újratöltés vagy rossz kattintás sosem veszti el a szöveget. A piszkozatok sosem hagyják el ezt a készüléket."
+  },
+  "licenseTitle": {
+    "message": "A BoxGrow Pro többet jegyez meg"
+  },
+  "licenseFree": {
+    "message": "Ingyenes: automatikus növekedés, felugró szerkesztő, 5 lépéses visszavonás, 25 piszkozat. A Pro 50 lépéses visszavonást, 200 piszkozatot, automatikus visszaállítást és egyéni gyorsbillentyűt ad."
+  },
+  "licensePro": {
+    "message": "A Pro aktív: 50 lépéses visszavonás, 200 piszkozat, automatikus piszkozat-visszaállítás, egyéni gyorsbillentyű."
+  },
+  "licensePlaceholder": {
+    "message": "ZOVO-XXXX-XXXX-XXXX-XXXX"
+  },
+  "licenseKeyLabel": {
+    "message": "Licenckulcs"
+  },
+  "licenseActivate": {
+    "message": "Aktiválás"
+  },
+  "licenseDeactivate": {
+    "message": "Deaktiválás"
+  },
+  "licenseInvalid": {
+    "message": "Ez a kulcs nem ellenőrizhető. Ellenőrizze az elütéseket, és próbálja újra."
+  },
+  "licenseActivated": {
+    "message": "Pro aktiválva. Köszönjük!"
+  },
+  "upgradeCta": {
+    "message": "Mindkét csomag megtekintése →"
+  },
+  "privacyLink": {
+    "message": "Adatvédelmi irányelvek"
+  },
+  "optionsFootnote": {
+    "message": "Nincsenek fiókok. Nincs nyomon követés. Minden ezen a készüléken marad."
+  },
+  "popSiteActive": {
+    "message": "Aktív ezen az oldalon"
+  },
+  "popSitePaused": {
+    "message": "Szüneteltetve ezen az oldalon"
+  },
+  "popSitePause": {
+    "message": "Szüneteltetés ezen az oldalon"
+  },
+  "popSiteResume": {
+    "message": "Folytatás ezen az oldalon"
+  },
+  "popDraftsKept": {
+    "message": "$1 / $2 piszkozat megőrizve",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "25"
+      }
+    }
+  },
+  "popSeePlans": {
+    "message": "Mindkét csomag megtekintése →"
+  },
+  "ovTitle": {
+    "message": "BoxGrow szerkesztő"
+  },
+  "ovSaveClose": {
+    "message": "Mentés és bezárás"
+  },
+  "ovClose": {
+    "message": "Bezárás"
+  },
+  "ovUndoCounter": {
+    "message": "Visszavonás: $1 / $2 lépés",
+    "placeholders": {
+      "used": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "ovUndoCapFree": {
+    "message": "Az ingyenes 5 visszavonási lépést tart meg. A Pro 50-et."
+  },
+  "ovFieldGone": {
+    "message": "Az eredeti mező eltűnt. A szöveged itt biztonságban van."
+  },
+  "chipRestore": {
+    "message": "Piszkozat visszaállítása"
+  },
+  "chipDismiss": {
+    "message": "Elvetés"
+  },
+  "chipDraftFull": {
+    "message": "A piszkozatelőzmény betelt az ingyenes verzióban (25 piszkozat). A Pro 200-at tart meg és automatikusan visszaállít."
+  },
+  "btnOpenEditor": {
+    "message": "Megnyitás BoxGrow szerkesztőben"
+  },
+  "popTitle": {
+    "message": "BoxGrow"
+  },
+  "popMaster": {
+    "message": "Automatikus növelés mindenhol"
+  },
+  "popSiteUnavailable": {
+    "message": "Nem érhető el ezen az oldalon"
+  },
+  "ovCounts": {
+    "message": "$1 szó · $2 karakter",
+    "placeholders": {
+      "words": {
+        "content": "$1",
+        "example": "12"
+      },
+      "characters": {
+        "content": "$2",
+        "example": "84"
+      }
+    }
+  },
+  "onbTitle": {
+    "message": "Szövegdobozok, amelyek veled együtt nőnek · BoxGrow"
+  },
+  "onbSkip": {
+    "message": "Bevezetés kihagyása"
+  },
+  "onbNavBack": {
+    "message": "Vissza"
+  },
+  "onb1Eyebrow": {
+    "message": "A doboz túl kicsi"
+  },
+  "onb1H1": {
+    "message": "Egy sorra tervezett dobozokba írsz."
+  },
+  "onb1Lede": {
+    "message": "Hozzászólás-űrlapok, hibajegyek, e-mail-szerkesztők. A doboz kicsi marad, miközben a szöveged nő, és egy rossz kattintás vagy egy oldalfrissítés törölhet egy egész bekezdést."
+  },
+  "onb1Pt": {
+    "message": "A BoxGrow megfordítja ezt. A doboz gépelés közben nő, az Alt + Enter teljes képernyős szerkesztőt nyit, és minden mező piszkozatot tart ezen az eszközön."
+  },
+  "mockLabel1": {
+    "message": "Támogatási űrlap"
+  },
+  "mockBox1": {
+    "message": "2 sor látszik a 30-ból"
+  },
+  "mockLabel2": {
+    "message": "Hozzászólás-doboz"
+  },
+  "mockBox2": {
+    "message": "görgetés, görgetés, görgetés"
+  },
+  "mockLabel3": {
+    "message": "E-mail-szerkesztő"
+  },
+  "mockBox3": {
+    "message": "hová tűnt a piszkozatom"
+  },
+  "onb1TagPain": {
+    "message": "Szűk dobozok. Elveszett szöveg."
+  },
+  "onb2Eyebrow": {
+    "message": "Minden billentyűleütésre nő"
+  },
+  "onb2H1": {
+    "message": "A doboz igazodik a szövegedhez, nem fordítva."
+  },
+  "onb2Lede": {
+    "message": "Fókuszálj bármelyik szövegdobozra, és gépelés közben nő, az ablak magasságának 80%-áig. Nyomj Alt + Enter billentyűt, és egy nyugodt, teljes képernyős szerkesztő nyílik a szövegeddel. Mentsd el, és a szöveg visszatér az oldalra."
+  },
+  "onb2DemoBtn": {
+    "message": "Nézd, ahogy gépel"
+  },
+  "mockLabelFocus": {
+    "message": "Fókuszálod a dobozt"
+  },
+  "mockFill1": {
+    "message": "Minden sorhoz nő"
+  },
+  "mockLabelHotkey": {
+    "message": "Lenyomod az Alt + Enter-t"
+  },
+  "mockFill2": {
+    "message": "Teljes képernyős szerkesztő nyílik"
+  },
+  "mockLabelSave": {
+    "message": "Elmented és bezárod"
+  },
+  "mockFill3": {
+    "message": "A szöveg visszatér a mezőbe"
+  },
+  "mockLabelReload": {
+    "message": "Az oldal frissül"
+  },
+  "mockFill4": {
+    "message": "A piszkozatod még itt van"
+  },
+  "onb2Cap": {
+    "message": "Egy bővítmény minden szövegdobozhoz"
+  },
+  "onb2Tag1": {
+    "message": "Szövegmezők"
+  },
+  "onb2Tag2": {
+    "message": "Contenteditable"
+  },
+  "onb2Tag3": {
+    "message": "Iframe-ekben is működik"
+  },
+  "onb3Eyebrow": {
+    "message": "Próbáld ki itt"
+  },
+  "onb3H1": {
+    "message": "Mentsd el az első piszkozatodat, mielőtt elmész."
+  },
+  "onb3Lede": {
+    "message": "Írj valamit a gyakorlódobozba, és nyomd meg a Mentés gombot. Ugyanabba a helyi tárhelybe kerül, amelyet a mezőid piszkozatai használnak. Valódi oldalakon a piszkozatok gépelés közben maguktól mentődnek."
+  },
+  "onb3Pt": {
+    "message": "Nincs fiók és nincs regisztráció. Minden ezen az eszközön marad, és a piszkozatokat bármikor kikapcsolhatod a Beállításokban."
+  },
+  "onb3Label1": {
+    "message": "Az első gyakorlósorod"
+  },
+  "onb3Ph1": {
+    "message": "Írj valamit"
+  },
+  "onb3Label2": {
+    "message": "Még egy az útra"
+  },
+  "onb3Ph2": {
+    "message": "Illessz be valami hosszút"
+  },
+  "onbSaveBtn": {
+    "message": "Első piszkozatom mentése"
+  },
+  "onbSavedOk": {
+    "message": "Mentve erre az eszközre. A piszkozatok valódi oldalakon ugyanígy működnek."
+  },
+  "onb4Eyebrow": {
+    "message": "Kialakításából adódóan biztonságos"
+  },
+  "onb4H1": {
+    "message": "A szavaid sosem hagyják el az eszközödet."
+  },
+  "onb4Stat1": {
+    "message": "elkülönített, távoli kód nélkül"
+  },
+  "onb4Stat2": {
+    "message": "hálózati hívások, soha"
+  },
+  "onb4Stat3": {
+    "message": "fiókok, regisztrációk, nyomkövetők"
+  },
+  "onb4Pt": {
+    "message": "A BoxGrow egy nagyobb ötlet egy darabja: becsületes réteg az egész böngészőhöz, egy eszköz egyszerre. Nincs nyomkövetés, nincs adattovábbértékesítés, nincs SEO-spam."
+  },
+  "onb4LinkWhy": {
+    "message": "Miért készítem ezeket az eszközöket"
+  },
+  "onb4LinkVision": {
+    "message": "A vízió"
+  },
+  "onb4LinkSafe": {
+    "message": "Így óvunk téged"
+  },
+  "onb4Trust1H": {
+    "message": "Minden az eszközödön marad"
+  },
+  "onb4Trust1P": {
+    "message": "A piszkozatok és a beállítások a böngésző helyi tárhelyén élnek. Nincs fiók, nincs szinkronizáló szerver, semmi nem megy sehová."
+  },
+  "onb4Trust2H": {
+    "message": "Egy ember, nyilvánosan épít"
+  },
+  "onb4Trust2P": {
+    "message": "Nem egy arctalan cég. Egy fejlesztő, aki nyilvánosan ad ki, naponta használja ezeket az eszközöket, és közvetlenül válaszol neked itt:"
+  },
+  "onb5Eyebrow": {
+    "message": "Becsületes árak"
+  },
+  "onb5H1": {
+    "message": "Az ingyenes hasznos marad. A Pro többet jegyez meg."
+  },
+  "onb5Lede": {
+    "message": "Az automatikus növekedés és a felugró szerkesztő örökre ingyenes. Egy egyszeri, kilencvenkilenc dolláros fizetés mélyebb visszavonást, hosszabb piszkozatelőzményeket, automatikus visszaállítást és egyéni gyorsbillentyűt nyit meg."
+  },
+  "planFree": {
+    "message": "Ingyenes"
+  },
+  "priceFree": {
+    "message": "$$0"
+  },
+  "onb5FreePer": {
+    "message": "örökre"
+  },
+  "onb5FreeF1": {
+    "message": "Automatikus növekedés minden oldalon"
+  },
+  "onb5FreeF2": {
+    "message": "Felugró szerkesztő visszamentéssel"
+  },
+  "onb5FreeF3": {
+    "message": "5 lépéses visszavonás a szerkesztőben"
+  },
+  "onb5FreeF4": {
+    "message": "25 piszkozat ezen az eszközön"
+  },
+  "ribbonBestValue": {
+    "message": "Legjobb ár-érték"
+  },
+  "planLifetime": {
+    "message": "Örökös"
+  },
+  "priceLifetime": {
+    "message": "$$99"
+  },
+  "onb5ProPer": {
+    "message": "egyszeri"
+  },
+  "onb5ProF1": {
+    "message": "50 lépéses visszavonás a szerkesztőben"
+  },
+  "onb5ProF2": {
+    "message": "200 piszkozat ezen az eszközön"
+  },
+  "onb5ProF3": {
+    "message": "Automatikus piszkozat-visszaállítás"
+  },
+  "onb5ProF4": {
+    "message": "Egyéni felugró gyorsbillentyű"
+  },
+  "onb5ProF5": {
+    "message": "Egy fizetés, nincs előfizetés"
+  },
+  "onb5Cta": {
+    "message": "Szerezd meg az örökösöm $$99-ért"
+  },
+  "onb5Guar": {
+    "message": "14 napos pénzvisszafizetési garancia. Inkább havonta? Az $$4.99 ugyanazon az oldalon. Az egyszeri $$99 körülbelül 20 hónap alatt megtérül."
+  },
+  "onb6Eyebrow": {
+    "message": "Minden készen áll"
+  },
+  "onb6H1": {
+    "message": "Fókuszálj egy dobozra, és kezdj gépelni. Ennyi az egész."
+  },
+  "onb6Lede": {
+    "message": "Nincs több beállítanivaló. A doboz nő, az Alt + Enter megnyitja a szerkesztőt, a piszkozatok pedig maguktól mentődnek. Íme a billentyűk, amelyeket érdemes megjegyezni."
+  },
+  "onb6SignH": {
+    "message": "A fejlesztőtől"
+  },
+  "onb6SignBody": {
+    "message": "Ezeket az eszközöket egyedül, nyíltan készítem. Ha valami elromlik, írj nekem, és válaszolok. Ha Pro-ra váltasz, a kilencvenkilenc dollárod a következő becsületes eszközt finanszírozza, a jegyzeteid pedig formálják, hogy mivé válik."
+  },
+  "onb6LinkGh": {
+    "message": "Írj nekem a GitHubon"
+  },
+  "onb6LinkVision": {
+    "message": "Merre tart ez"
+  },
+  "onb6Cheat1": {
+    "message": "Növelj meg bármelyik szövegdobozt"
+  },
+  "onb6Kbd1": {
+    "message": "csak gépelj"
+  },
+  "onb6Cheat2": {
+    "message": "Nyisd meg a teljes szerkesztőt"
+  },
+  "onb6Cheat3": {
+    "message": "Visszavonás a szerkesztőben"
+  },
+  "onb6Cheat4": {
+    "message": "Elveszett piszkozat visszaállítása"
+  },
+  "onb6Kbd4": {
+    "message": "egy kattintás"
+  },
+  "onb6Pt": {
+    "message": "Macen a Ctrl helyett a Cmd-t nyomd. Az első növekvő dobozod egy kattintásnyira van. Próbáld ki bármelyik hozzászólás-űrlapon vagy szerkesztőn."
+  },
+  "footBuiltBy": {
+    "message": "Készítette"
+  },
+  "footerPrivacy": {
+    "message": "Adatvédelmi irányelvek"
+  }
+}

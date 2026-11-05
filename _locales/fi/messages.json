@@ -1,0 +1,440 @@
+{
+  "extName": {
+    "message": "BoxGrow — Tekstikenttien automaattinen kasvatus ja editori"
+  },
+  "extDescription": {
+    "message": "Tekstikentät kasvavat kirjoittaessasi, avautuvat koko näytön editoriin ja palauttavat luonnokset. Mikään ei poistu laitteeltasi."
+  },
+  "actionTitle": {
+    "message": "BoxGrow"
+  },
+  "cmdPopout": {
+    "message": "Avaa BoxGrow-editori kohdistetulle tekstikentälle"
+  },
+  "optionsTitle": {
+    "message": "BoxGrow-asetukset"
+  },
+  "optAutoGrow": {
+    "message": "Kasvata tekstikenttiä automaattisesti"
+  },
+  "optAutoGrowHint": {
+    "message": "Kohdistettu tekstikenttä kasvaa kirjoitetun mukaan, rajattuna 80 %:iin ikkunan korkeudesta."
+  },
+  "optHotkey": {
+    "message": "Ponnahduseditorin pikanäppäin"
+  },
+  "optHotkeyHint": {
+    "message": "Avaa koko näytön editorin kohdistetulle kentälle."
+  },
+  "optHotkeyLocked": {
+    "message": "Ilmainen versio käyttää Alt+Enter. Pro avaa pikanäppäimen mukautuksen."
+  },
+  "optHotkeyRecording": {
+    "message": "Paina uutta näppäinyhdistelmää tai Esc peruuttaaksesi."
+  },
+  "optHotkeyInvalid": {
+    "message": "Käytä muokkausnäppäintä (Ctrl, Alt, Shift tai Cmd) plus toista näppäintä."
+  },
+  "optDrafts": {
+    "message": "Tallenna luonnokset"
+  },
+  "optDraftsHint": {
+    "message": "Pitää paikallisen luonnoksen jokaiselle kentälle, jotta uudelleenlataus tai vahingossa tapahtunut napsautus ei koskaan menetä tekstiä. Luonnokset eivät koskaan poistu tältä laitteelta."
+  },
+  "licenseTitle": {
+    "message": "BoxGrow Pro muistaa enemmän"
+  },
+  "licenseFree": {
+    "message": "Ilmainen: automaattinen kasvu, ponnahduseditori, 5 askeleen kumoaminen, 25 luonnosta. Pro lisää 50 askeleen kumoamisen, 200 luonnosta, automaattisen palautuksen ja mukautetun pikanäppäimen."
+  },
+  "licensePro": {
+    "message": "Pro on aktiivinen: 50 askeleen kumoaminen, 200 luonnosta, luonnosten automaattinen palautus, mukautettu pikanäppäin."
+  },
+  "licensePlaceholder": {
+    "message": "ZOVO-XXXX-XXXX-XXXX-XXXX"
+  },
+  "licenseKeyLabel": {
+    "message": "Lisenssiavain"
+  },
+  "licenseActivate": {
+    "message": "Aktivoi"
+  },
+  "licenseDeactivate": {
+    "message": "Poista käytöstä"
+  },
+  "licenseInvalid": {
+    "message": "Tätä avainta ei voitu varmistaa. Tarkista kirjoitusvirheet ja yritä uudelleen."
+  },
+  "licenseActivated": {
+    "message": "Pro aktivoitu. Kiitos!"
+  },
+  "upgradeCta": {
+    "message": "Katso molemmat suunnitelmat →"
+  },
+  "privacyLink": {
+    "message": "Tietosuojakäytäntö"
+  },
+  "optionsFootnote": {
+    "message": "Ei tilejä. Ei seurantaa. Kaikki pysyy tällä laitteella."
+  },
+  "popSiteActive": {
+    "message": "Aktiivinen tällä sivustolla"
+  },
+  "popSitePaused": {
+    "message": "Keskeytetty tällä sivustolla"
+  },
+  "popSitePause": {
+    "message": "Keskeytä tällä sivustolla"
+  },
+  "popSiteResume": {
+    "message": "Jatka tällä sivustolla"
+  },
+  "popDraftsKept": {
+    "message": "$1 / $2 luonnosta säilytetty",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "25"
+      }
+    }
+  },
+  "popSeePlans": {
+    "message": "Katso molemmat suunnitelmat →"
+  },
+  "ovTitle": {
+    "message": "BoxGrow-editori"
+  },
+  "ovSaveClose": {
+    "message": "Tallenna ja sulje"
+  },
+  "ovClose": {
+    "message": "Sulje"
+  },
+  "ovUndoCounter": {
+    "message": "Kumoaminen: $1 / $2 askelta",
+    "placeholders": {
+      "used": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "ovUndoCapFree": {
+    "message": "Ilmainen säilyttää 5 kumoamisaskelta. Pro säilyttää 50."
+  },
+  "ovFieldGone": {
+    "message": "Alkuperäinen kenttä on poissa. Tekstisi on täällä turvassa."
+  },
+  "chipRestore": {
+    "message": "Palauta luonnos"
+  },
+  "chipDismiss": {
+    "message": "Hylkää"
+  },
+  "chipDraftFull": {
+    "message": "Ilmaisen version luonnoshistoria on täynnä (25 luonnosta). Pro säilyttää 200 ja palauttaa automaattisesti."
+  },
+  "btnOpenEditor": {
+    "message": "Avaa BoxGrow-editorissa"
+  },
+  "popTitle": {
+    "message": "BoxGrow"
+  },
+  "popMaster": {
+    "message": "Automaattinen kasvatus kaikkialla"
+  },
+  "popSiteUnavailable": {
+    "message": "Ei saatavilla tällä sivulla"
+  },
+  "ovCounts": {
+    "message": "$1 sanaa · $2 merkkiä",
+    "placeholders": {
+      "words": {
+        "content": "$1",
+        "example": "12"
+      },
+      "characters": {
+        "content": "$2",
+        "example": "84"
+      }
+    }
+  },
+  "onbTitle": {
+    "message": "Tekstilaatikot, jotka kasvavat mukanasi · BoxGrow"
+  },
+  "onbSkip": {
+    "message": "Ohita esittely"
+  },
+  "onbNavBack": {
+    "message": "Takaisin"
+  },
+  "onb1Eyebrow": {
+    "message": "Laatikko on liian pieni"
+  },
+  "onb1H1": {
+    "message": "Kirjoitat laatikoihin, jotka on tehty yhdelle riville."
+  },
+  "onb1Lede": {
+    "message": "Kommenttilomakkeet, tukipyynnöt, sähköpostieditorit. Laatikko pysyy pienenä vaikka tekstisi kasvaa, ja yksi väärä klikkaus tai sivun päivitys voi pyyhkiä koko kappaleen."
+  },
+  "onb1Pt": {
+    "message": "BoxGrow kääntää asian toisinpäin. Laatikko kasvaa kirjoittaessasi, Alt + Enter avaa koko näytön editorin, ja jokainen kenttä säilyttää luonnoksen tällä laitteella."
+  },
+  "mockLabel1": {
+    "message": "Tukilomake"
+  },
+  "mockBox1": {
+    "message": "näkyvissä 2 riviä 30:stä"
+  },
+  "mockLabel2": {
+    "message": "Kommenttilaatikko"
+  },
+  "mockBox2": {
+    "message": "vieritä, vieritä, vieritä"
+  },
+  "mockLabel3": {
+    "message": "Sähköpostieditori"
+  },
+  "mockBox3": {
+    "message": "mihin luonnokseni katosi"
+  },
+  "onb1TagPain": {
+    "message": "Ahtaat laatikot. Kadonnut teksti."
+  },
+  "onb2Eyebrow": {
+    "message": "Kasvaa jokaisella näppäinpainalluksella"
+  },
+  "onb2H1": {
+    "message": "Laatikko mukautuu tekstiisi, ei päinvastoin."
+  },
+  "onb2Lede": {
+    "message": "Kohdista mikä tahansa tekstilaatikko, niin se kasvaa kirjoittaessasi, jopa 80 % ikkunan korkeudesta. Paina Alt + Enter, niin rauhallinen koko näytön editori avautuu tekstilläsi. Tallenna, niin teksti palaa sivulle."
+  },
+  "onb2DemoBtn": {
+    "message": "Katso kirjoitusta"
+  },
+  "mockLabelFocus": {
+    "message": "Kohdistat laatikon"
+  },
+  "mockFill1": {
+    "message": "Se kasvaa joka riville"
+  },
+  "mockLabelHotkey": {
+    "message": "Painat Alt + Enter"
+  },
+  "mockFill2": {
+    "message": "Koko näytön editori avautuu"
+  },
+  "mockLabelSave": {
+    "message": "Tallennat ja suljet"
+  },
+  "mockFill3": {
+    "message": "Teksti palaa kenttään"
+  },
+  "mockLabelReload": {
+    "message": "Sivu latautuu uudelleen"
+  },
+  "mockFill4": {
+    "message": "Luonnoksesi on edelleen täällä"
+  },
+  "onb2Cap": {
+    "message": "Yksi laajennus jokaiselle tekstilaatikolle"
+  },
+  "onb2Tag1": {
+    "message": "Tekstialueet"
+  },
+  "onb2Tag2": {
+    "message": "Contenteditable"
+  },
+  "onb2Tag3": {
+    "message": "Toimii iframessa"
+  },
+  "onb3Eyebrow": {
+    "message": "Kokeile heti täällä"
+  },
+  "onb3H1": {
+    "message": "Tallenna ensimmäinen luonnoksesi ennen lähtöä."
+  },
+  "onb3Lede": {
+    "message": "Kirjoita harjoituslaatikkoon mitä tahansa ja paina Tallenna. Se menee samaan paikalliseen tallennustilaan, jota kenttiesi luonnokset käyttävät. Oikeilla sivuilla luonnokset tallentuvat itsestään kirjoittaessasi."
+  },
+  "onb3Pt": {
+    "message": "Ei tiliä eikä rekisteröitymistä. Kaikki pysyy tällä laitteella, ja luonnokset voi kytkeä pois milloin tahansa Asetuksista."
+  },
+  "onb3Label1": {
+    "message": "Ensimmäinen harjoitusrivisi"
+  },
+  "onb3Ph1": {
+    "message": "Kirjoita mitä tahansa"
+  },
+  "onb3Label2": {
+    "message": "Vielä yksi matkaan"
+  },
+  "onb3Ph2": {
+    "message": "Liitä jotain pitkää"
+  },
+  "onbSaveBtn": {
+    "message": "Tallenna ensimmäinen luonnokseni"
+  },
+  "onbSavedOk": {
+    "message": "Tallennettu tälle laitteelle. Luonnokset oikeilla sivuilla toimivat samalla tavalla."
+  },
+  "onb4Eyebrow": {
+    "message": "Turvallinen suunnittelultaan"
+  },
+  "onb4H1": {
+    "message": "Sanasi eivät koskaan lähde laitteeltasi."
+  },
+  "onb4Stat1": {
+    "message": "eristetty, ei etäkoodia"
+  },
+  "onb4Stat2": {
+    "message": "verkkopyyntöjä, ei koskaan"
+  },
+  "onb4Stat3": {
+    "message": "tilejä, rekisteröitymisiä, seuraimia"
+  },
+  "onb4Pt": {
+    "message": "BoxGrow on yksi osa suurempaa ideaa: rehellinen kerros koko selaimelle, yksi työkalu kerrallaan. Ei seurantaa, ei tietojen jälleenmyyntiä, ei SEO-roskaa."
+  },
+  "onb4LinkWhy": {
+    "message": "Miksi rakennan näitä työkaluja"
+  },
+  "onb4LinkVision": {
+    "message": "Visio"
+  },
+  "onb4LinkSafe": {
+    "message": "Miten suojaamme sinua"
+  },
+  "onb4Trust1H": {
+    "message": "Kaikki pysyy laitteellasi"
+  },
+  "onb4Trust1P": {
+    "message": "Luonnokset ja asetukset elävät selaimen paikallisessa tallennustilassa. Ei tiliä, ei synkronointipalvelinta, mitään ei lähetetä minnekään."
+  },
+  "onb4Trust2H": {
+    "message": "Yksi ihminen, rakentaa julkisesti"
+  },
+  "onb4Trust2P": {
+    "message": "Ei kasvoton yritys. Kehittäjä, joka julkaisee julkisesti, käyttää näitä työkaluja joka päivä ja vastaa sinulle suoraan osoitteessa"
+  },
+  "onb5Eyebrow": {
+    "message": "Rehelliset hinnat"
+  },
+  "onb5H1": {
+    "message": "Ilmainen pysyy hyödyllisenä. Pro muistaa enemmän."
+  },
+  "onb5Lede": {
+    "message": "Automaattinen kasvu ja ponnahduseditori ovat ikuisesti ilmaisia. Kertamaksu yhdeksänkymmentäyhdeksän dollaria avaa syvemmän kumoamisen, pidemmän luonnosten historian, automaattisen palautuksen ja mukautetun pikanäppäimen."
+  },
+  "planFree": {
+    "message": "Ilmainen"
+  },
+  "priceFree": {
+    "message": "$$0"
+  },
+  "onb5FreePer": {
+    "message": "ikuisesti"
+  },
+  "onb5FreeF1": {
+    "message": "Automaattinen kasvu joka sivustolla"
+  },
+  "onb5FreeF2": {
+    "message": "Ponnahduseditori takaisintallennuksella"
+  },
+  "onb5FreeF3": {
+    "message": "5 askeleen kumoaminen editorissa"
+  },
+  "onb5FreeF4": {
+    "message": "25 luonnosta tällä laitteella"
+  },
+  "ribbonBestValue": {
+    "message": "Paras arvo"
+  },
+  "planLifetime": {
+    "message": "Elinikäinen"
+  },
+  "priceLifetime": {
+    "message": "$$99"
+  },
+  "onb5ProPer": {
+    "message": "kerran"
+  },
+  "onb5ProF1": {
+    "message": "50 askeleen kumoaminen editorissa"
+  },
+  "onb5ProF2": {
+    "message": "200 luonnosta tällä laitteella"
+  },
+  "onb5ProF3": {
+    "message": "Automaattinen luonnosten palautus"
+  },
+  "onb5ProF4": {
+    "message": "Mukautettu ponnahduspikanäppäin"
+  },
+  "onb5ProF5": {
+    "message": "Yksi maksu, ei tilausta"
+  },
+  "onb5Cta": {
+    "message": "Hanki elinikäiseni hintaan $$99"
+  },
+  "onb5Guar": {
+    "message": "14 päivän rahat takaisin -takuu. Haluatko mieluummin kuukausittain? Se on $$4.99 samalla sivulla. Kertamaksu $$99 maksaa itsensä takaisin noin 20 kuukaudessa."
+  },
+  "onb6Eyebrow": {
+    "message": "Kaikki on valmista"
+  },
+  "onb6H1": {
+    "message": "Kohdista laatikko ja ala kirjoittaa. Siinä kaikki."
+  },
+  "onb6Lede": {
+    "message": "Ei enää mitään asennettavaa. Laatikko kasvaa, Alt + Enter avaa editorin, ja luonnokset tallentuvat itsestään. Tässä ovat näppäimet, jotka kannattaa muistaa."
+  },
+  "onb6SignH": {
+    "message": "Kehittäjältä"
+  },
+  "onb6SignBody": {
+    "message": "Rakennan näitä työkaluja yksin, avoimesti. Jos jokin rikkoutuu, kirjoita minulle, niin vastaan. Jos vaihdat Prohon, yhdeksänkymmentäyhdeksän dollarisi rahoittavat seuraavan rehellisen työkalun, ja muistiinpanosi muovaavat sen, miksi siitä tulee."
+  },
+  "onb6LinkGh": {
+    "message": "Tavoita minut GitHubissa"
+  },
+  "onb6LinkVision": {
+    "message": "Mihin tämä on menossa"
+  },
+  "onb6Cheat1": {
+    "message": "Suurenna mikä tahansa tekstilaatikko"
+  },
+  "onb6Kbd1": {
+    "message": "kirjoita vain"
+  },
+  "onb6Cheat2": {
+    "message": "Avaa koko editori"
+  },
+  "onb6Cheat3": {
+    "message": "Kumoa editorissa"
+  },
+  "onb6Cheat4": {
+    "message": "Palauta kadonnut luonnos"
+  },
+  "onb6Kbd4": {
+    "message": "yksi klikkaus"
+  },
+  "onb6Pt": {
+    "message": "Macilla paina Cmd Ctrl:n sijaan. Ensimmäinen kasvava laatikkosi on yhden klikkauksen päässä. Kokeile missä tahansa kommenttilomakkeessa tai editorissa."
+  },
+  "footBuiltBy": {
+    "message": "Rakentanut"
+  },
+  "footerPrivacy": {
+    "message": "Tietosuojakäytäntö"
+  }
+}

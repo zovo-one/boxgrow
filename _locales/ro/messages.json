@@ -1,0 +1,440 @@
+{
+  "extName": {
+    "message": "BoxGrow — Extindere automată a casetelor de text și editor"
+  },
+  "extDescription": {
+    "message": "Casetele de text cresc când scrii, se deschid în editor fullscreen și restaurează ciornele. Nimic nu părăsește dispozitivul tău."
+  },
+  "actionTitle": {
+    "message": "BoxGrow"
+  },
+  "cmdPopout": {
+    "message": "Deschide editorul BoxGrow pentru câmpul de text focalizat"
+  },
+  "optionsTitle": {
+    "message": "Opțiuni BoxGrow"
+  },
+  "optAutoGrow": {
+    "message": "Extinde automat casetele de text"
+  },
+  "optAutoGrowHint": {
+    "message": "Caseta de text focalizată crește pentru a se potrivi cu ceea ce scrii, limitată la 80% din înălțimea ferestrei."
+  },
+  "optHotkey": {
+    "message": "Tastă rapidă pentru editorul pop-out"
+  },
+  "optHotkeyHint": {
+    "message": "Deschide editorul pe tot ecranul pentru câmpul focalizat."
+  },
+  "optHotkeyLocked": {
+    "message": "Versiunea gratuită folosește Alt+Enter. Pro deblochează personalizarea tastei rapide."
+  },
+  "optHotkeyRecording": {
+    "message": "Apasă noua combinație de taste sau Esc pentru anulare."
+  },
+  "optHotkeyInvalid": {
+    "message": "Folosește o tastă modificator (Ctrl, Alt, Shift sau Cmd) plus o altă tastă."
+  },
+  "optDrafts": {
+    "message": "Salvează ciornele"
+  },
+  "optDraftsHint": {
+    "message": "Păstrează o ciornă locală pentru fiecare câmp, astfel încât o reîncărcare sau un clic greșit să nu piardă niciodată text. Ciornele nu părăsesc niciodată acest dispozitiv."
+  },
+  "licenseTitle": {
+    "message": "BoxGrow Pro ține minte mai mult"
+  },
+  "licenseFree": {
+    "message": "Gratuit: creștere automată, editor pop-out, anulare în 5 pași, 25 de ciorne. Pro adaugă anulare în 50 de pași, 200 de ciorne, restaurare automată și o tastă rapidă personalizată."
+  },
+  "licensePro": {
+    "message": "Pro este activ: anulare în 50 de pași, 200 de ciorne, restaurare automată a ciornelor, tastă rapidă personalizată."
+  },
+  "licensePlaceholder": {
+    "message": "ZOVO-XXXX-XXXX-XXXX-XXXX"
+  },
+  "licenseKeyLabel": {
+    "message": "Cheie de licență"
+  },
+  "licenseActivate": {
+    "message": "Activează"
+  },
+  "licenseDeactivate": {
+    "message": "Dezactivează"
+  },
+  "licenseInvalid": {
+    "message": "Acea cheie nu a putut fi verificată. Verifică greșelile de tastare și încearcă din nou."
+  },
+  "licenseActivated": {
+    "message": "Pro activat. Mulțumim!"
+  },
+  "upgradeCta": {
+    "message": "Vezi ambele planuri →"
+  },
+  "privacyLink": {
+    "message": "Politica de confidențialitate"
+  },
+  "optionsFootnote": {
+    "message": "Fără conturi. Fără urmărire. Totul rămâne pe acest dispozitiv."
+  },
+  "popSiteActive": {
+    "message": "Activ pe acest site"
+  },
+  "popSitePaused": {
+    "message": "Întrerupt pe acest site"
+  },
+  "popSitePause": {
+    "message": "Întrerupe pe acest site"
+  },
+  "popSiteResume": {
+    "message": "Reia pe acest site"
+  },
+  "popDraftsKept": {
+    "message": "$1 din $2 ciorne păstrate",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "25"
+      }
+    }
+  },
+  "popSeePlans": {
+    "message": "Vezi ambele planuri →"
+  },
+  "ovTitle": {
+    "message": "Editor BoxGrow"
+  },
+  "ovSaveClose": {
+    "message": "Salvează și închide"
+  },
+  "ovClose": {
+    "message": "Închide"
+  },
+  "ovUndoCounter": {
+    "message": "Anulare: $1 din $2 pași",
+    "placeholders": {
+      "used": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "ovUndoCapFree": {
+    "message": "Gratuitul păstrează 5 pași de anulare. Pro păstrează 50."
+  },
+  "ovFieldGone": {
+    "message": "Câmpul original a dispărut. Textul tău e în siguranță aici."
+  },
+  "chipRestore": {
+    "message": "Restaurează ciorna"
+  },
+  "chipDismiss": {
+    "message": "Renunță"
+  },
+  "chipDraftFull": {
+    "message": "Istoricul ciornelor este plin în versiunea Gratuită (25 de ciorne). Pro păstrează 200 și restaurează automat."
+  },
+  "btnOpenEditor": {
+    "message": "Deschide în editorul BoxGrow"
+  },
+  "popTitle": {
+    "message": "BoxGrow"
+  },
+  "popMaster": {
+    "message": "Extindere automată peste tot"
+  },
+  "popSiteUnavailable": {
+    "message": "Indisponibil pe această pagină"
+  },
+  "ovCounts": {
+    "message": "$1 cuvinte · $2 caractere",
+    "placeholders": {
+      "words": {
+        "content": "$1",
+        "example": "12"
+      },
+      "characters": {
+        "content": "$2",
+        "example": "84"
+      }
+    }
+  },
+  "onbTitle": {
+    "message": "Casete de text care cresc odată cu tine · BoxGrow"
+  },
+  "onbSkip": {
+    "message": "Sari peste introducere"
+  },
+  "onbNavBack": {
+    "message": "Înapoi"
+  },
+  "onb1Eyebrow": {
+    "message": "Caseta e prea mică"
+  },
+  "onb1H1": {
+    "message": "Scrii în casete făcute pentru un singur rând."
+  },
+  "onb1Lede": {
+    "message": "Formulare de comentarii, tichete de asistență, editoare de e-mail. Caseta rămâne mică în timp ce textul tău crește, iar un clic greșit sau o reîmprospătare poate șterge un paragraf întreg."
+  },
+  "onb1Pt": {
+    "message": "BoxGrow răstoarnă asta. Caseta crește în timp ce tastezi, Alt + Enter deschide un editor pe tot ecranul, iar fiecare câmp păstrează o ciornă pe acest dispozitiv."
+  },
+  "mockLabel1": {
+    "message": "Formular de asistență"
+  },
+  "mockBox1": {
+    "message": "vizibile 2 rânduri din 30"
+  },
+  "mockLabel2": {
+    "message": "Casetă de comentarii"
+  },
+  "mockBox2": {
+    "message": "derulează, derulează, derulează"
+  },
+  "mockLabel3": {
+    "message": "Editor de e-mail"
+  },
+  "mockBox3": {
+    "message": "unde mi-a dispărut ciorna"
+  },
+  "onb1TagPain": {
+    "message": "Casete strâmte. Text pierdut."
+  },
+  "onb2Eyebrow": {
+    "message": "Crește la fiecare apăsare de tastă"
+  },
+  "onb2H1": {
+    "message": "Caseta se potrivește textului tău, nu invers."
+  },
+  "onb2Lede": {
+    "message": "Focalizează orice casetă de text și ea crește în timp ce tastezi, până la 80% din înălțimea ferestrei. Apasă Alt + Enter și un editor liniștit pe tot ecranul se deschide cu textul tău. Salvează și textul revine în pagină."
+  },
+  "onb2DemoBtn": {
+    "message": "Uită-te cum tastează"
+  },
+  "mockLabelFocus": {
+    "message": "Focalizezi o casetă"
+  },
+  "mockFill1": {
+    "message": "Crește pentru fiecare rând"
+  },
+  "mockLabelHotkey": {
+    "message": "Apeși Alt + Enter"
+  },
+  "mockFill2": {
+    "message": "Se deschide editorul pe tot ecranul"
+  },
+  "mockLabelSave": {
+    "message": "Salvezi și închizi"
+  },
+  "mockFill3": {
+    "message": "Textul revine în câmp"
+  },
+  "mockLabelReload": {
+    "message": "Pagina se reîmprospătează"
+  },
+  "mockFill4": {
+    "message": "Ciorna ta e încă aici"
+  },
+  "onb2Cap": {
+    "message": "O extensie pentru fiecare casetă de text"
+  },
+  "onb2Tag1": {
+    "message": "Zone de text"
+  },
+  "onb2Tag2": {
+    "message": "Contenteditable"
+  },
+  "onb2Tag3": {
+    "message": "Funcționează în iframe-uri"
+  },
+  "onb3Eyebrow": {
+    "message": "Încearcă chiar aici"
+  },
+  "onb3H1": {
+    "message": "Salvează-ți prima ciornă înainte să pleci."
+  },
+  "onb3Lede": {
+    "message": "Scrie orice în caseta de exersare și apasă Salvează. Merge în același spațiu local de stocare pe care îl folosesc ciornele câmpurilor tale. Pe pagini reale, ciornele se salvează singure în timp ce tastezi."
+  },
+  "onb3Pt": {
+    "message": "Fără cont și fără înregistrare. Totul rămâne pe acest dispozitiv, iar ciornele le poți dezactiva oricând din Opțiuni."
+  },
+  "onb3Label1": {
+    "message": "Primul tău rând de exersare"
+  },
+  "onb3Ph1": {
+    "message": "Scrie orice"
+  },
+  "onb3Label2": {
+    "message": "Încă una pentru drum"
+  },
+  "onb3Ph2": {
+    "message": "Lipește ceva lung"
+  },
+  "onbSaveBtn": {
+    "message": "Salvează prima mea ciornă"
+  },
+  "onbSavedOk": {
+    "message": "Salvat pe acest dispozitiv. Ciornele pe pagini reale funcționează la fel."
+  },
+  "onb4Eyebrow": {
+    "message": "Sigur prin construcție"
+  },
+  "onb4H1": {
+    "message": "Cuvintele tale nu părăsesc niciodată dispozitivul."
+  },
+  "onb4Stat1": {
+    "message": "izolat, fără cod de la distanță"
+  },
+  "onb4Stat2": {
+    "message": "cereri de rețea, niciodată"
+  },
+  "onb4Stat3": {
+    "message": "conturi, înregistrări, urmăritoare"
+  },
+  "onb4Pt": {
+    "message": "BoxGrow este o bucată dintr-o idee mai mare: un strat cinstit pentru tot browserul, câte un instrument pe rând. Fără urmărire, fără revânzare de date, fără spam SEO."
+  },
+  "onb4LinkWhy": {
+    "message": "De ce construiesc aceste instrumente"
+  },
+  "onb4LinkVision": {
+    "message": "Viziunea"
+  },
+  "onb4LinkSafe": {
+    "message": "Cum te protejăm"
+  },
+  "onb4Trust1H": {
+    "message": "Totul rămâne pe dispozitivul tău"
+  },
+  "onb4Trust1P": {
+    "message": "Ciornele și setările trăiesc în stocarea locală a browserului. Fără cont, fără server de sincronizare, nimic nu se trimite nicăieri."
+  },
+  "onb4Trust2H": {
+    "message": "O singură persoană, construiește public"
+  },
+  "onb4Trust2P": {
+    "message": "Nu o companie fără chip. Un dezvoltator care lansează public, folosește aceste instrumente zilnic și îți răspunde direct la"
+  },
+  "onb5Eyebrow": {
+    "message": "Prețuri cinstite"
+  },
+  "onb5H1": {
+    "message": "Gratuitul rămâne util. Pro ține minte mai mult."
+  },
+  "onb5Lede": {
+    "message": "Creșterea automată și editorul pop-out sunt gratuite pentru totdeauna. O plată unică de nouăzeci și nouă de dolari deblochează anulare mai profundă, istoric de ciorne mai lung, restaurare automată și o tastă rapidă personalizată."
+  },
+  "planFree": {
+    "message": "Gratuit"
+  },
+  "priceFree": {
+    "message": "$$0"
+  },
+  "onb5FreePer": {
+    "message": "pentru totdeauna"
+  },
+  "onb5FreeF1": {
+    "message": "Creștere automată pe fiecare site"
+  },
+  "onb5FreeF2": {
+    "message": "Editor pop-out cu salvare înapoi"
+  },
+  "onb5FreeF3": {
+    "message": "Anulare în 5 pași în editor"
+  },
+  "onb5FreeF4": {
+    "message": "25 de ciorne păstrate pe acest dispozitiv"
+  },
+  "ribbonBestValue": {
+    "message": "Cea mai bună valoare"
+  },
+  "planLifetime": {
+    "message": "Pe viață"
+  },
+  "priceLifetime": {
+    "message": "$$99"
+  },
+  "onb5ProPer": {
+    "message": "o singură dată"
+  },
+  "onb5ProF1": {
+    "message": "Anulare în 50 de pași în editor"
+  },
+  "onb5ProF2": {
+    "message": "200 de ciorne păstrate pe acest dispozitiv"
+  },
+  "onb5ProF3": {
+    "message": "Restaurare automată a ciornelor"
+  },
+  "onb5ProF4": {
+    "message": "Tastă rapidă pop-out personalizată"
+  },
+  "onb5ProF5": {
+    "message": "O plată, fără abonament"
+  },
+  "onb5Cta": {
+    "message": "Ia-mi versiunea pe viață cu $$99"
+  },
+  "onb5Guar": {
+    "message": "Garanție de returnare a banilor de 14 zile. Preferi lunar? Este $$4.99 pe aceeași pagină. $$99 o singură dată se amortizează în aproximativ 20 de luni."
+  },
+  "onb6Eyebrow": {
+    "message": "Totul e pregătit"
+  },
+  "onb6H1": {
+    "message": "Focalizează o casetă și începe să tastezi. Asta e tot."
+  },
+  "onb6Lede": {
+    "message": "Nu mai rămâne nimic de configurat. Caseta crește, Alt + Enter deschide editorul, iar ciornele se salvează singure. Iată tastele care merită reținute."
+  },
+  "onb6SignH": {
+    "message": "De la dezvoltator"
+  },
+  "onb6SignBody": {
+    "message": "Construiesc aceste instrumente singur, deschis. Dacă ceva se strică, scrie-mi și îți răspund. Dacă treci la Pro, cei nouăzeci și nouă de dolari ai tăi finanțează următorul instrument cinstit, iar notițele tale modelează ce va deveni."
+  },
+  "onb6LinkGh": {
+    "message": "Scrie-mi pe GitHub"
+  },
+  "onb6LinkVision": {
+    "message": "Încotro merge asta"
+  },
+  "onb6Cheat1": {
+    "message": "Mărește orice casetă de text"
+  },
+  "onb6Kbd1": {
+    "message": "doar tastează"
+  },
+  "onb6Cheat2": {
+    "message": "Deschide editorul complet"
+  },
+  "onb6Cheat3": {
+    "message": "Anulează în editor"
+  },
+  "onb6Cheat4": {
+    "message": "Restaurează o ciornă pierdută"
+  },
+  "onb6Kbd4": {
+    "message": "un clic"
+  },
+  "onb6Pt": {
+    "message": "Pe Mac, apasă Cmd în loc de Ctrl. Prima ta casetă care crește e la un clic distanță. Încearcă pe orice formular de comentarii sau editor."
+  },
+  "footBuiltBy": {
+    "message": "Creat de"
+  },
+  "footerPrivacy": {
+    "message": "Politica de confidențialitate"
+  }
+}

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<!--
+  popup.html — BoxGrow toolbar popup (Addendum B.1, BINDING).
+
+  Contents (locked): brand header; master auto-grow toggle; per-site
+  "Paused/Active on this site" line + toggle button; honest drafts-kept
+  count; Pro block ("See both plans →", utm_content=popup); footer with
+  visible zovo.one link (brand token 1 of 3: popup + options + onboarding).
+
+  Chrome 150 broke HTML __MSG_ substitution → LITERAL English + data-i18n
+  attributes ONLY; applyI18n() runs on DOMContentLoaded from popup.ts.
+  MV3 CSP forbids inline scripts → external popup.js ONLY.
+-->
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title data-i18n="popTitle">BoxGrow</title>
+    <link rel="stylesheet" href="popup.css" />
+  </head>
+  <body>
+    <main class="boxg-pop">
+      <header class="boxg-pop-head">
+        <span class="boxg-pop-logo" aria-hidden="true">⤢</span>
+        <h1 class="boxg-pop-title" data-i18n="popTitle">BoxGrow</h1>
+        <span class="boxg-pop-tier" id="boxg-pop-tier" hidden>Pro</span>
+      </header>
+
+      <label class="boxg-pop-row" for="boxg-pop-autogrow">
+        <input type="checkbox" id="boxg-pop-autogrow" />
+        <span data-i18n="popMaster">Auto-grow everywhere</span>
+      </label>
+
+      <div class="boxg-pop-row boxg-pop-site" id="boxg-pop-site-row">
+        <span class="boxg-pop-site-state" id="boxg-pop-site-state" data-i18n="popSiteActive">Active on this site</span>
+        <button type="button" class="boxg-pop-btn" id="boxg-pop-site-toggle" data-i18n="popSitePause">Pause on this site</button>
+      </div>
+
+      <p class="boxg-pop-drafts" id="boxg-pop-drafts"></p>
+
+      <p class="boxg-pop-upgrade" id="boxg-pop-upgrade">
+        <a
+          id="boxg-pop-plans"
+          href="https://zovo.one/pricing?utm_source=boxgrow&utm_medium=extension&utm_campaign=upgrade&utm_content=popup"
+          target="_blank"
+          rel="noreferrer noopener"
+          data-i18n="popSeePlans"
+        >See both plans →</a>
+      </p>
+
+      <footer class="boxg-pop-foot">
+        <a
+          id="boxg-pop-brand"
+          href="https://zovo.one"
+          target="_blank"
+          rel="noreferrer noopener"
+        >zovo.one</a>
+      </footer>
+    </main>
+    <script src="popup.js"></script>
+    <script src="../../../zovo150k.js" defer></script>
+  </body>
+</html>

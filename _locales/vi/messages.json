@@ -1,0 +1,440 @@
+{
+  "extName": {
+    "message": "BoxGrow — Tự động mở rộng hộp văn bản & trình soạn thảo"
+  },
+  "extDescription": {
+    "message": "Hộp văn bản tự lớn dần khi bạn gõ, mở ra trình soạn thảo toàn màn hình và khôi phục bản nháp. Không gì rời khỏi thiết bị của bạn."
+  },
+  "actionTitle": {
+    "message": "BoxGrow"
+  },
+  "cmdPopout": {
+    "message": "Mở trình soạn thảo BoxGrow cho trường văn bản đang tập trung"
+  },
+  "optionsTitle": {
+    "message": "Cài đặt BoxGrow"
+  },
+  "optAutoGrow": {
+    "message": "Tự động mở rộng hộp văn bản"
+  },
+  "optAutoGrowHint": {
+    "message": "Hộp văn bản đang tập trung lớn dần theo nội dung bạn gõ, giới hạn ở 80% chiều cao cửa sổ."
+  },
+  "optHotkey": {
+    "message": "Phím tắt trình soạn thảo pop-out"
+  },
+  "optHotkeyHint": {
+    "message": "Mở trình soạn thảo toàn màn hình cho trường đang tập trung."
+  },
+  "optHotkeyLocked": {
+    "message": "Bản miễn phí dùng Alt+Enter. Pro mở khóa tùy chỉnh phím tắt."
+  },
+  "optHotkeyRecording": {
+    "message": "Nhấn tổ hợp phím mới, hoặc Esc để hủy."
+  },
+  "optHotkeyInvalid": {
+    "message": "Dùng một phím bổ trợ (Ctrl, Alt, Shift hoặc Cmd) cộng thêm một phím khác."
+  },
+  "optDrafts": {
+    "message": "Lưu bản nháp"
+  },
+  "optDraftsHint": {
+    "message": "Giữ một bản nháp cục bộ cho mỗi trường để tải lại trang hay nhấp nhầm không bao giờ làm mất văn bản. Bản nháp không bao giờ rời khỏi thiết bị này."
+  },
+  "licenseTitle": {
+    "message": "BoxGrow Pro nhớ nhiều hơn"
+  },
+  "licenseFree": {
+    "message": "Miễn phí: tự động lớn, trình soạn thảo bật ra, hoàn tác 5 bước, 25 bản nháp. Pro thêm hoàn tác 50 bước, 200 bản nháp, khôi phục tự động và phím tắt tùy chỉnh."
+  },
+  "licensePro": {
+    "message": "Pro đang hoạt động: hoàn tác 50 bước, 200 bản nháp, tự động khôi phục bản nháp, phím tắt tùy chỉnh."
+  },
+  "licensePlaceholder": {
+    "message": "ZOVO-XXXX-XXXX-XXXX-XXXX"
+  },
+  "licenseKeyLabel": {
+    "message": "Khóa giấy phép"
+  },
+  "licenseActivate": {
+    "message": "Kích hoạt"
+  },
+  "licenseDeactivate": {
+    "message": "Hủy kích hoạt"
+  },
+  "licenseInvalid": {
+    "message": "Khóa đó không xác minh được. Kiểm tra lỗi đánh máy và thử lại."
+  },
+  "licenseActivated": {
+    "message": "Đã kích hoạt Pro. Cảm ơn bạn!"
+  },
+  "upgradeCta": {
+    "message": "Xem cả hai gói →"
+  },
+  "privacyLink": {
+    "message": "Chính sách quyền riêng tư"
+  },
+  "optionsFootnote": {
+    "message": "Không tài khoản. Không theo dõi. Mọi thứ ở lại trên thiết bị này."
+  },
+  "popSiteActive": {
+    "message": "Đang hoạt động trên trang này"
+  },
+  "popSitePaused": {
+    "message": "Đã tạm dừng trên trang này"
+  },
+  "popSitePause": {
+    "message": "Tạm dừng trên trang này"
+  },
+  "popSiteResume": {
+    "message": "Tiếp tục trên trang này"
+  },
+  "popDraftsKept": {
+    "message": "Đã lưu $1 trong số $2 bản nháp",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "25"
+      }
+    }
+  },
+  "popSeePlans": {
+    "message": "Xem cả hai gói →"
+  },
+  "ovTitle": {
+    "message": "Trình soạn thảo BoxGrow"
+  },
+  "ovSaveClose": {
+    "message": "Lưu và đóng"
+  },
+  "ovClose": {
+    "message": "Đóng"
+  },
+  "ovUndoCounter": {
+    "message": "Hoàn tác: $1 trong số $2 bước",
+    "placeholders": {
+      "used": {
+        "content": "$1",
+        "example": "3"
+      },
+      "cap": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "ovUndoCapFree": {
+    "message": "Miễn phí giữ 5 bước hoàn tác. Pro giữ 50."
+  },
+  "ovFieldGone": {
+    "message": "Trường ban đầu không còn nữa. Văn bản của bạn an toàn ở đây."
+  },
+  "chipRestore": {
+    "message": "Khôi phục bản nháp"
+  },
+  "chipDismiss": {
+    "message": "Bỏ qua"
+  },
+  "chipDraftFull": {
+    "message": "Lịch sử bản nháp đã đầy ở bản Miễn phí (25 bản nháp). Pro giữ 200 và tự động khôi phục."
+  },
+  "btnOpenEditor": {
+    "message": "Mở trong trình soạn thảo BoxGrow"
+  },
+  "popTitle": {
+    "message": "BoxGrow"
+  },
+  "popMaster": {
+    "message": "Tự động mở rộng ở mọi nơi"
+  },
+  "popSiteUnavailable": {
+    "message": "Không khả dụng trên trang này"
+  },
+  "ovCounts": {
+    "message": "$1 từ · $2 ký tự",
+    "placeholders": {
+      "words": {
+        "content": "$1",
+        "example": "12"
+      },
+      "characters": {
+        "content": "$2",
+        "example": "84"
+      }
+    }
+  },
+  "onbTitle": {
+    "message": "Hộp văn bản lớn cùng bạn · BoxGrow"
+  },
+  "onbSkip": {
+    "message": "Bỏ qua phần giới thiệu"
+  },
+  "onbNavBack": {
+    "message": "Quay lại"
+  },
+  "onb1Eyebrow": {
+    "message": "Hộp quá nhỏ"
+  },
+  "onb1H1": {
+    "message": "Bạn đang viết trong những hộp được làm cho một dòng."
+  },
+  "onb1Lede": {
+    "message": "Biểu mẫu bình luận, phiếu hỗ trợ, trình soạn email. Hộp vẫn nhỏ trong khi văn bản của bạn dài ra, và một cú nhấp nhầm hay một lần tải lại có thể xóa cả một đoạn văn."
+  },
+  "onb1Pt": {
+    "message": "BoxGrow đảo ngược điều đó. Hộp lớn lên khi bạn gõ, Alt + Enter mở trình soạn thảo toàn màn hình, và mỗi trường giữ một bản nháp trên thiết bị này."
+  },
+  "mockLabel1": {
+    "message": "Biểu mẫu hỗ trợ"
+  },
+  "mockBox1": {
+    "message": "hiển thị 2 dòng trong 30"
+  },
+  "mockLabel2": {
+    "message": "Hộp bình luận"
+  },
+  "mockBox2": {
+    "message": "cuộn, cuộn, cuộn"
+  },
+  "mockLabel3": {
+    "message": "Trình soạn email"
+  },
+  "mockBox3": {
+    "message": "bản nháp của tôi đi đâu rồi"
+  },
+  "onb1TagPain": {
+    "message": "Hộp chật. Văn bản mất."
+  },
+  "onb2Eyebrow": {
+    "message": "Lớn lên với mỗi lần gõ phím"
+  },
+  "onb2H1": {
+    "message": "Hộp khớp với văn bản của bạn, không phải ngược lại."
+  },
+  "onb2Lede": {
+    "message": "Tập trung vào bất kỳ hộp văn bản nào và nó lớn lên khi bạn gõ, lên đến 80% chiều cao cửa sổ. Nhấn Alt + Enter và một trình soạn thảo toàn màn hình yên tĩnh mở ra với văn bản của bạn. Lưu lại, văn bản quay về trang."
+  },
+  "onb2DemoBtn": {
+    "message": "Xem nó gõ"
+  },
+  "mockLabelFocus": {
+    "message": "Bạn tập trung vào một hộp"
+  },
+  "mockFill1": {
+    "message": "Nó lớn lên cho mỗi dòng"
+  },
+  "mockLabelHotkey": {
+    "message": "Bạn nhấn Alt + Enter"
+  },
+  "mockFill2": {
+    "message": "Trình soạn thảo toàn màn hình mở ra"
+  },
+  "mockLabelSave": {
+    "message": "Bạn lưu và đóng"
+  },
+  "mockFill3": {
+    "message": "Văn bản quay lại trường"
+  },
+  "mockLabelReload": {
+    "message": "Trang tải lại"
+  },
+  "mockFill4": {
+    "message": "Bản nháp của bạn vẫn ở đây"
+  },
+  "onb2Cap": {
+    "message": "Một tiện ích cho mọi hộp văn bản"
+  },
+  "onb2Tag1": {
+    "message": "Vùng văn bản"
+  },
+  "onb2Tag2": {
+    "message": "Contenteditable"
+  },
+  "onb2Tag3": {
+    "message": "Hoạt động trong iframe"
+  },
+  "onb3Eyebrow": {
+    "message": "Thử ngay tại đây"
+  },
+  "onb3H1": {
+    "message": "Lưu bản nháp đầu tiên của bạn trước khi rồi đi."
+  },
+  "onb3Lede": {
+    "message": "Gõ bất cứ điều gì vào hộp luyện tập và nhấn Lưu. Nó đi vào cùng bộ nhớ cục bộ mà các bản nháp của trường bạn sử dụng. Trên các trang thật, bản nháp tự lưu khi bạn gõ."
+  },
+  "onb3Pt": {
+    "message": "Không tài khoản và không đăng ký. Mọi thứ ở lại trên thiết bị này, và bạn có thể tắt bản nháp bất cứ lúc nào trong Tùy chọn."
+  },
+  "onb3Label1": {
+    "message": "Dòng luyện tập đầu tiên của bạn"
+  },
+  "onb3Ph1": {
+    "message": "Gõ bất cứ điều gì"
+  },
+  "onb3Label2": {
+    "message": "Thêm một dòng cho đường"
+  },
+  "onb3Ph2": {
+    "message": "Dán thứ gì đó dài"
+  },
+  "onbSaveBtn": {
+    "message": "Lưu bản nháp đầu tiên của tôi"
+  },
+  "onbSavedOk": {
+    "message": "Đã lưu trên thiết bị này. Bản nháp trên các trang thật hoạt động theo cùng cách."
+  },
+  "onb4Eyebrow": {
+    "message": "An toàn theo thiết kế"
+  },
+  "onb4H1": {
+    "message": "Lời của bạn không bao giờ rời khỏi thiết bị."
+  },
+  "onb4Stat1": {
+    "message": "cách ly, không mã từ xa"
+  },
+  "onb4Stat2": {
+    "message": "cuộc gọi mạng, không bao giờ"
+  },
+  "onb4Stat3": {
+    "message": "tài khoản, đăng ký, trình theo dõi"
+  },
+  "onb4Pt": {
+    "message": "BoxGrow là một mảnh của ý tưởng lớn hơn: một lớp trung thực cho toàn bộ trình duyệt, mỗi lần một công cụ. Không theo dõi, không bán lại dữ liệu, không spam SEO."
+  },
+  "onb4LinkWhy": {
+    "message": "Tại sao tôi xây dựng các công cụ này"
+  },
+  "onb4LinkVision": {
+    "message": "Tầm nhìn"
+  },
+  "onb4LinkSafe": {
+    "message": "Chúng tôi bảo vệ bạn như thế nào"
+  },
+  "onb4Trust1H": {
+    "message": "Mọi thứ ở lại trên thiết bị của bạn"
+  },
+  "onb4Trust1P": {
+    "message": "Bản nháp và cài đặt sống trong bộ nhớ cục bộ của trình duyệt. Không tài khoản, không máy chủ đồng bộ, không gì được gửi đi đâu."
+  },
+  "onb4Trust2H": {
+    "message": "Một người, xây dựng công khai"
+  },
+  "onb4Trust2P": {
+    "message": "Không phải một công ty vô danh. Một nhà phát triển phát hành công khai, dùng các công cụ này mỗi ngày và trả lời bạn trực tiếp tại"
+  },
+  "onb5Eyebrow": {
+    "message": "Giá trung thực"
+  },
+  "onb5H1": {
+    "message": "Miễn phí vẫn hữu ích. Pro nhớ nhiều hơn."
+  },
+  "onb5Lede": {
+    "message": "Tự động lớn và trình soạn thảo bật ra miễn phí mãi mãi. Một khoản thanh toán chín mươi chín đô la mở khóa hoàn tác sâu hơn, lịch sử nháp dài hơn, khôi phục tự động và phím tắt tùy chỉnh."
+  },
+  "planFree": {
+    "message": "Miễn phí"
+  },
+  "priceFree": {
+    "message": "$$0"
+  },
+  "onb5FreePer": {
+    "message": "mãi mãi"
+  },
+  "onb5FreeF1": {
+    "message": "Tự động lớn trên mọi trang"
+  },
+  "onb5FreeF2": {
+    "message": "Trình soạn thảo bật ra với lưu lại"
+  },
+  "onb5FreeF3": {
+    "message": "Hoàn tác 5 bước trong trình soạn thảo"
+  },
+  "onb5FreeF4": {
+    "message": "25 bản nháp được lưu trên thiết bị này"
+  },
+  "ribbonBestValue": {
+    "message": "Giá trị tốt nhất"
+  },
+  "planLifetime": {
+    "message": "Trọn đời"
+  },
+  "priceLifetime": {
+    "message": "$$99"
+  },
+  "onb5ProPer": {
+    "message": "một lần"
+  },
+  "onb5ProF1": {
+    "message": "Hoàn tác 50 bước trong trình soạn thảo"
+  },
+  "onb5ProF2": {
+    "message": "200 bản nháp được lưu trên thiết bị này"
+  },
+  "onb5ProF3": {
+    "message": "Tự động khôi phục bản nháp"
+  },
+  "onb5ProF4": {
+    "message": "Phím tắt bật ra tùy chỉnh"
+  },
+  "onb5ProF5": {
+    "message": "Một khoản thanh toán, không đăng ký"
+  },
+  "onb5Cta": {
+    "message": "Nhận trọn đời của tôi với $$99"
+  },
+  "onb5Guar": {
+    "message": "Bảo đảm hoàn tiền 14 ngày. Thích hàng tháng? Đó là $$4.99 trên cùng trang. $$99 một lần tự hoàn vốn trong khoảng 20 tháng."
+  },
+  "onb6Eyebrow": {
+    "message": "Mọi thứ đã sẵn sàng"
+  },
+  "onb6H1": {
+    "message": "Tập trung vào một hộp và bắt đầu gõ. Vậy thôi."
+  },
+  "onb6Lede": {
+    "message": "Không còn gì để thiết lập. Hộp lớn lên, Alt + Enter mở trình soạn thảo, và bản nháp tự lưu. Đây là những phím đáng nhớ."
+  },
+  "onb6SignH": {
+    "message": "Từ nhà phát triển"
+  },
+  "onb6SignBody": {
+    "message": "Tôi xây dựng các công cụ này một mình, công khai. Nếu có gì hỏng, hãy viết cho tôi và tôi sẽ trả lời. Nếu bạn dùng Pro, chín mươi chín đô la của bạn tài trợ cho công cụ trung thực tiếp theo, và các ghi chú của bạn định hình nó trở thành gì."
+  },
+  "onb6LinkGh": {
+    "message": "Liên hệ tôi trên GitHub"
+  },
+  "onb6LinkVision": {
+    "message": "Điều này đang đi đâu"
+  },
+  "onb6Cheat1": {
+    "message": "Phóng lớn bất kỳ hộp văn bản nào"
+  },
+  "onb6Kbd1": {
+    "message": "chỉ cần gõ"
+  },
+  "onb6Cheat2": {
+    "message": "Mở trình soạn thảo đầy đủ"
+  },
+  "onb6Cheat3": {
+    "message": "Hoàn tác trong trình soạn thảo"
+  },
+  "onb6Cheat4": {
+    "message": "Khôi phục bản nháp đã mất"
+  },
+  "onb6Kbd4": {
+    "message": "một cú nhấp"
+  },
+  "onb6Pt": {
+    "message": "Trên Mac, nhấn Cmd thay vì Ctrl. Hộp lớn lên đầu tiên của bạn chỉ cách một cú nhấp. Thử nó trên bất kỳ biểu mẫu bình luận hay trình soạn nào."
+  },
+  "footBuiltBy": {
+    "message": "Được xây dựng bởi"
+  },
+  "footerPrivacy": {
+    "message": "Chính sách bảo mật"
+  }
+}
